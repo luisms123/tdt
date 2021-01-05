@@ -564,7 +564,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 http://200.73.59.84:8000/play/a00w
 #EXTINF:-1 tvg-logo="http://puu.sh/momMK/a1f10ea8a4.png" group-title="NOTICIAS",CNN Chile
 http://tv5full.xyz:25461/live/Linea4/Isnfbsjk/3096.ts
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="NOTICIAS",CÑN
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/cnn-alla.jpg" group-title="NOTICIAS",CÃ‘N
 http://ok2.se:8000/9021F7UhtOckyU0wR/36d3F9UgP4w6YlaQq/429
 #EXTINF:-1 tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="NOTICIAS",CGTN en espanol
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -1025,7 +1025,7 @@ https://sonic.portalfoxmix.cl/8002/stream
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 
 
-#EXTINF:0 group-title="cine culturales",El pequeño salvaje
+#EXTINF:0 group-title="cine culturales",El pequeÃ±o salvaje
 https://ia601207.us.archive.org/1/items/1970ElPequeoSalvajeZooXaZoochat/1970%20El%20peque%C3%B1o%20salvaje%20Zoo%20xa%20Zoochat.mp4
 
 #EXTINF:0 group-title="cine culturales",Entre lobos
@@ -1052,7 +1052,7 @@ https://storage.googleapis.com/skilled-bee-239905-6.appspot.com/654987234/b5c368
 #EXTINF:0 group-title="cine infantiles",los increibles 2
 http://boongas.pro/cloud/qNFzmDZtLY171/qNFzmDZtLY171.mp4
 
-#EXTINF:0 group-title="cine infantiles",Perez el ratoncito de tus sueños
+#EXTINF:0 group-title="cine infantiles",Perez el ratoncito de tus sueÃ±os
 https://openload.co/stream/NAMEu34EApY~1571751914~2806:2f0::~nTO9SSeE?mime=true
 
 #EXTINF:0 group-title="cine infantiles",La revolucion de Juan Escopeta
@@ -1097,7 +1097,7 @@ https://drive.google.com/file/d/1qaBO38SkgwdQLgFzVtSrFDUy4Y2q7TP3/view
 #EXTINF:0 group-title="cine infantiles",LA LEYENDA DEL CHARRO NEGRO 2018
 https://drive.google.com/file/d/1tutCGeL6fMNEguxpKC7PBwRM8SWKOf1R/view
 
-#EXTINF:-1 tvg-logo="" group-title="cine infantiles"Perez, el ratoncito de tus sueños	
+#EXTINF:-1 tvg-logo="" group-title="cine infantiles"Perez, el ratoncito de tus sueÃ±os	
 https://openload.co/stream/NAMEu34EApY~1568046902~2806:2f0::~7IdjL7Ia?mime=true
 
 #EXTINF:0 group-title="cine navidad",El expreso polar
@@ -1127,7 +1127,7 @@ https://gloria.tv/streaming/8mT1U28q4tUq4WGqmxBEFHkHP/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https" group-title="cine semanasanta",la pasion de cristo esp op2
 https://gloria.tv/streaming/jwkPEJQgs4Ms3bLXwr8Ci3N8n/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="cine semanasanta",La Ultima Tentación de Cristo
+#EXTINF:-1 tvg-logo="https" group-title="cine semanasanta",La Ultima TentaciÃ³n de Cristo
 https://www2028.vcdn.xyz/token=CYLRQZn09Gz2j0YfJNHtrQ/1546669854/0.0.0.0/16/7/bd/06d9806c1c2bccc9112c99eb9bbe5bd7-480p.mp4
 
 #EXTINF:-1 tvg-logo="https" group-title="cine semanasanta",jesus de nazareth
@@ -1229,7 +1229,7 @@ https://gloria.tv/streaming/QTt63J8cz4ad4oHgkfjqtLkrQ/hls/master.m3u8
 #EXTINF:0 group-title="cine clasicos",Blancanieves (1937)
 https://gloria.tv/streaming/8wpv2xLASuLkCLi97cu6opSSc/hls/master.m3u8
 
-#EXTINF:0 group-title="cine clasicos",Fantasía (1940)
+#EXTINF:0 group-title="cine clasicos",FantasÃ­a (1940)
 https://www139.hlsmp4.com/token=V0Wn0hXbnKCJmA07ivmdBg/1560673338/0.0.0.0/26/d/ba/2b89cd6521b7a77642114f93e74a8bad-360p.mp4
 
 #EXTINF:0 group-title="cine clasicos",Pinocho (1940)
@@ -1277,7 +1277,7 @@ https://www1244.hlsmp4.com/token=QSyqVHGHT8ag-tfSQaP5ng/1560674214/0.0.0.0/26/4/
 #EXTINF:0 group-title="cine clasicos",El Zorro y el Sabueso (1981)
 https://www1458.hlsmp4.com/token=3RNZGXz4xi0AoE5VC5NwIw/1560538617/0.0.0.0/24/2/e1/7863d4722316930309056900c7c1fe12-360p.mp4
 
-#EXTINF:0 group-title="cine clasicos",Policías y Ratones (1986)
+#EXTINF:0 group-title="cine clasicos",PolicÃ­as y Ratones (1986)
 https://www1520.hlsmp4.com/token=F4UaCWExY5L3E5a4hpVPjA/1560673614/0.0.0.0/27/c/73/4afdd47422cf1d509b10fa0f2447e73c-480p.mp4
 
 #EXTINF:0 group-title="cine clasicos",La Sirenita (1989)
@@ -1304,7 +1304,7 @@ https://www328.hlsmp4.com/token=0F_k65yKPfrY0rK2ew1djA/1560539206/0.0.0.0/28/b/6
 #EXTINF:0 group-title="cine clasicos",El Jorobado de Notre Dame (1996)
 https://yref67.vkcache.com/secip/0/6kKD2fRdYOAYl0umh36j4A/MTg3LjE4OS4xNDUuMTQ=/1560697200/hls-vod-s8/flv/api/files/videos/2017/08/04/1501827772emnsq.mp666Frag2Num1
 
-#EXTINF:0 group-title="cine clasicos",Mulán (1998)
+#EXTINF:0 group-title="cine clasicos",MulÃ¡n (1998)
 https://s6.jawcloud.co/hls/baxphrcmnzts7n2gmlnooh5ids6l3qug2rwbt3iqjtssrjmjp44ndqvqzyfa/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="cine mexicano",El chavo-Vacaciones en Acapulco (1977)
@@ -1373,13 +1373,13 @@ https://gloria.tv/streaming/CGV9zepRqQkd43mp1WANZKyuS/hls/master.m3u8
 #EXTINF:0 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="MOVIES",Prometeus 2012 HD
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES", Los Cazafantasmas español castellano (1984)
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES", Los Cazafantasmas espaÃ±ol castellano (1984)
 https://drive.google.com/file/d/0B--Y_mU8A72Dc3k3U3VOUUM2X00/view
 
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",SUPERMAN ESPAÑOL CASTELLANO (1978)
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",SUPERMAN ESPAÃ‘OL CASTELLANO (1978)
 https://drive.google.com/file/d/1hP3tQiRSzSGj_9R0ggNNE5eBJ4iNcozY/view?usp=sharing
 
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",El club de los poetas muertos español castellano (1989)
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",El club de los poetas muertos espaÃ±ol castellano (1989)
 https://drive.google.com/file/d/1UaVyO9mQQhVfB_aCcbofShVVJdQUQG9c/view?usp=sharing
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="MOVIES",Deadpool
@@ -1445,10 +1445,10 @@ https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCM
 #EXTINF:0 group-title="MOVIES",PelixMax 1: El Mal Dentro (2017)
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
 
-#EXTINF:0 group-title="MOVIES",Chucky El Muñeco bolico (TERROR)
+#EXTINF:0 group-title="MOVIES",Chucky El MuÃ±eco bolico (TERROR)
 https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
 
-#EXTINF:0 group-title="MOVIES",Chucky El Muñeco bolico II (TERROR)
+#EXTINF:0 group-title="MOVIES",Chucky El MuÃ±eco bolico II (TERROR)
 https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
 
 #EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg" group-title="MOVIES", La Forma del Agua SUBTITULADO
@@ -1511,13 +1511,13 @@ https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
 #EXTINF:-1 group-title="MOVIES",Volver al futuro III
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
 
-#EXTINF:-1 group-title="MOVIES",CHUCKY EL MUÑECO DIABOLICO
+#EXTINF:-1 group-title="MOVIES",CHUCKY EL MUÃ‘ECO DIABOLICO
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
 
-#EXTINF:-1 group-title="MOVIES",CHUCKY EL MUÑECO DIABOLICO 2
+#EXTINF:-1 group-title="MOVIES",CHUCKY EL MUÃ‘ECO DIABOLICO 2
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
 
-#EXTINF:-1 group-title="MOVIES",CHUCKY EL MUÑECO DIABOLICO 3
+#EXTINF:-1 group-title="MOVIES",CHUCKY EL MUÃ‘ECO DIABOLICO 3
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
 
 #EXTINF:-1 group-title="MOVIES",LA NOVIA DE CHUCKY
@@ -1526,10 +1526,10 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSB
 #EXTINF:-1 group-title="MOVIES",Volver al Futuro III
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
-#EXTINF:-1 group-title="MOVIES",Chucky El Muñeco Diabolico
+#EXTINF:-1 group-title="MOVIES",Chucky El MuÃ±eco Diabolico
 http://cecegeek@goo.gl/YowBkJ
 
-#EXTINF:-1 group-title="MOVIES",Chucky El Muñeco Diabolico II
+#EXTINF:-1 group-title="MOVIES",Chucky El MuÃ±eco Diabolico II
 http://cecegeek@goo.gl/xnNiv2
 
 #EXTINF:-1 group-title="MOVIES", El Justiciero 2
@@ -1562,7 +1562,7 @@ http://cecegeek@goo.gl/FDyHpL
 #EXTINF:-1 group-title="MOVIES",Sandy Wexler
 http://cecegeek@goo.gl/kyH56Z
 
-#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="MOVIES",Chucky el Muñeco Diabolico II
+#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="MOVIES",Chucky el MuÃ±eco Diabolico II
 http://bit.ly/MRAQCCHUK2
 
 #EXTINF:-1 group-title="CINE DANNY",Varias Lat:Colossal
@@ -1596,9 +1596,9 @@ https://drive.google.com/file/d/1F8NK0cQJpzWa6LR_0eip5YLMqHftR5Mt/view
 https://drive.google.com/file/d/1EhLrx3iG11g-rZawCZuBGUngNkUeKyyL/view
 #EXTINF:-1 group-title="SERIES",Capitulo 5 Numero Cinco
 https://drive.google.com/file/d/1zxojikda8NsFBdGILxnX3_lipGbcqMbe/view
-#EXTINF:-1 group-title="SERIES",Capitulo 6 El día que no ocurrio
+#EXTINF:-1 group-title="SERIES",Capitulo 6 El dÃ­a que no ocurrio
 https://drive.google.com/file/d/1ZrW8t0rInCbHDBfRYRffpn8zZQFulNfG/view
-#EXTINF:-1 group-title="SERIES",Capitulo 7 El día que si ocurrio
+#EXTINF:-1 group-title="SERIES",Capitulo 7 El dÃ­a que si ocurrio
 https://drive.google.com/file/d/1m2lpVZn75ZcPu8nG0FqxM36Vy5x5jf_J/view
 #EXTINF:-1 group-title="SERIES",Capitulo 8 Corre el rumor
 https://drive.google.com/file/d/1W7px31ETr8_TFAliT5Cu0qZ_pA9xlmq4/view
