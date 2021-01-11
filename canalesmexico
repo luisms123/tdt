@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=qM8RYN1MAh8
 https://www.youtube.com/embed/qM8RYN1MAh8
 
 #EXTINF:-1 tvg-id="azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/d567a7af-45e6-464f-881d-5eda760631d3:TUL/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/1a20ccff-6695-413b-923f-b3b06f23962b:TUL/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
 
 #EXTINF:-1 tvg-id="azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",Azteca 7 op1
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
@@ -375,12 +375,6 @@ http://radio.ilce.edu.mx:8000/radioilce.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="EDUCATIVOS", Educa  TV Ecuador
 https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 
-#EXTINF:-1 tvg-id="boing esp" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="INFANTILES",boing esp
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTILES",Chicos Ipe
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
 #EXTINF:-1 tvg-id="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="INFANTILES",Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
@@ -397,25 +391,28 @@ http://locomotiontv.com/envivo/xtv/m3u
 http://animeloving.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-logo="http://kanadetv.com/imgs/loco/logo_white.png" group-title="INFANTILES",Kanade TV
-http://155.138.216.118:8080/hls/show.m3u8
+http://207.246.84.143:8080/hls/Kanade.m3u8
 
 #EXTINF:-1 tvg-id="Snick" tvg-logo="https://i.imgur.com/xNMvxoO.png" group-title="INFANTILES",Snick
 http://8.9.4.128:8080/hls/snick.m3u8
 
-#EXTINF:-1 tvg-logo="https://acsnetwork.tv/wp-content/uploads/2018/05/acs-network-tv-icon-new240.png" group-title="INFANTILES",acs network
+#EXTINF:-1 tvg-id="ACS Network" tvg-logo="https://acsnetwork.tv/wp-content/uploads/2018/05/acs-network-tv-icon-new240.png" group-title="INFANTILES",ACS Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",cachipum
+#EXTINF:-1 tvg-id=" Cachipum TV Series" tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",Cachipum TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="INFANTILES",Dreiko Tv
+#EXTINF:-1 tvg-id="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="INFANTILES",Dreiko TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+
+#EXTINF: -1 tvg-id="Toonizaki" tvg-logo="https://i.ytimg.com/vi/J_5fuflhTqw/maxresdefault.jpg" group-title="INFANTILES",Toonizaki
+https://inliveserver.com:1936/m3ulive/m3ulive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Chicos Ipe" tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTILES",Chicos Ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://gebelutv.files.wordpress.com/2014/11/unnamed.png" group-title="INFANTILES",Infantil Tv
 http://23.236.180.26/11580409776/live/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/J_5fuflhTqw/maxresdefault.jpg" group-title="INFANTILES",Toonizaki
-https://inliveserver.com:1936/m3ulive/m3ulive/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="INFANTILES",ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
@@ -423,20 +420,23 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="INFANTILES",Animax TV
 https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="INFANTILES",TV Galicia Xabarin Gallego
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="INFANTILES",Cartoon Network
-http://213.81.133.130:8000/play/CartoonNetwork
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="INFANTILES",Cartoon Network
-http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/52995.m3u8
+#EXTINF:-1 tvg-id="boing esp" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="INFANTILES",Boing Esp
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_980c794be91b440faac46de6e57eb10e~mv2.png" group-title="INFANTILES",Peque Radio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/CMkIfH7EXycjS7YYy6iAd-y3X_X9DjXSgKxH5Zeag7vC82acvTbGehF2GCgX09L7ryZLwtS3cERzqE-cfJXx4OI" group-title="INFANTILES",La banda Tv
 https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/chunklist_w1479443046.m3u8
+
+#EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="INFANTILES",TV Galicia Xabarin Gallego
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="INFANTILES",Cartoon Network
+http://213.81.133.130:8000/play/CartoonNetwork
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="INFANTILES",Cartoon Network
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3mowu7.png" group-title="CINE",FmHot Movies+
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
@@ -576,8 +576,6 @@ http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunkli
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="NOTICIAS",SKY News op2
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/460798109979664384/GXeGjD-I_400x400.png" group-title="COCINA",Andalucia Cocina Tv
-https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA",Fashion Tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-uRLyPis-Z34/Vum6P5trdxI/AAAAAAAAILs/_CLGpko6wpkOah-WEkzCLMnX-nxqvoqjw/s1600/fashion-one-logo.png" group-title="MODA",HD Fashion
