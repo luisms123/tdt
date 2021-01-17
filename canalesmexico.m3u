@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="externos/2F0F34A539D29ECA16A270DA2DBCD1C3.jpg" group-title="MEXICO",[COLOR orange][B][I]---MEXICO---[/COLOR][/B][/I]
 https://18593.live.streamtheworld.com/XEJP_FMAAC.aac
 
@@ -23,7 +22,7 @@ https://www.youtube.com/watch?v=qM8RYN1MAh8
 https://www.youtube.com/embed/qM8RYN1MAh8
 
 #EXTINF:-1 tvg-id="azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",Azteca 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/1a20ccff-6695-413b-923f-b3b06f23962b:TUL/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/629a7509-aeb1-4b1d-b9bc-5f7e3cda8bd6:TUL/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
 
 #EXTINF:-1 tvg-id="azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",Azteca 7 op1
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
@@ -516,18 +515,16 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:0 tvg-id="deportes" tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes
 https://dai.google.com/linear/hls/pa/event/SsKrOAzLTDOqVvk5K1Tocg/stream/084272e7-7324-46d8-bfd3-b3a298d4aae5:TUL/variant/98bf1fec8de612c5aa89bac9995661f8/bandwidth/779849.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes2 (youtube)
-https://www.youtube.com/watch?v=AXcrHKnxKUw
+https://www.youtube.com/watch?v=0grM_J94oBA
 #EXTINF:0 tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes3 (youtube)
 https://www.youtube.com/watch?v=44HHRt6TNfY
 
 #EXTINF:0 tvg-id="claro sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports.png" group-title="DEPORTES",Claro Sports (youtube)
-https://www.youtube.com/watch?v=5MmsSIwhNUM
+https://www.youtube.com/watch?v=0grM_J94oBA
 #EXTINF:0 tvg-id="tudn" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN
-https://www.youtube.com
+https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/0a7dacb5-fbda-4a9d-8695-bb034e5c4e94:BRU/variant/c9fe74e2f4d7fc5df7bfad7969bb4acc/bandwidth/4500000.m3u8?hdntl=exp=1610991533~acl=*~id=40d6f688-0527-4ec7-93b8-8acfbee55bf7~data=hdntl~hmac=10ce0c0dd3db175f2040fbe022acfe2d932313ba594188718e46579530acdb32
 #EXTINF:0 tvg-id="tudnusa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN USA
-https://www.youtube.com
-#EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2017/06/Betis-TV-e1498666063509.jpg" group-title="DEPORTES",Betis Tv
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+https://m3u-editor.com/serve/rokumaniatest/156476771
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="DEPORTES",Garage Tv
@@ -1644,3 +1641,16 @@ https://drive.google.com/file/d/1FiU0LwfwlgJKrBgIc3vu1P81UyJrdjhQ/view
 https://drive.google.com/file/d/1lFKT3bC5GtkXdpzNelt6HLWiUjXD7-a_/view
 #EXTINF:-1 group-title="SERIES",Capitulo 8
 https://drive.google.com/file/d/1TT-C-LqFJ6_ZgtXD4ewezy_5vPNAg1xe/view
+
+
+
+
+#EXTINF:-1 group-title="SERIES",Capitulo 1 SEE
+https://drive.google.com/file/d/10WcFDQuUGVy4zWdadF6ak3Agyu2Y83IQ/view
+#EXTINF:-1 group-title="SERIES",Capitulo 2 SEE
+#EXTINF:-1 group-title="SERIES",Capitulo 3 SEE
+#EXTINF:-1 group-title="SERIES",Capitulo 4 SEE
+#EXTINF:-1 group-title="SERIES",Capitulo 5 SEE
+#EXTINF:-1 group-title="SERIES",Capitulo 6 SEE
+#EXTINF:-1 group-title="SERIES",Capitulo 7 SEE
+#EXTINF:-1 group-title="SERIES",Capitulo 8 SEE
