@@ -513,7 +513,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
 #EXTINF:0 tvg-id="deportes" tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes
-https://dai.google.com/linear/hls/pa/event/SsKrOAzLTDOqVvk5K1Tocg/stream/084272e7-7324-46d8-bfd3-b3a298d4aae5:TUL/variant/98bf1fec8de612c5aa89bac9995661f8/bandwidth/779849.m3u8
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=LmYFB5hf4bchNdLipqCzKw&e=1610932516
 #EXTINF:0 tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes2 (youtube)
 https://www.youtube.com/watch?v=0grM_J94oBA
 #EXTINF:0 tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes3 (youtube)
