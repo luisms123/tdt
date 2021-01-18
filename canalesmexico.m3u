@@ -10,7 +10,7 @@ http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Imagen_TV_logo.png" group-title="MEXICO",Imagen Television (youtube)
-https://www.youtube.com/watch?v=AQjOH3iFazM
+https://www.youtube.com/watch?v=Lfrfs4-I8bY
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-logo="https://i.imgur.com/Z4olESG.png" group-title="MEXICO",Forotv
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
@@ -513,9 +513,9 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
 #EXTINF:0 tvg-id="deportes" tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/eviy3tp9sa8v04t.m3u8?s=LmYFB5hf4bchNdLipqCzKw&e=1610932516
+https://dai.google.com/linear/hls/pa/event/SsKrOAzLTDOqVvk5K1Tocg/stream/084272e7-7324-46d8-bfd3-b3a298d4aae5:TUL/variant/98bf1fec8de612c5aa89bac9995661f8/bandwidth/779849.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes2 (youtube)
-https://www.youtube.com/watch?v=0grM_J94oBA
+https://www.youtube.com/watch?v=Lfrfs4-I8bY
 #EXTINF:0 tvg-logo="https://i.imgur.com/H6qhKpd.jpg" group-title="DEPORTES",Deportes3 (youtube)
 https://www.youtube.com/watch?v=44HHRt6TNfY
 
@@ -737,6 +737,42 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="MUSICA",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EnpAZ5" group-title="WEB CAM", ESTADIO 100.5 FM RIO DE JANEIRO
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EnpAZ5" group-title="WEB CAM", CAMERA PANDA AO VIVO 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EnpAZ5" group-title="WEB CAM", CAMERA PANDA AO VIVO 3
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF: -1 group-title="WEB CAM", NYC Times Square (47th y Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
+#EXTINF: -1 group-title="WEB CAM", NYC Times Square (vista sur)
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w872104618.m3u8
+
+#EXTINF: -1 group-title="WEB CAM", NYC Times Square
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF: -1 group-title="WEB CAM", DC Eagle Cam A
+https://americaneagle-lh.akamaihd.net/i/AEF_DC1@31049/master.m3u8
+
+#EXTINF: -1 group-title="WEB CAM", DC Eagle Cam B
+https://americaneagle-lh.akamaihd.net/i/AEF_DC2@31050/master.m3u8
+
+#EXTINF: -1 group-title="WEB CAM", Cataratas del Niágara
+https://edge04.balticlivecam.com/blc/p_US_Niagara/index.m3u8?token=1f25ea075236bb9138f5529c952f35b8:1610929328948
+
+#EXTINF: -1 group-title="WEB CAM", Estatua de la Libertad de NYC
+http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
+
+#EXTINF: -1 group-title="WEB CAM", FL Lauderdale-By-The-Sea
+https://video3.earthcam.com/fecnetwork/windjammerHD2.flv/chunklist_w1192993578.m3u8
+
+#EXTINF:-1 group-title="WEB CAM", FL Lauderdale Marina FLORIDA
+https://video3.earthcam.com/fecnetwork/8891.flv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/img/reproductor_chico_2016_2.png" group-title="RADIO",radio ranchito morelia
 http://server.laradio.online:8157/live.mp3
