@@ -193,19 +193,19 @@
   </programme>
   <programme start="20210118090000 -0600" stop="20210118110000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(g)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210118110000 -0600" stop="20210118130000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(g)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210118130000 -0600" stop="20210118140000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(g)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
@@ -214,7 +214,7 @@
   </programme>
   <programme start="20210118150000 -0600" stop="20210118163000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy(g)</desc>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy</desc>
     <date>1996</date>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
@@ -351,7 +351,7 @@
   </programme>
   <programme start="20210120110000 -0600" stop="20210120130000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
@@ -366,7 +366,7 @@
   </programme>
   <programme start="20210120150000 -0600" stop="20210120173000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy(c)</desc>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy</desc>
     <date>1996</date>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
@@ -403,7 +403,7 @@
   </programme>
   <programme start="20210121080000 -0600" stop="20210121090000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(g)</desc>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema</desc>
     <credits>
       <producer>Genoveva Martínez</producer>
       <producer>María Eva Hernández</producer>
@@ -773,6 +773,9 @@
   </programme>
   <programme start="20210119030000 -0600" stop="20210119060000 -0600" channel="Foro TV">
     <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210119110000 -0600" stop="20210119120000 -0600" channel="Foro TV">
+    <title lang="es">Por las mañanas</title>
   </programme>
   <programme start="20210119130000 -0600" stop="20210119140000 -0600" channel="Foro TV">
     <title lang="es">Las Noticias de las 1300 hrs</title>
@@ -1498,7 +1501,7 @@
   </programme>
   <programme start="20210123090000 -0600" stop="20210123093000 -0600" channel="canal cinco">
     <title lang="es">Max Steel</title>
-    <desc lang="es">Cuando Maxwell "Max" McGrath y Steel, un ser de otro planeta se fusionan, juntos crean a un súper héroe llamado Max Steel(g)</desc>
+    <desc lang="es">Cuando Maxwell "Max" McGrath y Steel, un ser de otro planeta se fusionan, juntos crean a un súper héroe llamado Max Steel</desc>
     <date>2013</date>
     <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/max_steel.jpg" />
   </programme>
@@ -1517,7 +1520,7 @@
   <programme start="20210123133000 -0600" stop="20210123144500 -0600" channel="canal cinco">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(g)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -2121,6 +2124,9 @@
   <programme start="20210122100000 -0600" stop="20210122104500 -0600" channel="azteca 7">
     <title lang="es">Zak Storm</title>
   </programme>
+  <programme start="20210122104500 -0600" stop="20210122114500 -0600" channel="azteca 7">
+    <title lang="es">Transformers Cyberverse</title>
+  </programme>
   <programme start="20210123003000 -0600" stop="20210123021500 -0600" channel="azteca 7">
     <title lang="es">Infomercial</title>
   </programme>
@@ -2652,7 +2658,7 @@
   </programme>
   <programme start="20210120223000 -0600" stop="20210121000000 -0600" channel="Nueve">
     <title lang="es">Decisiones</title>
-    <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día(c)</desc>
+    <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día</desc>
     <date>2005</date>
     <category lang="es">Programa</category>
     <category lang="es">Novela</category>
@@ -2741,7 +2747,7 @@
   <programme start="20210122230000 -0600" stop="20210123003000 -0600" channel="Nueve">
     <title lang="es">Sacúdete las Penas</title>
     <title lang="xx">Sacúdete Las Penas</title>
-    <desc lang="es">Un famoso bailarín en una noche de juerga termina en el penal más peligroso del país, siendo el único reo que logró escapar utilizando su imaginación(n)</desc>
+    <desc lang="es">Un famoso bailarín en una noche de juerga termina en el penal más peligroso del país, siendo el único reo que logró escapar utilizando su imaginación</desc>
     <credits>
       <actor>Arturo Barba</actor>
       <actor>Daniela Barcelo</actor>
@@ -2766,7 +2772,7 @@
   <programme start="20210123230000 -0600" stop="20210124003000 -0600" channel="Nueve">
     <title lang="es">Sacúdete las Penas</title>
     <title lang="xx">Sacúdete Las Penas</title>
-    <desc lang="es">Un famoso bailarín en una noche de juerga termina en el penal más peligroso del país, siendo el único reo que logró escapar utilizando su imaginación(n)</desc>
+    <desc lang="es">Un famoso bailarín en una noche de juerga termina en el penal más peligroso del país, siendo el único reo que logró escapar utilizando su imaginación</desc>
     <credits>
       <actor>Arturo Barba</actor>
       <actor>Daniela Barcelo</actor>
@@ -5208,6 +5214,9 @@
   <programme start="20210120110000 -0600" stop="20210120113000 -0600" channel="aprende">
     <title lang="es">Cívica y Ética en Diálogo</title>
   </programme>
+  <programme start="20210120113000 -0600" stop="20210120115500 -0600" channel="aprende">
+    <title lang="es">Lengua materna</title>
+  </programme>
   <programme start="20210120120000 -0600" stop="20210120122500 -0600" channel="aprende">
     <title lang="es">Matemáticas</title>
   </programme>
@@ -5466,6 +5475,9 @@
   </programme>
   <programme start="20210119103000 -0600" stop="20210119110000 -0600" channel="tvunam">
     <title lang="es">Incluidos. Trabajos sin preju</title>
+  </programme>
+  <programme start="20210119110000 -0600" stop="20210119140000 -0600" channel="tvunam">
+    <title lang="es">Aprende en casa III</title>
   </programme>
   <programme start="20210119140000 -0600" stop="20210119143000 -0600" channel="tvunam">
     <title lang="es">Gramáticas de la Creación</title>
@@ -5775,6 +5787,9 @@
   <programme start="20210119103000 -0600" stop="20210119113000 -0600" channel="Canal 22">
     <title lang="es">Coronavirus La Epidemia</title>
   </programme>
+  <programme start="20210119113000 -0600" stop="20210119133000 -0600" channel="Canal 22">
+    <title lang="es">Programación ILCE</title>
+  </programme>
   <programme start="20210119133000 -0600" stop="20210119140000 -0600" channel="Canal 22">
     <title lang="es">¡Ahí viene Asa</title>
   </programme>
@@ -5997,6 +6012,9 @@
   <programme start="20210119000000 -0600" stop="20210119040000 -0600" channel="excelsior tv">
     <title lang="es">Excelsior TV</title>
   </programme>
+  <programme start="20210119080000 -0600" stop="20210119120000 -0600" channel="excelsior tv">
+    <title lang="es">Excelsior TV</title>
+  </programme>
   <programme start="20210118030000 -0600" stop="20210118050000 -0600" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
@@ -6125,6 +6143,9 @@
   </programme>
   <programme start="20210120020000 -0600" stop="20210120060000 -0600" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20210120110000 -0600" stop="20210120130000 -0600" channel="Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
   <programme start="20210120130000 -0600" stop="20210120133000 -0600" channel="Mexiquense TV">
     <title lang="es">¡Escápate</title>
@@ -7215,6 +7236,9 @@
   <programme start="20210122100000 -0600" stop="20210122104500 -0600" channel="Milenio TV">
     <title lang="es">Susana y Álvaro en Milenio</title>
   </programme>
+  <programme start="20210122104500 -0600" stop="20210122114500 -0600" channel="Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
   <programme start="20210122210000 -0600" stop="20210122211500 -0600" channel="Milenio TV">
     <title lang="es">En 15 con Carlos Puig</title>
   </programme>
@@ -7518,6 +7542,9 @@
   <programme start="20210119080000 -0600" stop="20210119090000 -0600" channel="Maria Vision">
     <title lang="es">Santo rosario, Nuestra Señora</title>
   </programme>
+  <programme start="20210119110000 -0600" stop="20210119120000 -0600" channel="Maria Vision">
+    <title lang="es">Santa Misa capilla m+v</title>
+  </programme>
   <programme start="20210119193000 -0600" stop="20210119200000 -0600" channel="Maria Vision">
     <title lang="es">Kyrios</title>
   </programme>
@@ -7525,10 +7552,10 @@
     <title lang="es">El Santísimo Sacramento</title>
   </programme>
   <programme start="20210120080000 -0600" stop="20210120090000 -0600" channel="Maria Vision">
-    <title lang="es">Santo rosario, Nuestra Señora</title>
+    <title lang="es">Sto. rosario, Sagrado Corazón</title>
   </programme>
   <programme start="20210120193000 -0600" stop="20210120200000 -0600" channel="Maria Vision">
-    <title lang="es">Kyrios</title>
+    <title lang="es">Apóstoles de nuestro tiempo</title>
   </programme>
   <programme start="20210120210000 -0600" stop="20210120230000 -0600" channel="Maria Vision">
     <title lang="es">Cenáculo de oración</title>
@@ -7536,14 +7563,17 @@
   <programme start="20210120230000 -0600" stop="20210121000000 -0600" channel="Maria Vision">
     <title lang="es">Santa Misa, Medjugorje</title>
   </programme>
+  <programme start="20210121000000 -0600" stop="20210121030000 -0600" channel="Maria Vision">
+    <title lang="es">El Santísimo Sacramento</title>
+  </programme>
   <programme start="20210121080000 -0600" stop="20210121090000 -0600" channel="Maria Vision">
-    <title lang="es">Sto. rosario, Sagrado Corazón</title>
+    <title lang="es">Sto. rosario, Sagrada Familia</title>
   </programme>
   <programme start="20210121133000 -0600" stop="20210121143000 -0600" channel="Maria Vision">
     <title lang="es">Santa misa, Santuario de Gpe</title>
   </programme>
   <programme start="20210121193000 -0600" stop="20210121200000 -0600" channel="Maria Vision">
-    <title lang="es">Apóstoles de nuestro tiempo</title>
+    <title lang="es">La fe sencilla de la gente</title>
   </programme>
   <programme start="20210121200000 -0600" stop="20210121210000 -0600" channel="Maria Vision">
     <title lang="es">Santa misa iglesia</title>
@@ -7558,22 +7588,34 @@
     <title lang="es">El Santísimo Sacramento</title>
   </programme>
   <programme start="20210122080000 -0600" stop="20210122090000 -0600" channel="Maria Vision">
-    <title lang="es">Sto. rosario, Sagrada Familia</title>
+    <title lang="es">Santo rosario, Santo Toribio</title>
   </programme>
   <programme start="20210122133000 -0600" stop="20210122143000 -0600" channel="Maria Vision">
     <title lang="es">Santa misa, Santuario de Gpe</title>
   </programme>
   <programme start="20210122193000 -0600" stop="20210122200000 -0600" channel="Maria Vision">
-    <title lang="es">La fe sencilla de la gente</title>
+    <title lang="es">Via crucis</title>
   </programme>
   <programme start="20210122200000 -0600" stop="20210122210000 -0600" channel="Maria Vision">
     <title lang="es">Santa misa iglesia</title>
   </programme>
   <programme start="20210123080000 -0600" stop="20210123090000 -0600" channel="Maria Vision">
-    <title lang="es">Santo rosario, Santo Toribio</title>
+    <title lang="es">Soldados de la virgen María</title>
+  </programme>
+  <programme start="20210123090000 -0600" stop="20210123100000 -0600" channel="Maria Vision">
+    <title lang="es">El Santísimo Sacramento</title>
+  </programme>
+  <programme start="20210123100000 -0600" stop="20210123110000 -0600" channel="Maria Vision">
+    <title lang="es">El santo rosario, Capilla M+V</title>
+  </programme>
+  <programme start="20210123153000 -0600" stop="20210123163000 -0600" channel="Maria Vision">
+    <title lang="es">Soldados de la virgen María</title>
   </programme>
   <programme start="20210123193000 -0600" stop="20210123200000 -0600" channel="Maria Vision">
     <title lang="es">Via crucis</title>
+  </programme>
+  <programme start="20210123230000 -0600" stop="20210124000000 -0600" channel="Maria Vision">
+    <title lang="es">Fiaccolata</title>
   </programme>
   <programme start="20210124080000 -0600" stop="20210124090000 -0600" channel="Maria Vision">
     <title lang="es">Soldados de la virgen María</title>
@@ -7650,7 +7692,7 @@
   <programme start="20210118054300 -0600" stop="20210118055400 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7667,7 +7709,7 @@
   <programme start="20210118055400 -0600" stop="20210118060700 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7684,7 +7726,7 @@
   <programme start="20210118060700 -0600" stop="20210118061800 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7701,7 +7743,7 @@
   <programme start="20210118061800 -0600" stop="20210118063300 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7728,7 +7770,7 @@
   <programme start="20210118072500 -0600" stop="20210118075300 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7750,7 +7792,7 @@
   <programme start="20210118075300 -0600" stop="20210118082000 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7772,7 +7814,7 @@
   <programme start="20210118082000 -0600" stop="20210118084500 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7798,7 +7840,7 @@
   <programme start="20210118091000 -0600" stop="20210118093000 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7814,7 +7856,7 @@
   <programme start="20210118093000 -0600" stop="20210118094400 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7869,7 +7911,7 @@
   <programme start="20210118134900 -0600" stop="20210118141700 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7891,7 +7933,7 @@
   <programme start="20210118141700 -0600" stop="20210118144500 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7928,7 +7970,7 @@
   <programme start="20210118161400 -0600" stop="20210118162400 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7944,7 +7986,7 @@
   <programme start="20210118162400 -0600" stop="20210118163500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7960,7 +8002,7 @@
   <programme start="20210118163500 -0600" stop="20210118164600 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7976,7 +8018,7 @@
   <programme start="20210118164600 -0600" stop="20210118165600 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7992,7 +8034,7 @@
   <programme start="20210118165600 -0600" stop="20210118170700 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8009,7 +8051,7 @@
   <programme start="20210118170700 -0600" stop="20210118171800 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8026,7 +8068,7 @@
   <programme start="20210118171800 -0600" stop="20210118172900 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8043,7 +8085,7 @@
   <programme start="20210118172900 -0600" stop="20210118174200 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8135,7 +8177,7 @@
   <programme start="20210118222700 -0600" stop="20210118230000 -0600" channel="boing esp">
     <title lang="es">Chowder</title>
     <title lang="xx">Chowder</title>
-    <desc lang="es">En la ciudad de Mazapán, un joven aprendiz de chef de 12 años con grandes sueños y un apetito voraz debe aprender todo lo que diga su maestro Mung Daal(n)</desc>
+    <desc lang="es">En la ciudad de Mazapán, un joven aprendiz de chef de 12 años con grandes sueños y un apetito voraz debe aprender todo lo que diga su maestro Mung Daal</desc>
     <credits>
       <producer>Louis J. Cuck</producer>
       <composer>C.H. Greenblatt</composer>
@@ -8235,7 +8277,7 @@
   <programme start="20210119054100 -0600" stop="20210119055200 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8252,7 +8294,7 @@
   <programme start="20210119055200 -0600" stop="20210119060300 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8269,7 +8311,7 @@
   <programme start="20210119060300 -0600" stop="20210119061400 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8286,7 +8328,7 @@
   <programme start="20210119061400 -0600" stop="20210119062800 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8310,7 +8352,7 @@
   <programme start="20210119072200 -0600" stop="20210119075200 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(c)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -8332,7 +8374,7 @@
   <programme start="20210119075200 -0600" stop="20210119082000 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(c)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -8380,7 +8422,7 @@
   <programme start="20210119090900 -0600" stop="20210119092800 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8396,7 +8438,7 @@
   <programme start="20210119092800 -0600" stop="20210119094500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8457,7 +8499,7 @@
   <programme start="20210119135100 -0600" stop="20210119141900 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(c)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -8479,7 +8521,7 @@
   <programme start="20210119141900 -0600" stop="20210119144700 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(c)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -8516,7 +8558,7 @@
   <programme start="20210119161800 -0600" stop="20210119162800 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8532,7 +8574,7 @@
   <programme start="20210119162800 -0600" stop="20210119163900 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8548,7 +8590,7 @@
   <programme start="20210119163900 -0600" stop="20210119165000 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8564,7 +8606,7 @@
   <programme start="20210119165000 -0600" stop="20210119170000 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8580,7 +8622,7 @@
   <programme start="20210119170000 -0600" stop="20210119171100 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8597,7 +8639,7 @@
   <programme start="20210119171100 -0600" stop="20210119172400 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8614,7 +8656,7 @@
   <programme start="20210119172400 -0600" stop="20210119173500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8631,7 +8673,7 @@
   <programme start="20210119173500 -0600" stop="20210119174800 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8865,7 +8907,7 @@
   <programme start="20210119000000 -0600" stop="20210119013000 -0600" channel="telehit">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(g)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -9134,7 +9176,7 @@
   <programme start="20210123060000 -0600" stop="20210123100000 -0600" channel="telehit">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -9166,7 +9208,7 @@
   </programme>
   <programme start="20210123130000 -0600" stop="20210123133000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(n)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -9176,7 +9218,7 @@
   </programme>
   <programme start="20210123133000 -0600" stop="20210123140000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(n)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -9202,7 +9244,7 @@
   <programme start="20210123200000 -0600" stop="20210124000000 -0600" channel="telehit">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -9294,6 +9336,9 @@
   </programme>
   <programme start="20210119013000 -0600" stop="20210119023000 -0600" channel="bandamax">
     <title lang="es">Trepale al Ranchero</title>
+  </programme>
+  <programme start="20210119110000 -0600" stop="20210119120000 -0600" channel="bandamax">
+    <title lang="es">Las imperdibles BDX</title>
   </programme>
   <programme start="20210119130000 -0600" stop="20210119140000 -0600" channel="bandamax">
     <title lang="es">Secreto a voces</title>
@@ -10137,7 +10182,7 @@
   </programme>
   <programme start="20210123185500 -0600" stop="20210123205500 -0600" channel="tudnusa">
     <title lang="es">Atlas vs. Tigres</title>
-    <desc lang="es">El Club Atlas recibe a los Tigres de la Universidad Autónoma de Nuevo León (UANL) en el estadio Universitario, en el estado de Nuevo León, México(n)</desc>
+    <desc lang="es">El Club Atlas recibe a los Tigres de la Universidad Autónoma de Nuevo León (UANL) en el estadio Universitario, en el estado de Nuevo León, México</desc>
     <category lang="es">Fútbol</category>
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/atlas_vs_tigres.png" />
@@ -13736,14 +13781,8 @@
   <programme start="20210124200400 -0600" stop="20210124202700 -0600" channel="Dreiko TV">
     <title lang="es">El Mundo de Beakman</title>
   </programme>
-  <programme start="20210124195900 -0600" stop="20210124202300 -0600" channel="Dreiko TV">
-    <title lang="es">Tiny Toons</title>
-  </programme>
   <programme start="20210124202700 -0600" stop="20210124205300 -0600" channel="Dreiko TV">
     <title lang="es">Auto Bus Magico</title>
-  </programme>
-  <programme start="20210124202300 -0600" stop="20210124203700 -0600" channel="Dreiko TV">
-    <title lang="es">Daniel el Travieso</title>
   </programme>
   <programme start="20210124205300 -0600" stop="20210124212100 -0600" channel="Dreiko TV">
     <title lang="es">Fantasias Animadas de Ayer y Hoy</title>
@@ -15772,7 +15811,7 @@
   </programme>
   <programme start="20210118000000 -0600" stop="20210118003000 -0600" channel="Locomotion">
     <title lang="es">Thundercats (80s TV)*</title>
-    <desc lang="es">mexico(n)</desc>
+    <desc lang="es">mexico</desc>
     <date>1998</date>
     <icon src="https://www.mexicotravelchannel.com.mx/assets/images/programacion/img_anterior_1569345768.jpg" />
   </programme>
