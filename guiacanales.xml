@@ -193,19 +193,19 @@
   </programme>
   <programme start="20210203090000 -0600" stop="20210203110000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(g)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210203110000 -0600" stop="20210203130000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(g)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210203130000 -0600" stop="20210203140000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(g)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
@@ -214,7 +214,7 @@
   </programme>
   <programme start="20210203150000 -0600" stop="20210203163000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy(c)</desc>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy</desc>
     <date>1996</date>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
@@ -260,7 +260,7 @@
   <programme start="20210204140000 -0600" stop="20210204150000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Hechos Sábado</title>
   </programme>
-  <programme start="20210204150000 -0600" stop="20210204173000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210204150000 -0600" stop="20210204163000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Ventaneando</title>
     <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy(c)</desc>
     <date>1996</date>
@@ -296,7 +296,7 @@
   </programme>
   <programme start="20210205080000 -0600" stop="20210205090000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema</desc>
     <credits>
       <producer>Genoveva Martínez</producer>
       <producer>María Eva Hernández</producer>
@@ -307,36 +307,46 @@
   </programme>
   <programme start="20210205090000 -0600" stop="20210205110000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210205110000 -0600" stop="20210205130000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210205130000 -0600" stop="20210205140000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210205140000 -0600" stop="20210205150000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Hechos Sábado</title>
   </programme>
-  <programme start="20210205150000 -0600" stop="20210205180000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Mi pareja puede</title>
+  <programme start="20210205150000 -0600" stop="20210205173000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy(c)</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
   </programme>
-  <programme start="20210205180000 -0600" stop="20210205200000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210205173000 -0600" stop="20210205193000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Al extremo</title>
   </programme>
-  <programme start="20210205200000 -0600" stop="20210205230000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Corazón grupero</title>
+  <programme start="20210205193000 -0600" stop="20210205223000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">MasterChef</title>
   </programme>
-  <programme start="20210205230000 -0600" stop="20210206000000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">La resolana</title>
+  <programme start="20210205223000 -0600" stop="20210205231500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20210205231500 -0600" stop="20210205233000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20210205233000 -0600" stop="20210206000000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
   </programme>
   <programme start="20210206000000 -0600" stop="20210206010000 -0600" channel="Canal Azteca Uno">
     <title lang="es">La resolana</title>
@@ -355,7 +365,7 @@
   </programme>
   <programme start="20210206080000 -0600" stop="20210206090000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema</desc>
     <credits>
       <producer>Genoveva Martínez</producer>
       <producer>María Eva Hernández</producer>
@@ -364,21 +374,57 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20210206090000 -0600" stop="20210206100000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Hechos Domingo</title>
-  </programme>
-  <programme start="20210206100000 -0600" stop="20210206120000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210206090000 -0600" stop="20210206110000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20210206120000 -0600" stop="20210206130000 -0600" channel="Canal Azteca Uno">
-    <title lang="es">Deezer Live</title>
+  <programme start="20210206110000 -0600" stop="20210206130000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210206130000 -0600" stop="20210206140000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20210206140000 -0600" stop="20210206150000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20210206150000 -0600" stop="20210206180000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Mi pareja puede</title>
+  </programme>
+  <programme start="20210206180000 -0600" stop="20210206200000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20210206200000 -0600" stop="20210206230000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Corazón grupero</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207000000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20210207000000 -0600" stop="20210207010000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20210207010000 -0600" stop="20210207050000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207053000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20210207053000 -0600" stop="20210207061500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210207061500 -0600" stop="20210207080000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20210207080000 -0600" stop="20210207090000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(c)</desc>
     <credits>
       <producer>Genoveva Martínez</producer>
       <producer>María Eva Hernández</producer>
@@ -387,37 +433,60 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20210206140000 -0600" stop="20210206150000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210207090000 -0600" stop="20210207100000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20210207100000 -0600" stop="20210207120000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(c)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20210207120000 -0600" stop="20210207130000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Deezer Live</title>
+  </programme>
+  <programme start="20210207130000 -0600" stop="20210207140000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(c)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20210207140000 -0600" stop="20210207150000 -0600" channel="Canal Azteca Uno">
     <title lang="es">En sus Batallas</title>
   </programme>
-  <programme start="20210206150000 -0600" stop="20210206180000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210207150000 -0600" stop="20210207180000 -0600" channel="Canal Azteca Uno">
     <title lang="es">MasterChef</title>
   </programme>
-  <programme start="20210206180000 -0600" stop="20210206200000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210207180000 -0600" stop="20210207200000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Domingo Al Extremo</title>
   </programme>
-  <programme start="20210206200000 -0600" stop="20210206231500 -0600" channel="Canal Azteca Uno">
+  <programme start="20210207200000 -0600" stop="20210207231500 -0600" channel="Canal Azteca Uno">
     <title lang="es">Exatlón Titanes vs. Héroes</title>
   </programme>
-  <programme start="20210206231500 -0600" stop="20210207000000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210207231500 -0600" stop="20210208000000 -0600" channel="Canal Azteca Uno">
     <title lang="es">La resolana</title>
   </programme>
-  <programme start="20210207000000 -0600" stop="20210207040000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210208000000 -0600" stop="20210208040000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210207040000 -0600" stop="20210207080000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210208040000 -0600" stop="20210208080000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210207080000 -0600" stop="20210207120000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210208080000 -0600" stop="20210208120000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210207120000 -0600" stop="20210207160000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210208120000 -0600" stop="20210208160000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210207160000 -0600" stop="20210207200000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210208160000 -0600" stop="20210208200000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210207200000 -0600" stop="20210208000000 -0600" channel="Canal Azteca Uno">
+  <programme start="20210208200000 -0600" stop="20210209000000 -0600" channel="Canal Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
   <programme start="20210203010000 -0600" stop="20210203043000 -0600" channel="Canal Estrellas">
@@ -458,7 +527,7 @@
   </programme>
   <programme start="20210203163000 -0600" stop="20210203173000 -0600" channel="Canal Estrellas">
     <title lang="es">Mañana es para Siempre</title>
-    <desc lang="es">Lucero, Silvia Navarro, Fernando Colunga. Fernanda y Eduardo se aman desde niños a pesar de las diferencias sociales y los obstáculos de la madre de Fernanda(g)</desc>
+    <desc lang="es">Lucero, Silvia Navarro, Fernando Colunga. Fernanda y Eduardo se aman desde niños a pesar de las diferencias sociales y los obstáculos de la madre de Fernanda</desc>
     <credits>
       <actor>Silvia Navarro</actor>
       <actor>Fernando Colunga</actor>
@@ -481,7 +550,7 @@
   <programme start="20210203183000 -0600" stop="20210203193000 -0600" channel="Canal Estrellas">
     <title lang="es">La Mexicana y el Güero</title>
     <title lang="xx">La Mexicana y el Güero</title>
-    <desc lang="es">Andrea, una estafadora profesional que inventa una familia acaudalada falsa para estafar al estadounidense Tyler Somers, un hombre bondadoso y millonario(g)</desc>
+    <desc lang="es">Andrea, una estafadora profesional que inventa una familia acaudalada falsa para estafar al estadounidense Tyler Somers, un hombre bondadoso y millonario</desc>
     <credits>
       <actor>Itatí Cantoral</actor>
       <actor>Juan Soler</actor>
@@ -504,7 +573,7 @@
   <programme start="20210203203000 -0600" stop="20210203213000 -0600" channel="Canal Estrellas">
     <title lang="es">Vencer el Desamor</title>
     <title lang="xx">Vencer el Desamor</title>
-    <desc lang="es">Cuatro mujeres de diferentes estratos sociales se ven obligadas a vivir bajo el mismo techo, ahora deberán aprender a superar las diferencias entre ellas(g)</desc>
+    <desc lang="es">Cuatro mujeres de diferentes estratos sociales se ven obligadas a vivir bajo el mismo techo, ahora deberán aprender a superar las diferencias entre ellas</desc>
     <credits>
       <actor>Claudia Álvarez</actor>
       <actor>David Zepeda</actor>
@@ -536,6 +605,9 @@
   </programme>
   <programme start="20210204133000 -0600" stop="20210204143000 -0600" channel="Canal Estrellas">
     <title lang="es">Minuto para Ganar</title>
+  </programme>
+  <programme start="20210204153000 -0600" stop="20210204163000 -0600" channel="Canal Estrellas">
+    <title lang="es">Quererlo Todo</title>
   </programme>
   <programme start="20210204230000 -0600" stop="20210204233000 -0600" channel="Canal Estrellas">
     <title lang="es">Renta Congelada</title>
@@ -620,7 +692,7 @@
   <programme start="20210207163000 -0600" stop="20210207183000 -0600" channel="Canal Estrellas">
     <title lang="es">El Día de la Unión</title>
     <title lang="xx">El Día de la Unión</title>
-    <desc lang="es">Nara la historia de un taxista que trabaja cerca del hotel Regis de 1985 y observa como la ciudad de México se cae a pedazos por el fuerte sismo de ese día(n)</desc>
+    <desc lang="es">Nara la historia de un taxista que trabaja cerca del hotel Regis de 1985 y observa como la ciudad de México se cae a pedazos por el fuerte sismo de ese día</desc>
     <credits>
       <actor>Kuno Becker</actor>
       <actor>Armando Hernández</actor>
@@ -644,7 +716,7 @@
   <programme start="20210207183000 -0600" stop="20210207203000 -0600" channel="Canal Estrellas">
     <title lang="es">Te Juro que Yo no Fui</title>
     <title lang="xx">Te Juro que Yo no Fui</title>
-    <desc lang="es">Un contrabajista se involucra accidentalmente con una española que es perseguida por unos árabes con la intención de quitarle el diamante que ella tiene(n)</desc>
+    <desc lang="es">Un contrabajista se involucra accidentalmente con una española que es perseguida por unos árabes con la intención de quitarle el diamante que ella tiene</desc>
     <credits>
       <actor>Mauricio Ochmann</actor>
       <actor>Marta Hazas</actor>
@@ -666,7 +738,7 @@
   <programme start="20210207203000 -0600" stop="20210207230000 -0600" channel="Canal Estrellas">
     <title lang="es">La Mexicana y el Güero</title>
     <title lang="xx">La Mexicana y el Güero</title>
-    <desc lang="es">Andrea, una estafadora profesional que inventa una familia acaudalada falsa para estafar al estadounidense Tyler Somers, un hombre bondadoso y millonario(n)</desc>
+    <desc lang="es">Andrea, una estafadora profesional que inventa una familia acaudalada falsa para estafar al estadounidense Tyler Somers, un hombre bondadoso y millonario</desc>
     <credits>
       <actor>Itatí Cantoral</actor>
       <actor>Juan Soler</actor>
@@ -845,17 +917,8 @@
   <programme start="20210205143000 -0600" stop="20210205150000 -0600" channel="Foro TV">
     <title lang="es">Cuide su Salud</title>
   </programme>
-  <programme start="20210205150000 -0600" stop="20210205163000 -0600" channel="Foro TV">
+  <programme start="20210205160000 -0600" stop="20210205180000 -0600" channel="Foro TV">
     <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210205163000 -0600" stop="20210205170000 -0600" channel="Foro TV">
-    <title lang="es">Cuide su Salud</title>
-  </programme>
-  <programme start="20210205170000 -0600" stop="20210205173000 -0600" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210205173000 -0600" stop="20210205180000 -0600" channel="Foro TV">
-    <title lang="es">Especial Foro TV</title>
   </programme>
   <programme start="20210205180000 -0600" stop="20210205200000 -0600" channel="Foro TV">
     <title lang="es">Las noticias</title>
@@ -1043,7 +1106,7 @@
   <programme start="20210203063000 -0600" stop="20210203070000 -0600" channel="canal cinco">
     <title lang="es">Masha y el Oso</title>
     <title lang="xx">Masha i Medved</title>
-    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(g)</desc>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención</desc>
     <credits>
       <producer>Oleg Kuzovkov</producer>
       <producer>Dmitrij Lovejko</producer>
@@ -1094,7 +1157,7 @@
   <programme start="20210203120000 -0600" stop="20210203130000 -0600" channel="canal cinco">
     <title lang="es">Los Padrinos Mágicos</title>
     <title lang="xx">The Fairly OddParents</title>
-    <desc lang="es">Un niño tiene dos padrinos mágicos que pueden hacer realidad todos sus deseos, pero debe tener cuidado con lo que pide porque a veces pueden ser peligrosos(g)</desc>
+    <desc lang="es">Un niño tiene dos padrinos mágicos que pueden hacer realidad todos sus deseos, pero debe tener cuidado con lo que pide porque a veces pueden ser peligrosos</desc>
     <credits>
       <producer>Ray DeLaurentis</producer>
       <producer>Randy Saba</producer>
@@ -1130,7 +1193,7 @@
   </programme>
   <programme start="20210203160000 -0600" stop="20210203173000 -0600" channel="canal cinco">
     <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”(g)</desc>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”</desc>
     <credits>
       <actor>Tom Kenny</actor>
       <actor>Bill Faberbakke</actor>
@@ -1186,7 +1249,7 @@
   <programme start="20210204090000 -0600" stop="20210204093000 -0600" channel="canal cinco">
     <title lang="es">PAW Patrol</title>
     <title lang="xx">PAW Patrol</title>
-    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(g)</desc>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay</desc>
     <credits>
       <producer>Patricia Burns</producer>
       <composer>Michael Smidi Smith</composer>
@@ -1265,7 +1328,7 @@
   <programme start="20210205063000 -0600" stop="20210205070000 -0600" channel="canal cinco">
     <title lang="es">Masha y el Oso</title>
     <title lang="xx">Masha i Medved</title>
-    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(g)</desc>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención</desc>
     <credits>
       <producer>Oleg Kuzovkov</producer>
       <producer>Dmitrij Lovejko</producer>
@@ -1451,7 +1514,7 @@
   <programme start="20210208080000 -0600" stop="20210208094500 -0600" channel="canal cinco">
     <title lang="es">Deep el Pulpo</title>
     <title lang="xx">Deep</title>
-    <desc lang="es">Los últimos sobrevivientes de la tierra viven en una grieta en lo más profundo del océano que tras un accidente Deep es la esperanza para salvar su hogar(n)</desc>
+    <desc lang="es">Los últimos sobrevivientes de la tierra viven en una grieta en lo más profundo del océano que tras un accidente Deep es la esperanza para salvar su hogar</desc>
     <credits>
       <actor>Jess Harnell</actor>
       <actor>Phil LaMarr</actor>
@@ -1479,7 +1542,7 @@
   </programme>
   <programme start="20210208151500 -0600" stop="20210208170000 -0600" channel="canal cinco">
     <title lang="es">Los Croods</title>
-    <desc lang="es">La primera familia del mundo se ve forzada a abandonar la cueva que los ha protegido por años para aventurarse a un lugar lleno de paisajes espectaculares(n)</desc>
+    <desc lang="es">La primera familia del mundo se ve forzada a abandonar la cueva que los ha protegido por años para aventurarse a un lugar lleno de paisajes espectaculares</desc>
     <credits>
       <actor>Nicolas Cage</actor>
       <actor>Ryan Reynolds</actor>
@@ -1534,7 +1597,7 @@
   </programme>
   <programme start="20210209160000 -0600" stop="20210209170000 -0600" channel="canal cinco">
     <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”(n)</desc>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”</desc>
     <credits>
       <actor>Tom Kenny</actor>
       <actor>Bill Faberbakke</actor>
@@ -1551,7 +1614,7 @@
   <programme start="20210209190000 -0600" stop="20210209204500 -0600" channel="canal cinco">
     <title lang="es">La Leyenda del Chupacabras</title>
     <title lang="xx">La Leyenda del Chupacabras</title>
-    <desc lang="es">Leo, es confundido con un rebelde por los soldados cuando es llevado a un viejo convento se encuentra con una misteriosa criatura y ahora deberá enfrentarla(n)</desc>
+    <desc lang="es">Leo, es confundido con un rebelde por los soldados cuando es llevado a un viejo convento se encuentra con una misteriosa criatura y ahora deberá enfrentarla</desc>
     <credits>
       <actor>Benny Emmanuel</actor>
       <actor>Rafael Inclán</actor>
@@ -1611,7 +1674,7 @@
   <programme start="20210203103000 -0600" stop="20210203113000 -0600" channel="azteca 7">
     <title lang="es">Los supersónicos</title>
     <title lang="xx">The Jetsons</title>
-    <desc lang="es">Súper Sónico nos muestra como sobrevive en su trabajo mientras sus hijos van a la escuela y su esposa Ultra hace la limpieza con solo oprimir un botón(n)</desc>
+    <desc lang="es">Súper Sónico nos muestra como sobrevive en su trabajo mientras sus hijos van a la escuela y su esposa Ultra hace la limpieza con solo oprimir un botón</desc>
     <credits>
       <producer>William Hanna</producer>
       <producer>Joseph Barbera</producer>
@@ -1627,7 +1690,7 @@
   <programme start="20210203113000 -0600" stop="20210203123000 -0600" channel="azteca 7">
     <title lang="es">Los Picapiedras</title>
     <title lang="xx">The Flintstones</title>
-    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura(n)</desc>
+    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura</desc>
     <credits>
       <producer>William Hanna</producer>
       <producer>Joseph Barbera</producer>
@@ -1651,7 +1714,7 @@
   <programme start="20210203151500 -0600" stop="20210203163000 -0600" channel="azteca 7">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1671,7 +1734,7 @@
   <programme start="20210203173000 -0600" stop="20210203183000 -0600" channel="azteca 7">
     <title lang="es">Grey's Anatomy</title>
     <title lang="xx">Grey's Anatomy</title>
-    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital(n)</desc>
+    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital</desc>
     <credits>
       <actor>Ellen Pompeo</actor>
       <actor>Sandra Oh</actor>
@@ -1694,7 +1757,7 @@
   <programme start="20210203183000 -0600" stop="20210203193000 -0600" channel="azteca 7">
     <title lang="es">Grey's Anatomy</title>
     <title lang="xx">Grey's Anatomy</title>
-    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital(n)</desc>
+    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital</desc>
     <credits>
       <actor>Ellen Pompeo</actor>
       <actor>Sandra Oh</actor>
@@ -1724,7 +1787,7 @@
   <programme start="20210203233000 -0600" stop="20210204000000 -0600" channel="azteca 7">
     <title lang="es">Bones</title>
     <title lang="xx">Bones</title>
-    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver(c)</desc>
+    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver</desc>
     <credits>
       <actor>Emily Deschanel</actor>
       <actor>David Boreanaz</actor>
@@ -1781,7 +1844,7 @@
   <programme start="20210204090000 -0600" stop="20210204093000 -0600" channel="azteca 7">
     <title lang="es">Gigantosaurus</title>
     <title lang="xx">Gigantosaurus</title>
-    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto(c)</desc>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
     <credits>
       <producer>Dominique Bourse</producer>
       <producer>Olivier Lelardoux</producer>
@@ -1799,7 +1862,7 @@
   <programme start="20210204103000 -0600" stop="20210204113000 -0600" channel="azteca 7">
     <title lang="es">Los supersónicos</title>
     <title lang="xx">The Jetsons</title>
-    <desc lang="es">Súper Sónico nos muestra como sobrevive en su trabajo mientras sus hijos van a la escuela y su esposa Ultra hace la limpieza con solo oprimir un botón(g)</desc>
+    <desc lang="es">Súper Sónico nos muestra como sobrevive en su trabajo mientras sus hijos van a la escuela y su esposa Ultra hace la limpieza con solo oprimir un botón</desc>
     <credits>
       <producer>William Hanna</producer>
       <producer>Joseph Barbera</producer>
@@ -1815,7 +1878,7 @@
   <programme start="20210204113000 -0600" stop="20210204123000 -0600" channel="azteca 7">
     <title lang="es">Los Picapiedra</title>
     <title lang="xx">The Flintstones</title>
-    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura(g)</desc>
+    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura</desc>
     <credits>
       <producer>William Hanna</producer>
       <producer>Joseph Barbera</producer>
@@ -1839,7 +1902,7 @@
   <programme start="20210204151500 -0600" stop="20210204163000 -0600" channel="azteca 7">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(g)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1912,7 +1975,7 @@
   <programme start="20210204233000 -0600" stop="20210205003000 -0600" channel="azteca 7">
     <title lang="es">Bones</title>
     <title lang="xx">Bones</title>
-    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver(c)</desc>
+    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver</desc>
     <credits>
       <actor>Emily Deschanel</actor>
       <actor>David Boreanaz</actor>
@@ -1960,7 +2023,7 @@
   <programme start="20210205113000 -0600" stop="20210205121500 -0600" channel="azteca 7">
     <title lang="es">Los Picapiedra</title>
     <title lang="xx">The Flintstones</title>
-    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura(g)</desc>
+    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura</desc>
     <credits>
       <producer>William Hanna</producer>
       <producer>Joseph Barbera</producer>
@@ -1992,7 +2055,7 @@
   </programme>
   <programme start="20210205233000 -0600" stop="20210206000000 -0600" channel="azteca 7">
     <title lang="es">Extranormal</title>
-    <desc lang="es">Un programa donde se ven las actividades paranormales, milagros, manifestaciones fantasmagóricas, eventos religiosos y todo lo Extra Normal(c)</desc>
+    <desc lang="es">Un programa donde se ven las actividades paranormales, milagros, manifestaciones fantasmagóricas, eventos religiosos y todo lo Extra Normal</desc>
     <date>2007</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/extranormal.jpg" />
   </programme>
@@ -2098,7 +2161,7 @@
   <programme start="20210208093000 -0600" stop="20210208103000 -0600" channel="azteca 7">
     <title lang="es">Los supersónicos</title>
     <title lang="xx">The Jetsons</title>
-    <desc lang="es">Súper Sónico nos muestra como sobrevive en su trabajo mientras sus hijos van a la escuela y su esposa Ultra hace la limpieza con solo oprimir un botón(n)</desc>
+    <desc lang="es">Súper Sónico nos muestra como sobrevive en su trabajo mientras sus hijos van a la escuela y su esposa Ultra hace la limpieza con solo oprimir un botón</desc>
     <credits>
       <producer>William Hanna</producer>
       <producer>Joseph Barbera</producer>
@@ -2114,7 +2177,7 @@
   <programme start="20210208103000 -0600" stop="20210208113000 -0600" channel="azteca 7">
     <title lang="es">Los Picapiedra</title>
     <title lang="xx">The Flintstones</title>
-    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura(n)</desc>
+    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura</desc>
     <credits>
       <producer>William Hanna</producer>
       <producer>Joseph Barbera</producer>
@@ -2141,7 +2204,7 @@
   <programme start="20210208153000 -0600" stop="20210208163000 -0600" channel="azteca 7">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2400,6 +2463,9 @@
   <programme start="20210204140000 -0600" stop="20210204150000 -0600" channel="Nueve">
     <title lang="es">Paid Programing</title>
   </programme>
+  <programme start="20210204160000 -0600" stop="20210204173000 -0600" channel="Nueve">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
   <programme start="20210205043000 -0600" stop="20210205083000 -0600" channel="Nueve">
     <title lang="es">Infomerciales</title>
   </programme>
@@ -2594,6 +2660,9 @@
   </programme>
   <programme start="20210204153000 -0600" stop="20210204160000 -0600" channel="El Heraldo TV">
     <title lang="es">Autoexpertos</title>
+  </programme>
+  <programme start="20210204160000 -0600" stop="20210204163000 -0600" channel="El Heraldo TV">
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20210205063000 -0600" stop="20210205070000 -0600" channel="El Heraldo TV">
     <title lang="es">Infomercial</title>
@@ -4763,41 +4832,227 @@
   <programme start="20210206235500 -0600" stop="20210207000000 -0600" channel="aprende">
     <title lang="es">Activación Física</title>
   </programme>
-  <programme start="20210207003000 -0600" stop="20210207005500 -0600" channel="aprende">
-    <title lang="es">Matemáticas</title>
-  </programme>
-  <programme start="20210208000000 -0600" stop="20210208003000 -0600" channel="aprende">
+  <programme start="20210207000000 -0600" stop="20210207003000 -0600" channel="aprende">
     <title lang="es">Historia de México</title>
   </programme>
-  <programme start="20210208003000 -0600" stop="20210208010000 -0600" channel="aprende">
+  <programme start="20210207003000 -0600" stop="20210207010000 -0600" channel="aprende">
     <title lang="es">Estructura Socioeconomica de Mexico</title>
   </programme>
-  <programme start="20210208010000 -0600" stop="20210208020000 -0600" channel="aprende">
+  <programme start="20210207010000 -0600" stop="20210207020000 -0600" channel="aprende">
     <title lang="es">Vaughan Inglés 4.0 Nivel Básico</title>
+  </programme>
+  <programme start="20210207020000 -0600" stop="20210207030000 -0600" channel="aprende">
+    <title lang="es">Mis Doctores</title>
+  </programme>
+  <programme start="20210207030000 -0600" stop="20210207033000 -0600" channel="aprende">
+    <title lang="es">Entre libros</title>
+  </programme>
+  <programme start="20210207033000 -0600" stop="20210207040000 -0600" channel="aprende">
+    <title lang="es">18 para los 18</title>
+  </programme>
+  <programme start="20210207040000 -0600" stop="20210207043000 -0600" channel="aprende">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20210207043000 -0600" stop="20210207050000 -0600" channel="aprende">
+    <title lang="es">Tierra y Sueños</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207053000 -0600" channel="aprende">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210207053000 -0600" stop="20210207060000 -0600" channel="aprende">
+    <title lang="es">Tlayolohtli, Corazón de la Tierra</title>
+  </programme>
+  <programme start="20210207060000 -0600" stop="20210207063000 -0600" channel="aprende">
+    <title lang="es">Educación en Vanguardia</title>
+  </programme>
+  <programme start="20210207063000 -0600" stop="20210207064500 -0600" channel="aprende">
+    <title lang="es">Secundaria a Distancia Para Adultos</title>
+  </programme>
+  <programme start="20210207064500 -0600" stop="20210207070000 -0600" channel="aprende">
+    <title lang="es">Secundaria a Distancia Para Adultos</title>
+  </programme>
+  <programme start="20210207070000 -0600" stop="20210207073000 -0600" channel="aprende">
+    <title lang="es">Kids Club</title>
+  </programme>
+  <programme start="20210207073000 -0600" stop="20210207080000 -0600" channel="aprende">
+    <title lang="es">Club de la Galaxia</title>
+  </programme>
+  <programme start="20210207080000 -0600" stop="20210207083000 -0600" channel="aprende">
+    <title lang="es">Salud integral: Hablemos de violencia contra las mujeres</title>
+  </programme>
+  <programme start="20210207083000 -0600" stop="20210207090000 -0600" channel="aprende">
+    <title lang="es">Medicina Extrema</title>
+  </programme>
+  <programme start="20210207090000 -0600" stop="20210207100000 -0600" channel="aprende">
+    <title lang="es">Mis Doctores</title>
+  </programme>
+  <programme start="20210207100000 -0600" stop="20210207100500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+  </programme>
+  <programme start="20210207100500 -0600" stop="20210207101000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
+  </programme>
+  <programme start="20210207101000 -0600" stop="20210207101500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Ciencias y Tecnología. Biología. Primer Grado</title>
+  </programme>
+  <programme start="20210207101500 -0600" stop="20210207102000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+  </programme>
+  <programme start="20210207102000 -0600" stop="20210207102500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
+  </programme>
+  <programme start="20210207102500 -0600" stop="20210207103000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Ciencias y Tecnología. Biología. Primer Grado</title>
+  </programme>
+  <programme start="20210207103000 -0600" stop="20210207103500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+  </programme>
+  <programme start="20210207103500 -0600" stop="20210207104000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+  </programme>
+  <programme start="20210207104000 -0600" stop="20210207104500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Ciencias y Tecnología. Biología. Primer Grado</title>
+  </programme>
+  <programme start="20210207104500 -0600" stop="20210207110000 -0600" channel="aprende">
+    <title lang="es">Inglés I</title>
+  </programme>
+  <programme start="20210207110000 -0600" stop="20210207110500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+  </programme>
+  <programme start="20210207110500 -0600" stop="20210207111000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
+  </programme>
+  <programme start="20210207111000 -0600" stop="20210207111500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Ciencias y Tecnología. Física</title>
+  </programme>
+  <programme start="20210207111500 -0600" stop="20210207112000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+  </programme>
+  <programme start="20210207112000 -0600" stop="20210207112500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
+  </programme>
+  <programme start="20210207112500 -0600" stop="20210207113000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Ciencias y Tecnología. Física</title>
+  </programme>
+  <programme start="20210207113000 -0600" stop="20210207113500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+  </programme>
+  <programme start="20210207113500 -0600" stop="20210207114000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
+  </programme>
+  <programme start="20210207114000 -0600" stop="20210207114500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Ciencias y Tecnología. Física</title>
+  </programme>
+  <programme start="20210207114500 -0600" stop="20210207120000 -0600" channel="aprende">
+    <title lang="es">Inglés II</title>
+  </programme>
+  <programme start="20210207120000 -0600" stop="20210207121500 -0600" channel="aprende">
+    <title lang="es">Español III</title>
+  </programme>
+  <programme start="20210207121500 -0600" stop="20210207123000 -0600" channel="aprende">
+    <title lang="es">Matemáticas III</title>
+  </programme>
+  <programme start="20210207123000 -0600" stop="20210207124500 -0600" channel="aprende">
+    <title lang="es">Ciencias III Química</title>
+  </programme>
+  <programme start="20210207124500 -0600" stop="20210207130000 -0600" channel="aprende">
+    <title lang="es">Inglés III</title>
+  </programme>
+  <programme start="20210207130000 -0600" stop="20210207133000 -0600" channel="aprende">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210207133000 -0600" stop="20210207143000 -0600" channel="aprende">
+    <title lang="es">Coronavirus, la pandemia</title>
+  </programme>
+  <programme start="20210207143000 -0600" stop="20210207150000 -0600" channel="aprende">
+    <title lang="es">Tierra y Sueños</title>
+  </programme>
+  <programme start="20210207150000 -0600" stop="20210207153000 -0600" channel="aprende">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+  </programme>
+  <programme start="20210207153000 -0600" stop="20210207160000 -0600" channel="aprende">
+    <title lang="es">Kids Club</title>
+  </programme>
+  <programme start="20210207160000 -0600" stop="20210207163000 -0600" channel="aprende">
+    <title lang="es">Hay Títeres en la Cocina</title>
+  </programme>
+  <programme start="20210207163000 -0600" stop="20210207170000 -0600" channel="aprende">
+    <title lang="es">18 para los 18</title>
+  </programme>
+  <programme start="20210207170000 -0600" stop="20210207173000 -0600" channel="aprende">
+    <title lang="es">Historia de México</title>
+  </programme>
+  <programme start="20210207173000 -0600" stop="20210207180000 -0600" channel="aprende">
+    <title lang="es">Estructura Socioeconomica de Mexico</title>
+  </programme>
+  <programme start="20210207180000 -0600" stop="20210207181500 -0600" channel="aprende">
+    <title lang="es">Secundaria a Distancia Para Adultos</title>
+  </programme>
+  <programme start="20210207181500 -0600" stop="20210207183000 -0600" channel="aprende">
+    <title lang="es">Secundaria a Distancia Para Adultos</title>
+  </programme>
+  <programme start="20210207183000 -0600" stop="20210207190000 -0600" channel="aprende">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20210207190000 -0600" stop="20210207193000 -0600" channel="aprende">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210207193000 -0600" stop="20210207200000 -0600" channel="aprende">
+    <title lang="es">Entre libros</title>
+  </programme>
+  <programme start="20210207200000 -0600" stop="20210207203000 -0600" channel="aprende">
+    <title lang="es">Salud integral: Hablemos de violencia contra las mujeres</title>
+  </programme>
+  <programme start="20210207203000 -0600" stop="20210207210000 -0600" channel="aprende">
+    <title lang="es">Medicina Extrema</title>
+  </programme>
+  <programme start="20210207210000 -0600" stop="20210207213000 -0600" channel="aprende">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+  </programme>
+  <programme start="20210207213000 -0600" stop="20210207223000 -0600" channel="aprende">
+    <title lang="es">TVMorfosis</title>
+  </programme>
+  <programme start="20210207223000 -0600" stop="20210207230000 -0600" channel="aprende">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20210207230000 -0600" stop="20210207233000 -0600" channel="aprende">
+    <title lang="es">Hoy toca</title>
+  </programme>
+  <programme start="20210207233000 -0600" stop="20210208000000 -0600" channel="aprende">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210208000000 -0600" stop="20210208003000 -0600" channel="aprende">
+    <title lang="es">Taller de Lectura y Redacción</title>
+  </programme>
+  <programme start="20210208003000 -0600" stop="20210208010000 -0600" channel="aprende">
+    <title lang="es">Literatura II</title>
+  </programme>
+  <programme start="20210208010000 -0600" stop="20210208020000 -0600" channel="aprende">
+    <title lang="es">Vaughan Inglés 4.0 Nivel Intermedio</title>
   </programme>
   <programme start="20210208020000 -0600" stop="20210208030000 -0600" channel="aprende">
     <title lang="es">Mis Doctores</title>
   </programme>
   <programme start="20210208030000 -0600" stop="20210208033000 -0600" channel="aprende">
-    <title lang="es">Entre libros</title>
+    <title lang="es">Expreso al Arte</title>
   </programme>
   <programme start="20210208033000 -0600" stop="20210208040000 -0600" channel="aprende">
-    <title lang="es">18 para los 18</title>
+    <title lang="es">Ingéniatelas</title>
   </programme>
   <programme start="20210208040000 -0600" stop="20210208043000 -0600" channel="aprende">
-    <title lang="es">Visión futuro</title>
+    <title lang="es">Pura ciencia</title>
   </programme>
   <programme start="20210208043000 -0600" stop="20210208050000 -0600" channel="aprende">
-    <title lang="es">Tierra y Sueños</title>
+    <title lang="es">Al Fin</title>
   </programme>
   <programme start="20210208050000 -0600" stop="20210208053000 -0600" channel="aprende">
-    <title lang="es">Global 3000</title>
+    <title lang="es">Tesoros del golfo de california</title>
   </programme>
   <programme start="20210208053000 -0600" stop="20210208060000 -0600" channel="aprende">
-    <title lang="es">Tlayolohtli, Corazón de la Tierra</title>
+    <title lang="es">CICEANA</title>
   </programme>
   <programme start="20210208060000 -0600" stop="20210208063000 -0600" channel="aprende">
-    <title lang="es">Educación en Vanguardia</title>
+    <title lang="es">Agronoticias</title>
   </programme>
   <programme start="20210208063000 -0600" stop="20210208064500 -0600" channel="aprende">
     <title lang="es">Secundaria a Distancia Para Adultos</title>
@@ -4809,13 +5064,13 @@
     <title lang="es">Kids Club</title>
   </programme>
   <programme start="20210208073000 -0600" stop="20210208080000 -0600" channel="aprende">
-    <title lang="es">Club de la Galaxia</title>
+    <title lang="es">La Tele de Vick y Ponch</title>
   </programme>
   <programme start="20210208080000 -0600" stop="20210208083000 -0600" channel="aprende">
-    <title lang="es">Salud integral: Hablemos de violencia contra las mujeres</title>
+    <title lang="es">Saber + para educar mejor</title>
   </programme>
   <programme start="20210208083000 -0600" stop="20210208090000 -0600" channel="aprende">
-    <title lang="es">Medicina Extrema</title>
+    <title lang="es">En Forma</title>
   </programme>
   <programme start="20210208090000 -0600" stop="20210208100000 -0600" channel="aprende">
     <title lang="es">Mis Doctores</title>
@@ -4830,55 +5085,67 @@
     <title lang="es">Telesecundaria. Ciencias y Tecnología. Biología. Primer Grado</title>
   </programme>
   <programme start="20210208101500 -0600" stop="20210208102000 -0600" channel="aprende">
-    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+    <title lang="es">Telesecundaria. Historia. Primer Grado</title>
   </programme>
   <programme start="20210208102000 -0600" stop="20210208102500 -0600" channel="aprende">
     <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
   </programme>
   <programme start="20210208102500 -0600" stop="20210208103000 -0600" channel="aprende">
-    <title lang="es">Telesecundaria. Ciencias y Tecnología. Biología. Primer Grado</title>
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
   </programme>
   <programme start="20210208103000 -0600" stop="20210208103500 -0600" channel="aprende">
-    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
   </programme>
   <programme start="20210208103500 -0600" stop="20210208104000 -0600" channel="aprende">
-    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+    <title lang="es">Telesecundaria. Geografía. Primer Grado</title>
   </programme>
   <programme start="20210208104000 -0600" stop="20210208104500 -0600" channel="aprende">
     <title lang="es">Telesecundaria. Ciencias y Tecnología. Biología. Primer Grado</title>
   </programme>
-  <programme start="20210208104500 -0600" stop="20210208110000 -0600" channel="aprende">
-    <title lang="es">Inglés I</title>
+  <programme start="20210208104500 -0600" stop="20210208105000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Formación Cívica y Ética. Primer Grado</title>
+  </programme>
+  <programme start="20210208105000 -0600" stop="20210208105500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+  </programme>
+  <programme start="20210208105500 -0600" stop="20210208110000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
   </programme>
   <programme start="20210208110000 -0600" stop="20210208110500 -0600" channel="aprende">
-    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+    <title lang="es">Telesecundaria. Lengua materna. Español. Segundo grado</title>
   </programme>
   <programme start="20210208110500 -0600" stop="20210208111000 -0600" channel="aprende">
     <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
   </programme>
   <programme start="20210208111000 -0600" stop="20210208111500 -0600" channel="aprende">
-    <title lang="es">Telesecundaria. Ciencias y Tecnología. Física</title>
+    <title lang="es">Telesecundaria. Historia. Primer Grado</title>
   </programme>
   <programme start="20210208111500 -0600" stop="20210208112000 -0600" channel="aprende">
-    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
+    <title lang="es">Telesecundaria. Formación Cívica y Ética. Segundo grado</title>
   </programme>
   <programme start="20210208112000 -0600" stop="20210208112500 -0600" channel="aprende">
-    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
+    <title lang="es">Telesecundaria. Lengua materna. Español. Segundo grado</title>
   </programme>
   <programme start="20210208112500 -0600" stop="20210208113000 -0600" channel="aprende">
-    <title lang="es">Telesecundaria. Ciencias y Tecnología. Física</title>
-  </programme>
-  <programme start="20210208113000 -0600" stop="20210208113500 -0600" channel="aprende">
-    <title lang="es">Telesecundaria, Lengua Materna: Español, primer grado</title>
-  </programme>
-  <programme start="20210208113500 -0600" stop="20210208114000 -0600" channel="aprende">
     <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
   </programme>
-  <programme start="20210208114000 -0600" stop="20210208114500 -0600" channel="aprende">
-    <title lang="es">Telesecundaria. Ciencias y Tecnología. Física</title>
+  <programme start="20210208113000 -0600" stop="20210208113500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Historia. Primer Grado</title>
   </programme>
-  <programme start="20210208114500 -0600" stop="20210208120000 -0600" channel="aprende">
-    <title lang="es">Inglés II</title>
+  <programme start="20210208113500 -0600" stop="20210208114000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Formación Cívica y Ética. Segundo grado</title>
+  </programme>
+  <programme start="20210208114000 -0600" stop="20210208114500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Lengua materna. Español. Segundo grado</title>
+  </programme>
+  <programme start="20210208114500 -0600" stop="20210208115000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Matemáticas. Primer grado</title>
+  </programme>
+  <programme start="20210208115000 -0600" stop="20210208115500 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Historia. Primer Grado</title>
+  </programme>
+  <programme start="20210208115500 -0600" stop="20210208120000 -0600" channel="aprende">
+    <title lang="es">Telesecundaria. Formación Cívica y Ética. Segundo grado</title>
   </programme>
   <programme start="20210208120000 -0600" stop="20210208121500 -0600" channel="aprende">
     <title lang="es">Español III</title>
@@ -4887,37 +5154,37 @@
     <title lang="es">Matemáticas III</title>
   </programme>
   <programme start="20210208123000 -0600" stop="20210208124500 -0600" channel="aprende">
-    <title lang="es">Ciencias III Química</title>
+    <title lang="es">Historia II</title>
   </programme>
   <programme start="20210208124500 -0600" stop="20210208130000 -0600" channel="aprende">
-    <title lang="es">Inglés III</title>
+    <title lang="es">Formación Cívica y Ética II</title>
   </programme>
   <programme start="20210208130000 -0600" stop="20210208133000 -0600" channel="aprende">
-    <title lang="es">Global 3000</title>
+    <title lang="es">Tesoros del golfo de california</title>
   </programme>
   <programme start="20210208133000 -0600" stop="20210208143000 -0600" channel="aprende">
     <title lang="es">Coronavirus, la pandemia</title>
   </programme>
   <programme start="20210208143000 -0600" stop="20210208150000 -0600" channel="aprende">
-    <title lang="es">Tierra y Sueños</title>
+    <title lang="es">Al Fin</title>
   </programme>
   <programme start="20210208150000 -0600" stop="20210208153000 -0600" channel="aprende">
-    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <title lang="es">Global 3000</title>
   </programme>
   <programme start="20210208153000 -0600" stop="20210208160000 -0600" channel="aprende">
     <title lang="es">Kids Club</title>
   </programme>
   <programme start="20210208160000 -0600" stop="20210208163000 -0600" channel="aprende">
-    <title lang="es">Hay Títeres en la Cocina</title>
+    <title lang="es">La Tele de Vick y Ponch</title>
   </programme>
   <programme start="20210208163000 -0600" stop="20210208170000 -0600" channel="aprende">
-    <title lang="es">18 para los 18</title>
+    <title lang="es">Ingéniatelas</title>
   </programme>
   <programme start="20210208170000 -0600" stop="20210208173000 -0600" channel="aprende">
-    <title lang="es">Historia de México</title>
+    <title lang="es">Taller de Lectura y Redacción</title>
   </programme>
   <programme start="20210208173000 -0600" stop="20210208180000 -0600" channel="aprende">
-    <title lang="es">Estructura Socioeconomica de Mexico</title>
+    <title lang="es">Literatura II</title>
   </programme>
   <programme start="20210208180000 -0600" stop="20210208181500 -0600" channel="aprende">
     <title lang="es">Secundaria a Distancia Para Adultos</title>
@@ -4926,31 +5193,28 @@
     <title lang="es">Secundaria a Distancia Para Adultos</title>
   </programme>
   <programme start="20210208183000 -0600" stop="20210208190000 -0600" channel="aprende">
-    <title lang="es">Visión futuro</title>
+    <title lang="es">Pura ciencia</title>
   </programme>
   <programme start="20210208190000 -0600" stop="20210208193000 -0600" channel="aprende">
     <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20210208193000 -0600" stop="20210208200000 -0600" channel="aprende">
-    <title lang="es">Entre libros</title>
+    <title lang="es">Historias de papel</title>
   </programme>
-  <programme start="20210208200000 -0600" stop="20210208203000 -0600" channel="aprende">
-    <title lang="es">Salud integral: Hablemos de violencia contra las mujeres</title>
-  </programme>
-  <programme start="20210208203000 -0600" stop="20210208210000 -0600" channel="aprende">
-    <title lang="es">Medicina Extrema</title>
+  <programme start="20210208200000 -0600" stop="20210208210000 -0600" channel="aprende">
+    <title lang="es">Un Nuevo Significado</title>
   </programme>
   <programme start="20210208210000 -0600" stop="20210208213000 -0600" channel="aprende">
-    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+    <title lang="es">ED 5G: Ecosistema digital 5G</title>
   </programme>
-  <programme start="20210208213000 -0600" stop="20210208223000 -0600" channel="aprende">
-    <title lang="es">TVMorfosis</title>
+  <programme start="20210208213000 -0600" stop="20210208220000 -0600" channel="aprende">
+    <title lang="es">La Ciudad de las Ideas</title>
   </programme>
-  <programme start="20210208223000 -0600" stop="20210208230000 -0600" channel="aprende">
-    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  <programme start="20210208220000 -0600" stop="20210208223000 -0600" channel="aprende">
+    <title lang="es">Cátedra Julio Cortázar</title>
   </programme>
-  <programme start="20210208230000 -0600" stop="20210208233000 -0600" channel="aprende">
-    <title lang="es">Hoy toca</title>
+  <programme start="20210208223000 -0600" stop="20210208233000 -0600" channel="aprende">
+    <title lang="es">Mirada sin filtro</title>
   </programme>
   <programme start="20210208233000 -0600" stop="20210209000000 -0600" channel="aprende">
     <title lang="es">DW Noticias</title>
@@ -5458,6 +5722,9 @@
   <programme start="20210204133000 -0600" stop="20210204140000 -0600" channel="Canal 22">
     <title lang="es">¡Ahí viene Asa</title>
   </programme>
+  <programme start="20210204140000 -0600" stop="20210204170000 -0600" channel="Canal 22">
+    <title lang="es">Clic-Clac</title>
+  </programme>
   <programme start="20210204170000 -0600" stop="20210204173000 -0600" channel="Canal 22">
     <title lang="es">Noticiero NCC</title>
   </programme>
@@ -5666,6 +5933,9 @@
     <title lang="es">Excelsior TV</title>
   </programme>
   <programme start="20210203210000 -0600" stop="20210204010000 -0600" channel="excelsior tv">
+    <title lang="es">Excelsior TV</title>
+  </programme>
+  <programme start="20210204130000 -0600" stop="20210204170000 -0600" channel="excelsior tv">
     <title lang="es">Excelsior TV</title>
   </programme>
   <programme start="20210204210000 -0600" stop="20210204230000 -0600" channel="excelsior tv">
@@ -6078,6 +6348,9 @@
   </programme>
   <programme start="20210204040000 -0600" stop="20210204050000 -0600" channel="ADN 40">
     <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210204160000 -0600" stop="20210204170000 -0600" channel="ADN 40">
+    <title lang="es">Noticias con Romina Ramos</title>
   </programme>
   <programme start="20210204233000 -0600" stop="20210205000000 -0600" channel="ADN 40">
     <title lang="es">Desde las Cámaras</title>
@@ -6671,6 +6944,9 @@
   <programme start="20210204104500 -0600" stop="20210204110000 -0600" channel="Milenio TV">
     <title lang="es">M2 con Susana Moscatel</title>
   </programme>
+  <programme start="20210204160000 -0600" stop="20210204180000 -0600" channel="Milenio TV">
+    <title lang="es">Noticias con Magda González</title>
+  </programme>
   <programme start="20210204184500 -0600" stop="20210204190000 -0600" channel="Milenio TV">
     <title lang="es">Susana y Álvaro en Milenio</title>
   </programme>
@@ -6904,6 +7180,9 @@
   </programme>
   <programme start="20210204010000 -0600" stop="20210204020000 -0600" channel="Teleformula">
     <title lang="es">Blitz</title>
+  </programme>
+  <programme start="20210204153000 -0600" stop="20210204170000 -0600" channel="Teleformula">
+    <title lang="es">Eduardo Ruiz Healy</title>
   </programme>
   <programme start="20210204170000 -0600" stop="20210204180000 -0600" channel="Teleformula">
     <title lang="es">La Fórmula es...Orvañanos</title>
@@ -7140,28 +7419,58 @@
     <title lang="es">El Santísimo Sacramento</title>
   </programme>
   <programme start="20210204080000 -0600" stop="20210204090000 -0600" channel="Maria Vision">
-    <title lang="es">Santo rosario, Izamal, Yuc</title>
+    <title lang="es">Santo rosario, Nuestra Señora</title>
+  </programme>
+  <programme start="20210204133000 -0600" stop="20210204140000 -0600" channel="Maria Vision">
+    <title lang="es">Santa Misa, Capilla</title>
+  </programme>
+  <programme start="20210204140000 -0600" stop="20210204143000 -0600" channel="Maria Vision">
+    <title lang="es">La escuela del silencio</title>
+  </programme>
+  <programme start="20210204143000 -0600" stop="20210204153000 -0600" channel="Maria Vision">
+    <title lang="es">La Divina Misericordia</title>
+  </programme>
+  <programme start="20210204153000 -0600" stop="20210204163000 -0600" channel="Maria Vision">
+    <title lang="es">Cadena de amor</title>
+  </programme>
+  <programme start="20210204163000 -0600" stop="20210204173000 -0600" channel="Maria Vision">
+    <title lang="es">Santa Misa desde la Ermita</title>
+  </programme>
+  <programme start="20210204173000 -0600" stop="20210204183000 -0600" channel="Maria Vision">
+    <title lang="es">El Santísimo Sacramento</title>
+  </programme>
+  <programme start="20210204183000 -0600" stop="20210204193000 -0600" channel="Maria Vision">
+    <title lang="es">El santo rosario, Capilla M+V</title>
   </programme>
   <programme start="20210204193000 -0600" stop="20210204200000 -0600" channel="Maria Vision">
-    <title lang="es">Apóstoles de nuestro tiempo</title>
+    <title lang="es">La fe sencilla de la gente</title>
+  </programme>
+  <programme start="20210204200000 -0600" stop="20210204210000 -0600" channel="Maria Vision">
+    <title lang="es">Santa misa, desde Santa Cruz</title>
+  </programme>
+  <programme start="20210204210000 -0600" stop="20210204220000 -0600" channel="Maria Vision">
+    <title lang="es">El Santísimo Sacramento</title>
+  </programme>
+  <programme start="20210204220000 -0600" stop="20210204230000 -0600" channel="Maria Vision">
+    <title lang="es">Santa Misa, Medjugorje</title>
   </programme>
   <programme start="20210204230000 -0600" stop="20210205030000 -0600" channel="Maria Vision">
     <title lang="es">El Santísimo Sacramento</title>
   </programme>
-  <programme start="20210205080000 -0600" stop="20210205090000 -0600" channel="Maria Vision">
-    <title lang="es">Santo rosario, Nuestra Señora</title>
+  <programme start="20210205080000 -0600" stop="20210205110000 -0600" channel="Maria Vision">
+    <title lang="es">Santísimo sacramento, Miami</title>
   </programme>
-  <programme start="20210205133000 -0600" stop="20210205140000 -0600" channel="Maria Vision">
-    <title lang="es">Santa Misa, Capilla</title>
+  <programme start="20210205130000 -0600" stop="20210205140000 -0600" channel="Maria Vision">
+    <title lang="es">Santa misa, Parroquia</title>
   </programme>
   <programme start="20210205140000 -0600" stop="20210205143000 -0600" channel="Maria Vision">
-    <title lang="es">La escuela del silencio</title>
+    <title lang="es">El Santísimo Sacramento</title>
   </programme>
   <programme start="20210205143000 -0600" stop="20210205153000 -0600" channel="Maria Vision">
     <title lang="es">La Divina Misericordia</title>
   </programme>
   <programme start="20210205153000 -0600" stop="20210205163000 -0600" channel="Maria Vision">
-    <title lang="es">Cadena de amor</title>
+    <title lang="es">El Santísimo Sacramento</title>
   </programme>
   <programme start="20210205163000 -0600" stop="20210205173000 -0600" channel="Maria Vision">
     <title lang="es">Santa Misa desde la Ermita</title>
@@ -7173,7 +7482,7 @@
     <title lang="es">El santo rosario, Capilla M+V</title>
   </programme>
   <programme start="20210205193000 -0600" stop="20210205200000 -0600" channel="Maria Vision">
-    <title lang="es">La fe sencilla de la gente</title>
+    <title lang="es">Via crucis</title>
   </programme>
   <programme start="20210205200000 -0600" stop="20210205210000 -0600" channel="Maria Vision">
     <title lang="es">Santa misa, desde Santa Cruz</title>
@@ -7184,8 +7493,14 @@
   <programme start="20210205220000 -0600" stop="20210205230000 -0600" channel="Maria Vision">
     <title lang="es">Santa Misa, Medjugorje</title>
   </programme>
-  <programme start="20210206080000 -0600" stop="20210206110000 -0600" channel="Maria Vision">
-    <title lang="es">Santísimo sacramento, Miami</title>
+  <programme start="20210206080000 -0600" stop="20210206090000 -0600" channel="Maria Vision">
+    <title lang="es">Soldados de la virgen María</title>
+  </programme>
+  <programme start="20210206090000 -0600" stop="20210206100000 -0600" channel="Maria Vision">
+    <title lang="es">El Santísimo Sacramento</title>
+  </programme>
+  <programme start="20210206100000 -0600" stop="20210206110000 -0600" channel="Maria Vision">
+    <title lang="es">El santo rosario, Capilla M+V</title>
   </programme>
   <programme start="20210206130000 -0600" stop="20210206140000 -0600" channel="Maria Vision">
     <title lang="es">Santa misa, Parroquia</title>
@@ -7194,25 +7509,46 @@
     <title lang="es">El Santísimo Sacramento</title>
   </programme>
   <programme start="20210206153000 -0600" stop="20210206163000 -0600" channel="Maria Vision">
-    <title lang="es">El Santísimo Sacramento</title>
+    <title lang="es">Soldados de la virgen María</title>
+  </programme>
+  <programme start="20210206183000 -0600" stop="20210206193000 -0600" channel="Maria Vision">
+    <title lang="es">Fiaccolata</title>
   </programme>
   <programme start="20210206193000 -0600" stop="20210206200000 -0600" channel="Maria Vision">
     <title lang="es">Via crucis</title>
   </programme>
   <programme start="20210206200000 -0600" stop="20210206210000 -0600" channel="Maria Vision">
-    <title lang="es">Santa misa, desde Santa Cruz</title>
+    <title lang="es">Santa misa, catedral de</title>
+  </programme>
+  <programme start="20210207070000 -0600" stop="20210207080000 -0600" channel="Maria Vision">
+    <title lang="es">El Santo Rosario</title>
   </programme>
   <programme start="20210207080000 -0600" stop="20210207090000 -0600" channel="Maria Vision">
-    <title lang="es">Soldados de la virgen María</title>
+    <title lang="es">Sta misa desde Guerrero, Méx</title>
   </programme>
   <programme start="20210207090000 -0600" stop="20210207100000 -0600" channel="Maria Vision">
+    <title lang="es">Soldados de la virgen María</title>
+  </programme>
+  <programme start="20210207100000 -0600" stop="20210207120000 -0600" channel="Maria Vision">
+    <title lang="es">Cenáculo de oración</title>
+  </programme>
+  <programme start="20210207120000 -0600" stop="20210207130000 -0600" channel="Maria Vision">
+    <title lang="es">Santa misa, catedral de Gdl</title>
+  </programme>
+  <programme start="20210207130000 -0600" stop="20210207140000 -0600" channel="Maria Vision">
     <title lang="es">El Santísimo Sacramento</title>
   </programme>
-  <programme start="20210207100000 -0600" stop="20210207110000 -0600" channel="Maria Vision">
-    <title lang="es">El santo rosario, Capilla M+V</title>
+  <programme start="20210207140000 -0600" stop="20210207143000 -0600" channel="Maria Vision">
+    <title lang="es">De la mano de Jesús y María</title>
   </programme>
-  <programme start="20210207153000 -0600" stop="20210207163000 -0600" channel="Maria Vision">
-    <title lang="es">Soldados de la virgen María</title>
+  <programme start="20210207153000 -0600" stop="20210207160000 -0600" channel="Maria Vision">
+    <title lang="es">El Santo Rosario</title>
+  </programme>
+  <programme start="20210207160000 -0600" stop="20210207170000 -0600" channel="Maria Vision">
+    <title lang="es">Santa Misa capilla m+v</title>
+  </programme>
+  <programme start="20210207170000 -0600" stop="20210207180000 -0600" channel="Maria Vision">
+    <title lang="es">Adorazione</title>
   </programme>
   <programme start="20210207183000 -0600" stop="20210207193000 -0600" channel="Maria Vision">
     <title lang="es">Fiaccolata</title>
@@ -7271,7 +7607,7 @@
   <programme start="20210203020500 -0600" stop="20210203021500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7288,7 +7624,7 @@
   <programme start="20210203021500 -0600" stop="20210203022500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7305,7 +7641,7 @@
   <programme start="20210203022500 -0600" stop="20210203024000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7322,7 +7658,7 @@
   <programme start="20210203024000 -0600" stop="20210203025000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7339,7 +7675,7 @@
   <programme start="20210203025000 -0600" stop="20210203031000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7377,7 +7713,7 @@
   <programme start="20210203042500 -0600" stop="20210203043500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7393,7 +7729,7 @@
   <programme start="20210203043500 -0600" stop="20210203044500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7409,7 +7745,7 @@
   <programme start="20210203044500 -0600" stop="20210203045500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7425,7 +7761,7 @@
   <programme start="20210203045500 -0600" stop="20210203050500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7453,7 +7789,7 @@
   <programme start="20210203055000 -0600" stop="20210203060000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7470,7 +7806,7 @@
   <programme start="20210203060000 -0600" stop="20210203061500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7487,7 +7823,7 @@
   <programme start="20210203061500 -0600" stop="20210203063500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7513,7 +7849,7 @@
   <programme start="20210203075000 -0600" stop="20210203081500 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(c)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7535,7 +7871,7 @@
   <programme start="20210203081500 -0600" stop="20210203084000 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(c)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7561,7 +7897,7 @@
   <programme start="20210203090500 -0600" stop="20210203091500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7577,7 +7913,7 @@
   <programme start="20210203091500 -0600" stop="20210203092500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7593,7 +7929,7 @@
   <programme start="20210203092500 -0600" stop="20210203093500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7609,7 +7945,7 @@
   <programme start="20210203093500 -0600" stop="20210203100000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7647,7 +7983,7 @@
   <programme start="20210203114000 -0600" stop="20210203115000 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7663,7 +7999,7 @@
   <programme start="20210203115000 -0600" stop="20210203120000 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7679,7 +8015,7 @@
   <programme start="20210203120000 -0600" stop="20210203121500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7695,7 +8031,7 @@
   <programme start="20210203121500 -0600" stop="20210203122500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7711,7 +8047,7 @@
   <programme start="20210203122500 -0600" stop="20210203123500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7727,7 +8063,7 @@
   <programme start="20210203123500 -0600" stop="20210203124500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7744,7 +8080,7 @@
   <programme start="20210203124500 -0600" stop="20210203130000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7761,7 +8097,7 @@
   <programme start="20210203130000 -0600" stop="20210203131000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7778,7 +8114,7 @@
   <programme start="20210203131000 -0600" stop="20210203132500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7801,7 +8137,7 @@
   <programme start="20210203141500 -0600" stop="20210203144000 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(c)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7823,7 +8159,7 @@
   <programme start="20210203144000 -0600" stop="20210203150500 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(c)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -7853,7 +8189,7 @@
   <programme start="20210203155500 -0600" stop="20210203160500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7869,7 +8205,7 @@
   <programme start="20210203160500 -0600" stop="20210203162000 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7885,7 +8221,7 @@
   <programme start="20210203162000 -0600" stop="20210203164500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7901,7 +8237,7 @@
   <programme start="20210203164500 -0600" stop="20210203165500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7917,7 +8253,7 @@
   <programme start="20210203165500 -0600" stop="20210203171000 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -7933,7 +8269,7 @@
   <programme start="20210203171000 -0600" stop="20210203173500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -7950,7 +8286,7 @@
   <programme start="20210203173500 -0600" stop="20210203180000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8045,7 +8381,7 @@
   <programme start="20210203223000 -0600" stop="20210203230000 -0600" channel="boing esp">
     <title lang="es">Chowder</title>
     <title lang="xx">Chowder</title>
-    <desc lang="es">En la ciudad de Mazapán, un joven aprendiz de chef de 12 años con grandes sueños y un apetito voraz debe aprender todo lo que diga su maestro Mung Daal(c)</desc>
+    <desc lang="es">En la ciudad de Mazapán, un joven aprendiz de chef de 12 años con grandes sueños y un apetito voraz debe aprender todo lo que diga su maestro Mung Daal</desc>
     <credits>
       <producer>Louis J. Cuck</producer>
       <composer>C.H. Greenblatt</composer>
@@ -8073,7 +8409,7 @@
   <programme start="20210204020500 -0600" stop="20210204031000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8096,7 +8432,7 @@
   <programme start="20210204042500 -0600" stop="20210204050500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8115,7 +8451,7 @@
   <programme start="20210204055000 -0600" stop="20210204063500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8135,7 +8471,7 @@
   <programme start="20210204075000 -0600" stop="20210204084000 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -8161,7 +8497,7 @@
   <programme start="20210204090500 -0600" stop="20210204093500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8177,7 +8513,7 @@
   <programme start="20210204093500 -0600" stop="20210204100000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8203,7 +8539,7 @@
   <programme start="20210204114000 -0600" stop="20210204123500 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8219,7 +8555,7 @@
   <programme start="20210204123500 -0600" stop="20210204132500 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8239,7 +8575,7 @@
   <programme start="20210204141500 -0600" stop="20210204150500 -0600" channel="boing esp">
     <title lang="es">Los Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -8265,7 +8601,7 @@
   <programme start="20210204155500 -0600" stop="20210204171000 -0600" channel="boing esp">
     <title lang="es">Teen Titans Go!</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -8281,7 +8617,7 @@
   <programme start="20210204171000 -0600" stop="20210204180000 -0600" channel="boing esp">
     <title lang="es">El asombroso mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8318,7 +8654,7 @@
   </programme>
   <programme start="20210203010000 -0600" stop="20210203013000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(n)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8328,7 +8664,7 @@
   </programme>
   <programme start="20210203013000 -0600" stop="20210203020000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(n)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8368,7 +8704,7 @@
   </programme>
   <programme start="20210203100000 -0600" stop="20210203103000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(g)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8378,7 +8714,7 @@
   </programme>
   <programme start="20210203103000 -0600" stop="20210203110000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(g)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8412,7 +8748,7 @@
   </programme>
   <programme start="20210203173000 -0600" stop="20210203180000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(g)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8425,7 +8761,7 @@
   </programme>
   <programme start="20210203193000 -0600" stop="20210203200000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(g)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8557,13 +8893,16 @@
   <programme start="20210204150000 -0600" stop="20210204153000 -0600" channel="telehit">
     <title lang="es">Las pellizcadas de Margara</title>
   </programme>
+  <programme start="20210204153000 -0600" stop="20210204163000 -0600" channel="telehit">
+    <title lang="es">Incógnito</title>
+  </programme>
   <programme start="20210204163000 -0600" stop="20210204173000 -0600" channel="telehit">
     <title lang="es">Emoji corazón</title>
   </programme>
   <programme start="20210205000000 -0600" stop="20210205010000 -0600" channel="telehit">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(c)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -8701,7 +9040,7 @@
   <programme start="20210206060000 -0600" stop="20210206100000 -0600" channel="telehit">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -8736,7 +9075,7 @@
   </programme>
   <programme start="20210206130000 -0600" stop="20210206133000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(n)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8746,7 +9085,7 @@
   </programme>
   <programme start="20210206133000 -0600" stop="20210206140000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(n)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8772,7 +9111,7 @@
   <programme start="20210206200000 -0600" stop="20210207000000 -0600" channel="telehit">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
@@ -8834,7 +9173,7 @@
   </programme>
   <programme start="20210207113000 -0600" stop="20210207120000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(n)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8844,7 +9183,7 @@
   </programme>
   <programme start="20210207120000 -0600" stop="20210207123000 -0600" channel="telehit">
     <title lang="es">Las Lavanderas</title>
-    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit(n)</desc>
+    <desc lang="es">Karla Luna y Karla Panini son un par de lavanderas se ponen a lavar ropa con invitados especiales en la azotea del edificio de Telehit</desc>
     <credits>
       <producer>Guillermo del Bosque</producer>
     </credits>
@@ -8944,6 +9283,9 @@
   </programme>
   <programme start="20210204140000 -0600" stop="20210204150000 -0600" channel="bandamax">
     <title lang="es">Trepale al Ranchero</title>
+  </programme>
+  <programme start="20210204153000 -0600" stop="20210204170000 -0600" channel="bandamax">
+    <title lang="es">Las mas sonadas</title>
   </programme>
   <programme start="20210204170000 -0600" stop="20210204180000 -0600" channel="bandamax">
     <title lang="es">El show del hombre</title>
@@ -9364,7 +9706,7 @@
   </programme>
   <programme start="20210207095500 -0600" stop="20210207115000 -0600" channel="tudn">
     <title lang="es">América vs. León</title>
-    <desc lang="es">El Club de Fútbol América recibe al Club León FC en el estadio Azteca, en la ciudad de México(n)</desc>
+    <desc lang="es">El Club de Fútbol América recibe al Club León FC en el estadio Azteca, en la ciudad de México</desc>
     <category lang="es">Deporte</category>
     <category lang="es">Fútbol</category>
     <category lang="es">Fútbol Mexicano</category>
@@ -9384,7 +9726,7 @@
   </programme>
   <programme start="20210207170000 -0600" stop="20210207190000 -0600" channel="tudn">
     <title lang="es">América vs. Puebla</title>
-    <desc lang="es">Partido de Fútbol donde el Club América recibe al Puebla FC en el estadio Azteca, en la ciudad de México(n)</desc>
+    <desc lang="es">Partido de Fútbol donde el Club América recibe al Puebla FC en el estadio Azteca, en la ciudad de México</desc>
     <category lang="es">Fútbol</category>
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/america_vs_puebla.png" />
@@ -9873,7 +10215,7 @@
   </programme>
   <programme start="20210207170000 -0600" stop="20210207190000 -0600" channel="tudnusa">
     <title lang="es">América vs. Puebla</title>
-    <desc lang="es">Partido de Fútbol donde el Club América recibe al Puebla FC en el estadio Azteca, en la ciudad de México(n)</desc>
+    <desc lang="es">Partido de Fútbol donde el Club América recibe al Puebla FC en el estadio Azteca, en la ciudad de México</desc>
     <category lang="es">Fútbol</category>
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/america_vs_puebla.png" />
@@ -12578,11 +12920,11 @@
   <programme start="20210207193000 -0600" stop="20210207195900 -0600" channel="Dreiko TV">
     <title lang="es">Conde Patula</title>
   </programme>
-  <programme start="20210207195900 -0600" stop="20210207202300 -0600" channel="Dreiko TV">
-    <title lang="es">Tiny Toons</title>
+  <programme start="20210207200400 -0600" stop="20210207202700 -0600" channel="Dreiko TV">
+    <title lang="es">El Mundo de Beakman</title>
   </programme>
-  <programme start="20210207202300 -0600" stop="20210207203700 -0600" channel="Dreiko TV">
-    <title lang="es">Daniel el Travieso</title>
+  <programme start="20210207202700 -0600" stop="20210207205300 -0600" channel="Dreiko TV">
+    <title lang="es">Auto Bus Magico</title>
   </programme>
   <programme start="20210207205300 -0600" stop="20210207212100 -0600" channel="Dreiko TV">
     <title lang="es">Fantasias Animadas de Ayer y Hoy</title>
@@ -13317,70 +13659,70 @@
     <title lang="es">Mi Bella Genio</title>
   </programme>
   <programme start="20210203000000 -0600" stop="20210203003000 -0600" channel="Kanade TV">
-    <title lang="es">Pollo Robot</title>
+    <title lang="es">Death Note</title>
   </programme>
   <programme start="20210203003000 -0600" stop="20210203010000 -0600" channel="Kanade TV">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Noir</title>
   </programme>
   <programme start="20210203010000 -0600" stop="20210203013000 -0600" channel="Kanade TV">
-    <title lang="es">Doraemon*</title>
+    <title lang="es">Hell Girl</title>
   </programme>
   <programme start="20210203013000 -0600" stop="20210203020000 -0600" channel="Kanade TV">
-    <title lang="es">Billy y Mandy*</title>
+    <title lang="es">Corpse Party</title>
   </programme>
   <programme start="20210203020000 -0600" stop="20210203023000 -0600" channel="Kanade TV">
-    <title lang="es">Oye Arnold*</title>
+    <title lang="es">Re:Zero</title>
   </programme>
   <programme start="20210203023000 -0600" stop="20210203030000 -0600" channel="Kanade TV">
-    <title lang="es">Inspector Gadget*</title>
+    <title lang="es">Mob Psycho 100</title>
   </programme>
   <programme start="20210203030000 -0600" stop="20210203033000 -0600" channel="Kanade TV">
-    <title lang="es">Sakura Card Captor*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210203033000 -0600" stop="20210203040000 -0600" channel="Kanade TV">
-    <title lang="es">Star vs las Fuerzas del Mal*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210203040000 -0600" stop="20210203043000 -0600" channel="Kanade TV">
-    <title lang="es">Saint Seiya*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210203043000 -0600" stop="20210203050000 -0600" channel="Kanade TV">
-    <title lang="es">Estan Arrestados*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210203050000 -0600" stop="20210203053000 -0600" channel="Kanade TV">
-    <title lang="es">Los Thornberrys*</title>
+    <title lang="es">Dr Slump</title>
   </programme>
   <programme start="20210203053000 -0600" stop="20210203060000 -0600" channel="Kanade TV">
-    <title lang="es">Ed, Edd y Eddy*</title>
-  </programme>
-  <programme start="20210203060000 -0600" stop="20210203063000 -0600" channel="Kanade TV">
-    <title lang="es">La Peque�a Lulu</title>
-  </programme>
-  <programme start="20210203063000 -0600" stop="20210203070000 -0600" channel="Kanade TV">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20210203070000 -0600" stop="20210203073000 -0600" channel="Kanade TV">
-    <title lang="es">Fenomenoide</title>
-  </programme>
-  <programme start="20210203073000 -0600" stop="20210203080000 -0600" channel="Kanade TV">
-    <title lang="es">La Pantera Rosa</title>
-  </programme>
-  <programme start="20210203080000 -0600" stop="20210203083000 -0600" channel="Kanade TV">
-    <title lang="es">Garfield</title>
-  </programme>
-  <programme start="20210203083000 -0600" stop="20210203090000 -0600" channel="Kanade TV">
     <title lang="es">Sailor Moon</title>
   </programme>
-  <programme start="20210203090000 -0600" stop="20210203093000 -0600" channel="Kanade TV">
-    <title lang="es">Saint Seiya</title>
-  </programme>
-  <programme start="20210203093000 -0600" stop="20210203100000 -0600" channel="Kanade TV">
+  <programme start="20210203060000 -0600" stop="20210203063000 -0600" channel="Kanade TV">
     <title lang="es">Estan Arrestados</title>
   </programme>
+  <programme start="20210203063000 -0600" stop="20210203070000 -0600" channel="Kanade TV">
+    <title lang="es">Mikami la Cazafantasmas</title>
+  </programme>
+  <programme start="20210203070000 -0600" stop="20210203073000 -0600" channel="Kanade TV">
+    <title lang="es">Sakura Card Captors</title>
+  </programme>
+  <programme start="20210203073000 -0600" stop="20210203080000 -0600" channel="Kanade TV">
+    <title lang="es">Ranma 1/2</title>
+  </programme>
+  <programme start="20210203080000 -0600" stop="20210203083000 -0600" channel="Kanade TV">
+    <title lang="es">Hibike Euphonium</title>
+  </programme>
+  <programme start="20210203083000 -0600" stop="20210203090000 -0600" channel="Kanade TV">
+    <title lang="es">K-On</title>
+  </programme>
+  <programme start="20210203090000 -0600" stop="20210203093000 -0600" channel="Kanade TV">
+    <title lang="es">Martian Sucessor Nadesco</title>
+  </programme>
+  <programme start="20210203093000 -0600" stop="20210203100000 -0600" channel="Kanade TV">
+    <title lang="es">Planet Survival</title>
+  </programme>
   <programme start="20210203100000 -0600" stop="20210203103000 -0600" channel="Kanade TV">
-    <title lang="es">Los Thornberrys</title>
+    <title lang="es">Saikano</title>
   </programme>
   <programme start="20210203103000 -0600" stop="20210203110000 -0600" channel="Kanade TV">
-    <title lang="es">Ed, Edd y Eddy</title>
+    <title lang="es">Full Metal Panic</title>
   </programme>
   <programme start="20210203110000 -0600" stop="20210203113000 -0600" channel="Kanade TV">
     <title lang="es">Takagi-San</title>
@@ -13389,7 +13731,7 @@
     <title lang="es">Kaguya Sama</title>
   </programme>
   <programme start="20210203120000 -0600" stop="20210203123000 -0600" channel="Kanade TV">
-    <title lang="es">Gabriel Gropout</title>
+    <title lang="es">Toradora</title>
   </programme>
   <programme start="20210203123000 -0600" stop="20210203130000 -0600" channel="Kanade TV">
     <title lang="es">Chuunibyou</title>
@@ -13407,133 +13749,133 @@
     <title lang="es">Academia de Brujas</title>
   </programme>
   <programme start="20210203150000 -0600" stop="20210203153000 -0600" channel="Kanade TV">
-    <title lang="es">Isla del Drama</title>
+    <title lang="es">Chicas Monstruo</title>
   </programme>
   <programme start="20210203153000 -0600" stop="20210203160000 -0600" channel="Kanade TV">
-    <title lang="es">Kappa Mikey</title>
+    <title lang="es">Blend S</title>
   </programme>
   <programme start="20210203160000 -0600" stop="20210203163000 -0600" channel="Kanade TV">
-    <title lang="es">Chowder</title>
+    <title lang="es">Slam Dunk</title>
   </programme>
   <programme start="20210203163000 -0600" stop="20210203170000 -0600" channel="Kanade TV">
-    <title lang="es">Ranma 1/2</title>
+    <title lang="es">Haikyu</title>
   </programme>
   <programme start="20210203170000 -0600" stop="20210203173000 -0600" channel="Kanade TV">
-    <title lang="es">Final Space</title>
+    <title lang="es">Hunter X Hunter</title>
   </programme>
   <programme start="20210203173000 -0600" stop="20210203180000 -0600" channel="Kanade TV">
-    <title lang="es">Flapjack</title>
+    <title lang="es">High Score Girl</title>
   </programme>
   <programme start="20210203180000 -0600" stop="20210203183000 -0600" channel="Kanade TV">
-    <title lang="es">Guerreras Magicas</title>
+    <title lang="es">Beast Angel</title>
   </programme>
   <programme start="20210203183000 -0600" stop="20210203190000 -0600" channel="Kanade TV">
-    <title lang="es">Kim Possible</title>
+    <title lang="es">Clannad</title>
   </programme>
   <programme start="20210203190000 -0600" stop="20210203193000 -0600" channel="Kanade TV">
-    <title lang="es">Bojack Horseman</title>
+    <title lang="es">One Punch Man</title>
   </programme>
   <programme start="20210203193000 -0600" stop="20210203200000 -0600" channel="Kanade TV">
-    <title lang="es">El Show de Brack</title>
-  </programme>
-  <programme start="20210203200000 -0600" stop="20210203203000 -0600" channel="Kanade TV">
     <title lang="es">El Gran Farsante</title>
   </programme>
+  <programme start="20210203200000 -0600" stop="20210203203000 -0600" channel="Kanade TV">
+    <title lang="es">Helsing</title>
+  </programme>
   <programme start="20210203203000 -0600" stop="20210203210000 -0600" channel="Kanade TV">
-    <title lang="es">Fantasma del Espacio</title>
+    <title lang="es">Fate/Stay Night</title>
   </programme>
   <programme start="20210203210000 -0600" stop="20210203213000 -0600" channel="Kanade TV">
-    <title lang="es">F is For Family</title>
+    <title lang="es">Food Wars</title>
   </programme>
   <programme start="20210203213000 -0600" stop="20210203220000 -0600" channel="Kanade TV">
-    <title lang="es">Harvey Birdman</title>
+    <title lang="es">Dr. Stone</title>
   </programme>
   <programme start="20210203220000 -0600" stop="20210203223000 -0600" channel="Kanade TV">
-    <title lang="es">Big Mouth</title>
-  </programme>
-  <programme start="20210203223000 -0600" stop="20210203230000 -0600" channel="Kanade TV">
-    <title lang="es">Secundaria de Clones</title>
-  </programme>
-  <programme start="20210203230000 -0600" stop="20210203233000 -0600" channel="Kanade TV">
     <title lang="es">Cowboy Bebop</title>
   </programme>
+  <programme start="20210203223000 -0600" stop="20210203230000 -0600" channel="Kanade TV">
+    <title lang="es">Blood+</title>
+  </programme>
+  <programme start="20210203230000 -0600" stop="20210203233000 -0600" channel="Kanade TV">
+    <title lang="es">Elfen Lied</title>
+  </programme>
   <programme start="20210203233000 -0600" stop="20210204000000 -0600" channel="Kanade TV">
-    <title lang="es">Paradise Pd</title>
+    <title lang="es">Nazu No Kanojo</title>
   </programme>
   <programme start="20210204000000 -0600" stop="20210204003000 -0600" channel="Kanade TV">
-    <title lang="es">Mission Hill</title>
+    <title lang="es">Lain</title>
   </programme>
   <programme start="20210204003000 -0600" stop="20210204010000 -0600" channel="Kanade TV">
-    <title lang="es">Daria</title>
+    <title lang="es">Steins Gate</title>
   </programme>
   <programme start="20210204010000 -0600" stop="20210204013000 -0600" channel="Kanade TV">
-    <title lang="es">La Peque�a Lulu*</title>
+    <title lang="es">Highschool Of The Dead</title>
   </programme>
   <programme start="20210204013000 -0600" stop="20210204020000 -0600" channel="Kanade TV">
-    <title lang="es">Animaniacs*</title>
+    <title lang="es">Wolf Rain</title>
   </programme>
   <programme start="20210204020000 -0600" stop="20210204023000 -0600" channel="Kanade TV">
-    <title lang="es">Fenomenoide*</title>
+    <title lang="es">One Punch Man</title>
   </programme>
   <programme start="20210204023000 -0600" stop="20210204030000 -0600" channel="Kanade TV">
-    <title lang="es">La Pantera Rosa*</title>
+    <title lang="es">El Gran Farsante</title>
   </programme>
   <programme start="20210204030000 -0600" stop="20210204033000 -0600" channel="Kanade TV">
-    <title lang="es">Garfield*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210204033000 -0600" stop="20210204040000 -0600" channel="Kanade TV">
-    <title lang="es">Sailor Moon*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210204040000 -0600" stop="20210204043000 -0600" channel="Kanade TV">
-    <title lang="es">Saint Seiya*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210204043000 -0600" stop="20210204050000 -0600" channel="Kanade TV">
-    <title lang="es">Estan Arrestados*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210204050000 -0600" stop="20210204053000 -0600" channel="Kanade TV">
-    <title lang="es">Los Thornberrys*</title>
+    <title lang="es">Dr Slump</title>
   </programme>
   <programme start="20210204053000 -0600" stop="20210204060000 -0600" channel="Kanade TV">
-    <title lang="es">Ed, Edd y Eddy*</title>
+    <title lang="es">Sailor Moon</title>
   </programme>
   <programme start="20210204060000 -0600" stop="20210204063000 -0600" channel="Kanade TV">
-    <title lang="es">Doraemon</title>
-  </programme>
-  <programme start="20210204063000 -0600" stop="20210204070000 -0600" channel="Kanade TV">
-    <title lang="es">Billy y Mandy</title>
-  </programme>
-  <programme start="20210204070000 -0600" stop="20210204073000 -0600" channel="Kanade TV">
-    <title lang="es">Oye Arnold</title>
-  </programme>
-  <programme start="20210204073000 -0600" stop="20210204080000 -0600" channel="Kanade TV">
-    <title lang="es">Inspector Gadget</title>
-  </programme>
-  <programme start="20210204080000 -0600" stop="20210204083000 -0600" channel="Kanade TV">
-    <title lang="es">Sakura Card Captor</title>
-  </programme>
-  <programme start="20210204083000 -0600" stop="20210204090000 -0600" channel="Kanade TV">
-    <title lang="es">Star vs las Fuerzas del Mal</title>
-  </programme>
-  <programme start="20210204090000 -0600" stop="20210204093000 -0600" channel="Kanade TV">
-    <title lang="es">Saint Seiya</title>
-  </programme>
-  <programme start="20210204093000 -0600" stop="20210204100000 -0600" channel="Kanade TV">
     <title lang="es">Estan Arrestados</title>
   </programme>
+  <programme start="20210204063000 -0600" stop="20210204070000 -0600" channel="Kanade TV">
+    <title lang="es">Mikami la Cazafantasmas</title>
+  </programme>
+  <programme start="20210204070000 -0600" stop="20210204073000 -0600" channel="Kanade TV">
+    <title lang="es">Sakura Card Captors</title>
+  </programme>
+  <programme start="20210204073000 -0600" stop="20210204080000 -0600" channel="Kanade TV">
+    <title lang="es">Ranma 1/2</title>
+  </programme>
+  <programme start="20210204080000 -0600" stop="20210204083000 -0600" channel="Kanade TV">
+    <title lang="es">Hibike Euphonium</title>
+  </programme>
+  <programme start="20210204083000 -0600" stop="20210204090000 -0600" channel="Kanade TV">
+    <title lang="es">K-On</title>
+  </programme>
+  <programme start="20210204090000 -0600" stop="20210204093000 -0600" channel="Kanade TV">
+    <title lang="es">Martian Sucessor Nadesco</title>
+  </programme>
+  <programme start="20210204093000 -0600" stop="20210204100000 -0600" channel="Kanade TV">
+    <title lang="es">Planet Survival</title>
+  </programme>
   <programme start="20210204100000 -0600" stop="20210204103000 -0600" channel="Kanade TV">
-    <title lang="es">Los Thornberrys</title>
+    <title lang="es">Saikano</title>
   </programme>
   <programme start="20210204103000 -0600" stop="20210204110000 -0600" channel="Kanade TV">
-    <title lang="es">Ed, Edd y Eddy</title>
+    <title lang="es">Full Metal Panic</title>
   </programme>
   <programme start="20210204110000 -0600" stop="20210204113000 -0600" channel="Kanade TV">
-    <title lang="es">Shaman King</title>
+    <title lang="es">Ore Monogatari</title>
   </programme>
   <programme start="20210204113000 -0600" stop="20210204120000 -0600" channel="Kanade TV">
-    <title lang="es">Mikami</title>
+    <title lang="es">Gamers</title>
   </programme>
   <programme start="20210204120000 -0600" stop="20210204123000 -0600" channel="Kanade TV">
-    <title lang="es">Toradora</title>
+    <title lang="es">Gabriel Dropout</title>
   </programme>
   <programme start="20210204123000 -0600" stop="20210204130000 -0600" channel="Kanade TV">
     <title lang="es">Love Hina</title>
@@ -13542,133 +13884,133 @@
     <title lang="es">Gakuen Babysitters</title>
   </programme>
   <programme start="20210204133000 -0600" stop="20210204140000 -0600" channel="Kanade TV">
-    <title lang="es">Inuyasha</title>
+    <title lang="es">Carol And Tuesday</title>
   </programme>
   <programme start="20210204140000 -0600" stop="20210204143000 -0600" channel="Kanade TV">
     <title lang="es">Oregairu</title>
   </programme>
   <programme start="20210204143000 -0600" stop="20210204150000 -0600" channel="Kanade TV">
-    <title lang="es">Chica Marioneta J</title>
+    <title lang="es">Haruhi Suzumiya</title>
   </programme>
   <programme start="20210204150000 -0600" stop="20210204153000 -0600" channel="Kanade TV">
-    <title lang="es">Isla del Drama</title>
+    <title lang="es">Revista Mensual Nozaki</title>
   </programme>
   <programme start="20210204153000 -0600" stop="20210204160000 -0600" channel="Kanade TV">
-    <title lang="es">Kappa Mikey</title>
+    <title lang="es">Las Quintillizas</title>
   </programme>
   <programme start="20210204160000 -0600" stop="20210204163000 -0600" channel="Kanade TV">
-    <title lang="es">Chowder</title>
+    <title lang="es">Slam Dunk</title>
   </programme>
   <programme start="20210204163000 -0600" stop="20210204170000 -0600" channel="Kanade TV">
-    <title lang="es">Ranma 1/2</title>
+    <title lang="es">Haikyu</title>
   </programme>
   <programme start="20210204170000 -0600" stop="20210204173000 -0600" channel="Kanade TV">
-    <title lang="es">Final Space</title>
+    <title lang="es">Hunter X Hunter</title>
   </programme>
   <programme start="20210204173000 -0600" stop="20210204180000 -0600" channel="Kanade TV">
-    <title lang="es">Flapjack</title>
+    <title lang="es">High Score Girl</title>
   </programme>
   <programme start="20210204180000 -0600" stop="20210204183000 -0600" channel="Kanade TV">
-    <title lang="es">Guerreras Magicas</title>
+    <title lang="es">Beast Angel</title>
   </programme>
   <programme start="20210204183000 -0600" stop="20210204190000 -0600" channel="Kanade TV">
-    <title lang="es">Kim Possible</title>
+    <title lang="es">Clannad</title>
   </programme>
   <programme start="20210204190000 -0600" stop="20210204193000 -0600" channel="Kanade TV">
-    <title lang="es">South Park</title>
+    <title lang="es">Re:Zero</title>
   </programme>
   <programme start="20210204193000 -0600" stop="20210204200000 -0600" channel="Kanade TV">
-    <title lang="es">(Des) Encanto</title>
+    <title lang="es">Mob Psycho 100</title>
   </programme>
   <programme start="20210204200000 -0600" stop="20210204203000 -0600" channel="Kanade TV">
-    <title lang="es">Reyes de la Colina</title>
+    <title lang="es">Erased</title>
   </programme>
   <programme start="20210204203000 -0600" stop="20210204210000 -0600" channel="Kanade TV">
-    <title lang="es">El Critico</title>
+    <title lang="es">Kakegurui</title>
   </programme>
   <programme start="20210204210000 -0600" stop="20210204213000 -0600" channel="Kanade TV">
-    <title lang="es">The Midnight Gospel</title>
+    <title lang="es">Sword Art Online</title>
   </programme>
   <programme start="20210204213000 -0600" stop="20210204220000 -0600" channel="Kanade TV">
-    <title lang="es">Drawn Together</title>
+    <title lang="es">Another</title>
   </programme>
   <programme start="20210204220000 -0600" stop="20210204223000 -0600" channel="Kanade TV">
-    <title lang="es">Athf</title>
+    <title lang="es">Jujutsu Kaisen</title>
   </programme>
   <programme start="20210204223000 -0600" stop="20210204230000 -0600" channel="Kanade TV">
-    <title lang="es">Bobs Burguers</title>
+    <title lang="es">Higurashi</title>
   </programme>
   <programme start="20210204230000 -0600" stop="20210204233000 -0600" channel="Kanade TV">
     <title lang="es">Asobi Asobase</title>
   </programme>
   <programme start="20210204233000 -0600" stop="20210205000000 -0600" channel="Kanade TV">
-    <title lang="es">Happy Tree Friends</title>
+    <title lang="es">Happy Sugar Life</title>
   </programme>
   <programme start="20210205000000 -0600" stop="20210205003000 -0600" channel="Kanade TV">
-    <title lang="es">Pollo Robot</title>
+    <title lang="es">Death Note</title>
   </programme>
   <programme start="20210205003000 -0600" stop="20210205010000 -0600" channel="Kanade TV">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Noir</title>
   </programme>
   <programme start="20210205010000 -0600" stop="20210205013000 -0600" channel="Kanade TV">
-    <title lang="es">Doraemon*</title>
+    <title lang="es">Hell Girl</title>
   </programme>
   <programme start="20210205013000 -0600" stop="20210205020000 -0600" channel="Kanade TV">
-    <title lang="es">Billy y Mandy*</title>
+    <title lang="es">Corpse Party</title>
   </programme>
   <programme start="20210205020000 -0600" stop="20210205023000 -0600" channel="Kanade TV">
-    <title lang="es">Oye Arnold*</title>
+    <title lang="es">Re:Zero</title>
   </programme>
   <programme start="20210205023000 -0600" stop="20210205030000 -0600" channel="Kanade TV">
-    <title lang="es">Inspector Gadget*</title>
+    <title lang="es">Mob Psycho 100</title>
   </programme>
   <programme start="20210205030000 -0600" stop="20210205033000 -0600" channel="Kanade TV">
-    <title lang="es">Sakura Card Captor*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210205033000 -0600" stop="20210205040000 -0600" channel="Kanade TV">
-    <title lang="es">Star vs las Fuerzas del Mal*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210205040000 -0600" stop="20210205043000 -0600" channel="Kanade TV">
-    <title lang="es">Saint Seiya*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210205043000 -0600" stop="20210205050000 -0600" channel="Kanade TV">
-    <title lang="es">Estan Arrestados*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210205050000 -0600" stop="20210205053000 -0600" channel="Kanade TV">
-    <title lang="es">Los Thornberrys*</title>
+    <title lang="es">Dr Slump</title>
   </programme>
   <programme start="20210205053000 -0600" stop="20210205060000 -0600" channel="Kanade TV">
-    <title lang="es">Ed, Edd y Eddy*</title>
-  </programme>
-  <programme start="20210205060000 -0600" stop="20210205063000 -0600" channel="Kanade TV">
-    <title lang="es">La Peque�a Lulu</title>
-  </programme>
-  <programme start="20210205063000 -0600" stop="20210205070000 -0600" channel="Kanade TV">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20210205070000 -0600" stop="20210205073000 -0600" channel="Kanade TV">
-    <title lang="es">Fenomenoide</title>
-  </programme>
-  <programme start="20210205073000 -0600" stop="20210205080000 -0600" channel="Kanade TV">
-    <title lang="es">La Pantera Rosa</title>
-  </programme>
-  <programme start="20210205080000 -0600" stop="20210205083000 -0600" channel="Kanade TV">
-    <title lang="es">Garfield</title>
-  </programme>
-  <programme start="20210205083000 -0600" stop="20210205090000 -0600" channel="Kanade TV">
     <title lang="es">Sailor Moon</title>
   </programme>
-  <programme start="20210205090000 -0600" stop="20210205093000 -0600" channel="Kanade TV">
-    <title lang="es">Saint Seiya</title>
-  </programme>
-  <programme start="20210205093000 -0600" stop="20210205100000 -0600" channel="Kanade TV">
+  <programme start="20210205060000 -0600" stop="20210205063000 -0600" channel="Kanade TV">
     <title lang="es">Estan Arrestados</title>
   </programme>
+  <programme start="20210205063000 -0600" stop="20210205070000 -0600" channel="Kanade TV">
+    <title lang="es">Mikami la Cazafantasmas</title>
+  </programme>
+  <programme start="20210205070000 -0600" stop="20210205073000 -0600" channel="Kanade TV">
+    <title lang="es">Sakura Card Captors</title>
+  </programme>
+  <programme start="20210205073000 -0600" stop="20210205080000 -0600" channel="Kanade TV">
+    <title lang="es">Ranma 1/2</title>
+  </programme>
+  <programme start="20210205080000 -0600" stop="20210205083000 -0600" channel="Kanade TV">
+    <title lang="es">Hibike Euphonium</title>
+  </programme>
+  <programme start="20210205083000 -0600" stop="20210205090000 -0600" channel="Kanade TV">
+    <title lang="es">K-On</title>
+  </programme>
+  <programme start="20210205090000 -0600" stop="20210205093000 -0600" channel="Kanade TV">
+    <title lang="es">Martian Sucessor Nadesco</title>
+  </programme>
+  <programme start="20210205093000 -0600" stop="20210205100000 -0600" channel="Kanade TV">
+    <title lang="es">Planet Survival</title>
+  </programme>
   <programme start="20210205100000 -0600" stop="20210205103000 -0600" channel="Kanade TV">
-    <title lang="es">Los Thornberrys</title>
+    <title lang="es">Saikano</title>
   </programme>
   <programme start="20210205103000 -0600" stop="20210205110000 -0600" channel="Kanade TV">
-    <title lang="es">Ed, Edd y Eddy</title>
+    <title lang="es">Full Metal Panic</title>
   </programme>
   <programme start="20210205110000 -0600" stop="20210205113000 -0600" channel="Kanade TV">
     <title lang="es">Takagi-San</title>
@@ -13677,7 +14019,7 @@
     <title lang="es">Kaguya Sama</title>
   </programme>
   <programme start="20210205120000 -0600" stop="20210205123000 -0600" channel="Kanade TV">
-    <title lang="es">Gabriel Gropout</title>
+    <title lang="es">Toradora</title>
   </programme>
   <programme start="20210205123000 -0600" stop="20210205130000 -0600" channel="Kanade TV">
     <title lang="es">Chuunibyou</title>
@@ -13695,34 +14037,34 @@
     <title lang="es">Academia de Brujas</title>
   </programme>
   <programme start="20210205150000 -0600" stop="20210205153000 -0600" channel="Kanade TV">
-    <title lang="es">Isla del Drama</title>
+    <title lang="es">Chicas Monstruo</title>
   </programme>
   <programme start="20210205153000 -0600" stop="20210205160000 -0600" channel="Kanade TV">
-    <title lang="es">Kappa Mikey</title>
+    <title lang="es">Blend S</title>
   </programme>
   <programme start="20210205160000 -0600" stop="20210205163000 -0600" channel="Kanade TV">
-    <title lang="es">Chowder</title>
+    <title lang="es">Slam Dunk</title>
   </programme>
   <programme start="20210205163000 -0600" stop="20210205170000 -0600" channel="Kanade TV">
-    <title lang="es">Ranma 1/2</title>
+    <title lang="es">Haikyu</title>
   </programme>
   <programme start="20210205170000 -0600" stop="20210205173000 -0600" channel="Kanade TV">
-    <title lang="es">Final Space</title>
+    <title lang="es">Hunter X Hunter</title>
   </programme>
   <programme start="20210205173000 -0600" stop="20210205180000 -0600" channel="Kanade TV">
-    <title lang="es">Flapjack</title>
+    <title lang="es">High Score Girl</title>
   </programme>
   <programme start="20210205180000 -0600" stop="20210205183000 -0600" channel="Kanade TV">
-    <title lang="es">Guerreras Magicas</title>
+    <title lang="es">Beast Angel</title>
   </programme>
   <programme start="20210205183000 -0600" stop="20210205190000 -0600" channel="Kanade TV">
-    <title lang="es">Kim Possible</title>
+    <title lang="es">Clannad</title>
   </programme>
   <programme start="20210205190000 -0600" stop="20210205193000 -0600" channel="Kanade TV">
-    <title lang="es">One Punch Man</title>
+    <title lang="es">Koi To Uso</title>
   </programme>
   <programme start="20210205193000 -0600" stop="20210205200000 -0600" channel="Kanade TV">
-    <title lang="es">Re:Zero</title>
+    <title lang="es">Konosuba</title>
   </programme>
   <programme start="20210205200000 -0600" stop="20210205203000 -0600" channel="Kanade TV">
     <title lang="es">Darling in the Franxx</title>
@@ -13731,142 +14073,118 @@
     <title lang="es">Eromanga Sensei</title>
   </programme>
   <programme start="20210205210000 -0600" stop="20210205213000 -0600" channel="Kanade TV">
-    <title lang="es">Another</title>
+    <title lang="es">Domestic Girlfriend</title>
   </programme>
   <programme start="20210205213000 -0600" stop="20210205220000 -0600" channel="Kanade TV">
-    <title lang="es">Uzaki-Chan</title>
+    <title lang="es">Rent a Girlfriend</title>
   </programme>
   <programme start="20210205220000 -0600" stop="20210205223000 -0600" channel="Kanade TV">
-    <title lang="es">Domestic Girlfriends</title>
+    <title lang="es">Uzaki Chan</title>
   </programme>
   <programme start="20210205223000 -0600" stop="20210205230000 -0600" channel="Kanade TV">
-    <title lang="es">Konosuba</title>
+    <title lang="es">A Sisters All You Need</title>
   </programme>
   <programme start="20210205230000 -0600" stop="20210205233000 -0600" channel="Kanade TV">
-    <title lang="es">Kakegurui</title>
-  </programme>
-  <programme start="20210205233000 -0600" stop="20210206000000 -0600" channel="Kanade TV">
     <title lang="es">Shimoneta</title>
   </programme>
+  <programme start="20210205233000 -0600" stop="20210206000000 -0600" channel="Kanade TV">
+    <title lang="es">Magical Senpai</title>
+  </programme>
   <programme start="20210206000000 -0600" stop="20210206003000 -0600" channel="Kanade TV">
-    <title lang="es">Higurashi</title>
+    <title lang="es">My First Girlfriend Is A Gal</title>
   </programme>
   <programme start="20210206003000 -0600" stop="20210206010000 -0600" channel="Kanade TV">
     <title lang="es">To Love Ru</title>
   </programme>
   <programme start="20210206010000 -0600" stop="20210206013000 -0600" channel="Kanade TV">
-    <title lang="es">La Peque�a Lulu*</title>
+    <title lang="es">Yunna La Fantasma</title>
   </programme>
   <programme start="20210206013000 -0600" stop="20210206020000 -0600" channel="Kanade TV">
-    <title lang="es">Animaniacs*</title>
+    <title lang="es">Kiss X Sis</title>
   </programme>
   <programme start="20210206020000 -0600" stop="20210206023000 -0600" channel="Kanade TV">
-    <title lang="es">Fenomenoide*</title>
+    <title lang="es">B Gata H Kei</title>
   </programme>
   <programme start="20210206023000 -0600" stop="20210206030000 -0600" channel="Kanade TV">
-    <title lang="es">La Pantera Rosa*</title>
+    <title lang="es">Sakura Mail</title>
   </programme>
   <programme start="20210206030000 -0600" stop="20210206033000 -0600" channel="Kanade TV">
-    <title lang="es">Garfield*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210206033000 -0600" stop="20210206040000 -0600" channel="Kanade TV">
-    <title lang="es">Sailor Moon*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210206040000 -0600" stop="20210206043000 -0600" channel="Kanade TV">
-    <title lang="es">Saint Seiya*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210206043000 -0600" stop="20210206050000 -0600" channel="Kanade TV">
-    <title lang="es">Estan Arrestados*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210206050000 -0600" stop="20210206053000 -0600" channel="Kanade TV">
-    <title lang="es">Los Thornberrys*</title>
+    <title lang="es">Hamtaro</title>
   </programme>
   <programme start="20210206053000 -0600" stop="20210206060000 -0600" channel="Kanade TV">
-    <title lang="es">Ed, Edd y Eddy*</title>
+    <title lang="es">Doraemon</title>
   </programme>
   <programme start="20210206060000 -0600" stop="20210206063000 -0600" channel="Kanade TV">
-    <title lang="es">Tom y Jerry</title>
+    <title lang="es">Caballeros Del Zodiaco</title>
   </programme>
   <programme start="20210206063000 -0600" stop="20210206070000 -0600" channel="Kanade TV">
-    <title lang="es">Looney Tunes</title>
-  </programme>
-  <programme start="20210206070000 -0600" stop="20210206073000 -0600" channel="Kanade TV">
-    <title lang="es">Batman</title>
-  </programme>
-  <programme start="20210206073000 -0600" stop="20210206080000 -0600" channel="Kanade TV">
-    <title lang="es">Duck Dodgers</title>
-  </programme>
-  <programme start="20210206080000 -0600" stop="20210206083000 -0600" channel="Kanade TV">
-    <title lang="es">Rugrats</title>
-  </programme>
-  <programme start="20210206083000 -0600" stop="20210206090000 -0600" channel="Kanade TV">
-    <title lang="es">Kirby</title>
-  </programme>
-  <programme start="20210206090000 -0600" stop="20210206093000 -0600" channel="Kanade TV">
-    <title lang="es">Isla del Drama</title>
-  </programme>
-  <programme start="20210206093000 -0600" stop="20210206100000 -0600" channel="Kanade TV">
-    <title lang="es">Kappa Mikey</title>
-  </programme>
-  <programme start="20210206100000 -0600" stop="20210206103000 -0600" channel="Kanade TV">
-    <title lang="es">Ranma 1/2</title>
-  </programme>
-  <programme start="20210206103000 -0600" stop="20210206110000 -0600" channel="Kanade TV">
-    <title lang="es">Kim Possible</title>
-  </programme>
-  <programme start="20210206110000 -0600" stop="20210206113000 -0600" channel="Kanade TV">
-    <title lang="es">Alf</title>
-  </programme>
-  <programme start="20210206113000 -0600" stop="20210206120000 -0600" channel="Kanade TV">
-    <title lang="es">Mi Bella Genio</title>
-  </programme>
-  <programme start="20210206120000 -0600" stop="20210206123000 -0600" channel="Kanade TV">
-    <title lang="es">Fresh Prince</title>
-  </programme>
-  <programme start="20210206123000 -0600" stop="20210206130000 -0600" channel="Kanade TV">
-    <title lang="es">Clarissa</title>
-  </programme>
-  <programme start="20210206130000 -0600" stop="20210206133000 -0600" channel="Kanade TV">
-    <title lang="es">Malcolm</title>
-  </programme>
-  <programme start="20210206133000 -0600" stop="20210206140000 -0600" channel="Kanade TV">
-    <title lang="es">Skimo</title>
-  </programme>
-  <programme start="20210206140000 -0600" stop="20210206143000 -0600" channel="Kanade TV">
-    <title lang="es">Yu Yu Hakusho</title>
-  </programme>
-  <programme start="20210206143000 -0600" stop="20210206150000 -0600" channel="Kanade TV">
     <title lang="es">Samurai X</title>
   </programme>
+  <programme start="20210206070000 -0600" stop="20210206073000 -0600" channel="Kanade TV">
+    <title lang="es">Yu Yu Hakusho</title>
+  </programme>
+  <programme start="20210206073000 -0600" stop="20210206080000 -0600" channel="Kanade TV">
+    <title lang="es">Saber Marionette J</title>
+  </programme>
+  <programme start="20210206080000 -0600" stop="20210206083000 -0600" channel="Kanade TV">
+    <title lang="es">Violet Evergarden</title>
+  </programme>
+  <programme start="20210206083000 -0600" stop="20210206090000 -0600" channel="Kanade TV">
+    <title lang="es">Orange</title>
+  </programme>
+  <programme start="20210206090000 -0600" stop="20210206093000 -0600" channel="Kanade TV">
+    <title lang="es">Iroduku</title>
+  </programme>
+  <programme start="20210206093000 -0600" stop="20210206100000 -0600" channel="Kanade TV">
+    <title lang="es">Shin-Chan</title>
+  </programme>
+  <programme start="20210206100000 -0600" stop="20210206103000 -0600" channel="Kanade TV">
+    <title lang="es">Excel Saga</title>
+  </programme>
+  <programme start="20210206103000 -0600" stop="20210206110000 -0600" channel="Kanade TV">
+    <title lang="es">Charlotte</title>
+  </programme>
+  <programme start="20210206110000 -0600" stop="20210206113000 -0600" channel="Kanade TV">
+    <title lang="es">Evangelion</title>
+  </programme>
+  <programme start="20210206113000 -0600" stop="20210206120000 -0600" channel="Kanade TV">
+    <title lang="es">Full Metal Alchemist</title>
+  </programme>
+  <programme start="20210206120000 -0600" stop="20210206150000 -0600" channel="Kanade TV">
+    <title lang="es">Quien Tiene El Control?</title>
+  </programme>
   <programme start="20210206150000 -0600" stop="20210206153000 -0600" channel="Kanade TV">
-    <title lang="es">Glitch Techs</title>
+    <title lang="es">Tonikawa</title>
   </programme>
   <programme start="20210206153000 -0600" stop="20210206160000 -0600" channel="Kanade TV">
-    <title lang="es">Hilda</title>
+    <title lang="es">Gamer En Rehabilitacion</title>
   </programme>
   <programme start="20210206160000 -0600" stop="20210206163000 -0600" channel="Kanade TV">
-    <title lang="es">BNA</title>
+    <title lang="es">Brand New Animal</title>
   </programme>
   <programme start="20210206163000 -0600" stop="20210206170000 -0600" channel="Kanade TV">
-    <title lang="es">Close Enough</title>
+    <title lang="es">Bunny Girl Senpai</title>
   </programme>
-  <programme start="20210206170000 -0600" stop="20210206173000 -0600" channel="Kanade TV">
-    <title lang="es">Final Space</title>
-  </programme>
-  <programme start="20210206173000 -0600" stop="20210206180000 -0600" channel="Kanade TV">
-    <title lang="es">Flapjack</title>
-  </programme>
-  <programme start="20210206180000 -0600" stop="20210206183000 -0600" channel="Kanade TV">
-    <title lang="es">Guerreras Magicas</title>
-  </programme>
-  <programme start="20210206183000 -0600" stop="20210206190000 -0600" channel="Kanade TV">
-    <title lang="es">Kim Possible</title>
+  <programme start="20210206170000 -0600" stop="20210206190000 -0600" channel="Kanade TV">
+    <title lang="es">Especiales</title>
   </programme>
   <programme start="20210206190000 -0600" stop="20210206193000 -0600" channel="Kanade TV">
-    <title lang="es">One Punch Man</title>
+    <title lang="es">Koi To Uso</title>
   </programme>
   <programme start="20210206193000 -0600" stop="20210206200000 -0600" channel="Kanade TV">
-    <title lang="es">Re:Zero</title>
+    <title lang="es">Konosuba</title>
   </programme>
   <programme start="20210206200000 -0600" stop="20210206203000 -0600" channel="Kanade TV">
     <title lang="es">Darling in the Franxx</title>
@@ -13875,163 +14193,139 @@
     <title lang="es">Eromanga Sensei</title>
   </programme>
   <programme start="20210206210000 -0600" stop="20210206213000 -0600" channel="Kanade TV">
-    <title lang="es">Another</title>
+    <title lang="es">Domestic Girlfriend</title>
   </programme>
   <programme start="20210206213000 -0600" stop="20210206220000 -0600" channel="Kanade TV">
-    <title lang="es">Uzaki-Chan</title>
+    <title lang="es">Rent a Girlfriend</title>
   </programme>
   <programme start="20210206220000 -0600" stop="20210206223000 -0600" channel="Kanade TV">
-    <title lang="es">Domestic Girlfriends</title>
+    <title lang="es">Uzaki Chan</title>
   </programme>
   <programme start="20210206223000 -0600" stop="20210206230000 -0600" channel="Kanade TV">
-    <title lang="es">Konosuba</title>
+    <title lang="es">A Sisters All You Need</title>
   </programme>
   <programme start="20210206230000 -0600" stop="20210206233000 -0600" channel="Kanade TV">
-    <title lang="es">Kakegurui</title>
-  </programme>
-  <programme start="20210206233000 -0600" stop="20210207000000 -0600" channel="Kanade TV">
     <title lang="es">Shimoneta</title>
   </programme>
+  <programme start="20210206233000 -0600" stop="20210207000000 -0600" channel="Kanade TV">
+    <title lang="es">Magical Senpai</title>
+  </programme>
   <programme start="20210207000000 -0600" stop="20210207003000 -0600" channel="Kanade TV">
-    <title lang="es">Higurashi</title>
+    <title lang="es">My First Girlfriend Is A Gal</title>
   </programme>
   <programme start="20210207003000 -0600" stop="20210207010000 -0600" channel="Kanade TV">
     <title lang="es">To Love Ru</title>
   </programme>
   <programme start="20210207010000 -0600" stop="20210207013000 -0600" channel="Kanade TV">
-    <title lang="es">Tom y Jerry*</title>
+    <title lang="es">Yunna La Fantasma</title>
   </programme>
   <programme start="20210207013000 -0600" stop="20210207020000 -0600" channel="Kanade TV">
-    <title lang="es">Looney Tunes*</title>
+    <title lang="es">Kiss X Sis</title>
   </programme>
   <programme start="20210207020000 -0600" stop="20210207023000 -0600" channel="Kanade TV">
-    <title lang="es">Batman*</title>
+    <title lang="es">B Gata H Kei</title>
   </programme>
   <programme start="20210207023000 -0600" stop="20210207030000 -0600" channel="Kanade TV">
-    <title lang="es">Duck Dodgers*</title>
+    <title lang="es">Sakura Mail</title>
   </programme>
   <programme start="20210207030000 -0600" stop="20210207033000 -0600" channel="Kanade TV">
-    <title lang="es">Rugrats*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210207033000 -0600" stop="20210207040000 -0600" channel="Kanade TV">
-    <title lang="es">Kirby*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210207040000 -0600" stop="20210207043000 -0600" channel="Kanade TV">
-    <title lang="es">Isla del Drama*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210207043000 -0600" stop="20210207050000 -0600" channel="Kanade TV">
-    <title lang="es">Kappa Mikey*</title>
+    <title lang="es">*</title>
   </programme>
   <programme start="20210207050000 -0600" stop="20210207053000 -0600" channel="Kanade TV">
-    <title lang="es">Ranma 1/2*</title>
+    <title lang="es">Hamtaro</title>
   </programme>
   <programme start="20210207053000 -0600" stop="20210207060000 -0600" channel="Kanade TV">
-    <title lang="es">Kim Possible*</title>
+    <title lang="es">Doraemon</title>
   </programme>
   <programme start="20210207060000 -0600" stop="20210207063000 -0600" channel="Kanade TV">
-    <title lang="es">Tom y Jerry</title>
+    <title lang="es">Caballeros Del Zodiaco</title>
   </programme>
   <programme start="20210207063000 -0600" stop="20210207070000 -0600" channel="Kanade TV">
-    <title lang="es">Looney Tunes</title>
-  </programme>
-  <programme start="20210207070000 -0600" stop="20210207073000 -0600" channel="Kanade TV">
-    <title lang="es">Batman</title>
-  </programme>
-  <programme start="20210207073000 -0600" stop="20210207080000 -0600" channel="Kanade TV">
-    <title lang="es">Duck Dodgers</title>
-  </programme>
-  <programme start="20210207080000 -0600" stop="20210207083000 -0600" channel="Kanade TV">
-    <title lang="es">Rugrats</title>
-  </programme>
-  <programme start="20210207083000 -0600" stop="20210207090000 -0600" channel="Kanade TV">
-    <title lang="es">Kirby</title>
-  </programme>
-  <programme start="20210207090000 -0600" stop="20210207093000 -0600" channel="Kanade TV">
-    <title lang="es">Isla del Drama</title>
-  </programme>
-  <programme start="20210207093000 -0600" stop="20210207100000 -0600" channel="Kanade TV">
-    <title lang="es">Kappa Mikey</title>
-  </programme>
-  <programme start="20210207100000 -0600" stop="20210207103000 -0600" channel="Kanade TV">
-    <title lang="es">Ranma 1/2</title>
-  </programme>
-  <programme start="20210207103000 -0600" stop="20210207110000 -0600" channel="Kanade TV">
-    <title lang="es">Kim Possible</title>
-  </programme>
-  <programme start="20210207110000 -0600" stop="20210207113000 -0600" channel="Kanade TV">
-    <title lang="es">Alf</title>
-  </programme>
-  <programme start="20210207113000 -0600" stop="20210207120000 -0600" channel="Kanade TV">
-    <title lang="es">Mi Bella Genio</title>
-  </programme>
-  <programme start="20210207120000 -0600" stop="20210207123000 -0600" channel="Kanade TV">
-    <title lang="es">Fresh Prince</title>
-  </programme>
-  <programme start="20210207123000 -0600" stop="20210207130000 -0600" channel="Kanade TV">
-    <title lang="es">Clarissa</title>
-  </programme>
-  <programme start="20210207130000 -0600" stop="20210207133000 -0600" channel="Kanade TV">
-    <title lang="es">Malcolm</title>
-  </programme>
-  <programme start="20210207133000 -0600" stop="20210207140000 -0600" channel="Kanade TV">
-    <title lang="es">Skimo</title>
-  </programme>
-  <programme start="20210207140000 -0600" stop="20210207143000 -0600" channel="Kanade TV">
-    <title lang="es">Yu Yu Hakusho</title>
-  </programme>
-  <programme start="20210207143000 -0600" stop="20210207150000 -0600" channel="Kanade TV">
     <title lang="es">Samurai X</title>
   </programme>
+  <programme start="20210207070000 -0600" stop="20210207073000 -0600" channel="Kanade TV">
+    <title lang="es">Yu Yu Hakusho</title>
+  </programme>
+  <programme start="20210207073000 -0600" stop="20210207080000 -0600" channel="Kanade TV">
+    <title lang="es">Saber Marionette J</title>
+  </programme>
+  <programme start="20210207080000 -0600" stop="20210207083000 -0600" channel="Kanade TV">
+    <title lang="es">Violet Evergarden</title>
+  </programme>
+  <programme start="20210207083000 -0600" stop="20210207090000 -0600" channel="Kanade TV">
+    <title lang="es">Orange</title>
+  </programme>
+  <programme start="20210207090000 -0600" stop="20210207093000 -0600" channel="Kanade TV">
+    <title lang="es">Iroduku</title>
+  </programme>
+  <programme start="20210207093000 -0600" stop="20210207100000 -0600" channel="Kanade TV">
+    <title lang="es">Shin-Chan</title>
+  </programme>
+  <programme start="20210207100000 -0600" stop="20210207103000 -0600" channel="Kanade TV">
+    <title lang="es">Excel Saga</title>
+  </programme>
+  <programme start="20210207103000 -0600" stop="20210207110000 -0600" channel="Kanade TV">
+    <title lang="es">Charlotte</title>
+  </programme>
+  <programme start="20210207110000 -0600" stop="20210207113000 -0600" channel="Kanade TV">
+    <title lang="es">Evangelion</title>
+  </programme>
+  <programme start="20210207113000 -0600" stop="20210207120000 -0600" channel="Kanade TV">
+    <title lang="es">Full Metal Alchemist</title>
+  </programme>
+  <programme start="20210207120000 -0600" stop="20210207150000 -0600" channel="Kanade TV">
+    <title lang="es">Quien Tiene El Control?</title>
+  </programme>
   <programme start="20210207150000 -0600" stop="20210207153000 -0600" channel="Kanade TV">
-    <title lang="es">Glitch Techs</title>
+    <title lang="es">Tonikawa</title>
   </programme>
   <programme start="20210207153000 -0600" stop="20210207160000 -0600" channel="Kanade TV">
-    <title lang="es">Hilda</title>
+    <title lang="es">Gamer En Rehabilitacion</title>
   </programme>
   <programme start="20210207160000 -0600" stop="20210207163000 -0600" channel="Kanade TV">
-    <title lang="es">BNA</title>
+    <title lang="es">Brand New Animal</title>
   </programme>
   <programme start="20210207163000 -0600" stop="20210207170000 -0600" channel="Kanade TV">
-    <title lang="es">Close Enough</title>
+    <title lang="es">Bunny Girl Senpai</title>
   </programme>
-  <programme start="20210207170000 -0600" stop="20210207173000 -0600" channel="Kanade TV">
-    <title lang="es">Final Space</title>
-  </programme>
-  <programme start="20210207173000 -0600" stop="20210207180000 -0600" channel="Kanade TV">
-    <title lang="es">Flapjack</title>
-  </programme>
-  <programme start="20210207180000 -0600" stop="20210207183000 -0600" channel="Kanade TV">
-    <title lang="es">Guerreras Magicas</title>
-  </programme>
-  <programme start="20210207183000 -0600" stop="20210207190000 -0600" channel="Kanade TV">
-    <title lang="es">Kim Possible</title>
+  <programme start="20210207170000 -0600" stop="20210207190000 -0600" channel="Kanade TV">
+    <title lang="es">Especiales</title>
   </programme>
   <programme start="20210207190000 -0600" stop="20210207193000 -0600" channel="Kanade TV">
-    <title lang="es">Bojack Horseman</title>
+    <title lang="es">Koi To Uso</title>
   </programme>
   <programme start="20210207193000 -0600" stop="20210207200000 -0600" channel="Kanade TV">
-    <title lang="es">El Show de Brack</title>
+    <title lang="es">Konosuba</title>
   </programme>
   <programme start="20210207200000 -0600" stop="20210207203000 -0600" channel="Kanade TV">
-    <title lang="es">El Gran Farsante</title>
+    <title lang="es">Darling in The Franxx</title>
   </programme>
   <programme start="20210207203000 -0600" stop="20210207210000 -0600" channel="Kanade TV">
-    <title lang="es">Fantasma del Espacio</title>
+    <title lang="es">Eromanga Sensei</title>
   </programme>
   <programme start="20210207210000 -0600" stop="20210207213000 -0600" channel="Kanade TV">
-    <title lang="es">F is For Family</title>
+    <title lang="es">Domestic Girlfriend</title>
   </programme>
   <programme start="20210207213000 -0600" stop="20210207220000 -0600" channel="Kanade TV">
-    <title lang="es">Harvey Birdman</title>
+    <title lang="es">Rent a Girlfriend</title>
   </programme>
   <programme start="20210207220000 -0600" stop="20210207223000 -0600" channel="Kanade TV">
-    <title lang="es">Big Mouth</title>
+    <title lang="es">Uzaki Chan</title>
   </programme>
   <programme start="20210207223000 -0600" stop="20210207230000 -0600" channel="Kanade TV">
-    <title lang="es">Secundaria de Clones</title>
+    <title lang="es">A Sisters All You Need</title>
   </programme>
   <programme start="20210207230000 -0600" stop="20210207233000 -0600" channel="Kanade TV">
-    <title lang="es">Cowboy Bebop</title>
+    <title lang="es">Shimoneta</title>
   </programme>
   <programme start="20210203000000 -0600" stop="20210203003000 -0600" channel="Locomotion">
     <title lang="es">Bob y Margaret*</title>
