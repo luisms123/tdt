@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="EnerGeek" tvg-name="EnerGeek" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="NIÑOS Y JOVENES",EnerGeek | Chile
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+
 #EXTINF:-1 tvg-id="EnerGeek Senal 1" tvg-name="EnerGeek Senal 1" tvg-logo="https://i.imgur.com/7tkKjoM.png" group-title="Energeek",EnerGeek 1
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
