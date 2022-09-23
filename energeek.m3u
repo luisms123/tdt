@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="EnerGeek Senal 1" tvg-name="EnerGeek Senal 1" tvg-logo="https://i.imgur.com/7tkKjoM.png" group-title="Energeek",EnerGeek 1
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek Senal 1" tvg-name="EnerGeek Senal 1" tvg-logo="https://i.imgur.com/7tkKjoM.png" group-title="Energeek",EnerGeek op
+http://45.236.127.2:1935/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek Senal 2" tvg-name="EnerGeek Senal 2" tvg-logo="https://i.imgur.com/cbnBZRv.jpg" group-title="Energeek",EnerGeek Fanpop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek Senal 2" tvg-name="EnerGeek Senal 2" tvg-logo="https://i.imgur.com/cbnBZRv.jpg" group-title="Energeek",EnerGeek Fanpop op
+http://45.236.127.2:1935/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek Senal 3" tvg-name="EnerGeek Senal 3" tvg-logo="https://i.imgur.com/2luf4VM.png" group-title="Energeek",EnerGeek Wowly
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
