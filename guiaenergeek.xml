@@ -15,42 +15,6 @@
     <icon src="https://i.imgur.com/PzEK6DI.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20220924000000 -0300" stop="20220924020000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924020000 -0300" stop="20220924040000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924040000 -0300" stop="20220924060000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924060000 -0300" stop="20220924080000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924080000 -0300" stop="20220924100000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924100000 -0300" stop="20220924120000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924120000 -0300" stop="20220924140000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924140000 -0300" stop="20220924160000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924160000 -0300" stop="20220924180000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924180000 -0300" stop="20220924200000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924200000 -0300" stop="20220924220000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20220924220000 -0300" stop="20220925000000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
   <programme start="20220925000000 -0300" stop="20220925020000 -0300" channel="EnerGeek">
     <title lang="es">Maraton Energeek</title>
   </programme>
@@ -123,37 +87,41 @@
   <programme start="20220926220000 -0300" stop="20220927000000 -0300" channel="EnerGeek">
     <title lang="es">Maraton Energeek</title>
   </programme>
-  <programme start="20220924000000 -0300" stop="20220924030000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Dragon Ball Super</title>
-    <desc lang="es">Especial Goku</desc>
+  <programme start="20220927000000 -0300" stop="20220927020000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
   </programme>
-  <programme start="20220924030000 -0300" stop="20220924060000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Dragon Ball Super</title>
-    <desc lang="es">Especial Goku</desc>
+  <programme start="20220927020000 -0300" stop="20220927040000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
   </programme>
-  <programme start="20220924060000 -0300" stop="20220924090000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Dragon Ball Super</title>
-    <desc lang="es">Especial Goku</desc>
+  <programme start="20220927040000 -0300" stop="20220927060000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
   </programme>
-  <programme start="20220924090000 -0300" stop="20220924120000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Dragon Ball Super</title>
-    <desc lang="es">Especial Goku</desc>
+  <programme start="20220927060000 -0300" stop="20220927080000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
   </programme>
-  <programme start="20220924120000 -0300" stop="20220924150000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Dragon Ball Super</title>
-    <desc lang="es">Especial Goku</desc>
+  <programme start="20220927080000 -0300" stop="20220927100000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
   </programme>
-  <programme start="20220924150000 -0300" stop="20220924180000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Dragon Ball Super</title>
-    <desc lang="es">Especial Goku</desc>
+  <programme start="20220927100000 -0300" stop="20220927120000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
   </programme>
-  <programme start="20220924180000 -0300" stop="20220924210000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Dragon Ball Super</title>
-    <desc lang="es">Especial Goku</desc>
+  <programme start="20220927120000 -0300" stop="20220927140000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
   </programme>
-  <programme start="20220924210000 -0300" stop="20220925000000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Dragon Ball Super</title>
-    <desc lang="es">Especial Goku</desc>
+  <programme start="20220927140000 -0300" stop="20220927160000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+  </programme>
+  <programme start="20220927160000 -0300" stop="20220927180000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+  </programme>
+  <programme start="20220927180000 -0300" stop="20220927200000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+  </programme>
+  <programme start="20220927200000 -0300" stop="20220927220000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+  </programme>
+  <programme start="20220927220000 -0300" stop="20220928000000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
   </programme>
   <programme start="20220925000000 -0300" stop="20220925030000 -0300" channel="EnerGeek Fanpop">
     <title lang="es">Maraton Dragon Ball Super</title>
@@ -219,37 +187,37 @@
     <title lang="es">Maraton Dragon Ball Super</title>
     <desc lang="es">Especial Goku</desc>
   </programme>
-  <programme start="20220924000000 -0300" stop="20220924030000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20220927000000 -0300" stop="20220927030000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Dragon Ball Super</title>
+    <desc lang="es">Especial Goku</desc>
   </programme>
-  <programme start="20220924030000 -0300" stop="20220924060000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20220927030000 -0300" stop="20220927060000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Dragon Ball Super</title>
+    <desc lang="es">Especial Goku</desc>
   </programme>
-  <programme start="20220924060000 -0300" stop="20220924090000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20220927060000 -0300" stop="20220927090000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Dragon Ball Super</title>
+    <desc lang="es">Especial Goku</desc>
   </programme>
-  <programme start="20220924090000 -0300" stop="20220924120000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20220927090000 -0300" stop="20220927120000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Dragon Ball Super</title>
+    <desc lang="es">Especial Goku</desc>
   </programme>
-  <programme start="20220924120000 -0300" stop="20220924150000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20220927120000 -0300" stop="20220927150000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Dragon Ball Super</title>
+    <desc lang="es">Especial Goku</desc>
   </programme>
-  <programme start="20220924150000 -0300" stop="20220924180000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20220927150000 -0300" stop="20220927180000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Dragon Ball Super</title>
+    <desc lang="es">Especial Goku</desc>
   </programme>
-  <programme start="20220924180000 -0300" stop="20220924210000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20220927180000 -0300" stop="20220927210000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Dragon Ball Super</title>
+    <desc lang="es">Especial Goku</desc>
   </programme>
-  <programme start="20220924210000 -0300" stop="20220925000000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20220927210000 -0300" stop="20220928000000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Dragon Ball Super</title>
+    <desc lang="es">Especial Goku</desc>
   </programme>
   <programme start="20220925000000 -0300" stop="20220925030000 -0300" channel="EnerGeek Wowly">
     <title lang="es">Maraton  Energeek 3</title>
@@ -312,6 +280,38 @@
     <desc lang="es">Especial 80s</desc>
   </programme>
   <programme start="20220926210000 -0300" stop="20220927000000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20220927000000 -0300" stop="20220927030000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20220927030000 -0300" stop="20220927060000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20220927060000 -0300" stop="20220927090000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20220927090000 -0300" stop="20220927120000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20220927120000 -0300" stop="20220927150000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20220927150000 -0300" stop="20220927180000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20220927180000 -0300" stop="20220927210000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20220927210000 -0300" stop="20220928000000 -0300" channel="EnerGeek Wowly">
     <title lang="es">Maraton  Energeek 3</title>
     <desc lang="es">Especial 80s</desc>
   </programme>
