@@ -5,46 +5,6 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20220924010000 -0600" stop="20220924070000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220924070000 -0600" stop="20220924120000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220924120000 -0600" stop="20220924122500 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">2 Hombres y Medio</title>
-  </programme>
-  <programme start="20220924122500 -0600" stop="20220924130000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220924130000 -0600" stop="20220924140000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Cultura Natural</title>
-  </programme>
-  <programme start="20220924140000 -0600" stop="20220924150000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Medley Mixes</title>
-  </programme>
-  <programme start="20220924150000 -0600" stop="20220924170000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Anime Time</title>
-  </programme>
-  <programme start="20220924170000 -0600" stop="20220924190000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Massive Concerts</title>
-  </programme>
-  <programme start="20220924190000 -0600" stop="20220924194500 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Prison Break</title>
-  </programme>
-  <programme start="20220924194500 -0600" stop="20220924200000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220924200000 -0600" stop="20220924220000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Classic Movies</title>
-    <category lang="es">Cine</category>
-  </programme>
-  <programme start="20220924220000 -0600" stop="20220924230000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Plancha Forever</title>
-  </programme>
-  <programme start="20220924230000 -0600" stop="20220925010000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
   <programme start="20220925010000 -0600" stop="20220925080000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
@@ -225,6 +185,46 @@
     <title lang="es">Plancha Forever</title>
   </programme>
   <programme start="20220930230000 -0600" stop="20221001010000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221001010000 -0600" stop="20221001070000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221001070000 -0600" stop="20221001120000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221001120000 -0600" stop="20221001122500 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">2 Hombres y Medio</title>
+  </programme>
+  <programme start="20221001122500 -0600" stop="20221001130000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221001130000 -0600" stop="20221001140000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Cultura Natural</title>
+  </programme>
+  <programme start="20221001140000 -0600" stop="20221001150000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Medley Mixes</title>
+  </programme>
+  <programme start="20221001150000 -0600" stop="20221001170000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Anime Time</title>
+  </programme>
+  <programme start="20221001170000 -0600" stop="20221001190000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Massive Concerts</title>
+  </programme>
+  <programme start="20221001190000 -0600" stop="20221001194500 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Prison Break</title>
+  </programme>
+  <programme start="20221001194500 -0600" stop="20221001200000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221001200000 -0600" stop="20221001220000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Classic Movies</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20221001220000 -0600" stop="20221001230000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Plancha Forever</title>
+  </programme>
+  <programme start="20221001230000 -0600" stop="20221002010000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
 </tv>
