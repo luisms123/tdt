@@ -523,6 +523,9 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="NIÑOS Y JOVENES",Energeek Wowly op | Chile
 https://45.236.127.10:3852/live/energeeklive.m3u8
 
+#EXTINF:-1 tvg-id="EnerGeek Radio" tvg-name="EnerGeek Radio" tvg-logo="" group-title="NIÑOS Y JOVENES",Energeek Radio | Chile
+http://betatest.fplayzyt.club:8050/energeekradio.mp3?type=http
+
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
 http://magmas5.com:8000/live/malotv/gratis/4822.m3u8
 
@@ -648,9 +651,6 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="NIÑOS Y JOVENES",Zaz TV | Mexico
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/ZAZ/index-zaz/2.m3u8
-
-#EXTINF:-1 tvg-id="ZTV Channel SD" tvg-name="ZTV Channel SD" tvg-logo="https://i.imgur.com/YPEEiTb.jpg" group-title="NIÑOS Y JOVENES",ZTV Channel | Argentina
-https://livestreams.flote.app:5443/flote/streams/4b077525-6261-42ae-8941-d3804cc87e2f.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Atrescine(Spanish).us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82808_dark_360w_270h.png" group-title="CINE",ATresCine | España
 http://magmas5.com:8000/live/malotv/gratis/140821.m3u8
