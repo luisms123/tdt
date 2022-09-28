@@ -5,36 +5,6 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20220926010000 -0600" stop="20220926080000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220926080000 -0600" stop="20220926140000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220926140000 -0600" stop="20220926160000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Voice Over Jams</title>
-  </programme>
-  <programme start="20220926160000 -0600" stop="20220926170000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220926170000 -0600" stop="20220926180000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">VO Live Mixes</title>
-  </programme>
-  <programme start="20220926180000 -0600" stop="20220926190000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220926190000 -0600" stop="20220926194300 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">The Flash</title>
-  </programme>
-  <programme start="20220926194300 -0600" stop="20220926210000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220926210000 -0600" stop="20220926212500 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Friends</title>
-  </programme>
-  <programme start="20220926212500 -0600" stop="20220927010000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
   <programme start="20220927010000 -0600" stop="20220927080000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
@@ -225,6 +195,36 @@
     <title lang="es">Tapon - Feeling</title>
   </programme>
   <programme start="20221002220000 -0600" stop="20221003010000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221003010000 -0600" stop="20221003080000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221003080000 -0600" stop="20221003140000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221003140000 -0600" stop="20221003160000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Voice Over Jams</title>
+  </programme>
+  <programme start="20221003160000 -0600" stop="20221003170000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221003170000 -0600" stop="20221003180000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">VO Live Mixes</title>
+  </programme>
+  <programme start="20221003180000 -0600" stop="20221003190000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221003190000 -0600" stop="20221003194300 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20221003194300 -0600" stop="20221003210000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221003210000 -0600" stop="20221003212500 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20221003212500 -0600" stop="20221004010000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
 </tv>
