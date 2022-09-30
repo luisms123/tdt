@@ -18,7 +18,10 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="ENERGEEK",Energeek Wowly op
 https://45.236.127.10:3852/live/energeeklive.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek Radio" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="ENERGEEK",Energeek Radio TV
+#EXTINF:-1 tvg-id="EnerGeek 4" tvg-name="EnerGeek" tvg-logo="https://i.imgur.com/7tkKjoM.png" group-title="ENERGEEK",EnerGeek 4
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="ENERGEEK",Energeek Radio TV
 https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="ENERGEEK",Energeek Radio
