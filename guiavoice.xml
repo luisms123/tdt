@@ -5,30 +5,6 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20220928010000 -0600" stop="20220928080000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220928080000 -0600" stop="20220928140000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220928140000 -0600" stop="20220928160000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Voice Over Jams</title>
-  </programme>
-  <programme start="20220928160000 -0600" stop="20220928180000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220928180000 -0600" stop="20220928190000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Interviú</title>
-  </programme>
-  <programme start="20220928190000 -0600" stop="20220928200000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20220928200000 -0600" stop="20220928204500 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Lucifer</title>
-  </programme>
-  <programme start="20220928204500 -0600" stop="20220929010000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
   <programme start="20220929010000 -0600" stop="20220929080000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
@@ -225,6 +201,30 @@
     <title lang="es">Tapon - Feeling</title>
   </programme>
   <programme start="20221004220000 -0600" stop="20221005010000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221005010000 -0600" stop="20221005080000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221005080000 -0600" stop="20221005140000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221005140000 -0600" stop="20221005160000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Voice Over Jams</title>
+  </programme>
+  <programme start="20221005160000 -0600" stop="20221005180000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221005180000 -0600" stop="20221005190000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Interviú</title>
+  </programme>
+  <programme start="20221005190000 -0600" stop="20221005200000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221005200000 -0600" stop="20221005204500 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Lucifer</title>
+  </programme>
+  <programme start="20221005204500 -0600" stop="20221006010000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
 </tv>
