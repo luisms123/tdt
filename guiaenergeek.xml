@@ -15,42 +15,6 @@
     <icon src="https://i.imgur.com/PzEK6DI.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20221001000000 -0300" stop="20221001020000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001020000 -0300" stop="20221001040000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001040000 -0300" stop="20221001060000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001060000 -0300" stop="20221001080000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001080000 -0300" stop="20221001100000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001100000 -0300" stop="20221001120000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001120000 -0300" stop="20221001140000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001140000 -0300" stop="20221001160000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001160000 -0300" stop="20221001180000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001180000 -0300" stop="20221001200000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001200000 -0300" stop="20221001220000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
-  <programme start="20221001220000 -0300" stop="20221002000000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-  </programme>
   <programme start="20221002000000 -0300" stop="20221002020000 -0300" channel="EnerGeek">
     <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
@@ -123,37 +87,41 @@
   <programme start="20221003220000 -0300" stop="20221004000000 -0300" channel="EnerGeek">
     <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
-  <programme start="20221001000000 -0300" stop="20221001030000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek</desc>
+  <programme start="20221004000000 -0300" stop="20221004020000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
-  <programme start="20221001030000 -0300" stop="20221001060000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek</desc>
+  <programme start="20221004020000 -0300" stop="20221004040000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
-  <programme start="20221001060000 -0300" stop="20221001090000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek</desc>
+  <programme start="20221004040000 -0300" stop="20221004060000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
-  <programme start="20221001090000 -0300" stop="20221001120000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek</desc>
+  <programme start="20221004060000 -0300" stop="20221004080000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
-  <programme start="20221001120000 -0300" stop="20221001150000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek</desc>
+  <programme start="20221004080000 -0300" stop="20221004100000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
-  <programme start="20221001150000 -0300" stop="20221001180000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek</desc>
+  <programme start="20221004100000 -0300" stop="20221004120000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
-  <programme start="20221001180000 -0300" stop="20221001210000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek</desc>
+  <programme start="20221004120000 -0300" stop="20221004140000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
-  <programme start="20221001210000 -0300" stop="20221002000000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek</desc>
+  <programme start="20221004140000 -0300" stop="20221004160000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
+  </programme>
+  <programme start="20221004160000 -0300" stop="20221004180000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
+  </programme>
+  <programme start="20221004180000 -0300" stop="20221004200000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
+  </programme>
+  <programme start="20221004200000 -0300" stop="20221004220000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
+  </programme>
+  <programme start="20221004220000 -0300" stop="20221005000000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Mikami La Cazafantasmas</title>
   </programme>
   <programme start="20221002000000 -0300" stop="20221002030000 -0300" channel="EnerGeek Fanpop">
     <title lang="es">Maraton Death Note</title>
@@ -219,37 +187,37 @@
     <title lang="es">Maraton Espiritu de Lucha</title>
     <desc lang="es">Especial Energeek</desc>
   </programme>
-  <programme start="20221001000000 -0300" stop="20221001030000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20221004000000 -0300" stop="20221004030000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Espiritu de Lucha</title>
+    <desc lang="es">Especial Energeek</desc>
   </programme>
-  <programme start="20221001030000 -0300" stop="20221001060000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20221004030000 -0300" stop="20221004060000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Espiritu de Lucha</title>
+    <desc lang="es">Especial Energeek</desc>
   </programme>
-  <programme start="20221001060000 -0300" stop="20221001090000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20221004060000 -0300" stop="20221004090000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Espiritu de Lucha</title>
+    <desc lang="es">Especial Energeek</desc>
   </programme>
-  <programme start="20221001090000 -0300" stop="20221001120000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20221004090000 -0300" stop="20221004120000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Espiritu de Lucha</title>
+    <desc lang="es">Especial Energeek</desc>
   </programme>
-  <programme start="20221001120000 -0300" stop="20221001150000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20221004120000 -0300" stop="20221004150000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Espiritu de Lucha</title>
+    <desc lang="es">Especial Energeek</desc>
   </programme>
-  <programme start="20221001150000 -0300" stop="20221001180000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20221004150000 -0300" stop="20221004180000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Espiritu de Lucha</title>
+    <desc lang="es">Especial Energeek</desc>
   </programme>
-  <programme start="20221001180000 -0300" stop="20221001210000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20221004180000 -0300" stop="20221004210000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Espiritu de Lucha</title>
+    <desc lang="es">Especial Energeek</desc>
   </programme>
-  <programme start="20221001210000 -0300" stop="20221002000000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s</desc>
+  <programme start="20221004210000 -0300" stop="20221005000000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Espiritu de Lucha</title>
+    <desc lang="es">Especial Energeek</desc>
   </programme>
   <programme start="20221002000000 -0300" stop="20221002030000 -0300" channel="EnerGeek Wowly">
     <title lang="es">Maraton  Mikami La Cazafantasmas</title>
@@ -312,6 +280,38 @@
     <desc lang="es">Especial 80s</desc>
   </programme>
   <programme start="20221003210000 -0300" stop="20221004000000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Mikami La Cazafantasmas</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20221004000000 -0300" stop="20221004030000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Mikami La Cazafantasmas</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20221004030000 -0300" stop="20221004060000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Mikami La Cazafantasmas</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20221004060000 -0300" stop="20221004090000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Mikami La Cazafantasmas</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20221004090000 -0300" stop="20221004120000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Mikami La Cazafantasmas</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20221004120000 -0300" stop="20221004150000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Mikami La Cazafantasmas</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20221004150000 -0300" stop="20221004180000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Mikami La Cazafantasmas</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20221004180000 -0300" stop="20221004210000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Mikami La Cazafantasmas</title>
+    <desc lang="es">Especial 80s</desc>
+  </programme>
+  <programme start="20221004210000 -0300" stop="20221005000000 -0300" channel="EnerGeek Wowly">
     <title lang="es">Maraton  Mikami La Cazafantasmas</title>
     <desc lang="es">Especial 80s</desc>
   </programme>
