@@ -25,56 +25,6 @@
     <icon src="https://i.imgur.com/PzEK6DI.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20221005000000 -0300" stop="20221005020000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005020000 -0300" stop="20221005040000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005040000 -0300" stop="20221005060000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005060000 -0300" stop="20221005080000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005080000 -0300" stop="20221005100000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005100000 -0300" stop="20221005120000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005120000 -0300" stop="20221005140000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005140000 -0300" stop="20221005160000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005160000 -0300" stop="20221005193000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20221005193000 -0300" stop="20221005213000 -0300" channel="EnerGeek">
-    <title lang="es">El Juego de la Politica</title>
-    <desc lang="es">Hablemos de politica</desc>
-    <icon src="http://www.compulms.com/xml/imagenes/politica.jpg" />
-  </programme>
-  <programme start="20221005213000 -0300" stop="20221005233000 -0300" channel="EnerGeek">
-    <title lang="es">Conejos Yoyos</title>
-    <desc lang="es">Programa Geek. Esperamos traer muchos jojos, conejos y mas</desc>
-    <icon src="http://www.compulms.com/xml/imagenes/conejos.jpg" />
-  </programme>
-  <programme start="20221005233000 -0300" stop="20221006000000 -0300" channel="EnerGeek">
-    <title lang="es">Maraton Energeek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
   <programme start="20221006000000 -0300" stop="20221006020000 -0300" channel="EnerGeek">
     <title lang="es">Maraton Energeek</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
@@ -182,37 +132,53 @@
     <title lang="es">Maraton Energeek</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20221005000000 -0300" stop="20221005030000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20221008000000 -0300" stop="20221008020000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20221005030000 -0300" stop="20221005060000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20221008020000 -0300" stop="20221008040000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20221005060000 -0300" stop="20221005090000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20221008040000 -0300" stop="20221008060000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20221005090000 -0300" stop="20221005120000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20221008060000 -0300" stop="20221008080000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20221005120000 -0300" stop="20221005150000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20221008080000 -0300" stop="20221008100000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20221005150000 -0300" stop="20221005180000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20221008100000 -0300" stop="20221008120000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20221005180000 -0300" stop="20221005210000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20221008120000 -0300" stop="20221008140000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20221005210000 -0300" stop="20221006000000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Maraton Energeek 2</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20221008140000 -0300" stop="20221008160000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20221008160000 -0300" stop="20221008180000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20221008180000 -0300" stop="20221008200000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20221008200000 -0300" stop="20221008220000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20221008220000 -0300" stop="20221009000000 -0300" channel="EnerGeek">
+    <title lang="es">Maraton Energeek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
   <programme start="20221006000000 -0300" stop="20221006030000 -0300" channel="EnerGeek Fanpop">
     <title lang="es">Maraton Energeek 2</title>
@@ -278,37 +244,37 @@
     <title lang="es">Maraton Energeek 2</title>
     <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20221005000000 -0300" stop="20221005030000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s Energeek Wowly</desc>
+  <programme start="20221008000000 -0300" stop="20221008030000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Energeek 2</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20221005030000 -0300" stop="20221005060000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s Energeek Wowly</desc>
+  <programme start="20221008030000 -0300" stop="20221008060000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Energeek 2</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20221005060000 -0300" stop="20221005090000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s Energeek Wowly</desc>
+  <programme start="20221008060000 -0300" stop="20221008090000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Energeek 2</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20221005090000 -0300" stop="20221005120000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s Energeek Wowly</desc>
+  <programme start="20221008090000 -0300" stop="20221008120000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Energeek 2</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20221005120000 -0300" stop="20221005150000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s Energeek Wowly</desc>
+  <programme start="20221008120000 -0300" stop="20221008150000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Energeek 2</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20221005150000 -0300" stop="20221005180000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s Energeek Wowly</desc>
+  <programme start="20221008150000 -0300" stop="20221008180000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Energeek 2</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20221005180000 -0300" stop="20221005210000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s Energeek Wowly</desc>
+  <programme start="20221008180000 -0300" stop="20221008210000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Energeek 2</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20221005210000 -0300" stop="20221006000000 -0300" channel="EnerGeek Wowly">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial 80s Energeek Wowly</desc>
+  <programme start="20221008210000 -0300" stop="20221009000000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Maraton Energeek 2</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
   <programme start="20221006000000 -0300" stop="20221006030000 -0300" channel="EnerGeek Wowly">
     <title lang="es">Maraton  Energeek 3</title>
@@ -378,37 +344,37 @@
     <title lang="es">Maraton  Energeek 3</title>
     <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
-  <programme start="20221005000000 -0300" stop="20221005030000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20221008000000 -0300" stop="20221008030000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
-  <programme start="20221005030000 -0300" stop="20221005060000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20221008030000 -0300" stop="20221008060000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
-  <programme start="20221005060000 -0300" stop="20221005090000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20221008060000 -0300" stop="20221008090000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
-  <programme start="20221005090000 -0300" stop="20221005120000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20221008090000 -0300" stop="20221008120000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
-  <programme start="20221005120000 -0300" stop="20221005150000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20221008120000 -0300" stop="20221008150000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
-  <programme start="20221005150000 -0300" stop="20221005180000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20221008150000 -0300" stop="20221008180000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
-  <programme start="20221005180000 -0300" stop="20221005210000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20221008180000 -0300" stop="20221008210000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
-  <programme start="20221005210000 -0300" stop="20221006000000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20221008210000 -0300" stop="20221009000000 -0300" channel="EnerGeek Wowly">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial 80s Energeek Wowly</desc>
   </programme>
   <programme start="20221006000000 -0300" stop="20221006030000 -0300" channel="EnerGeek 4">
     <title lang="es">Maraton  Energeek 4</title>
@@ -478,37 +444,37 @@
     <title lang="es">Maraton  Energeek 4</title>
     <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20221005000000 -0300" stop="20221005030000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20221008000000 -0300" stop="20221008030000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20221005030000 -0300" stop="20221005060000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20221008030000 -0300" stop="20221008060000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20221005060000 -0300" stop="20221005090000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20221008060000 -0300" stop="20221008090000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20221005090000 -0300" stop="20221005120000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20221008090000 -0300" stop="20221008120000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20221005120000 -0300" stop="20221005150000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20221008120000 -0300" stop="20221008150000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20221005150000 -0300" stop="20221005180000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20221008150000 -0300" stop="20221008180000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20221005180000 -0300" stop="20221005210000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20221008180000 -0300" stop="20221008210000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20221005210000 -0300" stop="20221006000000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20221008210000 -0300" stop="20221009000000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
   <programme start="20221006000000 -0300" stop="20221006030000 -0300" channel="EnerGeek Radio TV">
     <title lang="es">Videos especiales</title>
@@ -575,6 +541,38 @@
     <desc lang="es">Energeek Radio TV</desc>
   </programme>
   <programme start="20221007233000 -0300" stop="20221008000000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20221008000000 -0300" stop="20221008030000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20221008030000 -0300" stop="20221008060000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20221008060000 -0300" stop="20221008090000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20221008090000 -0300" stop="20221008120000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20221008120000 -0300" stop="20221008150000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20221008150000 -0300" stop="20221008180000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20221008180000 -0300" stop="20221008210000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20221008210000 -0300" stop="20221009000000 -0300" channel="EnerGeek Radio TV">
     <title lang="es">Videos especiales</title>
     <desc lang="es">Energeek Radio TV</desc>
   </programme>
