@@ -5,34 +5,6 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20221006010000 -0600" stop="20221006080000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221006080000 -0600" stop="20221006140000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221006140000 -0600" stop="20221006160000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Voice Over Jams</title>
-  </programme>
-  <programme start="20221006160000 -0600" stop="20221006170000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221006170000 -0600" stop="20221006190000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">V.O. Specials</title>
-  </programme>
-  <programme start="20221006190000 -0600" stop="20221006210000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Hit Movies</title>
-    <category lang="es">Cine</category>
-  </programme>
-  <programme start="20221006210000 -0600" stop="20221006220000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221006220000 -0600" stop="20221006230000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Mas Que Podcast</title>
-  </programme>
-  <programme start="20221006230000 -0600" stop="20221007010000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
   <programme start="20221007010000 -0600" stop="20221007070000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
@@ -225,6 +197,34 @@
     <title lang="es">Lucifer</title>
   </programme>
   <programme start="20221012204500 -0600" stop="20221013010000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221013010000 -0600" stop="20221013080000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221013080000 -0600" stop="20221013140000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221013140000 -0600" stop="20221013160000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Voice Over Jams</title>
+  </programme>
+  <programme start="20221013160000 -0600" stop="20221013170000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221013170000 -0600" stop="20221013190000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">V.O. Specials</title>
+  </programme>
+  <programme start="20221013190000 -0600" stop="20221013210000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Hit Movies</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20221013210000 -0600" stop="20221013220000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221013220000 -0600" stop="20221013230000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Mas Que Podcast</title>
+  </programme>
+  <programme start="20221013230000 -0600" stop="20221014010000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
 </tv>
