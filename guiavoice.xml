@@ -5,49 +5,6 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20221007010000 -0600" stop="20221007070000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221007070000 -0600" stop="20221007130000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221007130000 -0600" stop="20221007140000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Medley Mixes</title>
-  </programme>
-  <programme start="20221007140000 -0600" stop="20221007150000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221007150000 -0600" stop="20221007170000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Movie Flow</title>
-    <category lang="es">Cine</category>
-  </programme>
-  <programme start="20221007170000 -0600" stop="20221007180000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221007180000 -0600" stop="20221007184500 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">La Reina del Flow</title>
-  </programme>
-  <programme start="20221007184500 -0600" stop="20221007200000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221007200000 -0600" stop="20221007205000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Breaking Bad</title>
-  </programme>
-  <programme start="20221007205000 -0600" stop="20221007210000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221007210000 -0600" stop="20221007212500 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">2 Hombres y Medio</title>
-  </programme>
-  <programme start="20221007212500 -0600" stop="20221007220000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221007220000 -0600" stop="20221007230000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Plancha Forever</title>
-  </programme>
-  <programme start="20221007230000 -0600" stop="20221008010000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
   <programme start="20221008010000 -0600" stop="20221008070000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
@@ -225,6 +182,49 @@
     <title lang="es">Mas Que Podcast</title>
   </programme>
   <programme start="20221013230000 -0600" stop="20221014010000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221014010000 -0600" stop="20221014070000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221014070000 -0600" stop="20221014130000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221014130000 -0600" stop="20221014140000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Medley Mixes</title>
+  </programme>
+  <programme start="20221014140000 -0600" stop="20221014150000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221014150000 -0600" stop="20221014170000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Movie Flow</title>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20221014170000 -0600" stop="20221014180000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221014180000 -0600" stop="20221014184500 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">La Reina del Flow</title>
+  </programme>
+  <programme start="20221014184500 -0600" stop="20221014200000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221014200000 -0600" stop="20221014205000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Breaking Bad</title>
+  </programme>
+  <programme start="20221014205000 -0600" stop="20221014210000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221014210000 -0600" stop="20221014212500 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">2 Hombres y Medio</title>
+  </programme>
+  <programme start="20221014212500 -0600" stop="20221014220000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221014220000 -0600" stop="20221014230000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Plancha Forever</title>
+  </programme>
+  <programme start="20221014230000 -0600" stop="20221015010000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
 </tv>
