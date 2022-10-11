@@ -5,36 +5,6 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20221009010000 -0600" stop="20221009080000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221009080000 -0600" stop="20221009140000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221009140000 -0600" stop="20221009160000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Voice Over Jams</title>
-  </programme>
-  <programme start="20221009160000 -0600" stop="20221009170000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221009170000 -0600" stop="20221009180000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">VO Live Mixes</title>
-  </programme>
-  <programme start="20221009180000 -0600" stop="20221009200000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221009200000 -0600" stop="20221009202100 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20221009202100 -0600" stop="20221009210000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
-  <programme start="20221009210000 -0600" stop="20221009220000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Tapon - Feeling</title>
-  </programme>
-  <programme start="20221009220000 -0600" stop="20221010010000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-  </programme>
   <programme start="20221010010000 -0600" stop="20221010080000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
@@ -225,6 +195,36 @@
     <title lang="es">Plancha Forever</title>
   </programme>
   <programme start="20221015230000 -0600" stop="20221016010000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221016010000 -0600" stop="20221016080000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221016080000 -0600" stop="20221016140000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221016140000 -0600" stop="20221016160000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Voice Over Jams</title>
+  </programme>
+  <programme start="20221016160000 -0600" stop="20221016170000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221016170000 -0600" stop="20221016180000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">VO Live Mixes</title>
+  </programme>
+  <programme start="20221016180000 -0600" stop="20221016200000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221016200000 -0600" stop="20221016202100 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20221016202100 -0600" stop="20221016210000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+  </programme>
+  <programme start="20221016210000 -0600" stop="20221016220000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Tapon - Feeling</title>
+  </programme>
+  <programme start="20221016220000 -0600" stop="20221017010000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
   </programme>
 </tv>
