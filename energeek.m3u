@@ -1,28 +1,28 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="EnerGeek" tvg-name="EnerGeek" tvg-logo="https://drive.google.com/uc?export=view&id=1VVRrptTwKLO6Wn_ov9bwtsoxBWAGevY0" group-title="ENERGEEK",EnerGeek | Chile
-https://energeek.cl/canal-1
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://drive.google.com/uc?export=view&id=1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-" group-title="ENERGEEK",Energeek Fanpop | Chile
-https://energeek.cl/canal-fanpop
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="ENERGEEK",Energeek Fanpop op | Chile
+#EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="ENERGEEK",Energeek Fanpop (R) | Chile
 https://stream.wifiexpert.cl/energeek/EGFanpop/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="ENERGEEK",Energeek Wowly | Chile
-https://energeek.cl/canal-wowly
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="ENERGEEK",Energeek Wowly op | Chile
+#EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="ENERGEEK",Energeek Wowly (R) | Chile
 https://stream.wifiexpert.cl/energeek/EGWowly/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek 4" tvg-name="EnerGeek 4" tvg-logo="https://i.imgur.com/7tkKjoM.png" group-title="NIÑOS Y JOVENES",EnerGeek 4 | Chile
 https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="NIÑOS Y JOVENES",Energeek Radio TV | Chile
-https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
+https://streamtest.energeek.cl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio" tvg-name="EnerGeek Radio (Audio)" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="NIÑOS Y JOVENES",Energeek Radio | Chile
 https://radiotest.energeek.cl/energeekradio.mp3
 
-#EXTINF:-1 tvg-id="EnerGeek Radio" tvg-name="EnerGeek Radio (Audio)" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="NIÑOS Y JOVENES",Energeek Radio OP | Chile
+#EXTINF:-1 tvg-id="EnerGeek Radio" tvg-name="EnerGeek Radio (Audio)" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="NIÑOS Y JOVENES",Energeek Radio (R) | Chile
 http://betatest.fplayzyt.club:8050/energeekradio.mp3
