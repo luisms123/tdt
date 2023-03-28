@@ -25,72 +25,6 @@
     <icon src="https://i.imgur.com/PzEK6DI.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20230327070000 -0300" stop="20230327080000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327080000 -0300" stop="20230327083000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Nivel 4 Toma el Control</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327083000 -0300" stop="20230327090000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Legend Heroes</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327090000 -0300" stop="20230327110000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327110000 -0300" stop="20230327133000 -0300" channel="EnerGeek Retro">
-    <title lang="es">F1 con Diego</title>
-    <desc lang="es">Todo lo relacionado con la formula 1</desc>
-    <icon src="https://www.compulms.com/xml/imagenes/f1condiego.jpg" />
-  </programme>
-  <programme start="20230327133000 -0300" stop="20230327150000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327150000 -0300" stop="20230327153000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Cultura Videojuegos</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327153000 -0300" stop="20230327160000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Vitrola Gamer</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327160000 -0300" stop="20230327183000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Radio Rockslide</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327183000 -0300" stop="20230327190000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Reseño Para Ti</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327190000 -0300" stop="20230327193000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Cultura Videojuegos</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327193000 -0300" stop="20230327200000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Vitrola Gamer</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327200000 -0300" stop="20230327203000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Nivel 4 Toma el Control</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327203000 -0300" stop="20230327210000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Legend Heroes</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20230327210000 -0300" stop="20230327233000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Medio en Broma Medio en Serio</title>
-    <desc lang="es">Medio en Broma, Medio en Serio junto a Fernando analizamos el acontecer nacional y en ocasiones nos besamos para romper la tension entre tu y yo</desc>
-    <icon src="https://www.compulms.com/xml/imagenes/medioenbroma.jpg" />
-  </programme>
-  <programme start="20230327233000 -0300" stop="20230328010000 -0300" channel="EnerGeek Retro">
-    <title lang="es">Mwrestling</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
   <programme start="20230328010000 -0300" stop="20230328013000 -0300" channel="EnerGeek Retro">
     <title lang="es">Reseño Para Ti</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
@@ -285,29 +219,102 @@
     <title lang="es">Mwrestling</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230327060000 -0300" stop="20230327090000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Modoradio.cl en Energeek</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20230330010000 -0300" stop="20230330013000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Reseño Para Ti</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230327090000 -0300" stop="20230327120000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Modoradio.cl en Energeek</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20230330013000 -0300" stop="20230330020000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Cultura Videojuegos</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230327120000 -0300" stop="20230327150000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Modoradio.cl en Energeek</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20230330020000 -0300" stop="20230330023000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Vitrola Gamer</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230327150000 -0300" stop="20230327180000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Modoradio.cl en Energeek</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20230330023000 -0300" stop="20230330030000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Nivel 4 Toma el Control</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230327180000 -0300" stop="20230327210000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Modoradio.cl en Energeek</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20230330030000 -0300" stop="20230330033000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Legend Heroes</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230327210000 -0300" stop="20230328000000 -0300" channel="EnerGeek Fanpop">
-    <title lang="es">Modoradio.cl en Energeek</title>
-    <desc lang="es">Especial Energeek Fanpop</desc>
+  <programme start="20230330033000 -0300" stop="20230330060000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Documentales</title>
+    <desc lang="es">Recorre el mundo que nos rodea y viaja a lugares fantásticos. Conoce más de nuestro Planeta en este espacio</desc>
+  </programme>
+  <programme start="20230330060000 -0300" stop="20230330063000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Nivel 4 Toma el Control</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330063000 -0300" stop="20230330070000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Legend Heroes</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330070000 -0300" stop="20230330080000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Energeek Music</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330080000 -0300" stop="20230330083000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Nivel 4 Toma el Control</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330083000 -0300" stop="20230330090000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Legend Heroes</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330090000 -0300" stop="20230330110000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Energeek Music</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330110000 -0300" stop="20230330133000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Press Start</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330133000 -0300" stop="20230330150000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Energeek Music</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330150000 -0300" stop="20230330153000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Cultura Videojuegos</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330153000 -0300" stop="20230330160000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Vitrola Gamer</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330160000 -0300" stop="20230330183000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Rincon Musking</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330183000 -0300" stop="20230330190000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Reseño Para Ti</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330190000 -0300" stop="20230330193000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Cultura Videojuegos</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330193000 -0300" stop="20230330200000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Vitrola Gamer</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330200000 -0300" stop="20230330203000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Nivel 4 Toma el Control</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330203000 -0300" stop="20230330210000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Legend Heroes</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230330210000 -0300" stop="20230330233000 -0300" channel="EnerGeek Retro">
+    <title lang="es">Taberna Ñoña</title>
+    <desc lang="es">El único lugar donde donde la parranda y la cultura geek se unen. Rellena tu jarra con el trago que quieras mientras discutimos de videojuegos, comics, anime,manga y todo aquello que te apasiona y amas</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/taberna.jpg" />
+  </programme>
+  <programme start="20230330233000 -0300" stop="20230331010000 -0300" channel="EnerGeek Retro">
+    <title lang="es">GCW</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
   <programme start="20230328000000 -0300" stop="20230328030000 -0300" channel="EnerGeek Fanpop">
     <title lang="es">Modoradio.cl en Energeek</title>
@@ -373,37 +380,37 @@
     <title lang="es">Modoradio.cl en Energeek</title>
     <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20230327000000 -0300" stop="20230327030000 -0300" channel="EnerGeek Animate">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial Energeek Animate</desc>
+  <programme start="20230330000000 -0300" stop="20230330030000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Modoradio.cl en Energeek</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20230327030000 -0300" stop="20230327060000 -0300" channel="EnerGeek Animate">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial Energeek Animate</desc>
+  <programme start="20230330030000 -0300" stop="20230330060000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Modoradio.cl en Energeek</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20230327060000 -0300" stop="20230327090000 -0300" channel="EnerGeek Animate">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial Energeek Animate</desc>
+  <programme start="20230330060000 -0300" stop="20230330090000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Modoradio.cl en Energeek</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20230327090000 -0300" stop="20230327120000 -0300" channel="EnerGeek Animate">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial Energeek Animate</desc>
+  <programme start="20230330090000 -0300" stop="20230330120000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Modoradio.cl en Energeek</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20230327120000 -0300" stop="20230327150000 -0300" channel="EnerGeek Animate">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial Energeek Animate</desc>
+  <programme start="20230330120000 -0300" stop="20230330150000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Modoradio.cl en Energeek</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20230327150000 -0300" stop="20230327180000 -0300" channel="EnerGeek Animate">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial Energeek Animate</desc>
+  <programme start="20230330150000 -0300" stop="20230330180000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Modoradio.cl en Energeek</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20230327180000 -0300" stop="20230327210000 -0300" channel="EnerGeek Animate">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial Energeek Animate</desc>
+  <programme start="20230330180000 -0300" stop="20230330210000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Modoradio.cl en Energeek</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
-  <programme start="20230327210000 -0300" stop="20230328000000 -0300" channel="EnerGeek Animate">
-    <title lang="es">Maraton  Energeek 3</title>
-    <desc lang="es">Especial Energeek Animate</desc>
+  <programme start="20230330210000 -0300" stop="20230331000000 -0300" channel="EnerGeek Fanpop">
+    <title lang="es">Modoradio.cl en Energeek</title>
+    <desc lang="es">Especial Energeek Fanpop</desc>
   </programme>
   <programme start="20230328000000 -0300" stop="20230328030000 -0300" channel="EnerGeek Animate">
     <title lang="es">Maraton  Energeek 3</title>
@@ -469,37 +476,37 @@
     <title lang="es">Maraton  Energeek 3</title>
     <desc lang="es">Especial Energeek Animate</desc>
   </programme>
-  <programme start="20230327000000 -0300" stop="20230327030000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20230330000000 -0300" stop="20230330030000 -0300" channel="EnerGeek Animate">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial Energeek Animate</desc>
   </programme>
-  <programme start="20230327030000 -0300" stop="20230327060000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20230330030000 -0300" stop="20230330060000 -0300" channel="EnerGeek Animate">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial Energeek Animate</desc>
   </programme>
-  <programme start="20230327060000 -0300" stop="20230327090000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20230330060000 -0300" stop="20230330090000 -0300" channel="EnerGeek Animate">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial Energeek Animate</desc>
   </programme>
-  <programme start="20230327090000 -0300" stop="20230327120000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20230330090000 -0300" stop="20230330120000 -0300" channel="EnerGeek Animate">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial Energeek Animate</desc>
   </programme>
-  <programme start="20230327120000 -0300" stop="20230327150000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20230330120000 -0300" stop="20230330140000 -0300" channel="EnerGeek Animate">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial Energeek Animate</desc>
   </programme>
-  <programme start="20230327150000 -0300" stop="20230327180000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20230330140000 -0300" stop="20230330153000 -0300" channel="EnerGeek Animate">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial Energeek Animate</desc>
   </programme>
-  <programme start="20230327180000 -0300" stop="20230327210000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20230330153000 -0300" stop="20230330210000 -0300" channel="EnerGeek Animate">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial Energeek Animate</desc>
   </programme>
-  <programme start="20230327210000 -0300" stop="20230328000000 -0300" channel="EnerGeek 4">
-    <title lang="es">Maraton  Energeek 4</title>
-    <desc lang="es">Energeek 4</desc>
+  <programme start="20230330210000 -0300" stop="20230331000000 -0300" channel="EnerGeek Animate">
+    <title lang="es">Maraton  Energeek 3</title>
+    <desc lang="es">Especial Energeek Animate</desc>
   </programme>
   <programme start="20230328000000 -0300" stop="20230328030000 -0300" channel="EnerGeek 4">
     <title lang="es">Maraton  Energeek 4</title>
@@ -565,37 +572,37 @@
     <title lang="es">Maraton  Energeek 4</title>
     <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20230327000000 -0300" stop="20230327030000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos Musicales Especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20230330000000 -0300" stop="20230330030000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20230327030000 -0300" stop="20230327060000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos Musicales Especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20230330030000 -0300" stop="20230330060000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20230327060000 -0300" stop="20230327090000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos Musicales Especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20230330060000 -0300" stop="20230330090000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20230327090000 -0300" stop="20230327120000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos Musicales Especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20230330090000 -0300" stop="20230330120000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20230327120000 -0300" stop="20230327150000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos Musicales Especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20230330120000 -0300" stop="20230330140000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20230327150000 -0300" stop="20230327180000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos Musicales Especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20230330140000 -0300" stop="20230330153000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20230327180000 -0300" stop="20230327210000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos Musicales Especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20230330153000 -0300" stop="20230330210000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
-  <programme start="20230327210000 -0300" stop="20230328000000 -0300" channel="EnerGeek Radio TV">
-    <title lang="es">Videos Musicales Especiales</title>
-    <desc lang="es">Energeek Radio TV</desc>
+  <programme start="20230330210000 -0300" stop="20230331000000 -0300" channel="EnerGeek 4">
+    <title lang="es">Maraton  Energeek 4</title>
+    <desc lang="es">Energeek 4</desc>
   </programme>
   <programme start="20230328000000 -0300" stop="20230328030000 -0300" channel="EnerGeek Radio TV">
     <title lang="es">Videos Musicales Especiales</title>
@@ -658,6 +665,38 @@
     <desc lang="es">Energeek Radio TV</desc>
   </programme>
   <programme start="20230329210000 -0300" stop="20230330000000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos Musicales Especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20230330000000 -0300" stop="20230330030000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos Musicales Especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20230330030000 -0300" stop="20230330060000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos Musicales Especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20230330060000 -0300" stop="20230330090000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos Musicales Especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20230330090000 -0300" stop="20230330120000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos Musicales Especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20230330120000 -0300" stop="20230330150000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos Musicales Especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20230330150000 -0300" stop="20230330180000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos Musicales Especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20230330180000 -0300" stop="20230330210000 -0300" channel="EnerGeek Radio TV">
+    <title lang="es">Videos Musicales Especiales</title>
+    <desc lang="es">Energeek Radio TV</desc>
+  </programme>
+  <programme start="20230330210000 -0300" stop="20230331000000 -0300" channel="EnerGeek Radio TV">
     <title lang="es">Videos Musicales Especiales</title>
     <desc lang="es">Energeek Radio TV</desc>
   </programme>
