@@ -25,153 +25,332 @@
     <icon src="https://i.imgur.com/PzEK6DI.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20230405020000 -0400" stop="20230405030000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
+  <programme start="20230405020000 -0400" stop="20230405023000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230405023000 -0400" stop="20230405030000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
   </programme>
   <programme start="20230405030000 -0400" stop="20230405033000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Legend Heroes</title>
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230405033000 -0400" stop="20230405040000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230405033000 -0400" stop="20230405060000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Documentales</title>
-    <desc lang="es">Recorre el mundo que nos rodea y viaja a lugares fantásticos. Conoce más de nuestro Planeta en este espacio</desc>
+  <programme start="20230405040000 -0400" stop="20230405043000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
-  <programme start="20230405060000 -0400" stop="20230405070000 -0400" channel="EnerGeek Retro">
+  <programme start="20230405043000 -0400" stop="20230405070000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Concertorama</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230405070000 -0400" stop="20230405083000 -0400" channel="EnerGeek Retro">
     <title lang="es">Energeek Music</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230405070000 -0400" stop="20230405110000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
+  <programme start="20230405083000 -0400" stop="20230405090000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230405110000 -0400" stop="20230405133000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Radio Rockslide</title>
+  <programme start="20230405090000 -0400" stop="20230405093000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
+  </programme>
+  <programme start="20230405093000 -0400" stop="20230405100000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230405100000 -0400" stop="20230405103000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230405133000 -0400" stop="20230405150000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
+  <programme start="20230405103000 -0400" stop="20230405110000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
+  </programme>
+  <programme start="20230405110000 -0400" stop="20230405113000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Candy Candy</title>
+    <desc lang="es">Candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; es abandonada de bebé en la nieve con una muñeca que tiene el nombre de Candy, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida</desc>
+  </programme>
+  <programme start="20230405113000 -0400" stop="20230405123000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Somos N deluxe</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230405150000 -0400" stop="20230405160000 -0400" channel="EnerGeek Retro">
-    <title lang="es">N Deluxe</title>
+  <programme start="20230405123000 -0400" stop="20230405150000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Cinerama</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230405160000 -0400" stop="20230405183000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Fan el Programa</title>
+  <programme start="20230405150000 -0400" stop="20230405173000 -0400" channel="EnerGeek Retro">
+    <title lang="es">F1 Con Diego</title>
+    <desc lang="es">Todo lo relacionado con la formula 1</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/f1condiego.jpg" />
+  </programme>
+  <programme start="20230405173000 -0400" stop="20230405180000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230405183000 -0400" stop="20230405210000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Radio Rockslide</title>
+  <programme start="20230405180000 -0400" stop="20230405183000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
+  </programme>
+  <programme start="20230405183000 -0400" stop="20230405190000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230405190000 -0400" stop="20230405193000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230405193000 -0400" stop="20230405200000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
+  </programme>
+  <programme start="20230405200000 -0400" stop="20230405203000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Candy Candy</title>
+    <desc lang="es">Candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; es abandonada de bebé en la nieve con una muñeca que tiene el nombre de Candy, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida</desc>
+  </programme>
+  <programme start="20230405203000 -0400" stop="20230405210000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Somos N deluxe</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
   <programme start="20230405210000 -0400" stop="20230405233000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Conejos Yoyos</title>
-    <desc lang="es">Programa Geek. Esperamos traer muchos jojos, conejos y mas</desc>
-    <icon src="https://www.compulms.com/xml/imagenes/conejos.jpg" />
+    <title lang="es">Medio en Broma Medio en Serio</title>
+    <desc lang="es">Medio en Broma, Medio en Serio junto a Fernando analizamos el acontecer nacional y en ocasiones nos besamos para romper la tension entre tu y yo</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/medioenbroma.jpg" />
   </programme>
   <programme start="20230405233000 -0400" stop="20230406020000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Dramatical Review</title>
+    <title lang="es">El Juego de la Politica</title>
+    <desc lang="es">Hablemos de politica</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/politica.jpg" />
+  </programme>
+  <programme start="20230406020000 -0400" stop="20230406023000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230406020000 -0400" stop="20230406030000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
+  <programme start="20230406023000 -0400" stop="20230406030000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
   </programme>
   <programme start="20230406030000 -0400" stop="20230406033000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Legend Heroes</title>
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230406033000 -0400" stop="20230406040000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230406033000 -0400" stop="20230406060000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Documentales</title>
-    <desc lang="es">Recorre el mundo que nos rodea y viaja a lugares fantásticos. Conoce más de nuestro Planeta en este espacio</desc>
+  <programme start="20230406040000 -0400" stop="20230406043000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
-  <programme start="20230406060000 -0400" stop="20230406070000 -0400" channel="EnerGeek Retro">
+  <programme start="20230406043000 -0400" stop="20230406070000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Concertorama</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230406070000 -0400" stop="20230406083000 -0400" channel="EnerGeek Retro">
     <title lang="es">Energeek Music</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230406070000 -0400" stop="20230406110000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
+  <programme start="20230406083000 -0400" stop="20230406090000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230406110000 -0400" stop="20230406133000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Press Start</title>
+  <programme start="20230406090000 -0400" stop="20230406093000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
+  </programme>
+  <programme start="20230406093000 -0400" stop="20230406100000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230406100000 -0400" stop="20230406103000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230406133000 -0400" stop="20230406150000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
+  <programme start="20230406103000 -0400" stop="20230406110000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
+  </programme>
+  <programme start="20230406110000 -0400" stop="20230406113000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Candy Candy</title>
+    <desc lang="es">Candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; es abandonada de bebé en la nieve con una muñeca que tiene el nombre de Candy, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida</desc>
+  </programme>
+  <programme start="20230406113000 -0400" stop="20230406123000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Somos N deluxe</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230406150000 -0400" stop="20230406160000 -0400" channel="EnerGeek Retro">
-    <title lang="es">N Deluxe</title>
+  <programme start="20230406123000 -0400" stop="20230406150000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Cinerama</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230406160000 -0400" stop="20230406183000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Rincon Musking</title>
+  <programme start="20230406150000 -0400" stop="20230406173000 -0400" channel="EnerGeek Retro">
+    <title lang="es">F1 Con Diego</title>
+    <desc lang="es">Todo lo relacionado con la formula 1</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/f1condiego.jpg" />
+  </programme>
+  <programme start="20230406173000 -0400" stop="20230406180000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230406183000 -0400" stop="20230406210000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Radio Rockslide</title>
+  <programme start="20230406180000 -0400" stop="20230406183000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
+  </programme>
+  <programme start="20230406183000 -0400" stop="20230406190000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230406190000 -0400" stop="20230406193000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230406193000 -0400" stop="20230406200000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
+  </programme>
+  <programme start="20230406200000 -0400" stop="20230406203000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Candy Candy</title>
+    <desc lang="es">Candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; es abandonada de bebé en la nieve con una muñeca que tiene el nombre de Candy, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida</desc>
+  </programme>
+  <programme start="20230406203000 -0400" stop="20230406210000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Somos N deluxe</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
   <programme start="20230406210000 -0400" stop="20230406233000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Taberna Ñoña</title>
-    <desc lang="es">El único lugar donde donde la parranda y la cultura geek se unen. Rellena tu jarra con el trago que quieras mientras discutimos de videojuegos, comics, anime,manga y todo aquello que te apasiona y amas</desc>
-    <icon src="https://www.compulms.com/xml/imagenes/taberna.jpg" />
+    <title lang="es">Medio en Broma Medio en Serio</title>
+    <desc lang="es">Medio en Broma, Medio en Serio junto a Fernando analizamos el acontecer nacional y en ocasiones nos besamos para romper la tension entre tu y yo</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/medioenbroma.jpg" />
   </programme>
   <programme start="20230406233000 -0400" stop="20230407020000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Poptualizate</title>
+    <title lang="es">El Juego de la Politica</title>
+    <desc lang="es">Hablemos de politica</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/politica.jpg" />
+  </programme>
+  <programme start="20230407020000 -0400" stop="20230407023000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230407020000 -0400" stop="20230407030000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
+  <programme start="20230407023000 -0400" stop="20230407030000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
   </programme>
   <programme start="20230407030000 -0400" stop="20230407033000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Legend Heroes</title>
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230407033000 -0400" stop="20230407040000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230407033000 -0400" stop="20230407060000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Documentales</title>
-    <desc lang="es">Recorre el mundo que nos rodea y viaja a lugares fantásticos. Conoce más de nuestro Planeta en este espacio</desc>
+  <programme start="20230407040000 -0400" stop="20230407043000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
-  <programme start="20230407060000 -0400" stop="20230407070000 -0400" channel="EnerGeek Retro">
+  <programme start="20230407043000 -0400" stop="20230407070000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Concertorama</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230407070000 -0400" stop="20230407083000 -0400" channel="EnerGeek Retro">
     <title lang="es">Energeek Music</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230407070000 -0400" stop="20230407110000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
+  <programme start="20230407083000 -0400" stop="20230407090000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230407110000 -0400" stop="20230407133000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Taberna Ñoña</title>
-    <desc lang="es">El único lugar donde donde la parranda y la cultura geek se unen. Rellena tu jarra con el trago que quieras mientras discutimos de videojuegos, comics, anime,manga y todo aquello que te apasiona y amas</desc>
-    <icon src="https://www.compulms.com/xml/imagenes/taberna.jpg" />
+  <programme start="20230407090000 -0400" stop="20230407093000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
   </programme>
-  <programme start="20230407133000 -0400" stop="20230407150000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Energeek Music</title>
+  <programme start="20230407093000 -0400" stop="20230407100000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230407100000 -0400" stop="20230407103000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230407150000 -0400" stop="20230407160000 -0400" channel="EnerGeek Retro">
-    <title lang="es">N Deluxe</title>
+  <programme start="20230407103000 -0400" stop="20230407110000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
+  </programme>
+  <programme start="20230407110000 -0400" stop="20230407113000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Candy Candy</title>
+    <desc lang="es">Candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; es abandonada de bebé en la nieve con una muñeca que tiene el nombre de Candy, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida</desc>
+  </programme>
+  <programme start="20230407113000 -0400" stop="20230407123000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Somos N deluxe</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230407160000 -0400" stop="20230407183000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Chewie Programa</title>
+  <programme start="20230407123000 -0400" stop="20230407150000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Cinerama</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20230407183000 -0400" stop="20230407210000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Radio Rockslide</title>
+  <programme start="20230407150000 -0400" stop="20230407173000 -0400" channel="EnerGeek Retro">
+    <title lang="es">F1 Con Diego</title>
+    <desc lang="es">Todo lo relacionado con la formula 1</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/f1condiego.jpg" />
+  </programme>
+  <programme start="20230407173000 -0400" stop="20230407180000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Bob and Margaret</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230407180000 -0400" stop="20230407183000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dragon Ball</title>
+    <desc lang="es">Las aventuras de Goku, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea</desc>
+  </programme>
+  <programme start="20230407183000 -0400" stop="20230407190000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Reboot</title>
+    <desc lang="es">Bob, un joven cadete que trabaja con una supercomputadora, llega a MainFrame para acabar con una amenaza llamada MegaByte, un terrible virus informático que se encarga de hacer la vida imposible a los habitantes del lugar, y que fue traído por un experimento fallido del padre de Bob. Dot Matrix, chica joven e independiente que tiene un restaurante llamado Dot's Dinner, es quien ayuda a Bob a instalarse en MainFrame. Enzo Matrix, su hermano menor, se mete en problemas por entrar a los juegos que -El Usuario-, una entidad misteriosa, intenta jugar. Junto con ellos, Mike, el televisor parlante, hace amenas las aventuras de los héroes</desc>
+    <icon src="https://pics.filmaffinity.com/reboot-948055543-mmed.jpg" />
+  </programme>
+  <programme start="20230407190000 -0400" stop="20230407193000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Maison Ikoku</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20230407193000 -0400" stop="20230407200000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Ranma Saotome es un chico que sufre una peculiar maldición al caer en unos estanques malditos durante un entrenamiento de artes marciales. Desde aquel día, cuando se moja con agua fría se convierte en una guapa chica pelirroja, y al tener contacto con agua caliente vuelve a su estado original de chico</desc>
+    <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
+  </programme>
+  <programme start="20230407200000 -0400" stop="20230407203000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Candy Candy</title>
+    <desc lang="es">Candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; es abandonada de bebé en la nieve con una muñeca que tiene el nombre de Candy, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida</desc>
+  </programme>
+  <programme start="20230407203000 -0400" stop="20230407210000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Somos N deluxe</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
   <programme start="20230407210000 -0400" stop="20230407233000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Mario con el Llochi</title>
-    <desc lang="es">Espacio en el que podrás acercarte un poco mas al mundo geek y la -modificación- básica de consolas , añadiendo humor y la buena compañía en el proceso</desc>
-    <icon src="https://www.compulms.com/xml/imagenes/mariollochi.jpg" />
+    <title lang="es">Medio en Broma Medio en Serio</title>
+    <desc lang="es">Medio en Broma, Medio en Serio junto a Fernando analizamos el acontecer nacional y en ocasiones nos besamos para romper la tension entre tu y yo</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/medioenbroma.jpg" />
   </programme>
   <programme start="20230407233000 -0400" stop="20230408020000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Deporte Geek</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
+    <title lang="es">El Juego de la Politica</title>
+    <desc lang="es">Hablemos de politica</desc>
+    <icon src="https://www.compulms.com/xml/imagenes/politica.jpg" />
   </programme>
   <programme start="20230405000000 -0400" stop="20230405030000 -0400" channel="EnerGeek Fanpop">
     <title lang="es">Modoradio.cl en Energeek</title>
