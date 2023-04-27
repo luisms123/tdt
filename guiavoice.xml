@@ -5,41 +5,6 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20230426010000 -0600" stop="20230426080000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20230426080000 -0600" stop="20230426140000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20230426140000 -0600" stop="20230426160000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Voice Over Jams</title>
-    <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
-  </programme>
-  <programme start="20230426160000 -0600" stop="20230426173000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20230426173000 -0600" stop="20230426190000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">VO Live Mixes</title>
-  </programme>
-  <programme start="20230426190000 -0600" stop="20230426200000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Cultura Natural</title>
-    <desc lang="es">CULTURA NATURAL, un show lleno de vibras positivas, con entrevistas, invitados especiales, informacion actual y mucho mas..</desc>
-  </programme>
-  <programme start="20230426200000 -0600" stop="20230426210000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20230426210000 -0600" stop="20230426220000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Tapon - Feeling</title>
-    <desc lang="es">Si eres amante del Reggae Old School este programa es para ti, conducido por el artista veterano y multifasetico de la musica nacional Christian Gómez Tapón</desc>
-  </programme>
-  <programme start="20230426220000 -0600" stop="20230427010000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
   <programme start="20230427010000 -0600" stop="20230427080000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
@@ -289,6 +254,41 @@
     <desc lang="es">Monica, Rachel, Phoebe, Chandler, Ross y Joey son seis amigos treintañeros que viven en Nueva York. Juntos afrontan con humor las dificultades propias de su edad: líos amorosos, trabajo, familia y su propia convivencia</desc>
   </programme>
   <programme start="20230502212500 -0600" stop="20230503010000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230503010000 -0600" stop="20230503080000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230503080000 -0600" stop="20230503140000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230503140000 -0600" stop="20230503160000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Voice Over Jams</title>
+    <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
+  </programme>
+  <programme start="20230503160000 -0600" stop="20230503173000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230503173000 -0600" stop="20230503190000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">VO Live Mixes</title>
+  </programme>
+  <programme start="20230503190000 -0600" stop="20230503200000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Cultura Natural</title>
+    <desc lang="es">CULTURA NATURAL, un show lleno de vibras positivas, con entrevistas, invitados especiales, informacion actual y mucho mas..</desc>
+  </programme>
+  <programme start="20230503200000 -0600" stop="20230503210000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230503210000 -0600" stop="20230503220000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Tapon - Feeling</title>
+    <desc lang="es">Si eres amante del Reggae Old School este programa es para ti, conducido por el artista veterano y multifasetico de la musica nacional Christian Gómez Tapón</desc>
+  </programme>
+  <programme start="20230503220000 -0600" stop="20230504010000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
