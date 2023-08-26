@@ -5,42 +5,6 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20230825010000 -0600" stop="20230825080000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20230825080000 -0600" stop="20230825140000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20230825140000 -0600" stop="20230825160000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Voice Over Jams</title>
-    <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
-  </programme>
-  <programme start="20230825160000 -0600" stop="20230825170000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20230825170000 -0600" stop="20230825190000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">V.O. Specials</title>
-    <desc lang="es">Un espacio en donde podras observar biografias, detras de camas, el como se hizo historias y mucho mas..</desc>
-  </programme>
-  <programme start="20230825190000 -0600" stop="20230825210000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Hit Movies</title>
-    <desc lang="es">Disfruta de lo mejor de las peliculas que marcaron un antes y un despues en el cine</desc>
-  </programme>
-  <programme start="20230825210000 -0600" stop="20230825220000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20230825220000 -0600" stop="20230825230000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Geek Plus</title>
-    <desc lang="es">Un programa dedicado a los amantes de los video juegos, noticias e informacion de peliculas y avances tecnologicos</desc>
-  </programme>
-  <programme start="20230825230000 -0600" stop="20230826010000 -0600" channel="Voice Over Radio y TV">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
   <programme start="20230826010000 -0600" stop="20230826070000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
@@ -290,6 +254,42 @@
     <desc lang="es">Harto del infierno, Lucifer abandona su trono en el averno y se marcha a Los Ángeles, donde empieza a trabajar como detective de homicidios</desc>
   </programme>
   <programme start="20230831204500 -0600" stop="20230901010000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230901010000 -0600" stop="20230901080000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230901080000 -0600" stop="20230901140000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230901140000 -0600" stop="20230901160000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Voice Over Jams</title>
+    <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
+  </programme>
+  <programme start="20230901160000 -0600" stop="20230901170000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230901170000 -0600" stop="20230901190000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">V.O. Specials</title>
+    <desc lang="es">Un espacio en donde podras observar biografias, detras de camas, el como se hizo historias y mucho mas..</desc>
+  </programme>
+  <programme start="20230901190000 -0600" stop="20230901210000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Hit Movies</title>
+    <desc lang="es">Disfruta de lo mejor de las peliculas que marcaron un antes y un despues en el cine</desc>
+  </programme>
+  <programme start="20230901210000 -0600" stop="20230901220000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20230901220000 -0600" stop="20230901230000 -0600" channel="Voice Over Radio y TV">
+    <title lang="es">Geek Plus</title>
+    <desc lang="es">Un programa dedicado a los amantes de los video juegos, noticias e informacion de peliculas y avances tecnologicos</desc>
+  </programme>
+  <programme start="20230901230000 -0600" stop="20230902010000 -0600" channel="Voice Over Radio y TV">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
