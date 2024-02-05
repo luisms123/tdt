@@ -5310,19 +5310,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240205003000 -0300" stop="20240205010000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240205010000 -0300" stop="20240205013000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240205013000 -0300" stop="20240205020000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240205020000 -0300" stop="20240205023000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240205023000 -0300" stop="20240205030000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5330,8 +5332,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240205030000 -0300" stop="20240205033000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240205033000 -0300" stop="20240205040000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5362,16 +5365,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240205063000 -0300" stop="20240205070000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240205070000 -0300" stop="20240205073000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240205073000 -0300" stop="20240205080000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240205080000 -0300" stop="20240205083000 -0300" channel="Retro Magico">
     <title lang="es">Ranma 1/2</title>
@@ -5379,19 +5383,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240205083000 -0300" stop="20240205090000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240205090000 -0300" stop="20240205093000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240205093000 -0300" stop="20240205100000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240205100000 -0300" stop="20240205103000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240205103000 -0300" stop="20240205110000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5399,8 +5405,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240205110000 -0300" stop="20240205113000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240205113000 -0300" stop="20240205120000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5431,16 +5438,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240205143000 -0300" stop="20240205150000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240205150000 -0300" stop="20240205153000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240205153000 -0300" stop="20240205160000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240205160000 -0300" stop="20240205163000 -0300" channel="Retro Magico">
     <title lang="es">Ranma 1/2</title>
@@ -5448,19 +5456,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240205163000 -0300" stop="20240205170000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240205170000 -0300" stop="20240205173000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240205173000 -0300" stop="20240205180000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240205180000 -0300" stop="20240205183000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240205183000 -0300" stop="20240205190000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5468,8 +5478,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240205190000 -0300" stop="20240205193000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240205193000 -0300" stop="20240205200000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5500,16 +5511,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240205223000 -0300" stop="20240205230000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240205230000 -0300" stop="20240205233000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240205233000 -0300" stop="20240206000000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240206000000 -0300" stop="20240206003000 -0300" channel="Retro Magico">
     <title lang="es">Ranma 1/2</title>
@@ -5517,19 +5529,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240206003000 -0300" stop="20240206010000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240206010000 -0300" stop="20240206013000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240206013000 -0300" stop="20240206020000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240206020000 -0300" stop="20240206023000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240206023000 -0300" stop="20240206030000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5537,8 +5551,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240206030000 -0300" stop="20240206033000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240206033000 -0300" stop="20240206040000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5569,16 +5584,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240206063000 -0300" stop="20240206070000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240206070000 -0300" stop="20240206073000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240206073000 -0300" stop="20240206080000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240206080000 -0300" stop="20240206083000 -0300" channel="Retro Magico">
     <title lang="es">Ranma 1/2</title>
@@ -5586,19 +5602,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240206083000 -0300" stop="20240206090000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240206090000 -0300" stop="20240206093000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240206093000 -0300" stop="20240206100000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240206100000 -0300" stop="20240206103000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240206103000 -0300" stop="20240206110000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5606,8 +5624,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240206110000 -0300" stop="20240206113000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240206113000 -0300" stop="20240206120000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5638,16 +5657,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240206143000 -0300" stop="20240206150000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240206150000 -0300" stop="20240206153000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240206153000 -0300" stop="20240206160000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240206160000 -0300" stop="20240206163000 -0300" channel="Retro Magico">
     <title lang="es">Ranma 1/2</title>
@@ -5655,19 +5675,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240206163000 -0300" stop="20240206170000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240206170000 -0300" stop="20240206173000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240206173000 -0300" stop="20240206180000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240206180000 -0300" stop="20240206183000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240206183000 -0300" stop="20240206190000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5675,8 +5697,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240206190000 -0300" stop="20240206193000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240206193000 -0300" stop="20240206200000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5707,16 +5730,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240206223000 -0300" stop="20240206230000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240206230000 -0300" stop="20240206233000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240206233000 -0300" stop="20240207000000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240207000000 -0300" stop="20240207003000 -0300" channel="Retro Magico">
     <title lang="es">Ranma 1/2</title>
@@ -5724,19 +5748,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240207003000 -0300" stop="20240207010000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240207010000 -0300" stop="20240207013000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240207013000 -0300" stop="20240207020000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240207020000 -0300" stop="20240207023000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240207023000 -0300" stop="20240207030000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5744,8 +5770,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240207030000 -0300" stop="20240207033000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240207033000 -0300" stop="20240207040000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5776,16 +5803,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240207063000 -0300" stop="20240207070000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240207070000 -0300" stop="20240207073000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240207073000 -0300" stop="20240207080000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240207080000 -0300" stop="20240207083000 -0300" channel="Retro Magico">
     <title lang="es">Ranma 1/2</title>
@@ -5793,19 +5821,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240207083000 -0300" stop="20240207090000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240207090000 -0300" stop="20240207093000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240207093000 -0300" stop="20240207100000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240207100000 -0300" stop="20240207103000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240207103000 -0300" stop="20240207110000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5813,8 +5843,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240207110000 -0300" stop="20240207113000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240207113000 -0300" stop="20240207120000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5845,16 +5876,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240207143000 -0300" stop="20240207150000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240207150000 -0300" stop="20240207153000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240207153000 -0300" stop="20240207160000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240207160000 -0300" stop="20240207163000 -0300" channel="Retro Magico">
     <title lang="es">Ranma 1/2</title>
@@ -5862,19 +5894,21 @@
     <icon src="https://pics.filmaffinity.com/ranma_1_2_ranma_1_2-109855866-mmed.jpg" />
   </programme>
   <programme start="20240207163000 -0300" stop="20240207170000 -0300" channel="Retro Magico">
-    <title lang="es">Ren y Stimpy</title>
+    <title lang="es">Caballeros del Zodiaco</title>
+    <desc lang="es">Cada vez que las fuerzas del mal ponen en peligro a la humanidad, los caballeros portan armaduras inspiradas en cada una de las 88 constelaciones que dominan el firmamento. En la batalla se sirven del “cosmos”, energía que rodea y equilibra a todos los elementos del universo</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/caballeros.jpg" />
   </programme>
   <programme start="20240207170000 -0300" stop="20240207173000 -0300" channel="Retro Magico">
-    <title lang="es">El Inspector Gadget</title>
-    <desc lang="es">Las aventuras del Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+    <title lang="es">Beetlejuice</title>
+    <desc lang="es">Beetlejuice tiene grandes poderes mágicos, aunque otros personajes del No-mundo también tienen magia, los poderes de Beetlejuice son enormemente superiores</desc>
   </programme>
   <programme start="20240207173000 -0300" stop="20240207180000 -0300" channel="Retro Magico">
-    <title lang="es">Los Verdaderos Cazafantasmas</title>
-    <desc lang="es">Las aventuras de los doctores Peter Venkman, Egon Spengler y Ray Stantz, de Winston Zeddemore, la secretaria Janine Melnitz y su mascota, el fantasma Pegajoso, en el negocio de la investigación de fenómenos paranormales</desc>
+    <title lang="es">Digimon</title>
+    <desc lang="es">Los Digimon son criados por humanos llamados -Tamers- (niños elegidos en Digimon Adventure y en su secuela Digimon 02) para combatir a los villanos que amenazan con destruir el equilibrio del Mundo Digital</desc>
   </programme>
   <programme start="20240207180000 -0300" stop="20240207183000 -0300" channel="Retro Magico">
-    <title lang="es">Conan El Niño del Futuro</title>
-    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+    <title lang="es">Samurai X</title>
+    <desc lang="es">A mediados del siglo XIX, la Revolución Meji significó el final del Shogunato y el principio de una nueva era para Japón. La victoria del bando reformista no hubiera sido posible sin la espada de un joven e implacable asesino apodado Hitokiri Battosai que tras el final del conflicto desapareció sin dejar rastro... Diez años después, el legendario Hitokiri Battosai ha reaparecido en Tokio asesinando a todo el que se cruza en su camino. Cuando su escuela se ve implicada en los crímines, la joven Kaoru Kamiya, propietaria y muestra del dojo Kamiya, sale a su encuentro. En su ayuda acude Kenshin Himura, un espadachín vagabundo que defiende a los más débiles con su espada de filo invertido</desc>
   </programme>
   <programme start="20240207183000 -0300" stop="20240207190000 -0300" channel="Retro Magico">
     <title lang="es">Sailor Moon</title>
@@ -5882,8 +5916,9 @@
     <icon src="https://www.compulms.net/xml/imagenes/sailor.jpg" />
   </programme>
   <programme start="20240207190000 -0300" stop="20240207193000 -0300" channel="Retro Magico">
-    <title lang="es">Rugrats - Aventuras en Pañales</title>
-    <desc lang="es">Un grupo de bebés llamados Tommy Pickles, Carlitos Finster, los gemelos Fili y Lili, la prima de Tommy llamada Angélica Pickles y Susie Carmichael, Así se conocen los acontecimientos que surgen en su vida y cómo ellos son capaces de transformarlos en una gran aventura gracias a su gran imaginación</desc>
+    <title lang="es">Sakura Card Captors</title>
+    <desc lang="es">La obra narra las aventuras de Sakura Kinomoto, una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que se encontraban dentro de un libro, el cual había descubierto en la biblioteca de su padre.Tras esto, Kero —el guardián del libro— emerge y, al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le dice a Sakura que ahora es su responsabilidad convertirse en una «cardcaptor» e ir en busca de ellas para evitar que ocurra una «catástrofe» en el mundo. Por lo tanto, Sakura adquiere habilidades especiales para así enfrentarse a los poderes mágicos de cada carta y lograr capturarlas y sellarlas.Kero se vuelve el guía y mentor de Sakura durante la búsqueda, mientras que su mejor amiga, Tomoyo Daidōji, le confecciona gran variedades de trajes, ya que según ella «debe llevar una ropa especial para una ocasión especial». Además, Tomoyo suele hacer grabaciones de las batallas de Sakura</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/Sakura.jpg" />
   </programme>
   <programme start="20240207193000 -0300" stop="20240207200000 -0300" channel="Retro Magico">
     <title lang="es">Robotech</title>
@@ -5914,16 +5949,17 @@
     <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
   </programme>
   <programme start="20240207223000 -0300" stop="20240207230000 -0300" channel="Retro Magico">
-    <title lang="es">Hombres de Negro</title>
+    <title lang="es">Bt-X</title>
+    <desc lang="es">En el siglo XXI, el Imperio de las Máquinas encontró la forma de crear robots con alma y sentimientos, éstos fueron llamados betas. Kotaro Takamiya es un científico que ha tenido la mala suerte de ser secuestrado por el Imperio de las Máquinas; es la misión de su hermano Teppei Takamiya, rescatarlo. En su lucha despierta a Bt X, antiguo compañero de Karen, una de los cuatro guardianes espirituales que se le unen a Teppei, para vencer al corrompido Imperio de las Máquinas. Los guardianes espiriuales son, Fao, Ron, Hokuto y Karen</desc>
   </programme>
   <programme start="20240207230000 -0300" stop="20240207233000 -0300" channel="Retro Magico">
     <title lang="es">Pokemon</title>
     <desc lang="es">Las aventuras de un impetuoso y joven entrenador llamado Ash Ketchum, y de Pikachu, su compañero Pokémon, mientras viajan por el mundo Pokémon visitando destinos exóticos, conociendo a montones de personas y Pokémon nuevos e interesantes, y viviendo muchas y emocionantes aventuras</desc>
   </programme>
   <programme start="20240207233000 -0300" stop="20240208000000 -0300" channel="Retro Magico">
-    <title lang="es">Medabots</title>
-    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
-    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+    <title lang="es">Super Campeones</title>
+    <desc lang="es">La historia tiene como tema central el fútbol, narra las intrépidas aventuras de Tsubasa Ozora (Oliver Atom) y sus amigos desde la infancia hasta que son profesionales y llegan a formar parte de la selección nacional de Japón</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/campeones.jpg" />
   </programme>
   <programme start="20240205000000 -0600" stop="20240205010000 -0600" channel="RetroX TV">
     <title lang="es">Bonanza</title>
