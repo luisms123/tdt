@@ -1,7 +1,7 @@
 ﻿
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="MEXICO",Canal LMS 230324 | Mexico
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="MEXICO",Canal LMS 250324 | Mexico
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="MEXICO",ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
@@ -740,7 +740,7 @@ https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="Maxima TV" tvg-name="Maxima TV" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="CANALES INDEPENDIENTES",Maxima TV | Argentina
-https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
+https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Classic | Colombia
 https://ssh101.bozztv.com/ssh101/memoriasc2/playlist.m3u8
@@ -758,7 +758,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://xhateaec.com/livestreams/58.OewcxddrcQtAFxIZ.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="CANALES INDEPENDIENTES",Moni TV HD | Argentina
-https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
+https://ssh101.bozztv.com/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RRxC9Va.png" group-title="CANALES INDEPENDIENTES",Now 70 | ND
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
@@ -971,10 +971,10 @@ http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.imgur.com/ru0iCsN.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 
-#EXTINF:-1 tvg-id="Pandamax" tvg-name="Pandamax" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="JOVENES Y ADULTOS",Pandamax | Argentina
+#EXTINF:-1 tvg-id="Pandamax" tvg-name="Pandamax" tvg-logo="https://i.imgur.com/6jovojb.png" group-title="JOVENES Y ADULTOS",Pandamax | Argentina
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/qlTFGpx.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
+#EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wording TV HD" tvg-name="Wording TV HD" tvg-logo="https://i.imgur.com/tVEMkve.png" group-title="JOVENES Y ADULTOS",Wording TV HD | Brasil
@@ -1161,7 +1161,7 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-id="195149" tvg-name="MOOVIMEX" tvg-logo="https://i.imgur.com/q3PmMF9.jpg" group-title="CINE", MOOVIMEX | Mexico
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+https://linear-564.frequency.stream:443/mt/studio/564/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sRYe8Np.jpg" group-title="CINE",Movies Central by tv player | Spain
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -1326,7 +1326,7 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="MUSICA",Conecta TV | Mexico
-https://stream8.mexiserver.com:1936/conectatv/conectatv/chunklist_w270484826.m3u8
+https://ssh101.bozztv.com/ssh101/conectatvmx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Corazon Llanero TV" tvg-name="Corazon Llanero TV" tvg-logo="https://corazonllanero.com/main/static/img/128.png" group-title="MUSICA",Corazon Llanero TV | Venezuela
 https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8
@@ -4052,7 +4052,7 @@ http://comast.top:8080/vod123/vod123/10068
 
 ﻿
 #EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="SHORTGOD",Bit Me | Mexico
-http://pe.shortgod.com/volve24/tv4.php?ch=30313&f=.m3u8
+http://pe.shortgod.com/volve24/tv9.php?id=8426
 #EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="SHORTGOD",Bit Me op1 | Mexico
 http://pe.shortgod.com/volve24/tv9.php?id=40
 #EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="SHORTGOD",Boing | Spain
@@ -4068,14 +4068,12 @@ http://pe.shortgod.com/volve24/tv6.php?id=115
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="SHORTGOD",Clan TVE | Spain
 http://177.128.115.21:8080/live/Binet/6UkGawEA4z/22.m3u8
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="SHORTGOD",ETC TV | Chile
-http://177.128.115.21:8080/live/Binet/6UkGawEA4z/158.m3u8
+http://pe.shortgod.com/volve24/tv5.php?id=158
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="SHORTGOD",Tooncast | Colombia
-http://pe.shortgod.com/volve24/tv4.php?ch=30382&f=.m3u8
+http://pe.shortgod.com/volve24/tv9.php?id=224
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="SHORTGOD",Tooncast op2 | Colombia
-http://pe.shortgod.com/volve24/tv4.php?ch=13781&f=.m3u8
+http://pe.shortgod.com/volve24/tv9.php?id=89697
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://x.playerlatino.live/tcm.png" group-title="SHORTGOD",TCM | Peliculas
-http://pe.shortgod.com/volve24/tv1.php?id=85.m3u8
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="SHORTGOD",A3Cine
 http://pe.shortgod.com/volve24/tv5.php?id=165
 #EXTINF:-1 tvg-id="A3 Series Internacional" tvg-name="A3 Series Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png" group-title="SHORTGOD",A3 Series Internacional
@@ -4083,67 +4081,69 @@ http://pe.shortgod.com/volve24/tv6.php?id=130&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png" group-title="SHORTGOD",A3 Series
 http://pe.shortgod.com/volve24/tv6.php?id=130
 #EXTINF:-1 tvg-id="" tvg-name="USento California KXTV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/04aa3459bcd0300ffabdaee7a7c76f4e.png" group-title="SHORTGOD",ABC Sacramento California KXTV TV
-http://pe.shortgod.com/volve24/tv3.php?id=28072
+http://pe.shortgod.com/volve24/tv3.php?id=940518
 #EXTINF:-1 tvg-id="America TV Argentina" tvg-name="America TV Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="SHORTGOD",America TV | Argentina
 http://pe.shortgod.com/volve24/tv6.php?id=274&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="SHORTGOD",C5N | Argentina
-http://pe.shortgod.com/volve24/tv1.php?id=1752
+http://pe.shortgod.com/volve24/tv9.php?id=639
 #EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile.png" group-title="SHORTGOD",Canal 13 | Chile
-http://pe.shortgod.com/volve24/tv1.php?id=765.m3u8
+http://pe.shortgod.com/volve24/tv9.php?id=100
 #EXTINF:-1 tvg-id="Caracol TV" tvg-name="Caracol TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="SHORTGOD",Caracol TV | Colombia
 http://pe.shortgod.com/volve24/tv6.php?id=59
 #EXTINF:-1 tvg-id="Caracol Internacional" tvg-name="Caracol Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="SHORTGOD",Caracol Internacional | Colombia
 http://pe.shortgod.com/volve24/tv3.php?id=27978
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="SHORTGOD",Chilevision | Chile
-http://pe.shortgod.com/volve24/tv1.php?id=198.m3u8
+http://pe.shortgod.com/volve24/tv5.php?id=101
 #EXTINF:-1 tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="SHORTGOD",CNN en Espanol | Estados Unidos
-http://pe.shortgod.com/volve24/tv10.php?id=101401-livetv
+http://pe.shortgod.com/volve24/tv9.php?id=4499
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_chile.png" group-title="SHORTGOD",CNN | Usa
-http://pe.shortgod.com/volve24/tv10.php?id=105557-livetv
+http://pe.shortgod.com/volve24/tv5.php?id=23
 
 
 #EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png" group-title="SHORTGOD",Comedy Central | Mexico
 http://pe.shortgod.com/volve24/tv5.php?id=155
 #EXTINF:-1 tvg-id="DePelicula(Spanish).us" tvg-name="DePelicula(Spanish).us" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="SHORTGOD",De Pelicula | USA
-http://181.78.67.53:8004/play/a05d/index.m3u8
+http://pe.shortgod.com/volve24/tv11.php?id=48
 #EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="SHORTGOD",De Pelicula | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=503-livetv
+http://pe.shortgod.com/volve24/tv8.php?id=46576&f=.m3u8
 #EXTINF:-1 tvg-id="De Pelicula Clasico" tvg-name="De Pelicula Clasico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="SHORTGOD",De Pelicula Clasico | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=4241-livetv
+http://pe.shortgod.com/volve24/tv9.php?id=89724
 #EXTINF:-1 tvg-id="De Pelicula Plus" tvg-name="De Pelicula Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png"group-title="SHORTGOD",De Pelicula Plus | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=4243-livetv
+http://pe.shortgod.com/volve24/tv8.php?id=46577&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="" group-title="SHORTGOD",Discovery Channel | Mexico
-https://pe.shortgod.com/volve24/tv10.php?id=6477-livetv
+http://pe.shortgod.com/volve24/tv11.php?id=47
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="SHORTGOD",Distrito Comedia | Mexico
 http://pe.shortgod.com/volve24/tv8.php?id=46947&f=.m3u8
 #EXTINF:-1 tvg-id="13 de Argentina" tvg-name="13 de Argentina" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="SHORTGOD",El Trece | Argentina
 http://pe.shortgod.com/volve24/tv9.php?id=633
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="SHORTGOD",El Gourmet | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=1813-livetv
-#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="SHORTGOD",El Gourmet | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=101597-livetv
+http://45.166.92.22:58001/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="SHORTGOD",El Gourmet | Mexico
 http://pe.shortgod.com/volve24/tv3.php?id=27994
+#EXTINF:-1 tvg-id="El Nueve AR" tvg-name="El Nueve AR" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-s.jpg" group-title="FAMILIARES",El Nueve | Argentina
+http://pe.shortgod.com/volve24/tv8.php?id=46708&f=.m3u8
 #EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa.png" group-title="SHORTGOD",Europa Europa
-http://pe.shortgod.com/volve24/tv10.php?id=58935-livetv
+http://pe.shortgod.com/volve24/tv5.php?id=415
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="SHORTGOD",Glitz | Argentina
-http://pe.shortgod.com/volve24/tv10.php?id=4441-livetv
+http://pe.shortgod.com/volve24/tv4.php?id=63
 #EXTINF:-1 tvg-id="RCN Internacional" tvg-name="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="SHORTGOD",RCN | Colombia
 http://pe.shortgod.com/volve24/tv11.php?id=71
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://x.playerlatino.live/tcm.png" group-title="SHORTGOD",TCM | Peliculas
+http://pe.shortgod.com/volve24/tv8.php?id=46679&f=.m3u8
 #EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="SHORTGOD",Telefe | Argentina
 http://pe.shortgod.com/volve24/tv6.php?id=45
 #EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="SHORTGOD",Telefuturo | Paraguay
-http://pe.shortgod.com/volve24/tv8.php?id=4365
+http://pe.shortgod.com/volve24/tv9.php?id=14777
 #EXTINF:-1 tvg-id="Television Publica" tvg-name="Television Publica" tvg-logo="https://i.imgur.com/04nIdpc.png" group-title="SHORTGOD",Television Publica | Argentina
-http://pe.shortgod.com/volve24/tv1.php?id=1756
+http://pe.shortgod.com/volve24/tv8.php?id=46746&f=.m3u8
 
 #EXTINF:-1 tvg-id="TLNovelas MX" tvg-name="TLNovelas MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="SHORTGOD",TL Novelas | Mexico
 http://pe.shortgod.com/volve24/tv6.php?id=56
 #EXTINF:-1 tvg-id="TLNovelas Univision" tvg-name="TLNovelas Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas.png" group-title="SHORTGOD",TL Novelas Univision | USA
 http://pe.shortgod.com/volve24/tv1.php?id=413.m3u8
 #EXTINF:-1 tvg-id="TVN Chile" tvg-name="TVN Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile.png" group-title="SHORTGOD",TVN | Chile
-http://pe.shortgod.com/volve24/tv8.php?id=6
+http://pe.shortgod.com/volve24/tv5.php?id=80
 #EXTINF:-1 tvg-id="UniMas.mx" tvg-name="UniMas.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/unimas.png" group-title="SHORTGOD",UniMas | Estados Unidos
 http://pe.shortgod.com/volve24/tv3.php?id=27110
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision.png" group-title="SHORTGOD",Univision | Estados Unidos
@@ -4159,35 +4159,33 @@ http://pe.shortgod.com/volve24/tv1.php?id=102.m3u8
 #EXTINF:-1 tvg-id="Warner Channel Sur" tvg-name="Warner Channel Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="SHORTGOD",Warner Channel op3
 http://pe.shortgod.com/volve24/tv10.php?id=101601-livetv
 #EXTINF:-1 tvg-id="Warner Channel Sur" tvg-name="Warner Channel Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv.png" group-title="SHORTGOD",Warner Channel op4
-http://pe.shortgod.com/volve24/tv1.php?id=687
+http://pe.shortgod.com/volve24/tv9.php?id=272
 
 
 
 
 #EXTINF:-1 tvg-id="Adrenalina Sports Network" tvg-name="Adrenalina Sports Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network.png" group-title="SHORTGOD",Adrenalina Sports Network | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=4295-livetv
+http://pe.shortgod.com/volve24/tv9.php?id=2200
 #EXTINF:-1 tvg-id="Afizzionados" tvg-name="Afizzionados" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/afizzionados.png" group-title="SHORTGOD",AfiZZionados | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=92716-livetv
+http://pe.shortgod.com/volve24/tv4.php?id=7
 #EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports.png" group-title="SHORTGOD",AyM Sports  | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=10668-livetv
+http://pe.shortgod.com/volve24/tv9.php?id=89704
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="https://m3u-editor.com/storage/channel-logos/f5de7950-a238-11eb-a147-99de383ea2cf/1549245/275944291.png" group-title="SHORTGOD",BT Sport 1 | Reino Unido
 http://pe.shortgod.com/volve24/tv3.php?id=20821
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="https://m3u-editor.com/storage/channel-logos/f5de7950-a238-11eb-a147-99de383ea2cf/1549245/275944292.png" group-title="SHORTGOD",BT Sport 2 | Reino Unido
 http://pe.shortgod.com/volve24/tv3.php?id=20820
 #EXTINF:-1 tvg-id="Caza y Pezca" tvg-name="Caza y Pezca" tvg-logo="https://panel.budtv-ultra.com/posters/1685408916129.png" group-title="SHORTGOD" ,Caza y Pezca
-http://pe.shortgod.com/volve24/tv10.php?id=88512-livetv
+http://pe.shortgod.com/volve24/tv9.php?id=13648
 #EXTINF:-1 tvg-id="Claro Sports" tvg-name="Claro Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports.png" group-title="SHORTGOD",Claro Sports | Mexico
-http://pe.shortgod.com/volve24/tv10.php?id=105701-livetv
-#EXTINF:-1 tvg-id="Claro Sports" tvg-name="Claro Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports.png" group-title="SHORTGOD",Claro Sports op | Mexico
-http://161.132.243.192:50001/play/a02w/index.m3u8
+http://pe.shortgod.com/volve24/tv11.php?id=82
 #EXTINF:-1 tvg-id="Claro Sports" tvg-name="Claro Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports.png" group-title="SHORTGOD",Claro Sports 2 | Mexico
-http://161.132.243.192:50001/play/a03v/index.m3u8
+http://pe.shortgod.com/volve24/tv7.php?id=462
 #EXTINF:-1 tvg-id="DirecTV Sports" tvg-name="DirecTV Sports" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="SHORTGOD",DirecTV Sports | Argentina
 http://pe.shortgod.com/volve24/tv6.php?id=20
 #EXTINF:-1 tvg-id="DirecTV Sports 2" tvg-name="DirecTV Sports 2" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="SHORTGOD",DirecTV Sports 2 | Argentina
 http://pe.shortgod.com/volve24/tv7.php?id=468
 #EXTINF:-1 tvg-id="DirecTV Sports +" tvg-name="DirecTV Sports +" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="SHORTGOD",DirecTV Sports + | Argentina
-http://pe.shortgod.com/volve24/tv7.php?id=469
+http://pe.shortgod.com/volve24/tv8.php?id=47093&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="SHORTGOD",ESPN | Mexico
 http://pe.shortgod.com/volve24/tv1.php?id=34.m3u8
 #EXTINF:-1 tvg-id="ESPN Sur" tvg-name="ESPN Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="SHORTGOD",ESPN | Sur
@@ -4311,8 +4309,8 @@ http://pe.shortgod.com/volve24/tv6.php?id=329&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83a1885e-ee22-460b-8bd4-c0c6f290dcfd-profile_image-70x70.png" group-title="TWITCH",Taberna Nona 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsoETjWC-bqGe6PJ7EjsTt-l2GY5TqTCrJK-5WWCiN1wq0em8BIoVeeGklXm-Ji_YcTXS6YMRIWpVbl_I2tJikxTQ1Rfk15X6agh-WwjsGU9-QlAq9u4UzCdpI0juzJdO84CHkrj4U8e4l_g6ZqFy13ib-Aiv0JydoXBqenWVol_JmTSot_6gqvUyUYTAHXg3MxFk7bllE6DB98evG-YrNczZD_tZN-6hErzViqIdJxtAQAbyKxqPkt8uux2tbu99MN1fCHYz30XtaoNtT4ApRBJUrr2-dq43Q462bl2uIiYtGwxkVWbO2SJjmygX6Z7qVfpQ3jfZdLY4FCyUZcicfhwAC4knfk3vpqZaipdNyvqAD8nCxi45mdUszRIrW750BNef6fv_LDUKNRoh9EpOSvYIODgyLt6fDLffc8XwAFQ0OfMZD_UU_2eY2ZldZ-GhAJmr34sg72VLPAvi5awb4vVyK-zTsA-PmuVKQsUP6RjT6oSsysy2dFM_3dz3VYV9_Xk6Py46sJ7b0OYtfj04Ryk5a5X-97EdX6Oz1mDPqgihH8xA95v5duEC1gTM6qQFWUZez5vgLOJLZCgroHH5YZ_iUcgjZOnNcGFDObNlj1GQw96QEUgYACQc4fswiPcNWZnJno9DAiGrbG5l0S8XwG4fImL4MRp7mGZlLpREyBTzqH6ub9ocDDDbvu43oUHRXZ9tq7kSvQpkgmJ4g3hCyIC4ai3qZKMUcKaq_Pmf5wQNXPMn0aCMaTdslWxQK13GABM2OIx6_fE4W8fiRoM72xPP4uUcgeRVF3rIAEqCXVzLWVhc3QtMjCCCQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsoEpeq_vvpcb2Cbqo9WPPPuaehNYR1GZlRAUxG5dEFhpIJ198cr6I7c1m2d0MjQ2LBDT_wzfLfZVdO-Jx6nvQ6UfX9EUKu9yE3kUxz2ssIfoslHtczie3USBpFJyiYZUIE9hl0cdABEF5v8l9v8i-oa-qQhKxxW1KM1UO_v_1E13tlHjiwEcypNqCI7CGS9AsED5Lz5gonzWPTsV9uQkvzNwnvtJ2C9bxxA0h5DDAkeegcIPBp6-DI8NJoK_n20Y4cGBspB60MY2_HRZhRIM8V_9a7VHl2NVoOJd6ncHTQkeT1p7d1P1uYAskqIwyO1GpCUUZDc9NAne1Ozd2vFyq52GjXFXuXKkJ8P9FLYGQDF4MQPGWvMbozCH3uzZJeSS0E8L7-FOajHEEOLD812taBp_9ayWsPioQ67risLpVXEjX_-FDA7VcTTHXHYdMYqIqP6pty0X7YZHZfdCiecMGxljfLnzkUfd8umKW3BEWMtek9dKrQ7_RFwWMOdbKeN3BQBLfJ8LlgOLZohSx5ukhhFTFV2wCLP1mCdCwPyBqJhKBvzEfcZHdiam5cfbCoJgCNm3ApOsWH1JNpd8kswMH1nBJ5MENkVMYkm6rpgoc2ljs12QueLuyUA_t_PR9ubvju2zfQIbeOodOOPAa3NZwltD8V12U4KaRyhPHBX-abuVl4oqJ-j-8W1hL8eSEnG8J7Vgh_P2eh33Ijf6M7oHth7YhVg-CA5pVdcXAC9EVUkCwOGeTx6yzDclzy9WA-l1bK02KrgJQKqupFGuBoM6Gspvc7RPuzqu-7sIAEqCXVzLWVhc3QtMjCCCQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs8Eux1084-moC1RWZcpK3BuL41rJiAvBu_QqJ6TYPcYzc-9BhZWDHH7b7yJT8Bz--5TaY1aGSX-XGC01xO9fsVW8Mssmz_ar0ZKZHbI7sDsZraQ3QkcrCe-hEZGUnWM8WmZMyYCowR8WWr6M533lyX3IjjnhrgV5AeUz7-g3QVN7z6UPOLHcu47fP_z2a9tiDpkfcDppeo_p9k7FGU1IP-50-_KkxqO5IrEbdyuQyOg89OuFKimDejLv8R6V1ZPZRfrZ3WRKvLGrDXi8Sp48riy_Gq_Wj9hskmP2nl00N_j4PGUfuMJLHypoT69AnkEVrj5Y1JmzHmm6B0oH012G4OO2IioxZ_2FIvjNW1ixRIeS9NGMG14cpzpBFK1p2VrXhBeyFR-hVve1L_TWTsfY5Oh7XUXuXQOE7Tbj6VMC-xCvT5ihHYKYOY8mxsPcczY9HneblKT3YAGIIw4o7k-O1shTczeyWIiNRDGUXcr4AGKz9Jmy4xft9gdub8k8bybIvE5SbbURdNonB-u0fEZ8ZKhiPf6E7v1iGsqXJRW-8WMl0zhMW5iZt_GomlrhDfOVhQeZQouXpPJm0EUTUzn2guxLW3PDCuRAsW-1Z2288sOremeyUObYVB2vMcYGT93xMi5EDpe6CMiuGG4p4PtXFijyq9HOqRKzSJfGEAPhMwcANxTo3sV1epqzC01ZV3MyViMlXyt4i83GRXewCdaJQA9c2lyfZXBGZA6ktfDKQ8nxk40BdRV0J_OBw2XPTyAYxOwFOt1DOyTDJvjsiH_qnPSGgyGd0hjb2hHITlNgLQgASoJdXMtZWFzdC0yMIIJ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtAEfuUl_mNAzTz01v11EktxQj-drZZ7h88RRjRPoLuysYb_hPKDu9yXFfdPB4Ni4RxVRJoIN7LN_6dbmRkqwfV4ZZaf_0uV37NnqMggJ6nItUCJfUJoQVVlSoE--V0QsSLyc2lywzEnkqZoTNNmHQc1DJe18hDi9TSaocymCrTisRRW39ZTSL5U3nLzugG4LAAufXEfcoW69iLhCaaMfKGEkfxhntzzgrAsFevCU-yAh5-vCjd4P1_78MlFDsTlsAw9qOgf64EL8l_x7ExTdwtSAk66Ii8dWXkB8CvtX4XiLKKvyZjj3qmmVhspBXe5N9pfrpgsmotRznGAl4j5mJqDGSiI9c4rXIDNdsnG5b1vyflhB8rhnRFS4o7pgfDfDRsfYcsK8EcnWLjd14eLQ4N47l_9j8SMiLdq-oLWFzTpBiRC7ebXMdGcPveW2Brk2rSXjJzkQ-YmXXCFK0iKQr8TxzmmsOhg5SWUlI2P-wuXxB2A0iR6yQG_s_11Ta_INwq7KU3Qgx-4_K2N2e-163HXQQwIBqSDuwGupYlq5XswF200pFswKSQJbA1zqhFT8E-5n_y5_o1MMdmCxD3xrO1sZAHAaQQnnGpvzhlAXOTkwsaLJrzqgth7tyCA4pBmkRl9dk2mXOC0YFR2KgpP_YGW2FL3vTcUhG1nkyg24qEmatE0w6lMK4GzQ17x02Ya7iCDyrT9dkrsd56hcEMpMqXWpC05Gv_4yjpXRzl4Ktoc_1WiZjX5kHHQ4SYz4BN8rO7YkumQOo5g2ml8emCBSwjsvRoMH9TlwgGw6fSkSeznIAEqCXVzLWVhc3QtMjCCCQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="TWITCH",Latino Kids TV 
 
