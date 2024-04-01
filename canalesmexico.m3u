@@ -1,7 +1,7 @@
 ﻿
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="MEXICO",Canal LMS 250324 | Mexico
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="MEXICO",Canal LMS 010424 | Mexico
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="MEXICO",ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
@@ -638,7 +638,7 @@ https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro op3 | Chile
-http://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="CANALES INDEPENDIENTES",Energeek Radio TV | Chile
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
@@ -646,11 +646,17 @@ https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="CANALES INDEPENDIENTES",Energeek Radio TV op2 | Chile
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="CANALES INDEPENDIENTES",Energeek Radio TV op3 | Chile
+https://wifispeed.trapemn.tv:1936/energeek/radio-p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV | Chile
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV op2 | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV op3 | Chile
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="CANALES INDEPENDIENTES",CCP Radio | Chile
 https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
@@ -3916,6 +3922,463 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
 
 ﻿
+
+
+#EXTINF:-1 group-title="CHILE" tvg-id="13C.cl",13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="13E.cl",13 Entretención (720p)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="13Festival.cl",13 Festival (1080p)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="13Humor.cl",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="13Kids.cl",13 Kids (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="13P.cl",13 Prime (720p)
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="13Realities.cl",13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="13T.cl",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ADNTV.cl",ADN Radio (1080p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AERadioTV.cl",AE Radio TV (720p) [Not 24/7]
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AlegriaTV.cl",Alegria TV (480p) [Geo-blocked]
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AlternativaTV.cl",Alternativa TV (Huasco) (720p) [Not 24/7]
+https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AMCanal.cl",AM Canal (720p) [Not 24/7]
+https://v2.tustreaming.cl/amtv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AntofagastaTV.cl",Antofagasta TV (ATV) (1080p)
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AricaTV.cl",Arica TV (480p) [Not 24/7]
+https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AtacamaNoticias.cl",Atacama Noticias (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AtacamaTV.cl",Atacama TV (Copiapó) (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ATVValdivia.cl",ATV Valdivia (720p)
+https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AutonomaTV.cl",Autónoma TV (480p)
+https://stream.wifispeed.cl:3033/hybrid/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AXN.cl",AXN (1080p)
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="AysenTV.cl",Aysen TV (720p)
+https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="BioBioTV.cl",Bío Bío TV (1080p)
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="BuinSomosTodos.cl",Buin Somos Todos (720p) [Not 24/7]
+https://bst.buin.cl/0.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CampoAbiertoTV.cl",Campo Abierto TV (480p)
+https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CampusTV.cl",Campus TV (Talca) (720p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal2SanAntonio.cl",Canal 2 (San Antonio) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PalmiraTV5.cl",Canal 5 Los Vilos (720p)
+https://oracle.streaminghd.cl/canal5/canal5/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal5PuertoMontt.cl",Canal 5 Puerto Montt (1080p)
+https://stmv2.zcasthn.com.br/canal5/canal5/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal8.cl",Canal 8 Los Sauces TV (720p)
+http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal9BioBioTelevision.cl",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal11Aysen.cl",Canal 11 Aysén (720p)
+https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal21.cl",Canal 21 (720p) [Not 24/7]
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal21.cl",Canal 21 (720p) [Not 24/7]
+https://tls.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal33.cl",Canal 33 (720p) [Geo-blocked]
+https://5eae379fb77bb.streamlock.net/eduardo555/eduardo555/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal57Melipilla.cl",Canal 57 Melipilla (720p)
+https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CanalAltaFrontera.cl",Canal Alta Frontera (288p)
+https://mediacpstreamchile.com:1936/altafronteratv/altafronteratv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CanalISB.cl",Canal ISB (Iglesia San Bernardo) (720p)
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CanalLatino.cl",Canal Latino (CL54) (360p)
+https://live.chileservidores.com:8081/latina/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CanalLocal.cl",Canal Local (1080p)
+http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CanalSCN.cl",Canal SCN (720p)
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CanalSurPatagonia.cl",Canal Sur Patagonia (720p)
+https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CaracolaTV.cl",Caracola TV (Peñalolén) (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Cauquenesnet.cl",Cauquenesnet (720p)
+https://vdo.miserver.pro:3102/stream/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CCPRadio.cl",CCP Radio (720p) [Not 24/7]
+https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CDR.cl",CDR (720p)
+https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CDTV.cl",CDTV (720p) [Not 24/7]
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CDTV.cl",CDTV (720p) [Not 24/7]
+https://tls-cl.cdnz.cl/camara/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CEACTV.cl",CEAC TV (Santiago) (480p)
+https://live.chileservidores.com:8081/ceactv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ChileChannel.cl",Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ChileVision.cl",ChileVisión (720p) [Geo-blocked]
+http://chv-m3u.chorroaeboy.repl.co
+#EXTINF:-1 group-title="CHILE" tvg-id="ClickTVChile.cl",Click TV (Coronel) (720p)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ClubTV.cl",Club TV (Santa Juana) (720p) [Not 24/7]
+https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ConcepcionTV.cl",Concepción TV (1080p)
+http://live.mundogo.cl/mundo/concepciontv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Contivision.cl",Contivision (720p)
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CosmosTV.cl",Cosmos TV (720p)
+https://v1.tustreaming.cl/cosmostv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CRTV.cl",CRTV (720p)
+https://vdo.panelstreaming.live:3058/stream/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CulturaOnline.cl",Cultura Online (720p)
+https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="D13.cl",D13 (1080p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="DanceFM.cl",Dance FM (720p)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="DecimaTV.cl",Décima TV (Ancud) (720p)
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="DJLonchoTV.cl",DJ Loncho TV (720p)
+https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EGMChannel.cl",EGM Channel (480p)
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EkizTV.cl",Ekiz TV (1080p)
+http://live.mundogo.cl/mundo/EquizTV/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ElPinguinoTV.cl",El Pingüino TV (720p)
+https://github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ElTipografo.cl",El Tipógrafo (1080p)
+http://live.mundogo.cl/mundo/Tipografo/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EnerGeek.cl",EnerGeek (720p) [Not 24/7]
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EnerGeekRadio.cl",EnerGeek Radio (1080p)
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EnfoqueDigitalTV.cl",Enfoque Digital TV (1080p)
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EstudioTV.cl",Estudio TV (La Ligua)
+https://mediacpstreamchile.com:1936/hugomendez/hugomendez/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EvaStream.cl",Eva Stream (Corporación Eva) (480p) [Not 24/7]
+https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EvaRetro.cl",EvaRetro (Corporación Eva) (600p) [Not 24/7]
+https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Evavision.cl",Evavisión (720p)
+https://stmv1.zcasthn.com.br/evevision/evevision/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EvavisionPachanga.cl",Evavisión Pachanga (Corporación Eva) (720p)
+http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ExprezionTV.cl",Exprezión TV (720p)
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="FanpopTV.cl",Fanpop TV (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Girovisual.cl",Girovisual (720p)
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="GraciaTV.cl",Gracia TV (1080p) [Not 24/7]
+http://v3.tustreaming.cl/graciatv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="HiperTV.cl",HiperTV (720p) [Not 24/7]
+https://inliveserver.com:1936/11010/11010/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="HitoCeroTelevision.cl",Hito Cero Television
+https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="HolvoetTV.cl",Holvoet TV (Copiapó) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="HuascoTelevision.cl",Huasco Televisión (360p)
+https://paneltv.online:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="InterradioTV.cl",Interradio TV (1080p)
+https://cdn.jmvstream.com/w/LVW-13214/LVW13214_wLcadZJaYb/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="IquiqueTV.cl",Iquique TV (720p)
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ITVPatagonia.cl",ITV Patagonia (720p)
+https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ITVPatagonia.cl",ITV Patagonia (720p) [Not 24/7]
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="JuntosTV.cl",Juntos TV (720p)
+https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Kanade.cl",Kanade (720p)
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="LaChilenaTV.cl",La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="LaGranjaTV.cl",La Granja TV (720p) [Not 24/7]
+https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="LaPopularTV.cl",La Popular TV (720p)
+https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="LaRed.cl",La Red (720p) [Not 24/7]
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="LancoTV.cl",Lanco TV (1080p)
+https://lancotv.ngrok.app/hls/stream.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="LatinosRadio.cl",Latinos Radio
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="LTV.cl",LTV (480p)
+https://mediacpstreamchile.com:1936/ltvcanal/ltvcanal/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="MacarenaFM.cl",Macarena FM (720p)
+https://5ff3d9babae13.streamlock.net/8042/8042/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="MaderoTV.cl",Madero TV (720p)
+https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Maulevision.cl",Maulevisión (720p)
+https://makestreaming.online:3723/stream/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="MaximaFMChile.cl",Maxima FM (720p) [Not 24/7]
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Mega.cl",Mega (480p)
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="MolinaTV.cl",Molina TV (1080p)
+http://live.mundogo.cl/mundo/Molinatv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="MTNATV.cl",MTNA TV (720p)
+https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="MundodelaMusica.cl",Mundo de la Música (480p)
+https://videostreaming.cloudserverlatam.com/8078/8078/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="NativaTV.cl",Nativa TV (720p)
+https://mediacpstreamchile.com:1936/nativa3/nativa3/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="NCTV.cl",NCTV (1080p)
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Nortevision.cl",Nortevisión (720p)
+https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="NTV.cl",NTV (720p)
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Nublevision.cl",Ñublevisión (Chillán) (720p)
+https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="NuevaRegionTV.cl",Nueva Región TV (720p)
+http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="OndaRadio.cl",Onda Radio TV (1080p)
+https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Opinionsur.cl",Opinionsur
+https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="OrigenTV.cl",Origen TV (480p)
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PandamaxChannel.cl",Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Pauta.cl",Pauta (720p)
+https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Pauta.cl",Pauta (720p)
+https://unlimited6-cl.dps.live/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PichilemuTV.cl",Pichilemu TV (1080p)
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PintanaTV.cl",Pintana TV (720p)
+https://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PlanetaTV90s.cl",PlanetaTV 90s (720p)
+https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PlanetaTVKids.cl",PlanetaTV Kids (1080p)
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PlanetaTVMovie.cl",PlanetaTV Movie (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PlanetaTVMusic.cl",PlanetaTV Music (720p)
+https://scl.edge.grupoz.cl/music/live/music.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PlazaTV.cl",Plaza TV (720p)
+https://unlimited10-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Portalfoxmix.cl",Portalfoxmix (908p) [Not 24/7]
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Portalfoxmix.cl",Portalfoxmix (480p) [Not 24/7]
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PuconTV.cl",Pucón TV (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="PuranoticiaTV.cl",Puranoticia TV (720p)
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadioElSembrador.cl",Radio El Sembrador (1080p)
+https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadioHoyTV.cl",Radio Hoy TV (1080p)
+https://panel.dattalive.com/8146/8146/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadioQ.cl",Radio Q (1080p)
+https://panel.miplay.cl:8081/radioq/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadioRancaguaFM.cl",Radio Rancagua FM (768p) [Not 24/7]
+https://5eff35271151c.streamlock.net:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadioRitmoFM.cl",Radio Ritmo FM (720p)
+https://video.streamingchilenos.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadioTouchTV.cl",Radio Touch TV (480p)
+https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadioTributoValentina.cl",Radio Tributo Valentina (720p)
+https://vdochile.com:3385/hybrid/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadioZetaTV.cl",Radio Zeta TV (480p)
+https://unlimited1-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RadiotecaWebstereo.cl",Radioteca Webstereo (720p)
+https://paneltv.net:3908/live/txtkignslive.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RCKTV.cl",RCK TV (720p)
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RDOTelevision.cl",RDO Televisión (480p)
+http://live.mundogo.cl/mundo/RDO/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RecuerdosRetro.cl",Recuerdos Retro
+https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RestaurandoVidasInternacional.cl",Restaurando Vidas Internacional (720p)
+https://v4.tustreaming.cl/restaurandovida/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RetroPlus2.cl",Retro Plus 2 HD (720p)
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RetroPlus3.cl",Retro Plus 3 HD (720p)
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RetroPlus.cl",Retro Plus HD (720p)
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RewindTV.cl",Rewind TV (720p) [Not 24/7]
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RTCTelevision.cl",RTC Televisión
+https://5eae379fb77bb.streamlock.net/rtctelevision/rtctelevision/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RTVNuble.cl",RTV Ñuble (720p)
+https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="RuidosFM.cl",Ruidos FM (720p)
+https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="SantaMariaTelevision.cl",Santa María Televisión (720p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Sextavision.cl",Sextavisión (720p)
+https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="SoloBailalo.cl",SoloBáilalo (480p)
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="SoloBailalo.cl",SoloBáilalo (480p)
+https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="SoloStandUp.cl",SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="SpectrumChannel.cl",Spectrum Channel SMAS (720p) [Not 24/7]
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="StgoTV.cl",Stgo.TV (720p)
+https://stv.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Subela.cl",Súbela (720p)
+https://mdstrm.com/live-stream-playlist/5fad9b1d978fe1080e3ac4a8.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="SURTV.cl",Sur TV (720p)
+https://paneltv.online:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="T13.cl",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVinet.cl",T-Vinet (480p)
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Tele2WebRetiro.cl",Tele 2 Web (Retiro) (720p) [Not 24/7]
+https://inliveserver.com:1936/11516/11516/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Telecanal.cl",Telecanal (480p)
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TeleCauquenes.cl",TeleCauquenes (720p)
+https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TeletrakTV.cl",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Televida.cl",Televida (1080p)
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Telezion.cl",Telezion (720p)
+https://paneltv.net:3751/hybrid/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TemucoTelevision.cl",Temuco Television
+https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TendenciasPrime.cl",Tendencias Prime (T31 | Ñuñoa) (1080p) [Not 24/7]
+https://v2.tustreaming.cl/tendenciastv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TerranovaTelevision.cl",Terranova Televisión (810p)
+https://5ff3d9babae13.streamlock.net/gtryhpwpwe/gtryhpwpwe/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Tevex.cl",Tevex (720p) [Not 24/7]
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ThemaTelevision.cl",Thema Televisión (La Serena) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ThemaTelevision.cl",Thema Televisión (La Serena) (720p) [Not 24/7]
+https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TMNTV.cl",TMN TV (720p)
+https://v1.tustreaming.cl/tmntv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TNE.cl",TNE (720p) [Not 24/7]
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TurfMovil.cl",Turf Móvil (720p)
+https://janus.tvturf.cl/playlist/stream.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TV5Linares.cl",TV5 Linares (720p)
+https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TV5Linares.cl",TV5 Linares (720p) [Not 24/7]
+https://unlimited6-cl.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TV8Concepcion.cl",TV8 (Concepción) (514p) [Geo-blocked]
+https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVBajoCero.cl",TV Bajo Cero (804p)
+https://stmv2.zcasthn.com.br/bajocerotv/bajocerotv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVChile.cl",TV Chile (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVCosta.cl",TV Costa (720p)
+https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVElqui.cl",TV Elqui (720p)
+https://paneltv.online:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVPlus2.cl",TV MÁS 2 (480p)
+https://marine2.miplay.cl/tateti/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVPop.cl",TV Pop (720p)
+https://v4.tustreaming.cl/poptv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal2Quellon.cl",TV Quellón (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVQuintaRegion.cl",TV Quinta Region (1080p)
+https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVSenado.cl",TV Senado (360p)
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVUCT.cl",TV UCT (1080p)
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVPlus.cl",TV+ (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVM.cl",TVM (720p)
+https://tls-cl.cdnz.cl/tvm/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVN.cl",TVN (1080p) [Geo-blocked]
+https://panel.miplay.cl:8081/tvn/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVN3.cl",TVN3 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVOSanVicente.cl",TVO San Vicente (720p) [Not 24/7]
+https://5e3483cba9114.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVR.cl",TVR (1080p) [Not 24/7]
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVR.cl",TVR (720p)
+https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVRCanal11.cl",TVR Canal 11 Curicó (1080p)
+https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="TVU.cl",TVU Concepción (1080p)
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ULosLagosTV.cl",U Los Lagos TV (1080p) [Not 24/7]
+http://tv.ulagos.cl/web/live.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UChileTV.cl",UChile TV (720p)
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UCVTV.cl",UCV TV (720p)
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UCV3TV.cl",UCV TV Eventos (720p) [Not 24/7]
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UESTV.cl",UESTV (720p)
+http://edge1.cl.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UESTV.cl",UESTV (720p)
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UESTV.cl",UESTV (720p)
+https://tls.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UMAGTV2.cl",UMAGTV 2 (720p)
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UMAGTV.cl",UMAGTV Televisión (Punta Arenas) (720p)
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UATV.cl",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="UTV.cl",UTV (720p)
+https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="VClassicTV.cl",V Classic TV (720p)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="VCOnline.cl",VC Online (720p)
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="VidaTV.cl",Vida TV (1080p)
+http://181.224.64.2:89/vidatv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="VisionPlusTV.cl",Visión Plus TV (Melipilla) (720p) [Not 24/7]
+https://v2.tustreaming.cl/visionplustv/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="VisionTV.cl",Vision TV (720p)
+https://5cf4a2c2512a2.streamlock.net/8184/8184/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="VozdePoderTelevision.cl",Voz de Poder Television (720p)
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="VTVValledeAconcagua.cl",VTV Valle de Aconcagua (720p) [Not 24/7]
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="VTVValledeAconcagua.cl",VTV Valle de Aconcagua (720p) [Not 24/7]
+https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Wapp.cl",Wapp (1080p)
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="YungayOnline.cl",Yungay Online
+https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ZappingMusic.cl",Zapping Music (720p)
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ZonaLatina.cl",Zona Latina (480p) [Not 24/7]
+http://38.131.11.9:1080/play/a00x
+#EXTINF:-1 group-title="CHILE" tvg-id="ZonaPlayTV.cl",Zona Play TV (720p)
+https://paneltv.online:1936/8100/8100/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="HiperconectadosTV.cl",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ChiloeRed25.cl",Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/index.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CasaSobreLaRocaTV.cl",Casa Sobre La Roca TV
+https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CanalTUTV.cl",Canal TUTV
+https://vdochile.com:3300/stream/play.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CanalChilote.cl",Canal Chilote
+https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="Canal74SanAntonio.cl",Canal 74 San Antonio
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="CalderaVision.cl",Caldera Vision
+https://5ff3d9babae13.streamlock.net/frknrusdct/frknrusdct/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="ClaroSportsChile.cl",Claro Sports Chile
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+﻿
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GUATEMALA",Aurora Media Films
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GUATEMALA",Barbe Tv
@@ -4393,15 +4856,15 @@ http://pe.shortgod.com/volve24/tv6.php?id=329&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cine 5 Estrellas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal 9 San Luis 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtAEsjMKwrM74pDXOI5yp2W4aE3xmcg0DpDCIDdjDN_3BgHMXe8qeujX_7t5Llb6ZQX3tCvHPGo4eC4HW0B482cz19OXw9Ol5BY_soy9n98u-oAwxVKX9ht_az_sG_oQVfSejDYtPTAeddZa468OyYMpFtpBoUqLytTdhe0XscLRxjQAWeI4lbEsTV4lbbPpxzl9TFUrtj56rK1VkvLMrA87VTFk-Ovc7KKN7yzOlRCtuhnN7z21nqcuXDzfF88CeKMDG0LUct5cEJg4BqFZols5DPfV8rSIExCymPznS1VI51Ws_l8D90bX-KjIQesv-amuNbqxn7Eq3t22AtU8lZ5yOUzowf0bJxG-5d2HZFNkXFcMd60GO5Dr1O2mH1197dSR6DFGfSH8G0B4AzezqXaYj2eFqNyJGrnOqrTBKetn9IZfqVSCK6Vkh1aXVytGaf9KSDcTcN5gzrngcaEv9o3ldzf5FzuUycYXzgxaSM-sGh-gUSpW0C1wMx9ICM0lPwfPFhcj-VGash2mcuo0fcDRyZotczQBkf1kN5v4HYyyTB8wKIYvFhTWT9pidLLU-oQd3_prOc-blWTQbdU--EOzgckL2sZHL7hSTNEw_tD301FWrt3Llh5Nguoyj5MWAEnCW_2mPdjV5P_sbbne5jadeWQXsjehVki4z9_K8GkFdSV1_PlKx72bzGX6WCcr2Io_1Reo0xZYjW8LfDK34ZeJO4iixGT_0LcpQz_ldck466ddI0nmmm5bT8ViMc9xkve9ovp4A_9W6zfyGVIBsy4nBRoMMmTvZbECy2IjQoYPIAEqCXVzLWVhc3QtMjCJCQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtAEIVuoe2_nWf4Wznku95roL5PWTcAtmi7W3Nx_NMCi9Vin8eHfBQudIX9UD8rqdZ1yTT1pkKN7hkUtUD3wj9oJTtrEpVEv3Uk4SP-T6rg3HhbHcv3jAjlzU1BD5n4u_ImCY_hmeEdM7wCQgRGmyW75Tf5BSJ8DPJTZs6YCSxM_cwdlP_GQckQXS7UdyWMVhKcCrPy0oLz2j9ndNAFP1jncZzbd3YV3Jhaf2fjOSYOPM71GRinxjkANdtwHcw-hBymUeR95LxwGTLGDOpeajZqqy16bXzzRE1ZGmE09HBSEtFec_PkWBjGggLdKxbDJzG6xHY8EwPy9-eW1v-zkvZvSAB6dt_rk9_f8lEkxP2yShkwUmYRETINMjrUpR8K_E6Iih3aR6OcdRJNG2wuuDV_bu1nkXigkYGo2HybrmahVw1uxrwai6g_1tiPZJFXjLlkZF6HsV4hb8h2wlQ3-UQaKXJ-upA3Ul3vt2RsylSFi8bu3HzHnfNktrK4IL0COeIjapqA1ODBhmKnU7Uma2TuwlSjrcX5MUtNVo55BaeDVqvd3scc6pK90F9xvCHnovI8awR_Ff2Fz0xwUyUh0FTzj71yV0K4U5BxTqlAlQ25k90wyKguURHgr0FBqoU2CAgmKe65ND2ABN-t6QjWkoBPWatKDsZMLch5r5fNotUKWJMBkA3CQcGUdqR8OX5qCR6JV5lVsxQWwNUYYxhcwBHt4AXZpBlyxl8dwfnEJSJ2bB7awGnvhmHRdLmJcHsYPPL9PU7_VAw4Whh-CsR0FSstOxBoMs7kSt4zeOHHtlf-9IAEqCXVzLWVhc3QtMjCKCQ.m3u8 
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b6860d7d-cb66-47c7-b479-e37d2f2a03d2-profile_image-70x70.png" group-title="TWITCH",Energeek 3 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/87c29d6d-eb73-48c7-9f69-44fad6fd0892-profile_image-70x70.png" group-title="TWITCH",ETC TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/20262456-09cd-4494-9d4c-f2c8995c9af4-profile_image-70x70.png" group-title="TWITCH",Kemacral 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83a1885e-ee22-460b-8bd4-c0c6f290dcfd-profile_image-70x70.png" group-title="TWITCH",Taberna Nona 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CskEbeBcE_0YJ4oMJdqwZmCXImbtjIpZUlrKl7aVMnUPVoq3FvFe9pBlwl7f0MTNcSrt4D7KEOzlbR2XG_VwOknI_JFKMHjOqibDF491UQY7lVX9WducPwPfN1lEQhjG55RMcLuMBD8SYi3eaapGNZ4EwJr8BcWqVl99h9LZDTx_023QRfLFmxQJXqWOimJbW3TxZwo6HAWap40B5Lw8ABmUVZgxz0xcURxWulTTUbj0StM8MxApRutHegv_1uh1euqOXUvUAuftFgHy-8cH80ERa74dmdEM88sRHEpHe_UWP0F76_FwQr9pj2qRWjYPR6XT-tNe9YmVf8k3T3ghy6IfsIE2h4yUiTCPDZIDhfiVzGwQjCx3sLyFbV2i6rKK781SQQE3ZUybYUu2nGNBVb5lpJWPAQbr8Eg4jF7_mG1fBPkJCI6pLMiNzv-npf97RrM0gHZPAbTtTPLez5F5oUbsQkG7S4mhpwlnljNnv9tUA3Q2_cKXv33JSfkDJqQKkeg_sAdrlvbFiFcnlZqRLy7n_Luruc0Y1t9uOa43r4FWG9gKaWbxZ0lQKjIee1wTHtM0DB6QPdA9yZpr69jz9WiQLZ35Zz2nSsNi5IRhhlEc2PG8xyIqCsx-ps88TrHvLXcUaHN-0VLCBQoCek6rcNblinjiWYK5o1SJ87ZNkVE2EzU_1o7tjcbQ4jL2j1v0HZ1-NO9whtsX74aV0KT-VbM5UxToCe8CqiB0VryGQEOmR0z1kIce9MjlGzJZFAPSLR9yogxTZbcY8jNFGgybZ4VZzwCwni_81mwgASoJdXMtZWFzdC0yMIkJ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsgE2wjukurko9uU4OP2mgn7D5Ahk2Zo1-01kSE3B0sWyJurivaL5HNfoyUnw5oUwdxi3jL4yylgMpF_p3vHXgmoWVNxi3fceV8L7jXzvpaPdxbj_pQBhTeHZWOX6PLf5FCpK40vBZ9imPv3O4YimQSVE42ae_cJewqleNKlluj12RGhLtWMJzCkDsdysVFygfhZk_B5I41yt2O2BL21iKkcMGyPgM75zNBwfRoLIdvMFscPebxTbt6jVz118oxSeYYwNFoxqPavBmDMgSoDAEL31X6iG2aTo4pWRJrhU6a0eXXACviWWe16Vfps_cSB4ZKQ_kr-3SoKGmPszaWhv6XtQcQUoOP0Ah-ApTGqPshvHJ92MifRq5mQ6qWrXuz5fyd0Kd7g_cDqsfgjbcAfGXDf86EfaWiIAbohRE0HElhXTmSlaGo6D7o9MA_lXE0f5Z3H3ROLQ5r5rhvO3vWqfIRJGMmFQUkRgLi5uq60A4lwp5_1lT-ZGTBFonGXLqfi89SPPNs81IBiSsJv6D9V8yLga7wXL230cfhkX8M2D9HX2pyVC54p_FBCW3qNplP9PpG-t_0jtywUDwNeJwY_jnNHorCislwCE93rcCSp99wQhamceSovlhdBT1Df8sFiqFewH_ks7nvV5E9-_csDR9YY3xSClqJCmOhTtOcmnGXwX_jA-7GVPvyyF1n3u2dkGsrVctkt82iFaj8CKbFwn5Nr0J4G_o2MitLPYVLbWbdk3YwcbM3pyKTe7I3I0-c5KacJut7fvTNcBVIaDPiZ_54x1FwmecSrxSABKgl1cy1lYXN0LTIwigk.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsEEJ6UKCs0FhoopNpyaqx64Pza3DwUEJ6ESgkTiHfv0DpIZLTXXjLySI_zBstKw7ExDNkLN2jemZAj6M1bhtxdCe3kKDS1s23mF-_9ILhWkKe9RxTeBG_WcdzeVRIScpQ1WG8Molv8ld14xbsDownpvfTI1DKqx9NUAkKFykYAGGvXTRXv3A_uy_yKubqDKik81nMd3PWyAMF1NJV3RTrlXcUdbWM54F6LqwxVMG_s8mTJTdnb32XqFID_3eF5Z3X-1Vo1vmVFa2VYoQAfAnMhdyn0DH4MX-l6GaGgd6SYaQAUUX9-4wPGX_E_mAItqy4jiQgE2ZDYdDd2_exUCyAUACLZ5h0dpkNXvSdlRwB0Piy-fvXvGDZqtVOrBs-BzsOBg2uOQpBPPUepKPH0i7DdGk1zC7uxgHy5XUWDqDCI3wNGoB-w4wk6ceR_f7ycHgXSGi74VakHLjE90B5Igv3YtI1X6C83HaHyICfKQyklZvyZ_vrxHTOMJKNI9jmQs8Q6FM4UTmVWvDiku96LAa2aLTL0Djt7_nIm7bALdwNKK39d5fLJGLnZkwy2GkAgLtR0DX22n8QTY3tf9O-YDQFHISx00MxX4-Tlgrj7BorhAZu44mtctARwsSBRjiVJaAApKfCFnGPQy2eFWhXL6PYFaniVoHMZviKApHGcfmCj9UuZUlmQIwj_BwZsr-OxFwpHTzkvOfJ2bd-7ZyjR9Vu4F53j376ndLNs4U62NKlnbqYyz4n9VBNIROeiMxiYOpXdwIBoMccHOoRQjf4p8wkjYIAEqCXVzLWVhc3QtMjCJCQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtIEMZXRREEmowwAUygteMA49ieY8pUMvWo8RRRtpTOc2pmHeXIh_XfSN0hvhc-qZqhFuXlQ9OpoujF9AUjQYgIZ9-WVnE3pJXv8aqr-bKoDR3BcFQleXuKY2STN_YkChbMNdIwNC5wXl8P0hWuKI91wnhah3NID7p1PcMUKXNX4BN9R8xuxDR4edMdXkS1qacmIwjqCs1FI9XQme3RPLycYPqFthu9AzXDiqptm03k6cnOTqH_eb3FSzo59OhvutFIznOPholL0Zfu5cUWilkgcHnfowFUy1t6mHWG-9wqG3mqP3l5nFW_axxKHlzcSLqBowUh6QnhiAeAYUqSDBAgYlsLAdsKjgge_CLhnjdomD0L_DTDlUt47A8ZFNuwK6t5euhmDhxDnGt7bBgHmHZnUmFp3kzmibv5Nt3khMZ-cdqmNh8ebDJ-uZuxkJhB69czKRYDzfEhGDWUY3exlYUO0eDryS0xwSduSjpJVkpZqc0TGbzyhDY6EJPrKxLSnmMs2_uch2G8xBroK0f7sCKslaES2c60OgQsicTmx7yFulxzMi97u42Qdh7iOVz3oKIRwgX23pVd66M3GrvW28Q1lwoB4gq3DfkdKl4km94V12-U4-32gTmlFhGtxaAQmD-h_s9n8SJUPQ_vdQVV7XtC_tCe7_l6OLBY1MHs5rFlu43gSj_oRrhExcQqzpPs9o_GHBEr4EBbZ3iJ7aaMBng_MOxD3bUOLGB714FtN4AjNEgv5KOCr_rUY8iBf_O44Gz41EtBQ-1SR3pwZpWOeZ9tm8m8eGgz-LP07l-8aFpVzqUcgASoJdXMtZWFzdC0yMIoJ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="TWITCH",Latino Kids TV 
 
