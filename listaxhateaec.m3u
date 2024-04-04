@@ -1,0 +1,26 @@
+ 
+#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz" 
+﻿
+
+#EXTINF:-1 tvg-id="Canal Cultural Huauchinango" tvg-name="Canal Cultural Huauchinango" tvg-logo="https://i.imgur.com/klMlwwa.jpg" group-title="XHATEAEC",Canal Cultural Huauchinango | Mexico
+https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="XHATEAEC",Canal LMS op3 | Mexico
+https://xhateaec.com:8800/hls/luisms123/luisms123/78dd321a73fccbeb82269b00f5578315/index.m3u8
+
+#EXTINF:-1 tvg-id="PS Television" tvg-name="PS Television" tvg-logo="https://i.imgur.com/X0ooVPY.png" group-title="XHATEAEC",PS Television | ND
+https://xhateaec.com:8800/hls/Pstelevision/Pstelevision/d6259c8de31bdbd6b8f43ae8a1e40c07/index.m3u8
+
+#EXTINF:-1 tvg-id="Radio Ipersonica TV" tvg-name="Radio Ipersonica TV" tvg-logo="https://i.imgur.com/8eSqC8L.png" group-title="XHATEAEC",Radio Ipersonica TV | Argentina
+https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPQ170p.jpg" group-title="XHATEAEC",Futbol Regio | Mexico
+https://xhateaec.com:8800/hls/futbolregioligamx/futbolregioligamx/fd050c4db199b5194266615ab0ddb96c/index.m3u8
+
+
+
+
+
+
+
+
