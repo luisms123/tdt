@@ -1496,19 +1496,19 @@ https://marcsoul.com/vivatv/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio 88.9 Noticias Cd. Mexico
-https://18493.live.streamtheworld.com/XHMFM_SC
+https://15123.live.streamtheworld.com/XHMFMAAC_SC
 
-#EXTINF:-1 group-title="RADIOS MEXICO",Radio Imagen Radio
-http://18313.live.streamtheworld.com/XEDAFM.mp3
+#EXTINF:-1 group-title="RADIOS MEXICO",Radio Imagen Radio 90.5
+https://15113.live.streamtheworld.com/XEDAFMAAC_SC
 
 #EXTINF:-1 group-title="RADIOS MEXICO",Radio Mexiquense 91.7 fm Amecameca
 https://streamingcwsradio30.com:7047/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio WDeportes Cd. Mexico
-http://17963.live.streamtheworld.com/TDW730AMAAC.aac
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio WDeportes 730 Cd. Mexico
+https://18853.live.streamtheworld.com/TDW730AM_SC
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio MVS Noticias
-http://20323.live.streamtheworld.com/XHMVSFM_SC
+https://15723.live.streamtheworld.com/XHMVSFM_SC
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Opus-94 94.5 fm
 https://s2.mexside.net/8016/stream
@@ -1517,13 +1517,16 @@ https://s2.mexside.net/8016/stream
 https://s2.mexside.net/8030/stream
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Sabrosita 590 Cd. Mexico
-https://17613.live.streamtheworld.com/XEPHAMAAC.aac
+https://24423.live.streamtheworld.com/XEPHAM_SC
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio El Fonografo Cd. Mexico
-http://17593.live.streamtheworld.com/XEJP_AMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=bb34fde7-a04f-457a-985a-4107c6ba13f5
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio El Fonografo 690 Cd. Mexico
+https://24503.live.streamtheworld.com/XEN_AM_SC
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio XEB La B grande Cd. Mexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio XEB La B grande 1220 Cd. Mexico
 https://s2.mexside.net/8024/stream
+
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Z 107.3 Cd. Mexico
+https://15723.live.streamtheworld.com/XEQR_FMAAC_SC
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Aire libre 105.3
 https://airelibreliveip.nyx.mx:8443/stream
@@ -1532,36 +1535,42 @@ https://airelibreliveip.nyx.mx:8443/stream
 https://airelibremusicip.nyx.mx:8443/stream
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Joya-93.7 Cd. Mexico
-https://18593.live.streamtheworld.com/XEJP_FMAAC.aac
+https://22113.live.streamtheworld.com/XEJP_FMAAC_SC
 
 #EXTINF:-1 tvg-logo="" group-title="RADIOS MEXICO",Radio Panda Show
-http://perseus.shoutca.st:9330/stream?aw_0_1st.playerid=qZjjnm85&aw_0_1st.skey=1554528904
+https://ais-sa3.cdnstream1.com/2691_64.aac
 
-#EXTINF:-1 tvg-logo="" group-title="RADIOS MEXICO",Radio Panda pop
-http://perseus.shoutca.st:9376/stream?aw_0_1st.playerid=qZjjnm85&aw_0_1st.skey=1554529051
+#EXTINF:-1 tvg-logo="" group-title="RADIOS MEXICO",Radio Panda Pop
+http://65.21.202.84:8182/stream/1/
 
-#EXTINF:-1 tvg-logo="" group-title="RADIOS MEXICO",Radio Panda fm
-http://perseus.shoutca.st:9380/stream
+#EXTINF:-1 tvg-logo="" group-title="RADIOS MEXICO",Radio Panda FM
+http://65.21.202.84:8301/stream/1/
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Amor Cd. Mexico
-https://19193.live.streamtheworld.com/XHSHFMAAC_SC
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Amor 95.3 Cd. Mexico
+https://24923.live.streamtheworld.com/XHSHFM_SC
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Mexico Internacional
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Mexico Internacional 105.7
 https://s2.mexside.net/8020/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Ranchito Guadalajara
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Ranchito Guadalajara 1370
 http://192.99.16.17:9870/;stream/1
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Ranchera de Monterrey
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Ranchera de Monterrey 1050
 http://streamingcwsradio20.com:9410/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Amor Musica Romantica Guadalajara
-http://14543.live.streamtheworld.com/XHPIFMAAC.aac
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Ranchera de Monterrey 90.1
+https://streamingcwsradio30.com/8236/stream/1/
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Amor Villahermosa
-http://15383.live.streamtheworld.com/XHOPFM.mp3
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Amor Musica Romantica  93.1 Guadalajara
+https://18853.live.streamtheworld.com/XHPIFMAAC_SC
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Bonita Oaxaca
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Amor Puebla 103.3
+https://25013.live.streamtheworld.com/XHRHFMAAC_SC
+
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Bonita 95.1 Oaxaca
+https://stream-152.zeno.fm/05g7pygka3quv
+
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Bonita 95.1 Oaxaca op2
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Romanticas Inolvidables Morelos
@@ -1570,20 +1579,20 @@ https://node-09.zeno.fm/6m1ba7yt3vduv
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Romanticas Inolvidables
 https://node-26.zeno.fm/6m1ba7yt3vduv?rj-ttl=5&rj-token=AAABbOht4Wom1Pf5HTn7n4QeZ_QXMwJwuJTklw67fX2PxIbcrArfMQ
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Romanticas
-http://216.117.166.208:9994/;
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Baladas Romanticas
+https://stream-152.zeno.fm/05g7pygka3quv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Ochentas
 http://streaming.radionomy.com/JamendoLounge
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Baladas Viejitas Bonitas
-https://sc10.conectarhosting.com/proxy/bonitas?mp=/stream
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Baladas Viejitas Romanticas
+https://media.streamingradiomx.com/radio/8030/radio.mp3
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Recuerdos Inolvidables
-http://167.114.173.72:8030/;
+http://sonic.sistemahost.es:8166/stream/1/
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Las Llegadoras de la Felicidad
-https://18733.live.streamtheworld.com/ACIR19_S01AAC/HLS/20969/0/1.aac
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Felicidad 1180 CD de Mexico
+https://25083.live.streamtheworld.com/XEFRAM_SC
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Cumbias Inmortales
 https://panel.retrolandigital.com/radio/8120/listen
@@ -1597,25 +1606,25 @@ http://node-03.zeno.fm/gs4xg5s0csmtv?rj-ttl=5&rj-tok=AAABeHBWouQA9m2GhtVlBW72EA
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Banda Duranguense 93.3
 http://node-25.zeno.fm/ksykvw16avduv?rj-ttl=5&rj-tok=AAABeNiPueQAr80XAC6vekxRNQ
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Banda La Bonita Mx Mix
-http://91.121.202.224:13442/;
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Bonita del Norte 92.7
+https://stream3.mexiserver.com:10131/stream/1/
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Banda La Comadre 1260
-https://14103.live.streamtheworld.com/XELAMAAC_SC
+https://18253.live.streamtheworld.com/XELAM_SC
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Grupera MX
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Grupera Radio MX
 https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Banda Buurito
-http://142.4.217.133:8195/Stream
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio La Grupera 89.3 MX
+https://stream-142.zeno.fm/z6aa6wp8z4zuv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Banda 3 wctn-950-am
 https://streamingv2.shoutcast.com/wctn-950-am?lang=es-ES,es;q=0.9
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Banda Tropical 100 Regional Mexicana
-http://tropical100.net:8026/;
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Banda Tropical 100 Mix
+https://stream-167.zeno.fm/esgo1lafgtstv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Merengue Tropical 100
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Merengue Tropical Merengue
 http://tropical100.net:8012/;
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS MEXICO",Radio Merengue Tropicalisima
@@ -1625,19 +1634,19 @@ http://23.237.150.178:8004/;?icy=http
 #EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/img/reproductor_chico_2016_2.png" group-title="RADIOS LOCALES",Radio Ranchito Morelia
 http://server.laradio.online:8157/live.mp3
 
-#EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/img/reproductor_chico_2016_2.png" group-title="RADIOS LOCALES",Radio Ranchito Morelia
-http://issultra.endavomedia.com:8000/ultraranchito.mp3
+#EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/img/reproductor_chico_2016_2.png" group-title="RADIOS LOCALES",Radio Ranchito Morelia op2
+https://ais-sa3.cdnstream1.com/2693_64.aac
 
-#EXTINF:-1 tvg-logo="http://www.mediagroup.mx/senal-en-vivo/wp-content/uploads/2017/12/AcustikMusica.jpg" group-title="RADIOS LOCALES",Radio Acustik Michoacan
-http://streamingcws20.com:1935/canal6mich/videocanal6mich/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="http://www.mediagroup.mx/senal-en-vivo/wp-content/uploads/2017/12/AcustikMusica.jpg" group-title="RADIOS LOCALES",Radio Acustik 1150 Michoacan
+http://server2.sit-mexico.com:8050/stream/1/
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Grupera 93.1 Morelia
 http://www.tuasesorweb.com:8000/;stream/1
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Z Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Z 1340 Morelia
 http://srmx.ddns.net:8100/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Kiss Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Kiss 89.3 Morelia
 http://192.99.44.11:9861/stream/1/
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Radio Tormenta 100.1 Morelia
@@ -1646,38 +1655,38 @@ https://cdn-embed.tunein.com/resources/media/blank.mp3
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Clasicos 99.1 Morelia
 http://64.207.155.136:8000/classics991.aac
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio 40 Principales Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio 40 Principales 92.3 Morelia
 http://s4.mexside.net:7040/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Nicolaíta Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Nicolaíta 104.3 Morelia
 http://148.216.0.21:8000/rnic.m3u
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Disney Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Disney 92.1 Morelia
 https://radiodisney.spiritmedia.mx/xhfo921_m
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Aguerrido Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Aguerrido 96.9 Alvaro Obregon
 https://srstreaming.com/proxy/guadalu1?mp=/stream&1609133961240
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Mix 101.7 Morelia
-https://17853.live.streamtheworld.com/XHEMMAAC.aac
+https://25043.live.streamtheworld.com/XHEMM_SC
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Maxima 100.9 fm Morelia
 http://omegaingenieria.com:8034/stream/1/
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Capital 97.3 fm Morelia
-http://14933.live.streamtheworld.com/XHOREAAC.aac
+https://27153.live.streamtheworld.com/XHEMM_SC
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Emprende Morelia
-http://ample-zeno-12.radiojar.com/6mtqwzay0vduv?rj-ttl=5&rj-token=AAABZaoX9pCMFTEjcDKKV2wy6IgGV7uV63DPg5-0qjph6d_ql3HXhg
+http://ample-zeno-12.radiojar.com/6mtqwzay0vduv
 
-#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIOS LOCALES",Radio La Poderosa Uruapan Michoacán
-http://stream2.dyndns.org:8000/xhip.mp3
+#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIOS LOCALES",Radio La Poderosa 89.7 Uruapan Michoacan
+https://stream-156.zeno.fm/ginxpb2ne3quv
 
-#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIOS LOCALES",Radio La Poderosa Uruapan Michoacán
+#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIOS LOCALES",Radio La Poderosa 89.7 Uruapan
 http://5.79.86.14:8150/;stream.nsv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Mexicana 102.1 Uruapan
-http://5.79.86.14:8199/;stream.nsv
+https://stream-163.zeno.fm/5kibekz0ebovv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Candela 91.1 Uruapan
 http://167.114.116.223:3334/stream/1/streams.mp3
@@ -1685,28 +1694,25 @@ http://167.114.116.223:3334/stream/1/streams.mp3
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Los 40 Principales Uruapan
 http://5.79.86.14:8202/;stream.nsv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Ley 94.9  Patzcuaro
-https://streamingv2.shoutcast.com/la-ley-949-fm
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Ley 94.9 Patzcuaro
+https://s4.voscast.com:8767/patzcuaro.mp3
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Pura Ley Apatzingan
-https://streamingv2.shoutcast.com/la-pura-ley-921-fm
-
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Ranchera 98.3 Apatzingan
-http://167.114.116.223:6784/;
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Pura Ley 92.1 Apatzingan
+https://s4.voscast.com:8765/apatzingan.mp3
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Ranchera 98.3 Apatzingan
-http://167.114.116.223:6784/stream/;
+https://stream-157.zeno.fm/191he4yrzv8uv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Candela 95.1 Apatzingan
-http://167.114.116.223:9634/stream/;
+https://stream-155.zeno.fm/kvdvkhbtvchvv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio la Voz de los Purepechas Cheran
-http://radios.inpi.gob.mx:8080/xepur
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio la Voz de los Purepechas 830 Cheran
+https://radios.inpi.gob.mx:8080/xepur
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Voz de la Sierra Oriente Tuxpan
-http://radios.inpi.gob.mx:8080/xetumi
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Voz de la Sierra Oriente 1010 Tuxpan
+https://radios.inpi.gob.mx:8080/xetumi
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Comunitaria Jenpoj Mexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Comunitaria Jenpoj 107.9 Oaxaca
 http://espora.org:8000/jenpojradio
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Juchariuinapekua Santa Fe de la Laguna
@@ -1715,63 +1721,65 @@ http://87.117.208.118/stream.mp3?ipport=87.117.208.118_29244
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",RadioTuri PIREKUAS
 https://streaming.live365.com/a92136
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",RadioTuri Turicuaro
-http://radioturi.radiostream123.com/media/playradio1302766.asx
-
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio PIREKUAS
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio PIREKUAS Santiago Azajo
 http://162.210.196.140/stream.mp3?ipport=162.210.196.140_32113
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Purenchécuaro Michoacán
 https://sp2.servidorrprivado.com/8080/stream
 
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Tsipikua 94.7
+http://stream-170.zeno.fm/ryiionzsjxztv
+
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Santa Ana California
 http://s10.voscast.com:7688/;stream1575414865714/1
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio la Catedral de la Musica Zamora
-http://transmision.radiozamora.com.mx:8000/catedral
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio la Catedral de la Musica 91.7 Zamora
+https://stream-141.zeno.fm/sbcbukghup8uv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio la Zamorana 103.9 Zamora
-http://transmision.radiozamora.com.mx:8000/lazamorana
+https://stream-144.zeno.fm/pscbnbk7sk8uv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Candela 94.1 Zamora
-http://transmision.radiozamora.com.mx:8000/candela
+https://stream-142.zeno.fm/9t73skxn8k8uv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Exa Zamora
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Exa 98.1 Zamora
 http://live.exafmzamora.mx:55252/exafmzamora.mp3
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Ke Buena 92.9 fm Los Reyes
-http://18433.live.streamtheworld.com/KEBUENAAAC.aac
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Ke Buena 92.9 Los Reyes
+https://18853.live.streamtheworld.com/KEBUENA_SC
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Erandi Tangacicuaro
-http://192.99.0.170:5088/;streams.mp3
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Erandi 107.1 Tangacicuaro
+http://us4freenew.listen2myradio.com:39409/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Pantera Jiquilpan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Pantera 1290 Jiquilpan
 http://192.187.112.50:8434/stream/1/
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Purepero
 http://67.222.7.169:8080/;stream/1
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Impacto Jiquilpan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Impacto 1450 Jiquilpan
 http://192.187.112.50:8234/stream/1/
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Dual Estereo La Piedad
 http://72.249.55.100:9846/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Pia La Piedad
-http://72.249.55.100:9562/;
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Pia 980 La Piedad
+https://stream-156.zeno.fm/9dp20cq3f78uv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Sol 103.9 Ciudad Hidalgo
 https://streamingv2.shoutcast.com/radio-sol-1039-fm
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Azul Lazaro Cardenas
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio La Grande de Michoacan 700
+https://stream-155.zeno.fm/5xptpdq1sy8uv
+
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Azul 1560 Lazaro Cardenas
 https://s2.mexside.net/8010/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Fantasia Zitacuaro
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Fantasia 89.1 Zitacuaro
 http://162.212.56.146:8344/stream.mp3
-
 
 #EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/af0228e6-2594-479e-b1aa-9163b0e1f5ed/Radio-512.png" group-title="RADIOS LATINOS",Radio Energeek
 https://audio2.tustreaming.cl:8150/stream?type=mp3
@@ -4930,7 +4938,7 @@ http://pe.shortgod.com/pawor201/tv6.php?id=329&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Nostalgia TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Retro Magico 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs0Ez8_Qsb_afTzNNBi-XupK9EFSpGxvcKo91xvgEeoCVQKrtYxIY298X6uvmnkvM7lwnlfgHbGZhzIUPBuf8MQTfZbRQpV_uTRyfvAuKXR2KfblOs6jhCaK73hmPYdVn8aUeq600VXOkwcjntkXaxuiW0zD_o3wze_omQMK4Oly4lw9Xe5bwl_oo4JPBRLUlXVcranYL-Z07dx-fRMkd-6NUsx8_-NKvdSSBfh2kBj7gyKPInrv2lyRkS3HcFFl4A9T6Mca2fFllM1zI31gR9hZfwE7OQXuuiSlq3ufXAEbTKd4c_-RvWTbRWTsfp8Yud0Hiajm-8MupZvIDtSSP01d6n62WDkkiMF5XrGBpkEmODpoZwycZQ2iOHNBq8DAXy9FFoOrzHwrNWnoo7tBFRsY1MnzEA1sgH1ETOL6tQ2nqkuO0JeFQ91yC42XXh53esofQ7-plguRJOwDvhmDwdivebZ5xQ-09rt6zCMTsScKdGMbLjPa4xvQ_hj0_hb1PFShg10RBWugw6L6zPy6yOyrKnnxzeIYg6bnx5k60VCAlZCxKXoxhVhQvQz0Fj227pqib51RPzUYOe-gJnC07IbBURwZPl7H_1ZGKL_w7rE0Drds7dAYSVt2ygrQDDwAkpyWpLPwAzr8Aap4axjRIMJya1KrpkC2sVqQJvyStxXQHSTOAz7RY4cvgEXDd_vsT52nBMhuogdXRP2a6G5R0El5x8pqNEAAitYd2BIJpc6W90S4J-5bps7e7F3ZCQxoYxk3UYDesRHvHyU0pFzlqRoM0CVaNx-aa7DcxnbdIAEqCXVzLWVhc3QtMjCcCQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs0Elv7mlptBXUvGDUGsvXzhTt06FUSGjj6xvyKPZGk-cbCUst7Sm9_LJZH5ft2g-dM6iMeDy_3P3AU_zJV5Ukox89PrNGfOZ8wB5HTyXL9aFysSSK1qCuW-OH6HdyHL6Rlmdr-kULWd9iHKpYrrtuvdSFa3Eod2sbjebkqgTvn_LDY_mFqgQI169RIzS3UPsqQfbvqo2YvGPO8p3nFYuarcMIMFjTvieg2jR0HKqbc30w6D70AUAr52uxSO0m6gXywE9U5voa5zkyVqUCPWau3sVwjtZssz7Yo3CvuU6ad4LLo_NNGFFAdzgbtQduxkMQEZf5yqeNPCDfbNDdPK3A_FzU86450N9r3eOGVfw0soxcTlf5_MQAzPg6VpGad5vI7Iu9bM97psfp-cMbirLLnhsmK9ayIBrx7RymYooqZTFMBEdwjOCYQwRowPv1xMNskgpR2u7n9DzpHHj8GmUCekRpCuZlDoMlPcC7yjmF2neK_eO5622Xy8JGptFQefB4DMYfRZaB8RZaB_frmpieh5wQo72Ymv2kOpOdvA8QbNqJQRR0pZ0gV_Funlk3Rhrpzz29lkoVvh3ytExWiTBzbrEaG6kEN20U2kfZxvnJXbq2N8V8cy4ZhSKLnBIu9HpyqbWyf7rqV7dUUI-591HMBmDv3p9svFJWq2GjkX6pSBKuioYAZiEDUOkk0bPvVg1_gMzgDmAa1aLymTYl6_S0WN6KrkBKlzUQ0XA3JpElAHFPwkU7pTTerhj9Z7o-VWhD-mcBRBLbm_k8Tev1AzLhoMN7cAsGFxMYfzRU96IAEqCXVzLWVhc3QtMjCcCQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Anime 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Claro sports 
@@ -4951,8 +4959,8 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs0Ez8_Qsb_afTzNNBi-XupK9EF
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83a1885e-ee22-460b-8bd4-c0c6f290dcfd-profile_image-70x70.png" group-title="TWITCH",Taberna Nona 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs4EP4Hx-E1fx1hBCdqrgf7mJOrQjV5QGXLq2PqfHXixZpZWOIOHlfb6udPpR3CFakmMVdi4LBcqlQlaBo6yIaSNCoOKlpq0R9HXNuu4REXU5Pa1GJ11CPqgEzew7dXPBmQAZP905xxsewZGJ6anibo6Exd-iYZlX7LPWrf-0oZqSCGq5TOHpEsfRgSSzxtv8QVmdhGiLbS4pgwduS_iTJY8KOLntv4dnvxaPuvFKA-ROjcccQGMC8LKoinprQB-r5MNgONYeBPA4xt4NekHPmfQ3YyVOy1Bmr4TPLjqCZIVO1qbZ6Bs_sTQEfD9TEtCgnbmHX3ZpEe0eEQXm1I4wjvbdSquXF-TDZxW5nAIvVWe55oGH5XLl18FM41HUVgq45jqkbGIP3t-mG-X2tM7f1AyJBBLU8KAlVkv4mYhjYwgtQxVtafb3p4YYH5L5_N9a-ZVa74p2RyyHWwSusvPXRllP6LojgCsh6R-RQ8aAmiqCztwquD_4bh7niJ4fZkIzWwYMenqBZhXZl6pcHd1N6E0gw3QF1_sydSVh8iaDIIjLpc0OwcgkrPUOKmW_OwKUjrqxhUIQt8Ztik6gnzTNWAaErdO-lLcuj__l9RSeVL58rHuH8V7n4WP40LYf_4wxhcthgrMjgB5bZwVsL7ToiNot8hqoFStO3CNszbv3kv8lu48dVAjR3i-h9XrJ_3FwLzIIHA037K_64p1r40wSpYrekNo1KqDNU-zXdrMYQ1ssBn7yuuyY7TQ_8Z3BhDlNwsSDNhGSHtPzYdtqfzqv1waDKoN0mc_xOLHujZCoiABKgl1cy1lYXN0LTIwnAk.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs0ECB9lEn1KMKudWDTr922Dl5Dr36J2ZHN7JE8urNOb5y_jMQY_4FcE4YQ0qcxaBxERgO0xURDWR9pMCKw15Uqm0bHyl87XoekYQIimdiCDHTslZbkFlEfD6FVtoeVgDDRw8Q869803DOJen58nxaho2q7nnBQJaXaYFTY7OxsiDVmS_OwxVv3Xempw0UvBi0pefH9LYQTWnEDL9sdrS6A9tRzhEuZy2QDuRW0tpngJGV0r0cqUooAaIR8YLYJFr4veGB2sVmEa-IjlxRI_wdFGMBkkOwTLEb89rxdsNqhlCsfDVJMjsAwslB8ipzZtfb3xz8Ds_69Ln7r6H0RoKuVCnv5iEHva0xFImznQoT2HFmqDaWB5m--v1SE2auhXfNA9fJkdyTq0ufPpkCCgp84YPABZNvYXqyze4FdpgXXuboTHUX-pOXPhNd4xPU0dinoHAG4u-MN9C3yWpj8HS1kSyMr0oKWtsX8bEyGvZbzXCM3CfZp7lJJUlWiycJp32EkUnFZh0Zt7YD0t_8S8iM2Lle6gzRONHbI-9aDFOoSXyia5faZaLMRzOuiXFBvluLAKC1fgMTeCLen1l9Wzv2peC59S0LrJIP2t3m5R3SG38QpFwRPCQf1UioKQDUQwn8591Cqr3fa6gYPXV3bJIOcw49NeztZL8zYrbwpQqIeo0__SxBK0GwMassYwvwSVP79tL-Rg2sWhrFv0PUb2legffdd6YhLYE3M5z8GnfSScztwCJ6377Ru1rY0eu0wxcnUuMBWZpCd609EfHCj1-xoMBsLjTY9obd6ODhTLIAEqCXVzLWVhc3QtMjCcCQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsIEMdN9rCZPw0DWg408N30P6KVt_B81Ucf-D-0jQVyPF4q_bScGiesPuuh1X-NpbyGLq7MSwQavVRpZcfix_IBQth456eaMW53GtZoiF7-zhhaxAf_qradgSqKixLknQE9am55NJwB8MLaID6O24fsHr2chjiy1SS9MSet1e3ONnUWtiRKPxxaBZX4rU33SYgctL_gq6I1QbYLUCyU4P_UoPH3U3RIOXvpr62NeYycZ2wTqwIr_uzyZllV6X6ZPBp-CnG65kXhfLrLRhwqcr1rjS3O8HY4KizPQExu5zULgVnV7HdIIA75Cqr5sbbRXMnxqVgO7BeJ9GbOSllSGqdmDvjNjSW6M91hafdS997gRDwWQx5KrmMd6PsU3dRbxruN-7dI1bF1cCgJFEi7TScm1_y1-wYrWfoeWpl7k_--YZZ0gwkgiDwjBRwlSazUyHrIOGhbVtlRm4psNtuvb10p66pOOwwAu8l2nFNn550iclFiEkSwnBaLxLfaq6UjbvGGNP5aMGLvD2NgnHdYO3INAY6_XKnQYXdiPocdR4_cPfMVTgtwUBsGRJQKYt1O6e50vjm9wNTXmducqn43BcenO3hp7b3McvJ5BQ4IncFzqMIzeiVqpiIlN4N8zp3YLFeV50GS26PfjlrFzM0TiINpScx-8fBFXmL0Rpb_Tu-Q0E-auxbmDMtJ9MGQLuYTEqI6fE5GpW9ZC6E03899-poDgcSHrX9XkyqMvT_DE94r7eI9GKbQ-ovRdCl5OOaikMIgXo5UaDKdc4-tGKA3NaG9ayyABKgl1cy1lYXN0LTIwnAk.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsEEjhuxOQADziOxckh8I8aT1A7oKBKT2DYBVqODYqYV7pW4aj2CHujJUKv6xHU7NDVfxMoHy4uOyrVgKFM8Ngvs__5vxuUh7qeDMTC63BDiC1ueaH4mpBdetD6PjM7nHJh5d48Ido-ngEHroao7-Li60JsNuXzKHfm75GPGSrDPRBp_BuLMWrbnVrWqILn_1Uc-fnJKLuFWwIpjEjwkDLGp4i92qc8JnDSbZfT8pMkzJ-MMYwm4zr-sYzZrjC5-LnX7tuj7KavBlhInkOugJPmRVFRL-geVLrqYTzQSmFN0vh_J6zLHZg1mddwqRmqfr3jCpAeUm-STd-VAFYEwqt4rXFhmZgqXLn1pQp3yvK30gG6JyHkWx_ZRUNIS5AZVVsoVp9S_zEJ5C_EH1FPwFiz0hLEXT4pGHvuWmnDo2gQjiZLNtM8EZgv77K6MBywjQfD7KMwDPuuPyElTNSzSWyMT4Gq8L-iW1VS8ZGRJCri8aDD1M_H_9CUVwpl2ISyRFPhl-cadOg3sMbplc5sxl6ZlTVGR76czghSQmBJbk2J8XhBLTWJKUdVY8ZIkwDkH0i6SNvegGxJdUd_k9tJt5iAhT81SagRNDXUdgxU7Cb1qYqKzfUKXHRt_pYFgCJ7nLH3BrH05DdCturAkRy7qCYvmpQqF46Fza3fwcZl2giBx45uzSMLqaWLmGZkQqh0lxc9pA8MGT_1J0Q0b2JPGgMK3u-sos2gqk_C9bdG75y6DyVPPImtNr7cFJFhZIvlVSpyeEhoMGmUoG80eTjSwK397IAEqCXVzLWVhc3QtMjCcCQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="TWITCH",Latino Kids TV 
 
