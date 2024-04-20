@@ -4650,6 +4650,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 ﻿
 
 
+#EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="TV PREMIUM",A3Cine op1 | Spain
+http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="TV PREMIUM",America 24 op3 | Argentina
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV PREMIUM",BRZ Brazi tv | Brasil
@@ -4699,13 +4701,13 @@ http://pe.shortgod.com/pawor201/tv9.php?id=224
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="SHORTGOD",Tooncast op2 | Colombia
 http://pe.shortgod.com/pawor201/tv9.php?id=89697
 
-#EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="SHORTGOD",A3Cine
+#EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="SHORTGOD",A3Cine | Spain
 http://pe.shortgod.com/pawor201/tv5.php?id=165
-#EXTINF:-1 tvg-id="A3 Series Internacional" tvg-name="A3 Series Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png" group-title="SHORTGOD",A3 Series Internacional
+#EXTINF:-1 tvg-id="A3 Series Internacional" tvg-name="A3 Series Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png" group-title="SHORTGOD",A3 Series Internacional | Spain
 http://pe.shortgod.com/pawor201/tv6.php?id=130&token=ShortGod&file=.m3u8
-#EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png" group-title="SHORTGOD",A3 Series
+#EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png" group-title="SHORTGOD",A3 Series | Spain
 http://pe.shortgod.com/pawor201/tv6.php?id=130
-#EXTINF:-1 tvg-id="" tvg-name="USento California KXTV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/04aa3459bcd0300ffabdaee7a7c76f4e.png" group-title="SHORTGOD",ABC Sacramento California KXTV TV
+#EXTINF:-1 tvg-id="" tvg-name="USento California KXTV TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/04aa3459bcd0300ffabdaee7a7c76f4e.png" group-title="SHORTGOD",ABC Sacramento California KXTV TV | USA
 http://pe.shortgod.com/pawor201/tv3.php?id=940518
 #EXTINF:-1 tvg-id="America 24" tvg-name="America 24" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png" group-title="SHORTGOD",America 24 op1 | Argentina
 http://pe.shortgod.com/pawor201/tv8.php?id=46697&f=.m3u8
@@ -4732,11 +4734,15 @@ http://pe.shortgod.com/pawor201/tv5.php?id=23
 
 
 #EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png" group-title="SHORTGOD",Comedy Central | Mexico
+http://pe.shortgod.com/pawor201/tv5.php?id=159153
+#EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png" group-title="SHORTGOD",Comedy Central | Mexico
 http://pe.shortgod.com/pawor201/tv5.php?id=155
 #EXTINF:-1 tvg-id="DePelicula(Spanish).us" tvg-name="DePelicula(Spanish).us" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="SHORTGOD",De Pelicula | USA
 http://pe.shortgod.com/pawor201/tv11.php?id=48
 #EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="SHORTGOD",De Pelicula | Mexico
 http://pe.shortgod.com/pawor201/tv8.php?id=46576&f=.m3u8
+#EXTINF:-1 tvg-id="De Pelicula Clasico" tvg-name="De Pelicula Clasico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="SHORTGOD",De Pelicula Clasico | Mexico
+http://pe.shortgod.com/pawor201/tv5.php?id=159219
 #EXTINF:-1 tvg-id="De Pelicula Clasico" tvg-name="De Pelicula Clasico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="SHORTGOD",De Pelicula Clasico | Mexico
 http://pe.shortgod.com/pawor201/tv9.php?id=89724
 #EXTINF:-1 tvg-id="De Pelicula Plus" tvg-name="De Pelicula Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png"group-title="SHORTGOD",De Pelicula Plus | Mexico
@@ -4924,12 +4930,11 @@ http://pe.shortgod.com/pawor201/tv6.php?id=329&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Nostalgia TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Retro Magico 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrwEv_x-RZZkqdXs631qf7Wz4mzsC0_ezJLBdacsKhDbik9a4XLtnkunNU27RXVU7bF9NokDKX0FrB8bNDeqpUW5zC8o5TDB4BWhQD4nTo75CPKMGYy4BJAJO3oXVLq8ESJGsu1DsDKBFSWCw6fpw8H-G2GNlC9dcxpwxb52K0BhGwbWzVuec69ITFIQSX70Zzr4fdXil6AH1R-OvDqRWj_zKMeN-20iy8uxAGBwxC8ni4TzbARmOZf64cXNMzY437tkjXh29k2ZtF9okIkHa1LZzxE9Rj3tNRPlieRmSD90oHbL6FB0yzkfuFElCJfjTctHV0Uvzi_Ip01dAyBGP7qA6QMRPasfUFniyMJC9W0nEPat1zjmm-3Z27MWzl_kt1JvAhnmKSy5xReZMBKbx-e4fZdGwwEwPDdz61XTrdcRMqqlaCgmrWMUPL2ukaZD93JU0pKeFP2eJW6YqsSSDeSolx2-phJyAcOy3_BDZvcOQRxm3T_tOPzj5WxIV5EFtUtLw1XXFau0y8B8oct33JAVkT3CF3cYh_fjqgISo48IeQOIr06AWGkZ5TT0GHNHeVuVX-q-jgvl5hfooq45fV1WZjKbAsySaCejy4uc6GJZroW8TlJuct5aFPEtyaJvyp-NNdOYkoB4ZjiTG79flLtoxHopBq7dGXA6DPwP_rgF9l_bby2yPRzntsNvs5E35Xa7_yTjvU_Hq9FIw2V9YjUi20He4g067MIfFKAVPg2yW7WM09xv7G9EXBnEW5QaDHu-irClpFKC0ITjNiABKgl1cy1lYXN0LTIwnAk.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs0Ez8_Qsb_afTzNNBi-XupK9EFSpGxvcKo91xvgEeoCVQKrtYxIY298X6uvmnkvM7lwnlfgHbGZhzIUPBuf8MQTfZbRQpV_uTRyfvAuKXR2KfblOs6jhCaK73hmPYdVn8aUeq600VXOkwcjntkXaxuiW0zD_o3wze_omQMK4Oly4lw9Xe5bwl_oo4JPBRLUlXVcranYL-Z07dx-fRMkd-6NUsx8_-NKvdSSBfh2kBj7gyKPInrv2lyRkS3HcFFl4A9T6Mca2fFllM1zI31gR9hZfwE7OQXuuiSlq3ufXAEbTKd4c_-RvWTbRWTsfp8Yud0Hiajm-8MupZvIDtSSP01d6n62WDkkiMF5XrGBpkEmODpoZwycZQ2iOHNBq8DAXy9FFoOrzHwrNWnoo7tBFRsY1MnzEA1sgH1ETOL6tQ2nqkuO0JeFQ91yC42XXh53esofQ7-plguRJOwDvhmDwdivebZ5xQ-09rt6zCMTsScKdGMbLjPa4xvQ_hj0_hb1PFShg10RBWugw6L6zPy6yOyrKnnxzeIYg6bnx5k60VCAlZCxKXoxhVhQvQz0Fj227pqib51RPzUYOe-gJnC07IbBURwZPl7H_1ZGKL_w7rE0Drds7dAYSVt2ygrQDDwAkpyWpLPwAzr8Aap4axjRIMJya1KrpkC2sVqQJvyStxXQHSTOAz7RY4cvgEXDd_vsT52nBMhuogdXRP2a6G5R0El5x8pqNEAAitYd2BIJpc6W90S4J-5bps7e7F3ZCQxoYxk3UYDesRHvHyU0pFzlqRoM0CVaNx-aa7DcxnbdIAEqCXVzLWVhc3QtMjCcCQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Anime 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Claro sports 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CeciliaOrson 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtEER2C9AoQH9zA05mb7rJ_AZq4RslbLjgFS2-ZsOmSu6mTpB2o8lnse8hr3mzux0WBgCq0UuS38VO13RjSMwpGNPOste_39PCTk8Eq5duex9VwMTsFtKjnaVI_2CBkm8RRKaeGf8JPHHlPI67TbgBMm20qfvRlqo6jjJlrM4QvxIitPJuqcpHyMRqYNqlUNVECvaudpWiTfIt4aYOoGim4-rXzOdy3pkh7q2Zfc8LcQN_jQe2pfVWaxOvWCulo3MNoDoIyKPPD3ScW3gDrYijBLaBvwF1HQxY3j3LR8FjgECKCcejO_u9hvjHG0S3CHnyU68uYj1_g57QXWIrVnt6b1avEXP3RjCs2QHFLbgr3zGQxj3rucCCsbxXP9Nv8-C1RintCzLkVs4ADoOyKaQiu0Hs4UREKzB6vWCpnkvuF8tJIvVz6_j3p4NoUokxug-Xuh6o38SsFDOHf0WuXSQ5RwAqwgL9qCHg7nLs9vat-0fQcehTkV3u2ydYrIz4OGSh0N3f-mkR1ArOaxYgPN6tRminZmrlrxmaMwbm9BMO4awZWU6QjXhup2mvJJoRCf0CzJH3SzZiPjdt9Ey7MP6B91RhnQ3lhD6VU6Hycne54ybHk1K_T1p6ntgzAp4rkm25lQmWVchCMoFyB0v-j4N_AsPPVrJny_v-o71n-l65LP8Hhq1f1ngO-qJiG9PLAnxOuwj9doZmYebqbsmoxAqppoRygh0AR-UjfhAMIwoVuG4H2Z_TQ70XNplA47CXKxyXqDIxQmtXsFc9K2iUKFjTbKsLsaDP3L3dw3S0a2-nHY9yABKgl1cy1lYXN0LTIwnAk.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CineMX4 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ZAZ Tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
@@ -4946,8 +4951,8 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtEER2C9AoQH9zA05mb7rJ_AZq4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83a1885e-ee22-460b-8bd4-c0c6f290dcfd-profile_image-70x70.png" group-title="TWITCH",Taberna Nona 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs4E-8EUPn4BBx4PbbpCwyOJCMeB1u1CocJp2tinFdnibfztNdpFt0igDYCHUwFvjbTbxFxnmLLT_4Fs-6dwDQSoNk5uAINWv_ZN4qGc4kt15PGlSRmX6plAHy6Oe2ScAvyQEsu5_okuYuv9SwSSuGG2BNJZzJZHaSOePAvPfg6UMaLNS22aYOpcOKpzN8oI4qHe-GQYlBxGR_lSSsaNYgmbZuK-6lRtWWjIMs9cgDnRw5cnJ-bN_7yBZ-BHQto8j2rrXMFT8Qv2GyR2IoRXaFtc2jfLY8mdivEBc93V8A2HlE_IwHFFar0QAUp6585f0YsX_oWGavO3Bcf2-V8O96HTJXoBLKyyRxfcu0e27Wl3bmf8XnCeBANXnyW3B4r--xXPyoSGLjVXTSsVsnbN1HAPj8JnoEGW0PG-eA78hA3-aityVhSnEcNdHrZI9Rq9qXeRS1BO83iL4MgDmyQPo8tDhQWOXyNKD66cmhidy0k-8_af9DOZEK-yuBbTmyG40WOVkQ_GKUdwXsContYjrdpDsFDZ929YkkVnBqUoIvFhwRg-bSksDFIKHAIsfBfVeFpXJbDq8668IOF7-eG9DbItjHiAEYTP_wRfhMmjzT7rpuiFS2jwZ-OP_xRNI2FUpPe4ktPfDE5NmE4VPnKYqT_-K9Pwt8nL3PHV05cEuMUwZkwDazNxLiK16wJH9r9zEu5WAFkqOxGb4vg7UmezIMxH5LYBtEInwiLa5q-eugwFFgXjxzTfEsSn2Rs2ZixDK2ytfQGMOZQeRZhQuivipqQaDEOHTVg20PUA9jaIUiABKgl1cy1lYXN0LTIwnAk.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs4EP4Hx-E1fx1hBCdqrgf7mJOrQjV5QGXLq2PqfHXixZpZWOIOHlfb6udPpR3CFakmMVdi4LBcqlQlaBo6yIaSNCoOKlpq0R9HXNuu4REXU5Pa1GJ11CPqgEzew7dXPBmQAZP905xxsewZGJ6anibo6Exd-iYZlX7LPWrf-0oZqSCGq5TOHpEsfRgSSzxtv8QVmdhGiLbS4pgwduS_iTJY8KOLntv4dnvxaPuvFKA-ROjcccQGMC8LKoinprQB-r5MNgONYeBPA4xt4NekHPmfQ3YyVOy1Bmr4TPLjqCZIVO1qbZ6Bs_sTQEfD9TEtCgnbmHX3ZpEe0eEQXm1I4wjvbdSquXF-TDZxW5nAIvVWe55oGH5XLl18FM41HUVgq45jqkbGIP3t-mG-X2tM7f1AyJBBLU8KAlVkv4mYhjYwgtQxVtafb3p4YYH5L5_N9a-ZVa74p2RyyHWwSusvPXRllP6LojgCsh6R-RQ8aAmiqCztwquD_4bh7niJ4fZkIzWwYMenqBZhXZl6pcHd1N6E0gw3QF1_sydSVh8iaDIIjLpc0OwcgkrPUOKmW_OwKUjrqxhUIQt8Ztik6gnzTNWAaErdO-lLcuj__l9RSeVL58rHuH8V7n4WP40LYf_4wxhcthgrMjgB5bZwVsL7ToiNot8hqoFStO3CNszbv3kv8lu48dVAjR3i-h9XrJ_3FwLzIIHA037K_64p1r40wSpYrekNo1KqDNU-zXdrMYQ1ssBn7yuuyY7TQ_8Z3BhDlNwsSDNhGSHtPzYdtqfzqv1waDKoN0mc_xOLHujZCoiABKgl1cy1lYXN0LTIwnAk.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtME7NdQP0uvPycFbHrdIWHo3iwh18WZtZ9ihNmZWMn7RpWaEoYmV2ceBgSfNhD7YUgfNNmNwLi5rFwUnY3cCRvy0km8K-omxEE4BOv3Xtr82dzPSMJMAz2TVscz7crqGkYkNoPFAf9w-y5roQS3FGkK3GNXLEyiv88Hp3nzdYFkf1Pqub0ILBhdTIRJ7687G9-B1xJS5AOW6oV2uUilcfTF9Z38R5PKkdFC0sz1dL8tLYnjntTOqDiyAoK6Q_bMV77916N96KhXlVUKNpDQMD1s7USqAyBkgT18YqELI9HBtQCuQ_TMj05fEpUp6T1yLlOIM204367YXk_Rp4cmWM_q05qLu2YcSiy05wPPm6K_EuuwZKi7p89uvfgJouhUjBb87NG9HPH60Kb_POkGN-iJhdz3YXST4YtL-LPw55NwNqdbJiXSJbc0rt83AezRAgftaxkf-87AcOeA5d7kfjiC1tneur2VhBT3VkJFU5feU79pHYwcxBiDE6KniBAGCTIJq3oanYv4ONo-sL21BYEPPzPApAXENceE2BFk2WDpP7dhSlMNCRbgtvfic88HgD6hepVxKoMLgcBtYH9lfdspCDkA2Sqa3njbUey0OhH6ELiWjk6jUP8XHtwRu9aunKFoubUuBo_S_ExgP6dRpoOyLEvkQ3jfkIIt144j7FbyM9SgNWyDZFr94VuDpqpaFW6PGXKWrtaPmoUO-gqErYoiSJuJQAY14FYg9iWqsj_HERLl6bh8Zoc7yqqyrCw5jQX-je3o2PiYJPD01Pu3cAashoQ1RhoM7KTXsf4gK1U3AKKMIAEqCXVzLWVhc3QtMjCcCQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsIEMdN9rCZPw0DWg408N30P6KVt_B81Ucf-D-0jQVyPF4q_bScGiesPuuh1X-NpbyGLq7MSwQavVRpZcfix_IBQth456eaMW53GtZoiF7-zhhaxAf_qradgSqKixLknQE9am55NJwB8MLaID6O24fsHr2chjiy1SS9MSet1e3ONnUWtiRKPxxaBZX4rU33SYgctL_gq6I1QbYLUCyU4P_UoPH3U3RIOXvpr62NeYycZ2wTqwIr_uzyZllV6X6ZPBp-CnG65kXhfLrLRhwqcr1rjS3O8HY4KizPQExu5zULgVnV7HdIIA75Cqr5sbbRXMnxqVgO7BeJ9GbOSllSGqdmDvjNjSW6M91hafdS997gRDwWQx5KrmMd6PsU3dRbxruN-7dI1bF1cCgJFEi7TScm1_y1-wYrWfoeWpl7k_--YZZ0gwkgiDwjBRwlSazUyHrIOGhbVtlRm4psNtuvb10p66pOOwwAu8l2nFNn550iclFiEkSwnBaLxLfaq6UjbvGGNP5aMGLvD2NgnHdYO3INAY6_XKnQYXdiPocdR4_cPfMVTgtwUBsGRJQKYt1O6e50vjm9wNTXmducqn43BcenO3hp7b3McvJ5BQ4IncFzqMIzeiVqpiIlN4N8zp3YLFeV50GS26PfjlrFzM0TiINpScx-8fBFXmL0Rpb_Tu-Q0E-auxbmDMtJ9MGQLuYTEqI6fE5GpW9ZC6E03899-poDgcSHrX9XkyqMvT_DE94r7eI9GKbQ-ovRdCl5OOaikMIgXo5UaDKdc4-tGKA3NaG9ayyABKgl1cy1lYXN0LTIwnAk.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="TWITCH",Latino Kids TV 
 
