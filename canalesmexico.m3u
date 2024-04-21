@@ -1640,10 +1640,10 @@ http://162.212.56.146:8344/stream.mp3
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Kiss 89.3 Morelia
 http://192.99.44.11:9861/stream/1/
 
-#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIOS LOCALES",Radio La Poderosa 89.7 Uruapan Michoacan
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s90940q.png" group-title="RADIOS LOCALES",Radio La Poderosa 89.7 Uruapan Michoacan
 https://stream-156.zeno.fm/ginxpb2ne3quv
 
-#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIOS LOCALES",Radio La Poderosa 89.7 Uruapan
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s90940q.png" group-title="RADIOS LOCALES",Radio La Poderosa 89.7 Uruapan
 http://5.79.86.14:8150/;stream.nsv
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Candela 91.1 Uruapan
@@ -1701,9 +1701,6 @@ http://64.207.155.136:8000/classics991.aac
 https://cdn-embed.tunein.com/resources/media/blank.mp3
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Maxima 100.9 Morelia
-http://omegaingenieria.com:8034/stream?type=http&nocache=1540
-
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Maxima 100.9 Morelia op2
 http://omegaingenieria.com:8034/stream/1/
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Mix 101.7 Morelia
@@ -4938,7 +4935,7 @@ http://pe.shortgod.com/pawor201/tv6.php?id=329&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Nostalgia TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Retro Magico 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CswEtDsU3O9DsNGT5H3h6WABJeE-ifQWQjcODP2jjA2XE2CW9LklXAjt814_gBWAor3if0mfCaKAUxWTL2xIEsTJRAX1FMMFKexpd3nMXWjb5f_yX37ECyh6jaDz-tnLUHqJ2TUWE4FUDfMDllwMQZe3uhccLMIFBdtUoLVsQtralwElK3Gp_lF4kZL1wrtQom-m8AdTBxdu2-AYwfrUViKOBdP25QpRfxBdD_mxvlLr-8SO4_hSN5FfG2HiNE2Am8JH0k0AhDxq4fqNTtYMyOqmgq7pMmzyVtyFhep9poC4ZILCxcgasOYI8Fud-Tcpts1JnUAwyOPtkMyjZqzpbdiQ_GjozD4I0aJoEQpy4z9VWd4oBKL9ZVh8WKVZle0wFZVCKTnUd2t8ea3j7kVZ1Am-n0UVp8qDTH18sIEDlLKZssdg0CY5uLFvik4zmeSAi2fFlECcn76YlZIOwWGiota037JOmbYzmq9qLsS4Togah1hNFAtianP9TzAFvpi8wZH3n4Uzm5rYUNoObK0jFUABOHKW1yl2Q5kteSDUbXGs25l1ZGGh7y9k-__S69abDF7a9FaI_Zj1tLZZlfPx3w_r85jiyeVQAsEuEr2U_Gg8QGwuTV8Nz5uCR0Be7T0AwNXp0_fLlD4F4wwuTXZBiznB_LWPOA2NjgyGkr85YNaMkCf-Cav-bM6VhgvuG6DjtRE251uPVwnJasHFzDx7M6hB_epej853CmHNeHymmfC_KFCs1HCRSpd7u4yuEL7aqBWVN69WrEtYtp3lMScDGgwIpdgUkqemxgYhOzkgASoJdXMtZWFzdC0yMJwJ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CssEQ-SLaGufboJ7pWvuxnE3aZ9oCDV7Ys20CNpa7Hq-32H6GVuB_ysF9YqE8iE6_ZLrmPMBFhlfrC2nskGUVQUnI0BjbdyBq78jSuVqGp5t75N-QkbmM1jRvcDvcI96L9OVde1M2VcqoghNinDjB6znesDDkHlcGa_mB_S6GSp_IjI7UfGMiWltnpXFU8uiGRqtNQHpb0Khiw01zm0xTRYjpEvowaVUGiMaHGAZ5nxsQgKBHju_7xTPIk-1Q2xnfBUyGu0ZpuweT4oPNWZZl4yh0R3BfYWj875gcfRWVW-Vjrl1PSENcjbqnomNfKy4DOGmO0X8MhqMlXMxLFW7Apm1bIgiL6cNONj8o3hBy-f1OfKpvztEp1Tu6FpE89NWKBo9S__QbZCwZg_KkWBwJtBC-1TjLfIpb1IkaMaIDoZrX_uSp0cBBIk2G-w4tMFfBL2h7QM9aNHxIKMvf48oxaWQoZguyTN4xALvHnPLFxJJx7Of4OzJ7LULleN9_zp98jFhcDhKRZG1Y6Rdt14eBQk7F0G53bxshmEptw9x-0E7lh_i8baUuDFl-OgcI0AxC7i3Bhh8ELczLsIOsAXVWLpnj0T-QM9xgxsVdPaYbVNsgOcKxBdMGLmjRt596HUmj5IVj70yVRkfGzs_qeGvEgvRH47PzleNQYElO6WapZjOxLuZvhhhvWfshf7WTpMAy-QDLT_1mnb_4eX396mfkdME5Z0E9AR6ntYa5y_IyzTqJJqfJ55TLuPvw2GJoZxVYHSeK4cc2qgSvfgb_4QaDBOnu8HeZ1F7EXm8ISABKgl1cy1lYXN0LTIwnQk.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Anime 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Claro sports 
@@ -4959,8 +4956,8 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CswEtDsU3O9DsNGT5H3h6WABJeE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83a1885e-ee22-460b-8bd4-c0c6f290dcfd-profile_image-70x70.png" group-title="TWITCH",Taberna Nona 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs4EKQetVf8GeB08JiD9g0JyxKEosbF1lgOiPHros5QtnTg2yKeK15iE1EREH2QA1iZKJO1uNc3ykKzw5qaFSurrFn-UNdF9MduRsSmeXJetMXCDXbI8W8eabVWWzD68i2Gtm5Bo1WuQVSv9H5BejMgizqD4nc0F8LfskEvGdYPGl9VAmOVr22q4f6gE-OMHnK5g3D_-1ywB1FwxubREwB0EE-rbo8T9cSicvRrSOP5-jhlWGRUf6qpUIZlQvmN1nYoJkyZl2b2LbjwHyl48WeqGFuLALvOukqrwWGYtTFRB63WMMMlD3zcE044WajLjGy9oRkuOgRnmVPhGFG6H0cts_kqZEpfUfdjODyyi6l_TpB5B-th3EqTVjzvwcMWZkZOA1pB0wzHiykHgyAPG8nQDvrfpYbTIiHHDZm0-3RuxFDUSnhMZBGTGUuFC_IlIflGK6EKtYO2xCEuGYKCl2vYkMlhtCaAg-JdN1eBm4xrjRBgPBdv78YxlirDdO0fgit162MQ0Dyxzq_0Ou6qh1wPjTN0XJJ0GU-pVMQno8puCMM7x6I5j5onbPW6hpXSoZttWIOOD7GWa52RYE6KUTea3cGxkqIqHTP_OvR_HTGwbJIyMypecE3tnj3eq7j1yo5-OG5CqxxeNypPEWL87LsS6wp2M8CQ2wUr8ZNpZDBcSFgCwAsY0vebX6o7OPYCV_dBvjXn1WoQt8FSInqhcuXepUCYVg5fuQwptyi0v_oVYr9r-jL1ZWc8XeY9_89yzeHx4Q0QvfsCGk_PS7gHbffMaDJRkyepCGSxMObDVdSABKgl1cy1lYXN0LTIwnAk.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs4E5ILBu2jgI-ZEmReTzvCCYE5jnSc7wWT5Q5eQsTYY453EDp2lPb3yr5w_1viCkHBlKUdkvJrMiz61GcabfdzMcfzJyW0vIxQQdu1RTl3CliU2d1Hl9kEPmessM89Av6ROajiW3MybJoOh9sT-Y0auELXFils_al6YyCSZb-EJ1WqUgcXyHzUpNnOSwdAiCfZ3aBw9aKdQpP54a67desObnWk1yx6GlbzQ0D-kJkxNeZYMEo43MuE9DkdHy8CG16Jtp3L-0-3uQabDSDsdd-lldsg4FkbURjp8ibsHWPTZqnMFYqPndEGPPwg02CoEuVv1gGlfrnUIO3BMeQoMfsR1sCMGvrFS5l-WtMS2DgXlTEeS-UwoZA_KClXn2R7IAJXFSCshz_6v2zC3RKzCbSGfdwNA9xMjIvEujJLcpkiWp8Y8JLJikOs0ZXYofLiK0Q6yDiYrl98dXbuWUe1vcEw9s0wQFOzlhISNdjvZdAkSnqOCYB-lPKf5Hm56_qV8eph1Z2FLV-J75hAVvNQUo9YVtTH7fx4JHqVYfnboVwC19-OEwtmAltaUj0D5rDP99wdznWYYUsRuLJ_BFztZJJq8X3bfIebR6R0O4ow7NhtLrglOK96qYoD60U-FShCcGgh9VJ7xsGyH1IKQuN8tCAMOGll6QRMlcwV-vqRzrwdnMbLJBYEFrbBpT1fexImzKYdjFyJZzdQB6FdobGUHpIe-hvAu9z0IKhpgIxcxXGmJmsDuydrMI4sNgQ8dgo2wwNdg3kcv3aj6zLw6c5J64RIaDOWtVW9thHYxaQPY1CABKgl1cy1lYXN0LTIwnQk.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsEEqtnkSMEcIYIpMxraWws7S7ZR1dxUOeSLfQchyNEVTyP6PkmUSKqWHYTYwcxgaGKu6LiPsZPVp2KGrpUyEtBu2jLbKehE4zbtR9S1DcATZhdc5cJNuI-XCo4yLP-_Hw2a1JfYVPonOdZ0SYAqKQbpEtZvx0YzFe6FDBk5tQ7cUNcGipEGHJKt3-5PZ5b6B196MgiGiGvH-e_Yg7S0VfzL1AWGRDX8CApkaBekDEtg12y4rUyvIGO0as5aL_KBYSW8h1KOq6gZXuGQG4PUFzJFFixIPfZBWakp9VYlER08e8NUl0udQl_woyK6_4fXFVtRk440-PqNf5zrcUxytldMP-A19rqzB62F8xyc51PqapGr0V1u1ScCzvxKUzxxSC0Jik9VDmlpb6_V3EnZn08zYGz2yzgslPPmE4nocTgH1LBQXokVX8N_WC9gMwehOIPuiGOgzUo3MTUz5vhfclh7VmZ73t85--W9IvUKXT1yVu5nP8bueqe49zm60Bww_9eLkvgnwqFtmgIcT6wyGfuaku1gntX5g7XMgZEO-SylzYWE81vk7BQKHZvpl499r8hQzwra5oa8L-PcSaSSms45_pgYHMw8tL7-NzAzQWmSF5a3vH88rwxTXJ80-wi5Mf1UU142IztK47sT6k_mH5kQxAQYwRCgJeTHoQbbDp6C1SG1sJbw3gaKePC0K_Zd3tCzSEFpkULNrPlRReC_nK0sYrS8_2pj9jZ5MyLXYCnvt31guwCp1SMT___vyXoPDRvyoRoM0W0RBkeLwZGevWjkIAEqCXVzLWVhc3QtMjCcCQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtIE0PM24J5nVSfsOfD3zPe1VRnMCuZ-g3uKsaN7VWaG2DRdHx3VIZkvLyMcjrbuWEcfY_lRgdtPj-BlLyEAjWrUNwgWijT0TmvONLBtviQM5ECV9NSWbFxD4KNZjCBoCuYz5q_4NqRxVWcKCzQN7YiGBWFtfM-TRloPZGOFNY0eUBEqvQ4ZKuzLHwkX9CrqqMn7tE76vqV9Qsw337gOqkhwdHnWdgzQgBe_Q7mEptLZ4CM4fL1o4gEWxyFBp9rwgpuA2vEjXv97U7TLI6M3BPCD7wPkinuDDpsXSSv80iPrMeG1fKqvBq0_s-r0xFsAq8ATZznxuvdudg_mK59Lvr48-CJ5Zah5G2gR111GXM4d1I9Sz-mGekvE8ElyFnkzVUEE_AUWfcB9RWK2KlXnZIVuxoBlj1oJzIHgHdchkjDz1sHlAMts_lPnFLkxWUGlS3Pkx-8AWLy-gItGBcLbeZnD5i7NQwoL7wgIRD6SIwnXTfe6lYY5TmTkfPil3NNtZe3xYRrZcqyuny64OrmUhd2YGNSK5NG5SbXhXVUNVFz7I-cK2gU4NCliUZpK_iIizcstBlKuU4L1zXuh5AO-FqfO18XKegdAuqBkGel3C96MdfRKZJgC_d5_KdRVa4z8FPl5E0ucizHPHFXD1Unip1v1dMWf2AaY0H41Tafj19rtPJydsETjWh2HMufe93jdxRoVDWFoGcukmHpf1L9t3TBGlnbnP4XYsATNSbjxCL0ru58sreSMYfMkfUgQqVVhfEcZLUAbhrjJS0SiacclQF2eUmdJGgxEeCJUtarNqpfkYWMgASoJdXMtZWFzdC0yMJ0J.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="TWITCH",Latino Kids TV 
 
