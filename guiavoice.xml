@@ -5,191 +5,360 @@
     <icon src="https://i.imgur.com/qhLnq2W.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20240422010000 -0600" stop="20240422070000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231000000 -0700" stop="20081231010000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240422070000 -0600" stop="20240422120000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231010000 -0700" stop="20081231090000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240422120000 -0600" stop="20240422122500 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Retro Cartoons - (Candy)</title>
-  </programme>
-  <programme start="20240422122500 -0600" stop="20240422130000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20240422130000 -0600" stop="20240422140000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">K-Popers (Videos de K-Pop)</title>
-  </programme>
-  <programme start="20240422140000 -0600" stop="20240422160000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Voice Over Jams</title>
-    <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
-  </programme>
-  <programme start="20240422160000 -0600" stop="20240422170000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Salsa Lovers</title>
-  </programme>
-  <programme start="20240422170000 -0600" stop="20240422180000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">VO Live Mixes</title>
-  </programme>
-  <programme start="20240422180000 -0600" stop="20240422182300 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Retro Cartoons - (Alf)</title>
-  </programme>
-  <programme start="20240422182300 -0600" stop="20240422190000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20240422190000 -0600" stop="20240422190500 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Noticiero Digital</title>
-  </programme>
-  <programme start="20240422190500 -0600" stop="20240422200000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20240422200000 -0600" stop="20240422202100 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">Leonard y Sheldon son dos cerebros privilegiados que comparten piso. Aunque los dos, doctores en Física, son capaces de calcular las probabilidades de existencia de otros mundos, no saben cómo relacionarse con los demás, especialmente con las chicas. Penny, una vecina recién llegada, es el polo opuesto a los dos amigos, de modo que su llegada altera la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon</desc>
-  </programme>
-  <programme start="20240422202100 -0600" stop="20240422210000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20240422210000 -0600" stop="20240422214300 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Dr. House</title>
-  </programme>
-  <programme start="20240422214300 -0600" stop="20240422220000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20240422220000 -0600" stop="20240422230000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Los Dichosos Podcast</title>
-  </programme>
-  <programme start="20240422230000 -0600" stop="20240423010000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20240423010000 -0600" stop="20240423090000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20240423090000 -0600" stop="20240423100000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231090000 -0700" stop="20081231100000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Plancha Por Siempre</title>
     <desc lang="es">Disfruta de una hora sin cortes comerciales de los mejores video clips de musica romantica para recordar</desc>
   </programme>
-  <programme start="20240423100000 -0600" stop="20240423120000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231100000 -0700" stop="20081231120000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240423120000 -0600" stop="20240423122500 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231120000 -0700" stop="20081231122500 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Retro Cartoons - (Candy)</title>
   </programme>
-  <programme start="20240423122500 -0600" stop="20240423130000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231122500 -0700" stop="20081231130000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240423130000 -0600" stop="20240423140000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231130000 -0700" stop="20081231140000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">K-Popers (Videos de K-Pop)</title>
   </programme>
-  <programme start="20240423140000 -0600" stop="20240423160000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231140000 -0700" stop="20081231160000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Voice Over Jams</title>
     <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
   </programme>
-  <programme start="20240423160000 -0600" stop="20240423170000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231160000 -0700" stop="20081231170000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Salsa Lovers</title>
   </programme>
-  <programme start="20240423170000 -0600" stop="20240423180000 -0600" channel="VoiceOver Radio Tv">
-    <title lang="es">Videos de Musica Variada</title>
-    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
-  </programme>
-  <programme start="20240423180000 -0600" stop="20240423182300 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231170000 -0700" stop="20081231172300 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Retro Cartoons - (Alf)</title>
   </programme>
-  <programme start="20240423182300 -0600" stop="20240423190000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231172300 -0700" stop="20081231180000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240423190000 -0600" stop="20240423194300 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20081231180000 -0700" stop="20081231182100 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Hospital El Paisa</title>
+  </programme>
+  <programme start="20081231182100 -0700" stop="20081231190000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20081231190000 -0700" stop="20081231190500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Noticiero Digital</title>
+  </programme>
+  <programme start="20081231190500 -0700" stop="20081231200000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20081231200000 -0700" stop="20081231204500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20081231204500 -0700" stop="20081231210000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20081231210000 -0700" stop="20081231220000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Seguidores</title>
+  </programme>
+  <programme start="20081231220000 -0700" stop="20090101010000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090101010000 -0700" stop="20090101070000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090101070000 -0700" stop="20090101120000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090101120000 -0700" stop="20090101122500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Retro Cartoons - (Candy)</title>
+  </programme>
+  <programme start="20090101122500 -0700" stop="20090101130000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090101130000 -0700" stop="20090101140000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">K-Popers (Videos de K-Pop)</title>
+  </programme>
+  <programme start="20090101140000 -0700" stop="20090101160000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Voice Over Jams</title>
+    <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
+  </programme>
+  <programme start="20090101160000 -0700" stop="20090101170000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Salsa Lovers</title>
+  </programme>
+  <programme start="20090101170000 -0700" stop="20090101190000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">V.O. Specials</title>
+    <desc lang="es">Un espacio en donde podras observar biografias, detras de camas, el como se hizo historias y mucho mas..</desc>
+  </programme>
+  <programme start="20090101190000 -0700" stop="20090101210000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Hit Movies</title>
+    <desc lang="es">Disfruta de lo mejor de las peliculas que marcaron un antes y un despues en el cine</desc>
+  </programme>
+  <programme start="20090101210000 -0700" stop="20090101210500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Noticiero Digital</title>
+  </programme>
+  <programme start="20090101210500 -0700" stop="20090101220000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090101220000 -0700" stop="20090101230000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">V.O. - Mini Series</title>
+  </programme>
+  <programme start="20090101230000 -0700" stop="20090102060000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Chamame</title>
+  </programme>
+  <programme start="20090102060000 -0700" stop="20090102130000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Chamame</title>
+  </programme>
+  <programme start="20090102130000 -0700" stop="20090102140000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Medley Mixes</title>
+    <desc lang="es">Disfruta de 1 una sin cortes comerciales de los temas musicales mas solicitados del momento</desc>
+  </programme>
+  <programme start="20090102140000 -0700" stop="20090102150000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090102150000 -0700" stop="20090102170000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Movie Flow</title>
+    <desc lang="es">Si te gustan las peliculas que tengan que ver con la musica y tus artistas favoritos Movie Flow es para ti!</desc>
+  </programme>
+  <programme start="20090102170000 -0700" stop="20090102172300 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Retro Classics (Alf)</title>
+  </programme>
+  <programme start="20090102172300 -0700" stop="20090102180000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090102180000 -0700" stop="20090102184500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">La Reina del Flow</title>
+    <desc lang="es">Yeimy Montoya paga una injusta condena en Nueva York tras haber sido engañada por el hombre que amaba. Por lo tanto, hace un pacto con las autoridades judiciales para capturar al hombre que asesinó a su familia</desc>
+  </programme>
+  <programme start="20090102184500 -0700" stop="20090102190000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090102190000 -0700" stop="20090102200000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">80s Y Mas</title>
+  </programme>
+  <programme start="20090102200000 -0700" stop="20090102205000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Better Call Saul</title>
+  </programme>
+  <programme start="20090102205000 -0700" stop="20090102210000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090102210000 -0700" stop="20090102212500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Dos Hombres y Medio</title>
+  </programme>
+  <programme start="20090102212500 -0700" stop="20090102220000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20090102220000 -0700" stop="20090102230000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Plancha Por Siempre</title>
+    <desc lang="es">Disfruta de una hora sin cortes comerciales de los mejores video clips de musica romantica para recordar</desc>
+  </programme>
+  <programme start="20090102230000 -0700" stop="20090103010000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240422010000 -0700" stop="20240422070000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240422070000 -0700" stop="20240422120000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240422120000 -0700" stop="20240422122500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Retro Cartoons - (Candy)</title>
+  </programme>
+  <programme start="20240422122500 -0700" stop="20240422130000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240422130000 -0700" stop="20240422140000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">K-Popers (Videos de K-Pop)</title>
+  </programme>
+  <programme start="20240422140000 -0700" stop="20240422160000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Voice Over Jams</title>
+    <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
+  </programme>
+  <programme start="20240422160000 -0700" stop="20240422170000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Salsa Lovers</title>
+  </programme>
+  <programme start="20240422170000 -0700" stop="20240422180000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">VO Live Mixes</title>
+  </programme>
+  <programme start="20240422180000 -0700" stop="20240422182300 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Retro Cartoons - (Alf)</title>
+  </programme>
+  <programme start="20240422182300 -0700" stop="20240422190000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240422190000 -0700" stop="20240422190500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Noticiero Digital</title>
+  </programme>
+  <programme start="20240422190500 -0700" stop="20240422200000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240422200000 -0700" stop="20240422202100 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard y Sheldon son dos cerebros privilegiados que comparten piso. Aunque los dos, doctores en Física, son capaces de calcular las probabilidades de existencia de otros mundos, no saben cómo relacionarse con los demás, especialmente con las chicas. Penny, una vecina recién llegada, es el polo opuesto a los dos amigos, de modo que su llegada altera la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon</desc>
+  </programme>
+  <programme start="20240422202100 -0700" stop="20240422210000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240422210000 -0700" stop="20240422214300 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Dr. House</title>
+  </programme>
+  <programme start="20240422214300 -0700" stop="20240422220000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240422220000 -0700" stop="20240422230000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Los Dichosos Podcast</title>
+  </programme>
+  <programme start="20240422230000 -0700" stop="20240423010000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240423010000 -0700" stop="20240423090000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240423090000 -0700" stop="20240423100000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Plancha Por Siempre</title>
+    <desc lang="es">Disfruta de una hora sin cortes comerciales de los mejores video clips de musica romantica para recordar</desc>
+  </programme>
+  <programme start="20240423100000 -0700" stop="20240423120000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240423120000 -0700" stop="20240423122500 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Retro Cartoons - (Candy)</title>
+  </programme>
+  <programme start="20240423122500 -0700" stop="20240423130000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240423130000 -0700" stop="20240423140000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">K-Popers (Videos de K-Pop)</title>
+  </programme>
+  <programme start="20240423140000 -0700" stop="20240423160000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Voice Over Jams</title>
+    <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
+  </programme>
+  <programme start="20240423160000 -0700" stop="20240423170000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Salsa Lovers</title>
+  </programme>
+  <programme start="20240423170000 -0700" stop="20240423180000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240423180000 -0700" stop="20240423182300 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Retro Cartoons - (Alf)</title>
+  </programme>
+  <programme start="20240423182300 -0700" stop="20240423190000 -0700" channel="VoiceOver Radio Tv">
+    <title lang="es">Videos de Musica Variada</title>
+    <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
+  </programme>
+  <programme start="20240423190000 -0700" stop="20240423194300 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">The Flash</title>
     <desc lang="es">Barry Allen, un joven común y corriente con el deseo latente de ayudar a los demás. Cuando una inesperada partícula aceleradora golpea por accidente a Barry, de pronto se encuentra cargado de un increíble poder para moverse a increíbles velocidades. Mientras Barry siempre ha tenido el alma de un héroe, sus nuevos poderes le han dado la capacidad de actuar como tal. Spin-off de -Arrow-. Barry Allen, un investigador de escenas del crimen que obtiene velocidad sobrehumana, que usa para luchar contra criminales, incluidos otros que también han adquirido habilidades sobrehumanas</desc>
   </programme>
-  <programme start="20240423194300 -0600" stop="20240423200000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240423194300 -0700" stop="20240423200000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240423200000 -0600" stop="20240423200500 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240423200000 -0700" stop="20240423200500 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Noticiero Digital</title>
   </programme>
-  <programme start="20240423200500 -0600" stop="20240423210000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240423200500 -0700" stop="20240423210000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240423210000 -0600" stop="20240423212500 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240423210000 -0700" stop="20240423212500 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Friends</title>
     <desc lang="es">Monica, Rachel, Phoebe, Chandler, Ross y Joey son seis amigos treintañeros que viven en Nueva York. Juntos afrontan con humor las dificultades propias de su edad: líos amorosos, trabajo, familia y su propia convivencia</desc>
   </programme>
-  <programme start="20240423212500 -0600" stop="20240423220000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240423212500 -0700" stop="20240423220000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240423220000 -0600" stop="20240424000000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240423220000 -0700" stop="20240424000000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">V.O. Scary Movies</title>
   </programme>
-  <programme start="20240424000000 -0600" stop="20240424010000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424000000 -0700" stop="20240424010000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240424010000 -0600" stop="20240424070000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424010000 -0700" stop="20240424070000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240424070000 -0600" stop="20240424120000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424070000 -0700" stop="20240424120000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240424120000 -0600" stop="20240424122500 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424120000 -0700" stop="20240424122500 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Retro Cartoons - (Candy)</title>
   </programme>
-  <programme start="20240424122500 -0600" stop="20240424130000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424122500 -0700" stop="20240424130000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240424130000 -0600" stop="20240424140000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424130000 -0700" stop="20240424140000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">K-Popers (Videos de K-Pop)</title>
   </programme>
-  <programme start="20240424140000 -0600" stop="20240424160000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424140000 -0700" stop="20240424160000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Voice Over Jams</title>
     <desc lang="es">Disfruta de 2 horas con los videos mas solicitados del momento mezclados completamente en vivo por Dj Cannabis en Voice Over Jams!</desc>
   </programme>
-  <programme start="20240424160000 -0600" stop="20240424170000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424160000 -0700" stop="20240424170000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Salsa Lovers</title>
   </programme>
-  <programme start="20240424170000 -0600" stop="20240424180000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424170000 -0700" stop="20240424180000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240424180000 -0600" stop="20240424182300 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424180000 -0700" stop="20240424182300 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Retro Cartoons - (Alf)</title>
   </programme>
-  <programme start="20240424182300 -0600" stop="20240424190000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424182300 -0700" stop="20240424190000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240424190000 -0600" stop="20240424200000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424190000 -0700" stop="20240424200000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Cultura Natural</title>
     <desc lang="es">CULTURA NATURAL, un show lleno de vibras positivas, con entrevistas, invitados especiales, informacion actual y mucho mas..</desc>
   </programme>
-  <programme start="20240424200000 -0600" stop="20240424200500 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424200000 -0700" stop="20240424200500 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Noticiero Digital</title>
   </programme>
-  <programme start="20240424200500 -0600" stop="20240424210000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424200500 -0700" stop="20240424210000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">Videos de Musica Variada</title>
     <desc lang="es">Disfruta de los mejores videos musicales del momento</desc>
   </programme>
-  <programme start="20240424210000 -0600" stop="20240424220000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424210000 -0700" stop="20240424220000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">RAP Vibes</title>
   </programme>
-  <programme start="20240424220000 -0600" stop="20240425000000 -0600" channel="VoiceOver Radio Tv">
+  <programme start="20240424220000 -0700" stop="20240425000000 -0700" channel="VoiceOver Radio Tv">
     <title lang="es">V.O. Scary Movies</title>
   </programme>
 </tv>
