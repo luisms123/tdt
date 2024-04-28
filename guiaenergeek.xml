@@ -25,79 +25,6 @@
     <icon src="https://i.imgur.com/GmzkMUQ.jpg" />
     <url>http://www.energeek.cl/</url>
   </channel>
-  <programme start="20240427010000 -0400" stop="20240427013000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Meteoro</title>
-    <desc lang="es">La historia de un joven conductor llamado Meteoro (Go Mifune en la versión original) que conducía el espectacular Mach 5, construido por su padre</desc>
-    <icon src="https://pics.filmaffinity.com/mahha_gogogo_mach_gogogo_speed_racer-933706409-mmed.jpg" />
-  </programme>
-  <programme start="20240427013000 -0400" stop="20240427020000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Sam El Rey Del Judo</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427020000 -0400" stop="20240427023000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427023000 -0400" stop="20240427030000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427030000 -0400" stop="20240427033000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427033000 -0400" stop="20240427040000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427040000 -0400" stop="20240427043000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427043000 -0400" stop="20240427050000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427050000 -0400" stop="20240427053000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427053000 -0400" stop="20240427070000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427070000 -0400" stop="20240427083000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427083000 -0400" stop="20240427100000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427100000 -0400" stop="20240427140000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427140000 -0400" stop="20240427153000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton ReBoot</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427153000 -0400" stop="20240427173000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton ReBoot</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427173000 -0400" stop="20240427190000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton ReBoot</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427190000 -0400" stop="20240427220000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton ReBoot</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
-  <programme start="20240427220000 -0400" stop="20240428020000 -0400" channel="EnerGeek Retro">
-    <title lang="es">Maraton ReBoot</title>
-    <desc lang="es">Energeek Tu Energia Fan</desc>
-  </programme>
   <programme start="20240428020000 -0400" stop="20240428040000 -0400" channel="EnerGeek Retro">
     <title lang="es">Maraton</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
@@ -239,106 +166,140 @@
     <title lang="es">Juga2</title>
     <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427000000 -0400" stop="20240427003000 -0400" channel="Fanpop TV">
+  <programme start="20240430010000 -0400" stop="20240430013000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Meteoro</title>
+    <desc lang="es">La historia de un joven conductor llamado Meteoro (Go Mifune en la versión original) que conducía el espectacular Mach 5, construido por su padre</desc>
+    <icon src="https://pics.filmaffinity.com/mahha_gogogo_mach_gogogo_speed_racer-933706409-mmed.jpg" />
+  </programme>
+  <programme start="20240430013000 -0400" stop="20240430020000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Sam El Rey Del Judo</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20240430020000 -0400" stop="20240430023000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Arbergas</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20240430023000 -0400" stop="20240430030000 -0400" channel="EnerGeek Retro">
     <title lang="es">Getbackers</title>
-    <desc lang="es">Energeek Fanpop</desc>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427003000 -0400" stop="20240427010000 -0400" channel="Fanpop TV">
-    <title lang="es">Im gonna be an Angel</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430030000 -0400" stop="20240430033000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427010000 -0400" stop="20240427013000 -0400" channel="Fanpop TV">
-    <title lang="es">Love Hina</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430033000 -0400" stop="20240430040000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Samurai Troopers</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427013000 -0400" stop="20240427020000 -0400" channel="Fanpop TV">
-    <title lang="es">Blood+</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430040000 -0400" stop="20240430043000 -0400" channel="EnerGeek Retro">
+    <title lang="es">VR Troopers</title>
+    <desc lang="es">Tres adolescentes normales son escogidos por el padre por el uno de ellos, un antiguo cientícifo desaparecido y que vive en un mundo virtual, para defender al planeta del -Doom Master-, un letal enemigo intergaláctico que pretende hacerse con la Tierra. Para ello serán premiados con un extraño poder Virtual, que los hace prácticamente invencibles</desc>
+    <icon src="https://pics.filmaffinity.com/saban_s_vr_troopers_virtual_reality_troopers_tv_series-927041267-mmed.jpg" />
   </programme>
-  <programme start="20240427020000 -0400" stop="20240427023000 -0400" channel="Fanpop TV">
-    <title lang="es">La Guerra de Sakura</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430043000 -0400" stop="20240430050000 -0400" channel="EnerGeek Retro">
+    <title lang="es">El Zorro</title>
+    <desc lang="es">El Zorro (Diego de la Vega) tiene aventuras al suprimir los planes de poder y ambición del alcalde de los Ángeles. La historia inicia con el viaje de Diego de la Vega (Duncan Regehr) hacia España para la realización de sus estudios universitarios, pero no solo aprende acerca de la ciencia química y física, sino que además demuestra su habilidad con el sable</desc>
   </programme>
-  <programme start="20240427023000 -0400" stop="20240427030000 -0400" channel="Fanpop TV">
-    <title lang="es">Power Rangers</title>
-    <desc lang="es">Cinco adolescentes deben convertirse en algo extraordinario cuando descubren que su pueblo, Angel Grove, así como todo el mundo, está al borde de la aniquilación a manos de una amenaza alienígena</desc>
-    <icon src="https://www.compulms.net/xml/imagenes/power.jpg" />
+  <programme start="20240430050000 -0400" stop="20240430053000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Hechizada</title>
+    <desc lang="es">Samantha Stephens es aparentemente una típica ama de casa norteamericana, felizmente casada con un hombre normal y corriente. Pero Samantha además es una bruja que ha heredado ciertos poderes desde generaciones atrás. A pesar de que intentan ser una pareja normal, ella usará sus poderes mágicos para resolver los diversos problemas a los que se enfrenta su familia</desc>
+    <icon src="https://pics.filmaffinity.com/bewitched-639498123-mmed.jpg" />
   </programme>
-  <programme start="20240427030000 -0400" stop="20240427033000 -0400" channel="Fanpop TV">
-    <title lang="es">Blossom</title>
-    <desc lang="es">Blossom es una adolescente de quince años que vive con su padre Nick y sus dos hermanos, Anthony y Joey. Su madre ha abandonado a la familia Russo y todos deben lidiar con su ausencia, algo que no es fácil ya que Nick es músico profesional y apenas tiene tiempo para estar en casa</desc>
+  <programme start="20240430053000 -0400" stop="20240430070000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Juga2</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427033000 -0400" stop="20240427053000 -0400" channel="Fanpop TV">
-    <title lang="es">Repeticion Programas Energeek</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430070000 -0400" stop="20240430083000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dramatical Review</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427053000 -0400" stop="20240427070000 -0400" channel="Fanpop TV">
-    <title lang="es">Fanpop Music</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430083000 -0400" stop="20240430100000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Documentales Geek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427070000 -0400" stop="20240427110000 -0400" channel="Fanpop TV">
-    <title lang="es">Maratones de Fin de Semana</title>
-    <desc lang="es">Energeek Fanpop</desc>
-  </programme>
-  <programme start="20240427110000 -0400" stop="20240427113000 -0400" channel="Fanpop TV">
-    <title lang="es">El Mundo de Beakman</title>
-    <desc lang="es">Beakman es un científico excéntrico que hace experimentos cómicos y demostraciones, a veces a petición escrita de los televidentes, para ilustrar los conceptos básicos de la ciencia, como la densidad o la electricidad</desc>
-    <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
-  </programme>
-  <programme start="20240427113000 -0400" stop="20240427120000 -0400" channel="Fanpop TV">
+  <programme start="20240430100000 -0400" stop="20240430103000 -0400" channel="EnerGeek Retro">
     <title lang="es">Mecanica Popular para Niños</title>
-    <desc lang="es">Energeek Fanpop</desc>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427120000 -0400" stop="20240427123000 -0400" channel="Fanpop TV">
-    <title lang="es">Mortadelo y Filemon</title>
-    <desc lang="es">Filemón un hombre colérico, con tan solo dos pelos y con el rol de jefe, y Mortadelo un hombre alto y calvo, con nulo sentido común y la capacidad de disfrazarse de cualquier cosa, a las órdenes de Filemón. Ingresan en las filas de la T.I.A., una desastrosa agencia secreta que les permite parodiar las historias de espías, incorporándose a la nómina de personajes fijos el despótico superintendente de la organización, el catastrófico científico profesor Bacterio, la oronda Secretaria Ofelia o la atractiva secretaria Irma</desc>
-    <icon src="https://pics.filmaffinity.com/mortadelo_y_filemon_tv_series-917002292-mmed.jpg" />
+  <programme start="20240430103000 -0400" stop="20240430110000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Danger Mouse</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427123000 -0400" stop="20240427130000 -0400" channel="Fanpop TV">
-    <title lang="es">Tres por Tres</title>
-    <desc lang="es">Danny Tanner es un padre de familia que acaba de quedar viudo después de que su mujer falleciera en un accidente automovilístico. Él queda al cuidado de sus tres hijas pequeñas: D.J., Stephanie y Michelle. Rápidamente, Danny decide pedirle a su cuñado Jesse Cochran, y su mejor amigo Joey Gladstone, que se muden con él para que lo ayuden a criar a las chicas</desc>
-    <icon src="https://www.alohacriticon.com/wp-content/uploads/2021/09/padres-forzosos-full-house-poster-sinopsis.jpg" />
+  <programme start="20240430110000 -0400" stop="20240430113000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Jem</title>
+    <desc lang="es">Jerrica y Kimber son dos hermanas que viven una vida aburrida con su tía Bailey y sus dos hijas de acogida. Un día Jerrica graba una canción y la sube a Internet, lo que cambia sus vidas para siempre. La canción se convierte en un éxito y Jerrica pasa de ser una sensación en el mundo del vídeo underground a una superestrella mundial. Entonces, Jerrica y sus tres hermanas emprenden un viaje único en el que descubren que hay talentos demasiado especiales para ocultarlos</desc>
   </programme>
-  <programme start="20240427130000 -0400" stop="20240427133000 -0400" channel="Fanpop TV">
-    <title lang="es">Loco Por Ti</title>
+  <programme start="20240430113000 -0400" stop="20240430120000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Earthworm Jim</title>
+    <desc lang="es">Las aventuras de Earthworm Jim, una lombriz que se ha convertido en un superheroe por un traje robotico espacial</desc>
+    <icon src="https://pics.filmaffinity.com/earthworm_jim-187145804-mmed.jpg" />
   </programme>
-  <programme start="20240427133000 -0400" stop="20240427140000 -0400" channel="Fanpop TV">
-    <title lang="es">Aprendiendo a Vivir</title>
+  <programme start="20240430120000 -0400" stop="20240430123000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dinoplativolos</title>
+    <desc lang="es">Un grupo de dinosaurios evolucionados intergalácticos llamados Dinosaucers viaja a la tierra desde su planeta de origen llamado Reptilón que se encuentra en la misma órbita de la tierra pero en el lado opuesto al sol, para buscar una solución debido que su planeta estaba a punto de ser destruido. Contactan a un grupo de jóvenes humanos que será llamado el Dinoescuadrón Secreto que los ayudará</desc>
   </programme>
-  <programme start="20240427140000 -0400" stop="20240427160000 -0400" channel="Fanpop TV">
-    <title lang="es">Cine Fanpop / Conciertos en Vivo</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430123000 -0400" stop="20240430140000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Dramatical Review</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427160000 -0400" stop="20240427170000 -0400" channel="Fanpop TV">
-    <title lang="es">Beverly Hills 90210</title>
-    <desc lang="es">Brenda y Brandon son dos hermanos que se mudan con sus padres desde la fría Minnesota al soleado y elitista barrio de Beverly Hills en Los Ángeles (California). Allí hacen amistad con un grupo de chicos con los que vivirán las típicas situaciones que marcan el paso de la adolescencia a la madurez. Todos ellos, estudiantes de instituto, se enamoran, se desenamoran, se pelean, se reconcilian, se rebelan contra sus padres</desc>
-    <icon src="https://pics.filmaffinity.com/beverly_hills_90210-840740618-mmed.jpg" />
+  <programme start="20240430140000 -0400" stop="20240430153000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Documentales Geek</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427170000 -0400" stop="20240427173000 -0400" channel="Fanpop TV">
-    <title lang="es">Super Natural</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430153000 -0400" stop="20240430160000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Power Rangers Fuerza del Tiempo</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427173000 -0400" stop="20240427180000 -0400" channel="Fanpop TV">
-    <title lang="es">Parker Lewis, El Ganador</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430160000 -0400" stop="20240430163000 -0400" channel="EnerGeek Retro">
+    <title lang="es">VR Troopers</title>
+    <desc lang="es">Tres adolescentes normales son escogidos por el padre por el uno de ellos, un antiguo cientícifo desaparecido y que vive en un mundo virtual, para defender al planeta del -Doom Master-, un letal enemigo intergaláctico que pretende hacerse con la Tierra. Para ello serán premiados con un extraño poder Virtual, que los hace prácticamente invencibles</desc>
+    <icon src="https://pics.filmaffinity.com/saban_s_vr_troopers_virtual_reality_troopers_tv_series-927041267-mmed.jpg" />
   </programme>
-  <programme start="20240427180000 -0400" stop="20240427183000 -0400" channel="Fanpop TV">
-    <title lang="es">FullMetal Panic Fumoffu</title>
+  <programme start="20240430163000 -0400" stop="20240430170000 -0400" channel="EnerGeek Retro">
+    <title lang="es">El Zorro</title>
+    <desc lang="es">El Zorro (Diego de la Vega) tiene aventuras al suprimir los planes de poder y ambición del alcalde de los Ángeles. La historia inicia con el viaje de Diego de la Vega (Duncan Regehr) hacia España para la realización de sus estudios universitarios, pero no solo aprende acerca de la ciencia química y física, sino que además demuestra su habilidad con el sable</desc>
   </programme>
-  <programme start="20240427183000 -0400" stop="20240427190000 -0400" channel="Fanpop TV">
-    <title lang="es">Perdidos en el Universo</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430170000 -0400" stop="20240430173000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Hechizada</title>
+    <desc lang="es">Samantha Stephens es aparentemente una típica ama de casa norteamericana, felizmente casada con un hombre normal y corriente. Pero Samantha además es una bruja que ha heredado ciertos poderes desde generaciones atrás. A pesar de que intentan ser una pareja normal, ella usará sus poderes mágicos para resolver los diversos problemas a los que se enfrenta su familia</desc>
+    <icon src="https://pics.filmaffinity.com/bewitched-639498123-mmed.jpg" />
   </programme>
-  <programme start="20240427190000 -0400" stop="20240427210000 -0400" channel="Fanpop TV">
-    <title lang="es">Cine Fanpop / Conciertos en Vivo</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430173000 -0400" stop="20240430190000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Juga2</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
-  <programme start="20240427210000 -0400" stop="20240427220000 -0400" channel="Fanpop TV">
-    <title lang="es">Sintonia Fina</title>
+  <programme start="20240430190000 -0400" stop="20240430193000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Meteoro</title>
+    <desc lang="es">La historia de un joven conductor llamado Meteoro (Go Mifune en la versión original) que conducía el espectacular Mach 5, construido por su padre</desc>
+    <icon src="https://pics.filmaffinity.com/mahha_gogogo_mach_gogogo_speed_racer-933706409-mmed.jpg" />
   </programme>
-  <programme start="20240427220000 -0400" stop="20240428020000 -0400" channel="Fanpop TV">
-    <title lang="es">fanmacia Popular</title>
-    <desc lang="es">Energeek Fanpop</desc>
+  <programme start="20240430193000 -0400" stop="20240430200000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Sam El Rey Del Judo</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20240430200000 -0400" stop="20240430203000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Arbergas</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20240430203000 -0400" stop="20240430210000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Getbackers</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20240430210000 -0400" stop="20240430213000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Soul Hunter</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20240430213000 -0400" stop="20240430220000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Samurai Troopers</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20240430220000 -0400" stop="20240430233000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Completamente Mágico</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
+  </programme>
+  <programme start="20240430233000 -0400" stop="20240501010000 -0400" channel="EnerGeek Retro">
+    <title lang="es">Juga2</title>
+    <desc lang="es">Energeek Tu Energia Fan</desc>
   </programme>
   <programme start="20240428020000 -0400" stop="20240428070000 -0400" channel="Fanpop TV">
     <title lang="es">Maratones de Fin de Semana</title>
@@ -511,37 +472,141 @@
     <title lang="es">Cine Fanpop / Conciertos en Vivo</title>
     <desc lang="es">Energeek Fanpop</desc>
   </programme>
-  <programme start="20240427000000 -0400" stop="20240427030000 -0400" channel="CCP Radio">
-    <title lang="es">CCP Radio</title>
-    <desc lang="es">Especial Radio TV</desc>
+  <programme start="20240430000000 -0400" stop="20240430003000 -0400" channel="Fanpop TV">
+    <title lang="es">Getbackers</title>
+    <desc lang="es">Energeek Fanpop</desc>
   </programme>
-  <programme start="20240427030000 -0400" stop="20240427060000 -0400" channel="CCP Radio">
-    <title lang="es">CCP Radio</title>
-    <desc lang="es">Especial Radio TV</desc>
+  <programme start="20240430003000 -0400" stop="20240430010000 -0400" channel="Fanpop TV">
+    <title lang="es">Im gonna be an Angel</title>
+    <desc lang="es">Energeek Fanpop</desc>
   </programme>
-  <programme start="20240427060000 -0400" stop="20240427090000 -0400" channel="CCP Radio">
-    <title lang="es">CCP Radio</title>
-    <desc lang="es">Especial Radio TV</desc>
+  <programme start="20240430010000 -0400" stop="20240430013000 -0400" channel="Fanpop TV">
+    <title lang="es">Love Hina</title>
+    <desc lang="es">Energeek Fanpop</desc>
   </programme>
-  <programme start="20240427090000 -0400" stop="20240427120000 -0400" channel="CCP Radio">
-    <title lang="es">CCP Radio</title>
-    <desc lang="es">Especial Radio TV</desc>
+  <programme start="20240430013000 -0400" stop="20240430020000 -0400" channel="Fanpop TV">
+    <title lang="es">Blood+</title>
+    <desc lang="es">Energeek Fanpop</desc>
   </programme>
-  <programme start="20240427120000 -0400" stop="20240427150000 -0400" channel="CCP Radio">
-    <title lang="es">CCP Radio</title>
-    <desc lang="es">Especial Radio TV</desc>
+  <programme start="20240430020000 -0400" stop="20240430023000 -0400" channel="Fanpop TV">
+    <title lang="es">La Guerra de Sakura</title>
+    <desc lang="es">Energeek Fanpop</desc>
   </programme>
-  <programme start="20240427150000 -0400" stop="20240427180000 -0400" channel="CCP Radio">
-    <title lang="es">CCP Radio</title>
-    <desc lang="es">Especial Radio TV</desc>
+  <programme start="20240430023000 -0400" stop="20240430030000 -0400" channel="Fanpop TV">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Cinco adolescentes deben convertirse en algo extraordinario cuando descubren que su pueblo, Angel Grove, así como todo el mundo, está al borde de la aniquilación a manos de una amenaza alienígena</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/power.jpg" />
   </programme>
-  <programme start="20240427180000 -0400" stop="20240427210000 -0400" channel="CCP Radio">
-    <title lang="es">CCP Radio</title>
-    <desc lang="es">Especial Radio TV</desc>
+  <programme start="20240430030000 -0400" stop="20240430033000 -0400" channel="Fanpop TV">
+    <title lang="es">Blossom</title>
+    <desc lang="es">Blossom es una adolescente de quince años que vive con su padre Nick y sus dos hermanos, Anthony y Joey. Su madre ha abandonado a la familia Russo y todos deben lidiar con su ausencia, algo que no es fácil ya que Nick es músico profesional y apenas tiene tiempo para estar en casa</desc>
   </programme>
-  <programme start="20240427210000 -0400" stop="20240428000000 -0400" channel="CCP Radio">
-    <title lang="es">CCP Radio</title>
-    <desc lang="es">Especial Radio TV</desc>
+  <programme start="20240430033000 -0400" stop="20240430053000 -0400" channel="Fanpop TV">
+    <title lang="es">Repeticion Programas Energeek</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430053000 -0400" stop="20240430070000 -0400" channel="Fanpop TV">
+    <title lang="es">Fanpop Music</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430070000 -0400" stop="20240430073000 -0400" channel="Fanpop TV">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Beakman es un científico excéntrico que hace experimentos cómicos y demostraciones, a veces a petición escrita de los televidentes, para ilustrar los conceptos básicos de la ciencia, como la densidad o la electricidad</desc>
+    <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
+  </programme>
+  <programme start="20240430073000 -0400" stop="20240430080000 -0400" channel="Fanpop TV">
+    <title lang="es">Mecanica Popular para Niños</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430080000 -0400" stop="20240430083000 -0400" channel="Fanpop TV">
+    <title lang="es">Pelswick</title>
+    <desc lang="es">Serie de dibujos animados que sigue a un adolescente en una silla de ruedas que intenta llevar una vida normal</desc>
+    <icon src="https://pics.filmaffinity.com/pelswick_aka_john_callahan_s_pelswick_tv_series-475040230-mmed.jpg" />
+  </programme>
+  <programme start="20240430083000 -0400" stop="20240430090000 -0400" channel="Fanpop TV">
+    <title lang="es">Wayside</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430090000 -0400" stop="20240430093000 -0400" channel="Fanpop TV">
+    <title lang="es">W.I.T.C.H.</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430093000 -0400" stop="20240430100000 -0400" channel="Fanpop TV">
+    <title lang="es">Yogi y la Busqueda del Tesoro</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430100000 -0400" stop="20240430110000 -0400" channel="Fanpop TV">
+    <title lang="es">La Familia Sallinger</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430110000 -0400" stop="20240430113000 -0400" channel="Fanpop TV">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Beakman es un científico excéntrico que hace experimentos cómicos y demostraciones, a veces a petición escrita de los televidentes, para ilustrar los conceptos básicos de la ciencia, como la densidad o la electricidad</desc>
+    <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
+  </programme>
+  <programme start="20240430113000 -0400" stop="20240430120000 -0400" channel="Fanpop TV">
+    <title lang="es">Mecanica Popular para Niños</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430120000 -0400" stop="20240430123000 -0400" channel="Fanpop TV">
+    <title lang="es">Jem</title>
+    <desc lang="es">Jerrica y Kimber son dos hermanas que viven una vida aburrida con su tía Bailey y sus dos hijas de acogida. Un día Jerrica graba una canción y la sube a Internet, lo que cambia sus vidas para siempre. La canción se convierte en un éxito y Jerrica pasa de ser una sensación en el mundo del vídeo underground a una superestrella mundial. Entonces, Jerrica y sus tres hermanas emprenden un viaje único en el que descubren que hay talentos demasiado especiales para ocultarlos</desc>
+  </programme>
+  <programme start="20240430123000 -0400" stop="20240430130000 -0400" channel="Fanpop TV">
+    <title lang="es">He-Man y los Amos del Universo</title>
+    <desc lang="es">El adolescente Adam y su heroico escuadrón de inadaptados descubren el legendario poder de Grayskull y su inevitable destino, defender a Eternia del siniestro Skeletor</desc>
+  </programme>
+  <programme start="20240430130000 -0400" stop="20240430133000 -0400" channel="Fanpop TV">
+    <title lang="es">Que Raro</title>
+  </programme>
+  <programme start="20240430133000 -0400" stop="20240430140000 -0400" channel="Fanpop TV">
+    <title lang="es">Garfield y sus Amigos</title>
+    <desc lang="es">Garfield es un gato gordo, perezoso y gruñón y opina que solo hay tres cosas importantes en la vida: la lasaña, las siestas, y su oso de peluche Pooky. Odie y en los problemas en los que se meten, Orson el cerdo y sus aventuras en una granja con sus compañeros los animales de granja</desc>
+  </programme>
+  <programme start="20240430140000 -0400" stop="20240430160000 -0400" channel="Fanpop TV">
+    <title lang="es">Repeticion Programas Energeek</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430160000 -0400" stop="20240430163000 -0400" channel="Fanpop TV">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Beakman es un científico excéntrico que hace experimentos cómicos y demostraciones, a veces a petición escrita de los televidentes, para ilustrar los conceptos básicos de la ciencia, como la densidad o la electricidad</desc>
+    <icon src="https://pics.filmaffinity.com/beakman_s_world_tv_series-858097885-mmed.jpg" />
+  </programme>
+  <programme start="20240430163000 -0400" stop="20240430170000 -0400" channel="Fanpop TV">
+    <title lang="es">Mecanica Popular para Niños</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430170000 -0400" stop="20240430173000 -0400" channel="Fanpop TV">
+    <title lang="es">Jem</title>
+    <desc lang="es">Jerrica y Kimber son dos hermanas que viven una vida aburrida con su tía Bailey y sus dos hijas de acogida. Un día Jerrica graba una canción y la sube a Internet, lo que cambia sus vidas para siempre. La canción se convierte en un éxito y Jerrica pasa de ser una sensación en el mundo del vídeo underground a una superestrella mundial. Entonces, Jerrica y sus tres hermanas emprenden un viaje único en el que descubren que hay talentos demasiado especiales para ocultarlos</desc>
+  </programme>
+  <programme start="20240430173000 -0400" stop="20240430180000 -0400" channel="Fanpop TV">
+    <title lang="es">He-Man y los Amos del Universo</title>
+    <desc lang="es">El adolescente Adam y su heroico escuadrón de inadaptados descubren el legendario poder de Grayskull y su inevitable destino, defender a Eternia del siniestro Skeletor</desc>
+  </programme>
+  <programme start="20240430180000 -0400" stop="20240430183000 -0400" channel="Fanpop TV">
+    <title lang="es">Que Raro</title>
+  </programme>
+  <programme start="20240430183000 -0400" stop="20240430190000 -0400" channel="Fanpop TV">
+    <title lang="es">Garfield y sus Amigos</title>
+    <desc lang="es">Garfield es un gato gordo, perezoso y gruñón y opina que solo hay tres cosas importantes en la vida: la lasaña, las siestas, y su oso de peluche Pooky. Odie y en los problemas en los que se meten, Orson el cerdo y sus aventuras en una granja con sus compañeros los animales de granja</desc>
+  </programme>
+  <programme start="20240430190000 -0400" stop="20240430210000 -0400" channel="Fanpop TV">
+    <title lang="es">Repeticion Programas Energeek</title>
+    <desc lang="es">Energeek Fanpop</desc>
+  </programme>
+  <programme start="20240430210000 -0400" stop="20240430213000 -0400" channel="Fanpop TV">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Cinco adolescentes deben convertirse en algo extraordinario cuando descubren que su pueblo, Angel Grove, así como todo el mundo, está al borde de la aniquilación a manos de una amenaza alienígena</desc>
+    <icon src="https://www.compulms.net/xml/imagenes/power.jpg" />
+  </programme>
+  <programme start="20240430213000 -0400" stop="20240430220000 -0400" channel="Fanpop TV">
+    <title lang="es">Blossom</title>
+    <desc lang="es">Blossom es una adolescente de quince años que vive con su padre Nick y sus dos hermanos, Anthony y Joey. Su madre ha abandonado a la familia Russo y todos deben lidiar con su ausencia, algo que no es fácil ya que Nick es músico profesional y apenas tiene tiempo para estar en casa</desc>
+  </programme>
+  <programme start="20240430220000 -0400" stop="20240501000000 -0400" channel="Fanpop TV">
+    <title lang="es">Cine Fanpop / Conciertos en Vivo</title>
+    <desc lang="es">Energeek Fanpop</desc>
   </programme>
   <programme start="20240428000000 -0400" stop="20240428030000 -0400" channel="CCP Radio">
     <title lang="es">CCP Radio</title>
@@ -607,37 +672,37 @@
     <title lang="es">CCP Radio</title>
     <desc lang="es">Especial Radio TV</desc>
   </programme>
-  <programme start="20240427000000 -0400" stop="20240427030000 -0400" channel="Anipop TV">
-    <title lang="es">Anipop Tv</title>
-    <desc lang="es">Anipop</desc>
+  <programme start="20240430000000 -0400" stop="20240430030000 -0400" channel="CCP Radio">
+    <title lang="es">CCP Radio</title>
+    <desc lang="es">Especial Radio TV</desc>
   </programme>
-  <programme start="20240427030000 -0400" stop="20240427060000 -0400" channel="Anipop TV">
-    <title lang="es">Anipop Tv</title>
-    <desc lang="es">Anipop</desc>
+  <programme start="20240430030000 -0400" stop="20240430060000 -0400" channel="CCP Radio">
+    <title lang="es">CCP Radio</title>
+    <desc lang="es">Especial Radio TV</desc>
   </programme>
-  <programme start="20240427060000 -0400" stop="20240427090000 -0400" channel="Anipop TV">
-    <title lang="es">Anipop Tv</title>
-    <desc lang="es">Anipop</desc>
+  <programme start="20240430060000 -0400" stop="20240430090000 -0400" channel="CCP Radio">
+    <title lang="es">CCP Radio</title>
+    <desc lang="es">Especial Radio TV</desc>
   </programme>
-  <programme start="20240427090000 -0400" stop="20240427120000 -0400" channel="Anipop TV">
-    <title lang="es">Anipop Tv</title>
-    <desc lang="es">Anipop</desc>
+  <programme start="20240430090000 -0400" stop="20240430120000 -0400" channel="CCP Radio">
+    <title lang="es">CCP Radio</title>
+    <desc lang="es">Especial Radio TV</desc>
   </programme>
-  <programme start="20240427120000 -0400" stop="20240427150000 -0400" channel="Anipop TV">
-    <title lang="es">Anipop Tv</title>
-    <desc lang="es">Anipop</desc>
+  <programme start="20240430120000 -0400" stop="20240430150000 -0400" channel="CCP Radio">
+    <title lang="es">CCP Radio</title>
+    <desc lang="es">Especial Radio TV</desc>
   </programme>
-  <programme start="20240427150000 -0400" stop="20240427180000 -0400" channel="Anipop TV">
-    <title lang="es">Anipop Tv</title>
-    <desc lang="es">Anipop</desc>
+  <programme start="20240430150000 -0400" stop="20240430180000 -0400" channel="CCP Radio">
+    <title lang="es">CCP Radio</title>
+    <desc lang="es">Especial Radio TV</desc>
   </programme>
-  <programme start="20240427180000 -0400" stop="20240427210000 -0400" channel="Anipop TV">
-    <title lang="es">Anipop Tv</title>
-    <desc lang="es">Anipop</desc>
+  <programme start="20240430180000 -0400" stop="20240430210000 -0400" channel="CCP Radio">
+    <title lang="es">CCP Radio</title>
+    <desc lang="es">Especial Radio TV</desc>
   </programme>
-  <programme start="20240427210000 -0400" stop="20240428000000 -0400" channel="Anipop TV">
-    <title lang="es">Anipop Tv</title>
-    <desc lang="es">Anipop</desc>
+  <programme start="20240430210000 -0400" stop="20240501000000 -0400" channel="CCP Radio">
+    <title lang="es">CCP Radio</title>
+    <desc lang="es">Especial Radio TV</desc>
   </programme>
   <programme start="20240428000000 -0400" stop="20240428030000 -0400" channel="Anipop TV">
     <title lang="es">Anipop Tv</title>
@@ -703,37 +768,37 @@
     <title lang="es">Anipop Tv</title>
     <desc lang="es">Anipop</desc>
   </programme>
-  <programme start="20240427000000 -0400" stop="20240427030000 -0400" channel="EnerGeek Radio TV">
-    <title lang="es">EnerGeek Radio TV</title>
-    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  <programme start="20240430000000 -0400" stop="20240430030000 -0400" channel="Anipop TV">
+    <title lang="es">Anipop Tv</title>
+    <desc lang="es">Anipop</desc>
   </programme>
-  <programme start="20240427030000 -0400" stop="20240427060000 -0400" channel="EnerGeek Radio TV">
-    <title lang="es">EnerGeek Radio TV</title>
-    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  <programme start="20240430030000 -0400" stop="20240430060000 -0400" channel="Anipop TV">
+    <title lang="es">Anipop Tv</title>
+    <desc lang="es">Anipop</desc>
   </programme>
-  <programme start="20240427060000 -0400" stop="20240427090000 -0400" channel="EnerGeek Radio TV">
-    <title lang="es">EnerGeek Radio TV</title>
-    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  <programme start="20240430060000 -0400" stop="20240430090000 -0400" channel="Anipop TV">
+    <title lang="es">Anipop Tv</title>
+    <desc lang="es">Anipop</desc>
   </programme>
-  <programme start="20240427090000 -0400" stop="20240427120000 -0400" channel="EnerGeek Radio TV">
-    <title lang="es">EnerGeek Radio TV</title>
-    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  <programme start="20240430090000 -0400" stop="20240430120000 -0400" channel="Anipop TV">
+    <title lang="es">Anipop Tv</title>
+    <desc lang="es">Anipop</desc>
   </programme>
-  <programme start="20240427120000 -0400" stop="20240427150000 -0400" channel="EnerGeek Radio TV">
-    <title lang="es">EnerGeek Radio TV</title>
-    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  <programme start="20240430120000 -0400" stop="20240430150000 -0400" channel="Anipop TV">
+    <title lang="es">Anipop Tv</title>
+    <desc lang="es">Anipop</desc>
   </programme>
-  <programme start="20240427150000 -0400" stop="20240427180000 -0400" channel="EnerGeek Radio TV">
-    <title lang="es">EnerGeek Radio TV</title>
-    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  <programme start="20240430150000 -0400" stop="20240430180000 -0400" channel="Anipop TV">
+    <title lang="es">Anipop Tv</title>
+    <desc lang="es">Anipop</desc>
   </programme>
-  <programme start="20240427180000 -0400" stop="20240427210000 -0400" channel="EnerGeek Radio TV">
-    <title lang="es">EnerGeek Radio TV</title>
-    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  <programme start="20240430180000 -0400" stop="20240430210000 -0400" channel="Anipop TV">
+    <title lang="es">Anipop Tv</title>
+    <desc lang="es">Anipop</desc>
   </programme>
-  <programme start="20240427210000 -0400" stop="20240428000000 -0400" channel="EnerGeek Radio TV">
-    <title lang="es">EnerGeek Radio TV</title>
-    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  <programme start="20240430210000 -0400" stop="20240501000000 -0400" channel="Anipop TV">
+    <title lang="es">Anipop Tv</title>
+    <desc lang="es">Anipop</desc>
   </programme>
   <programme start="20240428000000 -0400" stop="20240428030000 -0400" channel="EnerGeek Radio TV">
     <title lang="es">EnerGeek Radio TV</title>
@@ -796,6 +861,38 @@
     <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
   </programme>
   <programme start="20240429210000 -0400" stop="20240430000000 -0400" channel="EnerGeek Radio TV">
+    <title lang="es">EnerGeek Radio TV</title>
+    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  </programme>
+  <programme start="20240430000000 -0400" stop="20240430030000 -0400" channel="EnerGeek Radio TV">
+    <title lang="es">EnerGeek Radio TV</title>
+    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  </programme>
+  <programme start="20240430030000 -0400" stop="20240430060000 -0400" channel="EnerGeek Radio TV">
+    <title lang="es">EnerGeek Radio TV</title>
+    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  </programme>
+  <programme start="20240430060000 -0400" stop="20240430090000 -0400" channel="EnerGeek Radio TV">
+    <title lang="es">EnerGeek Radio TV</title>
+    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  </programme>
+  <programme start="20240430090000 -0400" stop="20240430120000 -0400" channel="EnerGeek Radio TV">
+    <title lang="es">EnerGeek Radio TV</title>
+    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  </programme>
+  <programme start="20240430120000 -0400" stop="20240430150000 -0400" channel="EnerGeek Radio TV">
+    <title lang="es">EnerGeek Radio TV</title>
+    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  </programme>
+  <programme start="20240430150000 -0400" stop="20240430180000 -0400" channel="EnerGeek Radio TV">
+    <title lang="es">EnerGeek Radio TV</title>
+    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  </programme>
+  <programme start="20240430180000 -0400" stop="20240430210000 -0400" channel="EnerGeek Radio TV">
+    <title lang="es">EnerGeek Radio TV</title>
+    <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
+  </programme>
+  <programme start="20240430210000 -0400" stop="20240501000000 -0400" channel="EnerGeek Radio TV">
     <title lang="es">EnerGeek Radio TV</title>
     <desc lang="es">La Mejor Musica de Anime y Clasicos en Español</desc>
   </programme>
