@@ -820,9 +820,6 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/sI2lUuY.png" group-title="CANALES INDEPENDIENTES",Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Costa" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg" group-title="CANALES INDEPENDIENTES",Tv Costa | Chile
-https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
-
 #EXTINF:-1 tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares" tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="CANALES INDEPENDIENTES",TV Retro Palmares | Costa Rica
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
@@ -924,6 +921,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avo
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4312
 
 #EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim | ND
+http://38.7.223.20:8000/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim op2 | ND
 http://45.238.21.131:6570/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Asia
@@ -1111,6 +1111,9 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tierra Mia" tvg-name="Tierra Mia" tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" group-title="FAMILIARES",Tierra Mia | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Costa" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg" group-title="FAMILIARES",Tv Costa | Chile
+https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 
 #EXTINF:-1 tvg-id="Bayres TV"  tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="CINE",Bayres TV | Argentina
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -4698,6 +4701,8 @@ http://comast.top:8080/vod123/vod123/10068
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Canal 13 | Chile
+http://45.181.121.194:8000/play/a067/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Canal 13 op1 | Chile
 http://45.238.21.131:6570/play/a00q/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="TV PREMIUM", Europa Europa
@@ -4800,7 +4805,7 @@ http://pe.shortgod.com/awester/tv3.php?id=27994
 #EXTINF:-1 tvg-id="El Nueve AR" tvg-name="El Nueve AR" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-s.jpg" group-title="SHORTGOD",El Nueve | Argentina
 http://pe.shortgod.com/awester/tv8.php?id=46708&f=.m3u8
 #EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa.png" group-title="SHORTGOD",Europa Europa
-http://pe.shortgod.com/awester/tv5.php?id=415
+http://pe.shortgod.com/awester/tv1.php?id=957
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="SHORTGOD",Glitz | Argentina
 http://pe.shortgod.com/awester/tv4.php?id=63
 #EXTINF:-1 tvg-id="RCN Internacional" tvg-name="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="SHORTGOD",RCN | Colombia
@@ -4989,8 +4994,8 @@ http://pe.shortgod.com/awester/tv6.php?id=329&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CswEvJ73nPmc8cO7s_h8Kd2qg7q4lhWdku-HG7ktEyU3espMcyjqlVWiriQDprhKv8gEZ4ZQEr8ZcD2ct6g_hRH7wHssTLDBf_UjDJbcAC0n48dWyxcdKTmiwsr4MTOlSwDxHqff-W6sxnIcEzqSGXplxEePzJj0j8aem5Nu_i8JLRjiYDnRn7V8Iu3eCUb1V0BZfw6gD9dOPgdNG4ld-4Vi9q3WyZLufR6kq6ZnnF_k5tnHW--LF29DMKjms5ln5YD2RdUvaHN8ILRZVvf55W-QhELqggGAaPw60x5f-WMV-ke32VTjwcXj55RzYj9IEWXDOWRS3ZlVWVrUweJ25QQp-EYc3_y-mBIA_5IVId_PAWfy5IrNzpJgH4aq4FobkcHFw6NVET6tHMfrI7ZNrbzcN6HuBxiSyIKEBy0Mf_p99qHlZ_8jecOgwKCzMqoyJd9P646UDJlpb29ut8QHZVRHq5rEoXgfzeMHIFTv7aBhoy_kyOLf2-YJeqqGfz-Mi94kqa-cUCkO5pdyrffnEkSgXy-ajQLyexnShmqbXHB_OAhhyyc0Z8VZdmHAhFxwGQOOxmyB50gFOUtwJQLIth7C4u5GMtcd-dFZ8GNkMjMAC6gI8AQ7L6tdH9iVu_hReLCO-NfniP4mdzR4_E5bomFuRV93py0ChXy5D9SjrccjfIlubJCDA5bO4oMAXQkQHTprvgibST2wFh0rpqy8a99nCZ7haGr83JDpQY5qZbiUF2uR6Xb8I3FfY2u-I5HJRgRdXnCrId2LVKbw6_n3GgzCXn9on-vKQVBeFKkgASoJdXMtZWFzdC0yMKwJ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrwEjK_sYsl2S3JQTmQsr3bLdImZ5Lp7GffoSV9K3ZmvCCUBnj6KbJweaNrlh_l_OVs-mxTsnqcDYTuQYicyeSr3aSxlZr3T3tk5f3zAK778npOD3h9FtF1kdaf7ZleiD1II2AlRV1KtHNVhxq_GNybXHXLq_4NDbcPTxpopT86lFzo_57KNtFN65TkpL1UwtTsDUkpCds37XLQx5Gr2n4Fii5RonP0JJFLl3kv7g1lYB9lyk7w34WEi3nBeGzH4lFUr1EJ_gp-arkkpvO2QVTQH6A6N-5uGNEI1NmRIs6q7J-GWavNk6I2AvyV8p0wWWrjmzr9CNF2Qh8Ez54QieDa6SDKF-3Z-6Hlye5SKXq4u0jLjdLIqbSllmLl_NeKPcEIVZ0l8KcDsY9XGqCX9bmf29ESl_rzfFWIfbaCI5mXz8RLXfNsFIEoV8jsjukP6CHq9ThNzKT8_pDnKKHF9hoER48QrZ_eOIIsv2tdrV7HP6vodeYJWv1Bka3Q1yhUBi7xbC08Zsc4bGcuwdy0Z8OZyzLrmVFMYr9hHNyxv9_kg3zkQHUqai-yuixsnkfRntU3iup0BZf1gvTIkxyjDPGRJM3kP5TiLltBd5xIqpXePVBPwPZcfLlq6HrWOYm64i_CCSmDShtWee3p2vok8aKdvc7xBjnRQhHf7x-__2GLoKWc-403BiaMI4SZSNpemQSar8xgEhNzh3P-KNJkfbhqMjac81p6HGk-cZNR6xrmWIFV-rPHRTCpN1RKdDlwaDJrmdEDIL0_wkcK64CABKgl1cy1lYXN0LTIwrQk.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtMEOqFuFjXY8lr-ySiibxhYZ7_75u3oDcO2eqVkDOvmnS9EJTMjd7ZMr61hyB3MgMtM38CJamLlwg1tiqZFrnw0KAe0Y2npDz0531qApxsroko01tXqq9Q12V21p6c5ekSG_HOX_zVKY3F5Ybao8oArABWMe7zXvG5HU2oRNrKXwLdx2WUORd3gk6DcxZw69pFr-MYTNbFPWL6Z6Qq2v87S9LH_l2lkP7HyXJLy1Gs2IDZYhzOn89nWf_RRn0leUK7FdStAqGzbh1OO5goVa_ATEHLQWckkyxlO6YLg3dS1hVO_7KSlMFIg9B_24a8Oox8Zt31CwtAA5zx2Wdnzo5VdxgSnNU-cUXbzmzttyYAHbrWBAij7D_-VjZLxSRyD84oj1YuQD2iwuci6Kv2mgOsMpvsqi_KiDlYjcL79q6wbJeA76WWfkcxNiSdyCqCRxRQOtT3TI-lg16k5yD1i0wxdhDx-iWwN3zmmnGmO03AIArgd9NBQed2eZcfX5YKiEDycdqTdrmKf4Gf4Xi63ZPBM4_JIxjOT03TjAjKvRoLKT3IDTWhCgIJJYRPjuTdnOXdndYIviLVDoF2sqdoqaWedJyInuLEjStHf2XhiiEseRl8DgmGL1FLnJyMXMCP_prIWzLFoTzURFmxVknHJYuE0ikb0dJJyfJa-kxpDzp33r_7q6tPSLKmR6sHVixHOh07RYmCIx__EYFVR6HSwdQdVj9Q93e5QmG9GDEun2OEmvAV3dppalkswBA9DMbTGKutjIMIe0YGhVdVaDgL_p36NxLpvkRoMiuHk8S0MgxrgbQCMIAEqCXVzLWVhc3QtMjCsCQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtMEz5sO5WiU9xGwkjOMBJwdmn74D5EeZ528Yf9FNw2G3XPBd3Gb9fzm3E04_btY1Bts7GSLnJrLjzFYWK4-rNtXgHxr1ZVoRibovlHNsG9Wj38dX1-KKISJ4Rz1TiMGN2Nf8XkjCCB4Q0nCLBC3ZJcJKCbMGOULY1OmUSWGxlgEIJCdN1UOgm1NAx75XH8DwamV3iy9VqoHgFXuU3NCk9NT0lseQsD9_586MjP8JdfyyqtjcCttmDXkkIrXYqnRMXLeXRte4t07mbK58IFCnApbWHYtdDYV1DRLluGu2cZkQf9cV9lw3Q-N0Tcu_wCWmGEGngAb_mDLbtQCVRa9dOA2VxbQxErnm0UBPMAJgJV4pwXPIZiN2nl7VPIgBFsKZs3mNV_gUBvp8WFPWTTsyjwCoqk9_beWOucAxydBRZhbwYKnuBe90QjmXKITuleZOQMIx5wNLI9tkTGH1OU5MEzo1Odh0U9yKJJU_g3SS2xqP27T6nJJ3buylLzBs4TJPr4a12LoSiTR_15fLapGu17cUNBk98d7YMJB7XzCMvV8DydAtP1S968kT8Jdw1OJddu9760S_Bn6vzirh8D-E96QXZVJLT-jUZ4blBMNlubNQ3P3lAJ6p92B8nx4fmfiAcqHJD4HgyLZjG-uw3m8lrcHqjoHQwugUGblFaCANkOT9zOvoPms3ayGrbn49ORYXXJuMiIcd34Yj3sL2YYoPs9TyCUenHeTDSpSawvX8gcSuOrk-q7SSwYDq4KXpBB9AjQZ537Z9DWJ6xCfEaeAlnAgE90thRoMRpVBwRp50SGxC5-1IAEqCXVzLWVhc3QtMjCtCQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
