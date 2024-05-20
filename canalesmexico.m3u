@@ -552,13 +552,16 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png" group-title="CANALES INDEPENDIENTES",Moni TV HD op2 | Argentina
 https://ssh101.bozztv.com/ssh101/monitvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RRxC9Va.png" group-title="CANALES INDEPENDIENTES",Now 70 | ND
+#EXTINF:-1 tvg-id="Much Music HD" tvg-name="Much Music HD" tvg-logo="https://i.imgur.com/4NQJcFJ.png" group-title="CANALES INDEPENDIENTES",Much Music HD | ND
+https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
+
+#EXTINF:-1 tvg-id="Now 70" tvg-name="Now 70" tvg-logo="https://i.imgur.com/RRxC9Va.png" group-title="CANALES INDEPENDIENTES",Now 70 | ND
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6D1qYk1.png" group-title="CANALES INDEPENDIENTES",Now 80 | ND
+#EXTINF:-1 tvg-id="Now 80" tvg-name="Now 80" tvg-logo="https://i.imgur.com/6D1qYk1.png" group-title="CANALES INDEPENDIENTES",Now 80 | ND
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XxfxvYq.png" group-title="CANALES INDEPENDIENTES",Now Rock | ND
+#EXTINF:-1 tvg-id="Now Rock" tvg-name="Now Rock" tvg-logo="https://i.imgur.com/XxfxvYq.png" group-title="CANALES INDEPENDIENTES",Now Rock | ND
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="Plenitud TV HD" tvg-name="Plenitud TV HD" tvg-logo="https://i.imgur.com/QGwcjNT.jpg" group-title="CANALES INDEPENDIENTES",Plenitud TV HD | Chile
@@ -588,7 +591,7 @@ https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sueños Grup" tvg-name="Sueños Grup" tvg-logo="https://i.imgur.com/VNI6CLc.png" group-title="CANALES INDEPENDIENTES",Sueños Grup | Argentina
 https://ssh101.bozztv.com/ssh101/tvradioenvivo1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SYFY LA HD" tvg-name="SYFY LA HD" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="CANALES INDEPENDIENTES",SYFY Panregional HD | ND
+#EXTINF:-1 tvg-id="SYFY LA HD" tvg-name="SYFY LA HD" tvg-logo="https://i.imgur.com/lJG4neh.png" group-title="CANALES INDEPENDIENTES",SYFY LA HD | ND
 https://live.autistici.org/hls/syfy3239498_src.m3u8
 
 #EXTINF:-1 tvg-id="Tele Estrella" tvg-name="Tele Estrella" tvg-logo="https://i.imgur.com/KInLL0H.png" group-title="CANALES INDEPENDIENTES",Tele Estrella | Argentina
@@ -6847,7 +6850,7 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs0EuunGa8s6XWeoSQtv_z9KlvpPWBa0X0yGLm9E7VeRaDqZJksCuC5uL5RjhfjvBsjEJdfQuesM78Q5iiuLvqT1rnW9vxS_FpP4laLNOAPajLG_K0zpOlTRe4b0TwvJPTWKy94ft42Nh5AnJ97FpuMSJdcauu1zsS7rzQ8i5994ZZJi5XU7isGDyTYJdP84Diu92oGy89zrHFb_oYW9FpAx_4RlbYqn16mgSdRiV4FNmf1N_CxjFlIG8L3omIRkpHgiAPZzg9Y_ml-dq6icgrmyUVMJrdYtFKotvBGEkzRHzbNxc4LtBIR2cXTQsLW94je5Tr-5b691wuvI-iJffeIn_URiSgFaaD3bubrTL_yrvmEvZDw4wBBeKTsKzoaebxhkO5n3_MBRcaXGzyQ934yO0_3XayOjL412R0p4xtpxxw5FfAc-ox4YypqV4C6BdNe60mBzwe6D-chI2WUoBNQkfUkGpUUvckSqj7YEYrZek3Hz-gBAY8T-j1aG1D_L9ctp3LZoPv9HT_joXym2qHWscvB0J07vSCYgHE0qmotdfwc6Dn-jHhuHnN4ZWAvVCd75LWTnAzQkDdJF-zzs1vdk-R6sV0tQCagYTPCZfppPQMjFxPr2pYqsVgxW_v5ubNygR4EK9CirYcw28fE7LU2IrcZk5RiBD5MRpBjHHzqmHFNub3ZrIBaABAcC0Hk1ATpf_NCRVUDD4ZNPDZ-VIrE3kwJ9a_DZdSB9VxaOgDF47e_g0MzYoZ5McPejDEiD7vaRtcwGp6N7WKjBAbVuKxoMmJ-UkBYpNMpuUer_IAEqCXVzLWVhc3QtMjC6CQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cs0EiEqowl-qcOSr_BZf7j69dWiiZiSlavmiOvQ2quL2VLrWn8IHocUPuZVQk1jGO7eHSJnkeIUKSQ8gj15osf14UlTAJG1pF8SSAt1VmqhJqKFGV76ts1ere-eT8FTeXxEJFPFxJ30hhJwMZxYocvLL8TSk0nDJa20aw5W434qPCj7fQrtp48aD-tre_NEwBNCSBnpMmMG2-V7gnOM_-htrvznmcraO4TpaAszGCpLRnbvhPlwSneipk7Fm5ZzXzgA-86qdYyMYYkzBZuPWPgPnYg0njmKVdi4uZRQZvj2iCAXM_ugfv0VR_WiTqUfBcCwkoy8ZMl_RdtVhuOPB-F9as4uLVrsmYO_x94X80UtS_yqOCojwCKStoNRzYfD1-5zn_BMSGnArs0PhY3HOU8i1p7rZgx29tbJb9u-GilXyubeXvebTxr80nfND-ogIOPUAnS4LjvztBIbhGwM3JcOmlBE_W3i4hTyqa1eeMvLKe9iJ9KlYltBdQ_ukvhUpemcq0BBvGUnIfv6RdUM6E_aEyUvEupljsqeSGgZXwwmfbFG4bOIBT--5jbB3ObGyn281X0VlHuYqnFVKmEhVUVfBUhVD9Mso1LJsJEL9J0zW_utjSe5scw7mizMQljDIenAdtwJNc_ytd14Kgs9vu5hUE6E2EnW8fMfdKfBUOumG9SM61KSyW5uOVSUMWv-3vbenRSmhNMVXzs4JRGPu9rXEWnFkZ8B-CqKgXnpJwPeu-tH4Y9kREAiTLyIidozoyKV6aNbEAmt52kGWq8-WYxoM8KlVH1rCrCCvjFghIAEqCXVzLWVhc3QtMjC6CQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 

@@ -110,6 +110,11 @@
     <icon src="https://i.imgur.com/Wct9jsp.png" />
     <url>http://www.compulms.com</url>
   </channel>
+  <channel id="Much Music HD">
+    <display-name lang="es">Much Music HD</display-name>
+    <icon src="https://i.imgur.com/4NQJcFJ.png" />
+    <url>http://www.compulms.com</url>
+  </channel>
   <channel id="Pandamax">
     <display-name lang="es">Pandamax</display-name>
     <icon src="https://i.imgur.com/7EZK59J.jpg" />
@@ -132,7 +137,7 @@
   </channel>
   <channel id="SYFY LA HD">
     <display-name lang="es">SYFY LA HD</display-name>
-    <icon src="https://i.imgur.com/rqep0vp.png" />
+    <icon src="https://i.imgur.com/lJG4neh.png" />
     <url>http://www.compulms.com</url>
   </channel>
   <channel id="TalTal TV">
@@ -6251,6 +6256,102 @@
     <title lang="es">Super Peliculas Moni TV</title>
     <category lang="es">Cine</category>
   </programme>
+  <programme start="20240520030000 -0300" stop="20240520060000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240520060000 -0300" stop="20240520090000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240520090000 -0300" stop="20240520110000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240520110000 -0300" stop="20240520130000 -0300" channel="Much Music HD">
+    <title lang="es">Quieren Rock</title>
+  </programme>
+  <programme start="20240520130000 -0300" stop="20240520150000 -0300" channel="Much Music HD">
+    <title lang="es">Numeros Uno</title>
+  </programme>
+  <programme start="20240520150000 -0300" stop="20240520170000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240520170000 -0300" stop="20240520190000 -0300" channel="Much Music HD">
+    <title lang="es">Quieren Rock</title>
+  </programme>
+  <programme start="20240520190000 -0300" stop="20240520210000 -0300" channel="Much Music HD">
+    <title lang="es">Numeros Uno</title>
+  </programme>
+  <programme start="20240520210000 -0300" stop="20240520230000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240520230000 -0300" stop="20240521010000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240521010000 -0300" stop="20240521030000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240521030000 -0300" stop="20240521060000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240521060000 -0300" stop="20240521090000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240521090000 -0300" stop="20240521110000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240521110000 -0300" stop="20240521130000 -0300" channel="Much Music HD">
+    <title lang="es">Quieren Rock</title>
+  </programme>
+  <programme start="20240521130000 -0300" stop="20240521150000 -0300" channel="Much Music HD">
+    <title lang="es">Numeros Uno</title>
+  </programme>
+  <programme start="20240521150000 -0300" stop="20240521170000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240521170000 -0300" stop="20240521190000 -0300" channel="Much Music HD">
+    <title lang="es">Quieren Rock</title>
+  </programme>
+  <programme start="20240521190000 -0300" stop="20240521210000 -0300" channel="Much Music HD">
+    <title lang="es">Numeros Uno</title>
+  </programme>
+  <programme start="20240521210000 -0300" stop="20240521230000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240521230000 -0300" stop="20240522010000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240522010000 -0300" stop="20240522030000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240522030000 -0300" stop="20240522060000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240522060000 -0300" stop="20240522090000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240522090000 -0300" stop="20240522110000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240522110000 -0300" stop="20240522130000 -0300" channel="Much Music HD">
+    <title lang="es">Quieren Rock</title>
+  </programme>
+  <programme start="20240522130000 -0300" stop="20240522150000 -0300" channel="Much Music HD">
+    <title lang="es">Numeros Uno</title>
+  </programme>
+  <programme start="20240522150000 -0300" stop="20240522170000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240522170000 -0300" stop="20240522190000 -0300" channel="Much Music HD">
+    <title lang="es">Quieren Rock</title>
+  </programme>
+  <programme start="20240522190000 -0300" stop="20240522210000 -0300" channel="Much Music HD">
+    <title lang="es">Numeros Uno</title>
+  </programme>
+  <programme start="20240522210000 -0300" stop="20240522230000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
+  <programme start="20240522230000 -0300" stop="20240523010000 -0300" channel="Much Music HD">
+    <title lang="es">#RockOn</title>
+  </programme>
   <programme start="20240520000000 -0300" stop="20240520030000 -0300" channel="Pandamax">
     <title lang="es">Panda max</title>
   </programme>
@@ -7355,44 +7456,35 @@
     <title lang="es">Bonanza</title>
     <desc lang="es">La historia de la adinerada familia Cartwright, quienes viven en el área de Virginia City, en Nevada, a orillas del lago Tahoe. Esta familia está liderada por el patriarca tres veces viudo Ben Cartwright (Lorne Greene), padre de tres hijos, cada uno de una esposa distinta</desc>
   </programme>
-  <programme start="20240520000000 -0300" stop="20240520020000 -0300" channel="SYFY LA HD">
+  <programme start="20240520030000 -0300" stop="20240520060000 -0300" channel="SYFY LA HD">
     <title lang="es">Eventos</title>
   </programme>
-  <programme start="20240520020000 -0300" stop="20240520040000 -0300" channel="SYFY LA HD">
+  <programme start="20240520060000 -0300" stop="20240520090000 -0300" channel="SYFY LA HD">
     <title lang="es">Eventos</title>
   </programme>
-  <programme start="20240520040000 -0300" stop="20240520060000 -0300" channel="SYFY LA HD">
+  <programme start="20240520090000 -0300" stop="20240520123000 -0300" channel="SYFY LA HD">
     <title lang="es">Eventos</title>
   </programme>
-  <programme start="20240520060000 -0300" stop="20240520080000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
+  <programme start="20240520123000 -0300" stop="20240520143000 -0300" channel="SYFY LA HD">
+    <title lang="es">Syfy Hits</title>
   </programme>
-  <programme start="20240520080000 -0300" stop="20240520100000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
-  </programme>
-  <programme start="20240520100000 -0300" stop="20240520120000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
-  </programme>
-  <programme start="20240520120000 -0300" stop="20240520140000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
-  </programme>
-  <programme start="20240520140000 -0300" stop="20240520160000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
+  <programme start="20240520143000 -0300" stop="20240520160000 -0300" channel="SYFY LA HD">
+    <title lang="es">Los Mejores 40 Hits</title>
   </programme>
   <programme start="20240520160000 -0300" stop="20240520180000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
+    <title lang="es">Latino Fuerte</title>
   </programme>
   <programme start="20240520180000 -0300" stop="20240520200000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
+    <title lang="es">Los 15 Mejores</title>
   </programme>
   <programme start="20240520200000 -0300" stop="20240520220000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
+    <title lang="es">Syfy Cine</title>
   </programme>
   <programme start="20240520220000 -0300" stop="20240521000000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
+    <title lang="es">Playlist Syfy Hits</title>
   </programme>
   <programme start="20240521000000 -0300" stop="20240521020000 -0300" channel="SYFY LA HD">
-    <title lang="es">Eventos</title>
+    <title lang="es">Energeek Music</title>
   </programme>
   <programme start="20240521020000 -0300" stop="20240521040000 -0300" channel="SYFY LA HD">
     <title lang="es">Eventos</title>
