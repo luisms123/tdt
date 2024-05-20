@@ -36,6 +36,9 @@ https://xhateaec.com:8800/hls/futvestream1/futvestream1/edbca3b2547d473382a81145
 #EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://xhateaec.com/upload/photos/2024/02/gQn3J9urlbwnSoRsV6JQ_20_cb4413de706fad20eb28728936f8c3a8_avatar.jpg" group-title="XHATEAEC",JTV | Honduras
 https://xhateaec.com:8800/hls/jesucristo/jesucristo/57328eda266dcd70fd321815a6813ac1/index.m3u8
 
+#EXTINF:-1 tvg-id="Planeta Channel" tvg-name="Planeta Channel" tvg-logo="https://xhateaec.com/upload/photos/2024/05/yyA17zSGAXPTaqaY3ozM_06_b6cf19c252477934f76a4814be64de5a_avatar.png" group-title="XHATEAEC",Planeta Channel | Ecuador
+https://xhateaec.com:8800/hls/Planeta/Planeta/d1d678af2a17329ddf642607e533ec61/index.m3u8
+
 #EXTINF:-1 tvg-id="PS Television" tvg-name="PS Television" tvg-logo="https://i.imgur.com/X0ooVPY.png" group-title="XHATEAEC",PS Television | Colombia
 https://xhateaec.com:8800/hls/Pstelevision/Pstelevision/d6259c8de31bdbd6b8f43ae8a1e40c07/index.m3u8
 
