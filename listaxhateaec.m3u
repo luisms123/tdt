@@ -2,6 +2,12 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz" 
 ﻿
 
+#EXTINF:-1 tvg-id="Eurocopa" tvg-name="Eurocopa" tvg-logo="https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo.jpg" group-title="XHATEAEC",Eurocopa 2024 | UEFA
+http://pe.shortgod.com/temporal/play.php?id=158
+#EXTINF:-1 tvg-id="Eurocopa" tvg-name="Eurocopa" tvg-logo="https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo.jpg" group-title="XHATEAEC",Eurocopa 2024 op2 | UEFA
+http://pe.shortgod.com/temporal/play.php?id=2
+#EXTINF:-1 tvg-id="Copa America" tvg-name="Copa America" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/9250092/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F11%2F69%2F177d4c0f44caaec2b1c4d73a9f27%2Fcopa-america.png" group-title="XHATEAEC",Copa America 2024 | CONMEBOL
+http://181.78.105.146:2000/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="Xhateaec Tv" tvg-name="Xhateaec Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/03/mzfVkyWULDavLWvXq6uX_21_07a013c37dfc4aac4fc17dacb8ba5740_avatar.png" group-title="XHATEAEC",Xhateaec Tv | Uruguay
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/48b9d28dddd4cd1dad86b73cae03ca6c/index.m3u8
@@ -10,7 +16,7 @@ https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/48b9d28dddd4cd1dad86b73cae03ca6c
 https://xhateaec.com:8800/hls/ACOTVCUYAMEL/ACOTVCUYAMEL/41efc2ac12d399284fc33307b43f918b/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena Uno Tv" tvg-name="Antena Uno Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/04/osb9ky2dAAqykHF3ygi2_28_30e54d7e9369c73ecb1ef79ab5f789fc_avatar.jpg" group-title="XHATEAEC",Antena Uno Tv | Bolivia
-https://xhateaec.com:8800/hls/RedMixTvBolivia/RedMixTvBolivia/399284fc33307/index.m3u8
+https://xhateaec.com:8800/hls/RedMixTvBolivia/RedMixTvBolivia/4e1215adf81c396400b1715a3370c51d/index.m3u8
 
 #EXTINF:-1 tvg-id="Apocalipsis 38" tvg-name="Apocalipsis 38" tvg-logo="https://xhateaec.com/upload/photos/2024/01/uTYxczR8hZoBCN1d2bYY_28_6d1e71ceb9bce735ae48ac1716db0771_avatar.jpg" group-title="XHATEAEC",Apocalipsis 38 | Republica Dominicana
 https://xhateaec.com:8800/hls/APOCALIPSIS/APOCALIPSIS/3d1e8f8eaacccb302f77743e2d98f1af/index.m3u8
@@ -18,17 +24,29 @@ https://xhateaec.com:8800/hls/APOCALIPSIS/APOCALIPSIS/3d1e8f8eaacccb302f77743e2d
 #EXTINF:-1 tvg-id="Aqmar4k Handball" tvg-name="Aqmar4k Handball" tvg-logo="https://xhateaec.com/upload/photos/2023/10/PCzrDomhaXfcfQJvPIsC_24_377b404fa0670ff046d6ff37f96f3f0e_image.jpeg" group-title="XHATEAEC",Aqmar4k Handball | Saudi Arabia
 https://xhateaec.com:8800/hls/Aqmar7/Aqmar7/0672c42c307057de5665b790c132e10e/index.m3u8
 
+#EXTINF:-1 tvg-name="Canal 5 del Pueblo" tvg-id="Canal 5 del Pueblo" tvg-logo="https://imgur.com/NiqNn1j.png" group-title="XHATEAEC",Canal 5 del Pueblo | Argentina
+https://xhateaec.com:8800/hls/djclau/djclau/db7ccc855e3846656ed3ab94893635de/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal Cultural Huauchinango" tvg-name="Canal Cultural Huauchinango" tvg-logo="https://i.imgur.com/klMlwwa.jpg" group-title="XHATEAEC",Canal Cultural Huauchinango | Mexico
 https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="XHATEAEC",Canal LMS op4 | Mexico
 https://xhateaec.com:8800/hls/luisms123/luisms123/78dd321a73fccbeb82269b00f5578315/index.m3u8
 
+#EXTINF:-1 tvg-id="Cangovision Paltas" tvg-name="Cangovision Paltas" tvg-logo="https://xhateaec.com/upload/photos/2024/04/Nu4Ql5eXBGERevUi5Bq9_30_27223eef6508857cea08fe6fac995d8c_cover.jpg" group-title="XHATEAEC",Cangovision Paltas | Ecuador
+https://xhateaec.com:8800/hls/nelsonvicente/nelsonvicente/ec5fe7db35d01766c8fa9f5eec5ae8e1/index.m3u8
+
 #EXTINF:-1 tvg-id="FidesPlay" tvg-name="FidesPlay" tvg-logo="https://xhateaec.com/upload/photos/f-avatar.jpg" group-title="XHATEAEC",FidesPlay | Bolivia
 https://xhateaec.com:8800/hls/FidesPlay/FidesPlay/a5bda693926e86a854791beb587ea12b/index.m3u8
 
+#EXTINF:-1 tvg-id="FM Recuerdos de Siempre" tvg-name="FM Recuerdos de Siempre" tvg-logo="https://xhateaec.com/upload/photos/2024/06/xPIz6UXfJ3cfBXLAz7QW_11_73349c30dff25492f1d49498dfbac1f5_avatar.png" group-title="XHATEAEC",FM Recuerdos de Siempre | Uruguay
+https://xhateaec.com:8800/hls/CanalRecuerdos80902000/CanalRecuerdos80902000/812ac380636c61222f29bc28d244def4/index.m3u8
+
 #EXTINF:-1 tvg-id="Futbol Regio" tvg-name="Futbol Regio" tvg-logo="https://i.imgur.com/fPQ170p.jpg" group-title="XHATEAEC",Futbol Regio | Mexico
 https://xhateaec.com:8800/hls/futbolregioligamx/futbolregioligamx/9aa6357786054c8e085f3d55b536b5a4/index.m3u8
+
+#EXTINF:-1 tvg-id="Futve Stream" tvg-name="Futve Stream" tvg-logo="https://xhateaec.com/upload/photos/2024/04/eG2jFbEa8NWIu6wx8wGo_20_8d8414b5fbf8498a7cc2abf41bdcbd92_avatar.png" group-title="XHATEAEC",Futve Stream | Venezuela
+https://xhateaec.com:8800/hls/futvestream/futvestream/812ac380636c61222f29bc28d244def4/index.m3u8
 
 #EXTINF:-1 tvg-id="Futve Stream 2" tvg-name="Futve Stream 2" tvg-logo="https://xhateaec.com/upload/photos/2024/04/DOOmdAQcdx2qASMAWyIp_20_28ff3f6533d34bd0e7f035553a86379b_avatar.png" group-title="XHATEAEC",Futve Stream 2 | Venezuela
 https://xhateaec.com:8800/hls/futvestream1/futvestream1/edbca3b2547d473382a81145b263ce70/index.m3u8
@@ -36,8 +54,17 @@ https://xhateaec.com:8800/hls/futvestream1/futvestream1/edbca3b2547d473382a81145
 #EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://xhateaec.com/upload/photos/2024/02/gQn3J9urlbwnSoRsV6JQ_20_cb4413de706fad20eb28728936f8c3a8_avatar.jpg" group-title="XHATEAEC",JTV | Honduras
 https://xhateaec.com:8800/hls/jesucristo/jesucristo/57328eda266dcd70fd321815a6813ac1/index.m3u8
 
+#EXTINF:-1 tvg-id="MH Radio Tv" tvg-name="MH Radio Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/06/2zdWhXA6PLrvYx5R5r6V_13_1e3d8cac9196eff28b325f8516e0e137_avatar.jpg" group-title="XHATEAEC",MH Radio Tv | Peru
+https://xhateaec.com:8800/hls/MHRADIOTV/MHRADIOTV/fd050c4db199b5194266615ab0ddb96c/index.m3u8
+
+#EXTINF:-1 tvg-id="NotiPress Internacional" tvg-name="NotiPress Internacional" tvg-logo="https://xhateaec.com/upload/photos/2022/08/kzMzt5jBfH6GXcmpIqBs_18_860f4d9652f66175343056b0144427f5_avatar.jpg" group-title="XHATEAEC",NotiPress Internacional | Argentina
+https://xhateaec.com:8800/hls/miguel007/miguel007/986faf2a8074f4b213fdb55ec8fd0c9f/index.m3u8
+
 #EXTINF:-1 tvg-id="Planeta Channel" tvg-name="Planeta Channel" tvg-logo="https://xhateaec.com/upload/photos/2024/05/yyA17zSGAXPTaqaY3ozM_06_b6cf19c252477934f76a4814be64de5a_avatar.png" group-title="XHATEAEC",Planeta Channel | Ecuador
 https://xhateaec.com:8800/hls/Planeta/Planeta/d1d678af2a17329ddf642607e533ec61/index.m3u8
+
+#EXTINF:-1 tvg-id="Plenitud TV HD" tvg-name="Plenitud TV HD" tvg-logo="https://i.imgur.com/QGwcjNT.jpg" group-title="XHATEAEC",Plenitud TV HD | Chile
+https://xhateaec.com:8800/hls/PlenitudTV/PlenitudTV/4af10c3d042f9051cf0c08b13bce5aa8/index.m3u8
 
 #EXTINF:-1 tvg-id="PS Television" tvg-name="PS Television" tvg-logo="https://i.imgur.com/X0ooVPY.png" group-title="XHATEAEC",PS Television | Colombia
 https://xhateaec.com:8800/hls/Pstelevision/Pstelevision/d6259c8de31bdbd6b8f43ae8a1e40c07/index.m3u8
@@ -48,8 +75,14 @@ https://xhateaec.com:8800/hls/carlamarquez/carlamarquez/ad0d6ad374975bbb25be8ca7
 #EXTINF:-1 tvg-id="Radio Ipersonica TV" tvg-name="Radio Ipersonica TV" tvg-logo="https://i.imgur.com/8eSqC8L.png" group-title="XHATEAEC",Radio Ipersonica TV | Argentina
 https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
+#EXTINF:-1 tvg-id="Radio Municipal Monteros" tvg-name="Radio Municipal Monteros" tvg-logo="https://xhateaec.com/upload/photos/2024/05/WLLU1qXgUuOvuPlXqeOJ_07_5d2f474b54467ea8541057ce4a050d84_avatar.png" group-title="XHATEAEC",Radio Municipal Monteros | Argentina
+https://xhateaec.com:8800/hls/RadioMunicipalMonteros879/RadioMunicipalMonteros879/176c916c8cfe73993b2ab7024f9f1e76/index.m3u8
+
+#EXTINF:-1 tvg-id="Radio Punta Mira Tv" tvg-name="Radio Punta Mira Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/01/GVE8pkPbtLMH7unJqbNB_06_de5162282142896d7d3a2b5db88b9ffd_avatar.png" group-title="XHATEAEC",Radio Punta Mira Tv | Chile
+https://xhateaec.com:8800/hls/RADIOPUNTAMIRATV/RADIOPUNTAMIRATV/f43a892f080b75d81680ca4357ae3deb/index.m3u8
+
 #EXTINF:-1 tvg-id="Radio Star Tv" tvg-name="Radio Star Tv" tvg-logo="https://xhateaec.com/upload/photos/2023/08/xsRQKHgOCHUtSpkObEXQ_31_1f1e1bf2670df91cce761b974ac291ba_avatar.png" group-title="XHATEAEC",Radio Star Tv | Peru
-https://xhateaec.com:8800/hls/radiostar/radiostar/15f7e24b967f4d8e7971d174af1eb3c8/index.m3u8
+https://xhateaec.com:8800/hls/nelsonvicente/nelsonvicente/15f7e24b967f4d8e7971d174af1eb3c8/index.m3u8
 
 #EXTINF:-1 tvg-id="Radio Zona FM Ecuador" tvg-name="Radio Zona FM Ecuador" tvg-logo="https://xhateaec.com/upload/photos/2023/01/H7XtkIeQFK24D234TVya_01_780bf9ed83578fd49e8131cd0f6b8b96_avatar.jpg" group-title="XHATEAEC",Radio Zona FM Ecuador | Ecuador
 https://xhateaec.com:8800/hls/JOSEPH1177/JOSEPH1177/beb19178b25f93b6439f92d656aab63f/index.m3u8
@@ -72,6 +105,9 @@ https://xhateaec.com:8800/hls/TVREXTV/TVREXTV/16679dc5f0da83aece04b81acaaabc07/i
 #EXTINF:-1 tvg-id="TvsxTv" tvg-name="TvsxTv" tvg-logo="https://xhateaec.com/upload/photos/2023/06/vBoSZPOZd7EgbiFYaFrI_13_8edc81f04f48934cfd9b9bec1c7f6ecc_avatar.jpg" group-title="XHATEAEC",Teves Por Tv | Bolivia
 https://xhateaec.com:8800/hls/TvsxTv/TvsxTv/09b15145dec3e2ff643906b681ff0ac9/index.m3u8
 
+#EXTINF:-1 tvg-id="Ucayali Tv" tvg-name="Ucayali Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/06/A9cEbZ5v8G9uYal3NvYY_11_68f00b2cd1bfdc7be63cb42dbee51726_avatar.png" group-title="XHATEAEC",Ucayali Tv | Peru
+https://xhateaec.com:8800/hls/Ucayalitv/Ucayalitv/f9699826eb94721a3fedae7c5fbe0609/index.m3u8
+
 #EXTINF:-1 tvg-id="Union Tv" tvg-name="Union Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/04/YCHrdpaqz5SPGKkUA53D_21_52620cf7bbb74dba86de6ddbc8dbf1fb_avatar.jpg" group-title="XHATEAEC",Union Tv | Colombia
 https://xhateaec.com:8800/hls/UNIONTV/UNIONTV/3303093623b0de6937d17cbdc22e9375/index.m3u8
 
@@ -80,7 +116,6 @@ https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/668affe8bf962ec75dcb1408bd
 
 #EXTINF:-1 tvg-id="WT Medio Digital" tvg-name="WT Medio Digital" tvg-logo="https://xhateaec.com/upload/photos/2024/03/7AH6GIIObZjm1v6gqex1_29_a5007a75a687f42a4257f66ef6d72c00_avatar.jpg" group-title="XHATEAEC",WT Medio Digital | Ecuador
 https://xhateaec.com:8800/hls/Willian/Willian/812ac380636c61222f29bc28d244def4/index.m3u8
-
 
 
 
