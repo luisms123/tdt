@@ -541,7 +541,10 @@ https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
 https://stmv6.voxtvhd.com.br/memoriasclassic/memoriasclassic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias Film" tvg-name="Memorias Film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Film| Colombia
-https://stmv6.voxtvhd.com.br/memorias-film/memorias-film/playlist.m3u8
+https://stmv6.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Memorias Series" tvg-name="Memorias Series" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Series | Colombia
+https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias TV" tvg-name="Memorias TV" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias TV | Colombia
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
@@ -652,6 +655,9 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Clan Latinoamerica" tvg-name="Clan Latinoamerica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan Latinoamerica | Mexico
+http://190.211.250.102:8000/play/a01j
+
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE | Spain
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
@@ -735,6 +741,9 @@ https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/wHsHiab.png" group-title="JOVENES Y ADULTOS",Aniplus HD | Asia
 http://210.210.155.37/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="" group-title="JOVENES Y ADULTOS",Ani Retro | Chile
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-id="Ani TV" tvg-name="Ani TV" tvg-logo="https://i.imgur.com/7ajLMvE.jpg" group-title="JOVENES Y ADULTOS",Geekdot TV | Brasil
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
@@ -5828,9 +5837,8 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CeciliaOrson 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CineMX4 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ZAZ Tv 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CsoE2UGhZh2ZRSPbJR6nDeG2VFyCq5yqz0akxuB7rjdrjlGBDYkxoRm053ZWFe72Oqf4Fb1--zi4r9vMH5a1W2slYBPgu3TPErVQCu2k-o505D2QRXekndkMRTDJ6HbFDzj-UsI4H-4VpWl9kAXepmDZKzBS7q40llZsFiY51yLKY9pdvr3gwzURaJhtxEd8tWszfs1yQ2IY7OCPgMAOIPRSVzWKBjzEhBkFyYtSsFFLkYVwk65k2SOYtjiMHviGoFNKwuCmDb11ckit8_EK-lhIC1ZVXTuWbYUZkCzPO8jNrrU6F69GZO2iORxUM0wCFIqphhb_lShNOE9pZxJtpBcz_PHcEAUmTK8YL7GgGJlpbknZtDRK-r6OjS_ul7TiKZhmiomQ0DfNx9O3DaNqKdtP1IjFl9ero3p-3htrMvpBMq6jvRhCLj_x2rtQy4JwdX5QDDdiJS7HRF7mI6BM7Ij4IChN7QSKnYRt01DFf9MNuHNbXEwMyMbWYa_9G_lH5oWfIhF2mMZViNK1K6x0bfLknFX7zQDHNZ2ARHp7je__ocCD39g6AfjT1Hj7z1dM5IM9f6CHKP8DA1HiYQyuCTolFp2Ovn7v2EGrF87K-aIyifUHsppDctQ3q03xWTRcb5w3dtnDVy0IJMKeR-uu7TUofcDFlPWNPIB3rygAKoT5xyzusS654Tz9w87a8mMYxvwoILr7olrgrjsGJsjAY9ATqM_VrZ4O-VZdfrVZTXjcnKxnoYOGWFqi2XJtQX-x59XxJWQ6ZCwWu6OzqhoMwQXPSnDxiI1paw7RIAEqCXVzLWVhc3QtMjDfCQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CskEDdgJPA1ge83kokV7kOVlX_v7divOUn80oV_FgO9oW_ryzZd2lvioJjL387xxQxX7lJfU7i2tO9y95VGKOMW3fpALF7ClbXzAIWHOeMydCBl863E4h7yc6pv35bSkZNFbkrvf9QW5m8xP4lQ_9r-WuOA_cvF3zxGaGytpzi5Cqw8zY8CIMC3GvYMCEfSs_p41cq3cQ2qmPuIqSGzjcQk9HzL3fVg3vOcWMwlL_xH8xEbfM0LzgFknnPZzWh0gkA4DIKmhhgg3S1RsgJcm4fS9DzKWmWWMRaTYL4-yRBQbT4f3_2SLbISQg78QB9xcaFOHU-vx1pLjifK02Ksv-Z4sHvndFTIZcNX6NtsR3SqbfTWYhtaBLzRJEM3l4NjTc2npl0etUa6Rrg96wmunvVXJ3OVY1SZ49QTY2f4Wgs2AOeytXi9Upezxm6KPEakIR5NWwfDVYduci0mqwYtF3rhq3dYU-gD8AEYQlcZekDCb2KHm5w4Z-m_UtW8JzoKjML3Hqe2Yp9QtamSOKxdMzYUrXm-QGW3l671_MyQUrRNXAsAuh52GprHvAxPlatAGMAjjMF72VL4bdrYhBcigkVbLTxXgitCOaWmHiD6Z0CG0-W4qCEkr_I5R18LIpUw7AXLFUfS_lAIcOx3CO8kWmnqyf8xNTaxic8PLB02EovNMoAdBbGD1GHTpICqTFBn5U7CJMkj6ZH5xiueeVY25zgKl0twt-TrxeVumoEsWGhyqhFWarql2jtXqEXWd3ApOn6ADe8NEHeTOziQxGgxHk21jwowDfpPN9CcgASoJdXMtZWFzdC0yMN8J.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CscEHEd90xqAzNyjm7zkNN8BMg3YebPR7QEkH2JsPVb0qC38rCYQGKAJL887A4jl2SjAnhX1JQmzVMjSXWngE00Xd49b_F2AAfFqrLZx6jskvUHO8vunE9JeY9OEszxvnIFPZ14v6O94rRV9oydQfXFnEHLhtWnzXehQvFIBoOU-UI8nT9VqQo3Bcviw_53esvrdcKoS2yNFkptaYtSvvOjrdIZKWlXrg0J3_0JH_YJLiHSYb5GYrS-B9xQNs2Z5NxojPzs1aJyR7CbNfGvAnd2IY2W2wKLpUxV2BUUo4R13e3FQiL46Z66yG0yU9XJQBL6GSpA3l9VzAa5i7cdFamlbbcav3moRaOgaAT6uy3giod90X3ZStzcooGf-45FXqixmEezyvveLbpw8TqF82a8mSo-fG61kqgzYC0Au4kr8rfEmFulfEIZwHZsr9a7tQW7uP0zgNzftPGce1HIovOpbsZQo_2AUJp-K9UzLpA8EBV6FdW9w3ZXfoLeiuasWBBiT0dVIBMUxwf6Dp_vFcW4bE-OOLU2QOiX9pA6Dz-Ekdb-rw-xxs3utIiYA9L--49ifq07UZ0DZEeNgO0G52ZKYRPgyUTWcFuE74xGLzsZtzFAFVRYaynFVaUWjhpNcs7xgPWVIdtbN7OYRVM7uY853CUzDsRtRjPUbkPrKVIyMl_PU2hakkv_AYNWGVTKYW8LP57ngh-KYyxQkdIqAnupo0g4XQvuDyt6ku1vNmDCeBZdUBmNwShMkC7UqYaj-OkE6LuwRLsnRxRoMefYgTdltG_I2hP_JIAEqCXVzLWVhc3QtMjDfCQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
@@ -5844,7 +5852,7 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CscEHEd90xqAzNyjm7zkNN8BMg3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrQEK3Q7fA7NMHd_OK-PihPHXbXODD00JLorItQuHm9W9fP9brbbxf4gcj9AMoFa8TrSXHvJl-QhIR5fv3xU6sYSRm3mBfwYoRSNJnAwf1W-Mm_hiFp3GJ3cCboeMW13s7B6UYYv7sbaKWiVaJMv8TJY3ocEvcuMTGiPbtqCIQmP1GziUya1AsLY1pM_n1IxH7955tJNFEqdMV7GuCNCRUF9CPbKgipSPT8eJgxR0NQKnlogtCRkKJdcYBvVOoa5cSZDBYDhypMR2iDa3hGB8GWvfLUAJODdWlkVaAysdJ8H6bx-tQIK0V3SunM4vi-P5miGrIC6UA6NSrf2ACahj1DdQa7gIHAWoYjzTU8pTg9viki_YrjWQYANo4_9Bd5nmjGhFelRIHplYH1jq0Sq9OqMgTwtF0n2c4UACtnZ9Z2jHQ0_XnhO0ObW_8u-2lYRfSmHCClHbeftKnT_7mBRhhxcTVIZ2x_TPoo_a2UuEVqwDQ9FZRkXQjAkFdCkyCu0aMv5TuqCUlzYAADKqagqmTCdpuzkpgF2OcdQgnctCoxfZ-RkpwrjbxoWCPIdbMvtllMJWcvpcNOi0Tdfe0E9qxAQuqcdVn2PgjLKD83AjGp9JsneCgUeN2YG2XFrxw1Azfj-4ooIO3Vorcd575U5fDStzA4OWaWrNTA7TmdfoqSRkUHUOJwFqkdTYTNDQWuRtadBeEDXKABsRAI5UUq4t5W9hG5leEz4eDerHLhHDso4AInr3yOyGgzTueX_y6G9rddIXEwgASoJdXMtZWFzdC0yMN8J.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrQE-cFjG2S2_0HrGgr0I9Wf5w2QkDaqDUtjcyc51NWre0fwhtgysTDM3YWTFCf2cl1yQVmt8qrDBB3MXK7FfxFXT9P8h7HDXgNcrl32e2OOZUv0uGmW0fS0DFRrGvw6HUZtElNHjrhPFSciK8jtNaZT08LSxfTjUz8zuO-UbeqHnXebQYjYXdWLzkLTNK_kurPTInmmfJsV6Fh8H7cDafpQ9KZdEej_Xd2tJntGZewax7dpjziwPpZrh0a-igsBWCnGGHCL1cyr3g0G4L_eTBSrbh7wguehcwXrnddOaVQL9XR7N7dIG_pfapA50kH4T7V4K_Ejz-my2H0-smW9kVXpDmLvAee4YcVojD2u4VI2v7BJ67s9dD2rOIeFZXY7jYDONjpaQ1nRfIeOHHlQWZIHJ-1D3fXEOyMHJWrwpGmGMjnH5psR8JgwTRXe5fXiCrLKhW2W1jdvykonMMHcWIn_D60r_1-V-WWWS6_a0wuIx1sCvPm19tLJreLoMLDvqm6qLFdfgdtLrCDHhqTgHPffSnYipamOnenJSdVk5XHtxTv8vYId4ALoCfyd67JCU12zYgqCSXKttl01axkFFXx20CcXfS5VPP-iEelonK5WQ7A74I4GXS3UpPVa6rdY9pZ6rwlR5EZlm1sQ3T33hm1dz03X4L2uR9dMUubgEQInR4ra7iS-IbdIEpqftmpzzREWPp_906BiKoNmMaoofX8GU2qOukk5Q4kUv_k9tGYmVog_5w6-Ggyl77dCEIkEo78Mn2wgASoJdXMtZWFzdC0yMN8J.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
