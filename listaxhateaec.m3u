@@ -7,7 +7,11 @@ http://pe.shortgod.com/temporal/play.php?id=158
 #EXTINF:-1 tvg-id="Eurocopa" tvg-name="Eurocopa" tvg-logo="https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo.jpg" group-title="XHATEAEC",Eurocopa 2024 op2 | UEFA
 http://pe.shortgod.com/temporal/play.php?id=2
 #EXTINF:-1 tvg-id="Copa America" tvg-name="Copa America" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/9250092/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F11%2F69%2F177d4c0f44caaec2b1c4d73a9f27%2Fcopa-america.png" group-title="XHATEAEC",Copa America 2024 | CONMEBOL
+http://pe.shortgod.com/temporal/play.php?id=20
+#EXTINF:-1 tvg-id="Copa America" tvg-name="Copa America" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/9250092/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F11%2F69%2F177d4c0f44caaec2b1c4d73a9f27%2Fcopa-america.png" group-title="XHATEAEC",Copa America 2024 op2 | CONMEBOL
 http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="Copa America" tvg-name="Copa America" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/9250092/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F11%2F69%2F177d4c0f44caaec2b1c4d73a9f27%2Fcopa-america.png" group-title="XHATEAEC",Copa America 2024 op3 | CONMEBOL
+http://pe.shortgod.com/temporal/play.php?id=1
 
 #EXTINF:-1 tvg-id="Xhateaec Tv" tvg-name="Xhateaec Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/03/mzfVkyWULDavLWvXq6uX_21_07a013c37dfc4aac4fc17dacb8ba5740_avatar.png" group-title="XHATEAEC",Xhateaec Tv | Uruguay
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/48b9d28dddd4cd1dad86b73cae03ca6c/index.m3u8
