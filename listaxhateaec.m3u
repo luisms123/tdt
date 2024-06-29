@@ -3,15 +3,13 @@
 ﻿
 
 #EXTINF:-1 tvg-id="Eurocopa" tvg-name="Eurocopa" tvg-logo="https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo.jpg" group-title="XHATEAEC",Eurocopa 2024 | UEFA
-http://pe.shortgod.com/temporal/play.php?id=158
+http://pe.shortgod.com/wow/play.php?id=158
 #EXTINF:-1 tvg-id="Eurocopa" tvg-name="Eurocopa" tvg-logo="https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo.jpg" group-title="XHATEAEC",Eurocopa 2024 op2 | UEFA
-http://pe.shortgod.com/temporal/play.php?id=2
+http://pe.shortgod.com/wow/play.php?id=409
 #EXTINF:-1 tvg-id="Copa America" tvg-name="Copa America" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/9250092/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F11%2F69%2F177d4c0f44caaec2b1c4d73a9f27%2Fcopa-america.png" group-title="XHATEAEC",Copa America 2024 | CONMEBOL
-http://pe.shortgod.com/temporal/play.php?id=20
+http://pe.shortgod.com/wow/play.php?id=20
 #EXTINF:-1 tvg-id="Copa America" tvg-name="Copa America" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/9250092/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F11%2F69%2F177d4c0f44caaec2b1c4d73a9f27%2Fcopa-america.png" group-title="XHATEAEC",Copa America 2024 op2 | CONMEBOL
 http://181.78.105.146:2000/play/a08z/index.m3u8
-#EXTINF:-1 tvg-id="Copa America" tvg-name="Copa America" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/9250092/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F11%2F69%2F177d4c0f44caaec2b1c4d73a9f27%2Fcopa-america.png" group-title="XHATEAEC",Copa America 2024 op3 | CONMEBOL
-http://pe.shortgod.com/temporal/play.php?id=1
 
 #EXTINF:-1 tvg-id="Xhateaec Tv" tvg-name="Xhateaec Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/03/mzfVkyWULDavLWvXq6uX_21_07a013c37dfc4aac4fc17dacb8ba5740_avatar.png" group-title="XHATEAEC",Xhateaec Tv | Uruguay
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/48b9d28dddd4cd1dad86b73cae03ca6c/index.m3u8
@@ -53,7 +51,7 @@ https://xhateaec.com:8800/hls/futbolregioligamx/futbolregioligamx/9aa6357786054c
 https://xhateaec.com:8800/hls/futvestream/futvestream/edbca3b2547d473382a81145b263ce70/index.m3u8
 
 #EXTINF:-1 tvg-id="Futve Stream 2" tvg-name="Futve Stream 2" tvg-logo="https://xhateaec.com/upload/photos/2024/04/DOOmdAQcdx2qASMAWyIp_20_28ff3f6533d34bd0e7f035553a86379b_avatar.png" group-title="XHATEAEC",Futve Stream 2 | Venezuela
-https://xhateaec.com:8800/hls/futvestream1/futvestream1/edbca3b2547d473382a81145b263ce70/index.m3u8
+https://xhateaec.com:8800/hls/futvestream1/futvestream1/39beb8abb617ce966a380b211f737a0e/index.m3u8
 
 #EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://xhateaec.com/upload/photos/2024/02/gQn3J9urlbwnSoRsV6JQ_20_cb4413de706fad20eb28728936f8c3a8_avatar.jpg" group-title="XHATEAEC",JTV | Honduras
 https://xhateaec.com:8800/hls/jesucristo/jesucristo/57328eda266dcd70fd321815a6813ac1/index.m3u8
@@ -79,6 +77,9 @@ https://xhateaec.com:8800/hls/carlamarquez/carlamarquez/ad0d6ad374975bbb25be8ca7
 #EXTINF:-1 tvg-id="Radio Ipersonica TV" tvg-name="Radio Ipersonica TV" tvg-logo="https://i.imgur.com/8eSqC8L.png" group-title="XHATEAEC",Radio Ipersonica TV | Argentina
 https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
+#EXTINF:-1 tvg-id="Radio Latina Vzla" tvg-name="Radio Latina Vzla" tvg-logo="https://xhateaec.com/upload/photos/2024/06/oMQFQsHoL4AgKbI4hcVf_28_a0f75ea47fa85e01020bb039a28666ab_avatar.jpg" group-title="XHATEAEC",Radio Latina Vzla | Venezuela
+https://xhateaec.com:8800/hls/RadioLatinaVzla/RadioLatinaVzla/7b91487976e120cb84df011a621a8b89/index.m3u8
+
 #EXTINF:-1 tvg-id="Radio Municipal Monteros" tvg-name="Radio Municipal Monteros" tvg-logo="https://xhateaec.com/upload/photos/2024/05/WLLU1qXgUuOvuPlXqeOJ_07_5d2f474b54467ea8541057ce4a050d84_avatar.png" group-title="XHATEAEC",Radio Municipal Monteros | Argentina
 https://xhateaec.com:8800/hls/RadioMunicipalMonteros879/RadioMunicipalMonteros879/176c916c8cfe73993b2ab7024f9f1e76/index.m3u8
 
@@ -96,6 +97,9 @@ https://xhateaec.com:8800/hls/RedTV/RedTV/6808fd87db7d3faf792b3e9085195101/index
 
 #EXTINF:-1 tvg-id="Retro Hits TV" tvg-name="Retro Hits TV" tvg-logo="https://xhateaec.com/upload/photos/2023/12/7aSAsiyWbG7qr6DTmDfi_11_91682e3e12bff1abdedc9617557d104f_avatar.jpg" group-title="XHATEAEC",Retro Hits TV | Chile
 https://xhateaec.com:8800/hls/LeonardoCesar/LeonardoCesar/4b88bd69c15060af69f358227f32945d/index.m3u8
+
+#EXTINF:-1 tvg-id="Somos Radio Latina" tvg-name="Somos Radio Latina" tvg-logo="https://xhateaec.com/upload/photos/2024/06/9VUioevBHDIPVSarDwB2_29_f1b7e32c1a1d212ade46dd7f664fe99a_avatar.png" group-title="XHATEAEC",Somos Radio Latina | USA
+https://xhateaec.com:8800/hls/SomosRadioLatina/SomosRadioLatina/834093d3e508d34aa1db3deeba7fc889/index.m3u8
 
 #EXTINF:-1 tvg-id="Sucremanta TV" tvg-name="Sucremanta TV" tvg-logo="https://xhateaec.com/upload/photos/2023/10/6z6HVTEMgZ2alcrC1f7d_06_de2acf159e0bb543f774fce7bd8bd0d6_avatar.png" group-title="XHATEAEC",Sucremanta TV | Bolivia
 https://xhateaec.com:8800/hls/Sucremantatv/Sucremantatv/dcb0abf1e6d52979ecae00d7a81af48b/index.m3u8
@@ -120,7 +124,6 @@ https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/668affe8bf962ec75dcb1408bd
 
 #EXTINF:-1 tvg-id="WT Medio Digital" tvg-name="WT Medio Digital" tvg-logo="https://xhateaec.com/upload/photos/2024/03/7AH6GIIObZjm1v6gqex1_29_a5007a75a687f42a4257f66ef6d72c00_avatar.jpg" group-title="XHATEAEC",WT Medio Digital | Ecuador
 https://xhateaec.com:8800/hls/Willian/Willian/812ac380636c61222f29bc28d244def4/index.m3u8
-
 
 
 
