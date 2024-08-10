@@ -40,6 +40,10 @@
     <icon src="https://i.imgur.com/X0ooVPY.png" />
     <url>http://www.compulms.com</url>
   </channel>
+  <channel id="Radio LMS">
+    <display-name lang="es">Radio LMS</display-name>
+    <url>http://www.compulms.com</url>
+  </channel>
   <channel id="Retro Hits TV">
     <display-name lang="es">Retro Hits TV</display-name>
     <icon src="https://i.imgur.com/X0ooVPY.png" />
@@ -650,6 +654,150 @@
   </programme>
   <programme start="20240812210000 -0500" stop="20240813000000 -0500" channel="Radio Zona FM Ecuador">
     <title lang="es">Radio Zona FM Ecuador</title>
+  </programme>
+  <programme start="20240810000000 -0600" stop="20240810050000 -0600" channel="Radio LMS">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20240810050000 -0600" stop="20240810100000 -0600" channel="Radio LMS">
+    <title lang="es">Musica Variada</title>
+  </programme>
+  <programme start="20240810100000 -0600" stop="20240810103000 -0600" channel="Radio LMS">
+    <title lang="es">Porfirio Cadena</title>
+  </programme>
+  <programme start="20240810103000 -0600" stop="20240810110000 -0600" channel="Radio LMS">
+    <title lang="es">La Casa Roja</title>
+  </programme>
+  <programme start="20240810110000 -0600" stop="20240810113000 -0600" channel="Radio LMS">
+    <title lang="es">Kaliman</title>
+  </programme>
+  <programme start="20240810113000 -0600" stop="20240810120000 -0600" channel="Radio LMS">
+    <title lang="es">Rayo de Plata</title>
+  </programme>
+  <programme start="20240810120000 -0600" stop="20240810130000 -0600" channel="Radio LMS">
+    <title lang="es">Sones y Pirecuas</title>
+  </programme>
+  <programme start="20240810130000 -0600" stop="20240810140000 -0600" channel="Radio LMS">
+    <title lang="es">Vicente Fernandez</title>
+  </programme>
+  <programme start="20240810140000 -0600" stop="20240810150000 -0600" channel="Radio LMS">
+    <title lang="es">Gruperos</title>
+  </programme>
+  <programme start="20240810150000 -0600" stop="20240810160000 -0600" channel="Radio LMS">
+    <title lang="es">Gruperos</title>
+  </programme>
+  <programme start="20240810160000 -0600" stop="20240810170000 -0600" channel="Radio LMS">
+    <title lang="es">Los Bukis</title>
+  </programme>
+  <programme start="20240810170000 -0600" stop="20240810180000 -0600" channel="Radio LMS">
+    <title lang="es">Joan Sebastian</title>
+  </programme>
+  <programme start="20240810180000 -0600" stop="20240810190000 -0600" channel="Radio LMS">
+    <title lang="es">Joan Sebastian</title>
+  </programme>
+  <programme start="20240810190000 -0600" stop="20240810200000 -0600" channel="Radio LMS">
+    <title lang="es">Juan Gabriel</title>
+  </programme>
+  <programme start="20240810200000 -0600" stop="20240810210000 -0600" channel="Radio LMS">
+    <title lang="es">Juan Gabriel</title>
+  </programme>
+  <programme start="20240810210000 -0600" stop="20240811000000 -0600" channel="Radio LMS">
+    <title lang="es">Musica Variada</title>
+  </programme>
+  <programme start="20240811000000 -0600" stop="20240811050000 -0600" channel="Radio LMS">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20240811050000 -0600" stop="20240811100000 -0600" channel="Radio LMS">
+    <title lang="es">Musica Variada</title>
+  </programme>
+  <programme start="20240811100000 -0600" stop="20240811103000 -0600" channel="Radio LMS">
+    <title lang="es">Porfirio Cadena</title>
+  </programme>
+  <programme start="20240811103000 -0600" stop="20240811110000 -0600" channel="Radio LMS">
+    <title lang="es">La Casa Roja</title>
+  </programme>
+  <programme start="20240811110000 -0600" stop="20240811113000 -0600" channel="Radio LMS">
+    <title lang="es">Kaliman</title>
+  </programme>
+  <programme start="20240811113000 -0600" stop="20240811120000 -0600" channel="Radio LMS">
+    <title lang="es">Rayo de Plata</title>
+  </programme>
+  <programme start="20240811120000 -0600" stop="20240811130000 -0600" channel="Radio LMS">
+    <title lang="es">Sones y Pirecuas</title>
+  </programme>
+  <programme start="20240811130000 -0600" stop="20240811140000 -0600" channel="Radio LMS">
+    <title lang="es">Vicente Fernandez</title>
+  </programme>
+  <programme start="20240811140000 -0600" stop="20240811150000 -0600" channel="Radio LMS">
+    <title lang="es">Gruperos</title>
+  </programme>
+  <programme start="20240811150000 -0600" stop="20240811160000 -0600" channel="Radio LMS">
+    <title lang="es">Gruperos</title>
+  </programme>
+  <programme start="20240811160000 -0600" stop="20240811170000 -0600" channel="Radio LMS">
+    <title lang="es">Los Bukis</title>
+  </programme>
+  <programme start="20240811170000 -0600" stop="20240811180000 -0600" channel="Radio LMS">
+    <title lang="es">Joan Sebastian</title>
+  </programme>
+  <programme start="20240811180000 -0600" stop="20240811190000 -0600" channel="Radio LMS">
+    <title lang="es">Joan Sebastian</title>
+  </programme>
+  <programme start="20240811190000 -0600" stop="20240811200000 -0600" channel="Radio LMS">
+    <title lang="es">Juan Gabriel</title>
+  </programme>
+  <programme start="20240811200000 -0600" stop="20240811210000 -0600" channel="Radio LMS">
+    <title lang="es">Juan Gabriel</title>
+  </programme>
+  <programme start="20240811210000 -0600" stop="20240812000000 -0600" channel="Radio LMS">
+    <title lang="es">Musica Variada</title>
+  </programme>
+  <programme start="20240812000000 -0600" stop="20240812050000 -0600" channel="Radio LMS">
+    <title lang="es">Offline</title>
+  </programme>
+  <programme start="20240812050000 -0600" stop="20240812100000 -0600" channel="Radio LMS">
+    <title lang="es">Musica Variada</title>
+  </programme>
+  <programme start="20240812100000 -0600" stop="20240812103000 -0600" channel="Radio LMS">
+    <title lang="es">Porfirio Cadena</title>
+  </programme>
+  <programme start="20240812103000 -0600" stop="20240812110000 -0600" channel="Radio LMS">
+    <title lang="es">La Casa Roja</title>
+  </programme>
+  <programme start="20240812110000 -0600" stop="20240812113000 -0600" channel="Radio LMS">
+    <title lang="es">Kaliman</title>
+  </programme>
+  <programme start="20240812113000 -0600" stop="20240812120000 -0600" channel="Radio LMS">
+    <title lang="es">Rayo de Plata</title>
+  </programme>
+  <programme start="20240812120000 -0600" stop="20240812130000 -0600" channel="Radio LMS">
+    <title lang="es">Sones y Pirecuas</title>
+  </programme>
+  <programme start="20240812130000 -0600" stop="20240812140000 -0600" channel="Radio LMS">
+    <title lang="es">Vicente Fernandez</title>
+  </programme>
+  <programme start="20240812140000 -0600" stop="20240812150000 -0600" channel="Radio LMS">
+    <title lang="es">Gruperos</title>
+  </programme>
+  <programme start="20240812150000 -0600" stop="20240812160000 -0600" channel="Radio LMS">
+    <title lang="es">Gruperos</title>
+  </programme>
+  <programme start="20240812160000 -0600" stop="20240812170000 -0600" channel="Radio LMS">
+    <title lang="es">Los Bukis</title>
+  </programme>
+  <programme start="20240812170000 -0600" stop="20240812180000 -0600" channel="Radio LMS">
+    <title lang="es">Joan Sebastian</title>
+  </programme>
+  <programme start="20240812180000 -0600" stop="20240812190000 -0600" channel="Radio LMS">
+    <title lang="es">Joan Sebastian</title>
+  </programme>
+  <programme start="20240812190000 -0600" stop="20240812200000 -0600" channel="Radio LMS">
+    <title lang="es">Juan Gabriel</title>
+  </programme>
+  <programme start="20240812200000 -0600" stop="20240812210000 -0600" channel="Radio LMS">
+    <title lang="es">Juan Gabriel</title>
+  </programme>
+  <programme start="20240812210000 -0600" stop="20240813000000 -0600" channel="Radio LMS">
+    <title lang="es">Musica Variada</title>
   </programme>
   <programme start="20240810000000 -0300" stop="20240810030000 -0300" channel="Retro Hits TV">
     <title lang="es">Retro Hits TV</title>

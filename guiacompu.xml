@@ -174,6 +174,11 @@
     <icon src="https://i.imgur.com/rqep0vp.png" />
     <url>http://www.compulms.com</url>
   </channel>
+  <channel id="Toonami Tv">
+    <display-name lang="es">Toonami Tv</display-name>
+    <icon src="https://i.imgur.com/PCtEVPc.jpg" />
+    <url>http://www.compulms.com</url>
+  </channel>
   <channel id="Tv Retro Palmares">
     <display-name lang="es">Tv Retro Palmares</display-name>
     <icon src="https://lh3.googleusercontent.com/-69OUFEsZEzE/XuzYkDQB5ZI/AAAAAAAA2A8/TtTckrIloRkQkhv8uNthZzDvFMH-dAkFwCK8BGAsYHg/s0/2020-06-19.png" />
@@ -6424,23 +6429,24 @@
     <desc lang="es">Aladdin es un joven que, junto a su inseparable mono Abú, se dedica al pillaje para poder sobrevivir. Un buen día, sin embargo, se enamora de la hija del Sultán, la princesa Jasmine, y acepta la proposición de un mendigo, quien le promete todo tipo de riquezas a cambio de que le consiga una vieja lámpara</desc>
   </programme>
   <programme start="20240810100000 -0300" stop="20240810103000 -0300" channel="Retro Magico">
-    <title lang="es">Chip y Dale Rescatadores</title>
-    <desc lang="es">Treinta años después de sus aventuras originales, Chip y Chop viven en Los Ángeles entre dibujos animados y humanos. Chip lleva una vida rutinaria y hogareña como vendedor de seguros, mientras que Chop se ha hecho la cirugía 3D y se dedica a explotar la nostalgia de convención en convención, desesperado por revivir sus días de gloria. Cuando un antiguo compañero de reparto desaparece misteriosamente, Chip y Chop se ven obligados a recuperar la amistad perdida y a hacer de detectives una vez más como Guardianes Rescatadores para salvar a su amigo</desc>
-    <icon src="https://pics.filmaffinity.com/chip_n_dale_rescue_rangers-335785940-mmed.jpg" />
+    <title lang="es">Pinky y Cerebro</title>
+    <desc lang="es">dos ratones albinos alterados genéticamente que viven en los laboratorios Acme. En cada episodio Cerebro idea un plan para poder conquistar al mundo junto a su compañero, Pinky</desc>
+    <icon src="https://pics.filmaffinity.com/pinky_and_the_brain-999473811-mmed.jpg" />
   </programme>
   <programme start="20240810103000 -0300" stop="20240810110000 -0300" channel="Retro Magico">
     <title lang="es">Fenomenoide</title>
     <desc lang="es">Fenomenoide narra la historia de un chico nerd que se convierte en superhéroe ¿De qué manera? Pues bien la Internet tenía una falla letal la cual absorbía al usuario directamente al ciberespacio si escribía una secuencia en el explorador y luego apretaba “delete”</desc>
   </programme>
   <programme start="20240810110000 -0300" stop="20240810113000 -0300" channel="Retro Magico">
-    <title lang="es">Daniel El Terrible</title>
+    <title lang="es">El Conde Patula</title>
+    <desc lang="es">El Conde Pátula trata de escapar de la monotonía de su castillo transilvano viviendo un sinfín de aventuras, que no obstante, acaba por ver frustrados sus intentos</desc>
   </programme>
   <programme start="20240810113000 -0300" stop="20240810120000 -0300" channel="Retro Magico">
-    <title lang="es">Capitan N el Amo del Juego</title>
+    <title lang="es">Denver El Ultimo Dinosaurio</title>
+    <desc lang="es">Un dinosaurio amante de la diversión y su grupo de ingeniosos jóvenes amigos: Jeremy, Mario, Wally, Heather, Casey y Shades. ¡Perseguido por buscadores de fortuna, Denver siempre se encuentra en medio de aventuras inesperadas!</desc>
   </programme>
   <programme start="20240810120000 -0300" stop="20240810123000 -0300" channel="Retro Magico">
-    <title lang="es">El Show de Super Mario Bros</title>
-    <desc lang="es">Durante los distintos episodios, se puede ver a Mario y a Luigi viviendo en un apartamento de Brooklyn donde son protagonistas de multitud de situaciones cómicas</desc>
+    <title lang="es">Cobra</title>
   </programme>
   <programme start="20240810123000 -0300" stop="20240810130000 -0300" channel="Retro Magico">
     <title lang="es">Alf</title>
@@ -6525,23 +6531,24 @@
     <desc lang="es">Aladdin es un joven que, junto a su inseparable mono Abú, se dedica al pillaje para poder sobrevivir. Un buen día, sin embargo, se enamora de la hija del Sultán, la princesa Jasmine, y acepta la proposición de un mendigo, quien le promete todo tipo de riquezas a cambio de que le consiga una vieja lámpara</desc>
   </programme>
   <programme start="20240811100000 -0300" stop="20240811103000 -0300" channel="Retro Magico">
-    <title lang="es">Chip y Dale Rescatadores</title>
-    <desc lang="es">Treinta años después de sus aventuras originales, Chip y Chop viven en Los Ángeles entre dibujos animados y humanos. Chip lleva una vida rutinaria y hogareña como vendedor de seguros, mientras que Chop se ha hecho la cirugía 3D y se dedica a explotar la nostalgia de convención en convención, desesperado por revivir sus días de gloria. Cuando un antiguo compañero de reparto desaparece misteriosamente, Chip y Chop se ven obligados a recuperar la amistad perdida y a hacer de detectives una vez más como Guardianes Rescatadores para salvar a su amigo</desc>
-    <icon src="https://pics.filmaffinity.com/chip_n_dale_rescue_rangers-335785940-mmed.jpg" />
+    <title lang="es">Pinky y Cerebro</title>
+    <desc lang="es">dos ratones albinos alterados genéticamente que viven en los laboratorios Acme. En cada episodio Cerebro idea un plan para poder conquistar al mundo junto a su compañero, Pinky</desc>
+    <icon src="https://pics.filmaffinity.com/pinky_and_the_brain-999473811-mmed.jpg" />
   </programme>
   <programme start="20240811103000 -0300" stop="20240811110000 -0300" channel="Retro Magico">
     <title lang="es">Fenomenoide</title>
     <desc lang="es">Fenomenoide narra la historia de un chico nerd que se convierte en superhéroe ¿De qué manera? Pues bien la Internet tenía una falla letal la cual absorbía al usuario directamente al ciberespacio si escribía una secuencia en el explorador y luego apretaba “delete”</desc>
   </programme>
   <programme start="20240811110000 -0300" stop="20240811113000 -0300" channel="Retro Magico">
-    <title lang="es">Daniel El Terrible</title>
+    <title lang="es">El Conde Patula</title>
+    <desc lang="es">El Conde Pátula trata de escapar de la monotonía de su castillo transilvano viviendo un sinfín de aventuras, que no obstante, acaba por ver frustrados sus intentos</desc>
   </programme>
   <programme start="20240811113000 -0300" stop="20240811120000 -0300" channel="Retro Magico">
-    <title lang="es">Capitan N el Amo del Juego</title>
+    <title lang="es">Denver El Ultimo Dinosaurio</title>
+    <desc lang="es">Un dinosaurio amante de la diversión y su grupo de ingeniosos jóvenes amigos: Jeremy, Mario, Wally, Heather, Casey y Shades. ¡Perseguido por buscadores de fortuna, Denver siempre se encuentra en medio de aventuras inesperadas!</desc>
   </programme>
   <programme start="20240811120000 -0300" stop="20240811123000 -0300" channel="Retro Magico">
-    <title lang="es">El Show de Super Mario Bros</title>
-    <desc lang="es">Durante los distintos episodios, se puede ver a Mario y a Luigi viviendo en un apartamento de Brooklyn donde son protagonistas de multitud de situaciones cómicas</desc>
+    <title lang="es">Cobra</title>
   </programme>
   <programme start="20240811123000 -0300" stop="20240811130000 -0300" channel="Retro Magico">
     <title lang="es">Alf</title>
@@ -8191,6 +8198,114 @@
   </programme>
   <programme start="20240812233000 -0300" stop="20240813000000 -0300" channel="papelera">
     <title lang="es">Penn Zero: Casí Héroe (XD Rewind)</title>
+  </programme>
+  <programme start="20240810000000 -0300" stop="20240810020000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810020000 -0300" stop="20240810040000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810040000 -0300" stop="20240810060000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810060000 -0300" stop="20240810080000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810080000 -0300" stop="20240810100000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810100000 -0300" stop="20240810120000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810120000 -0300" stop="20240810140000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810140000 -0300" stop="20240810160000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810160000 -0300" stop="20240810180000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810180000 -0300" stop="20240810200000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810200000 -0300" stop="20240810220000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240810220000 -0300" stop="20240811000000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811000000 -0300" stop="20240811020000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811020000 -0300" stop="20240811040000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811040000 -0300" stop="20240811060000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811060000 -0300" stop="20240811080000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811080000 -0300" stop="20240811100000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811100000 -0300" stop="20240811120000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811120000 -0300" stop="20240811140000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811140000 -0300" stop="20240811160000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811160000 -0300" stop="20240811180000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811180000 -0300" stop="20240811200000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811200000 -0300" stop="20240811220000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240811220000 -0300" stop="20240812000000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812000000 -0300" stop="20240812020000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812020000 -0300" stop="20240812040000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812040000 -0300" stop="20240812060000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812060000 -0300" stop="20240812080000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812080000 -0300" stop="20240812100000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812100000 -0300" stop="20240812120000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812120000 -0300" stop="20240812140000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812140000 -0300" stop="20240812160000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812160000 -0300" stop="20240812180000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812180000 -0300" stop="20240812200000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812200000 -0300" stop="20240812220000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
+  </programme>
+  <programme start="20240812220000 -0300" stop="20240813000000 -0300" channel="Toonami Tv">
+    <title lang="es">Toonami Tv</title>
   </programme>
   <programme start="20240810011500 -0600" stop="20240810030000 -0600" channel="Tv Retro Palmares">
     <title lang="es">Pelicula</title>
