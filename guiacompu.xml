@@ -5,6 +5,11 @@
     <icon src="https://i.imgur.com/jKsmoAn.png" />
     <url>http://www.compulms.com</url>
   </channel>
+  <channel id="Ani Retro">
+    <display-name lang="es">Ani Retro</display-name>
+    <icon src="https://imgur.com/KPrD9ev.png" />
+    <url>http://www.compulms.com</url>
+  </channel>
   <channel id="AnimeStation">
     <display-name lang="es">AnimeStation</display-name>
     <icon src="https://i.imgur.com/z780GyN.png" />
@@ -568,6 +573,78 @@
   <programme start="20240812230000 -0400" stop="20240813000000 -0400" channel="ACS Network TV">
     <title lang="es">Daniel Boone</title>
     <desc lang="es">Boone vivía con su mujer (Patricia Blair) y sus dos hijos (Veronica Carthwight y Darby Hinton) en el recién colonizado estado de Kentucky. Su compañero de aventuras era el indio -Mingo-(Ed Arnes)</desc>
+  </programme>
+  <programme start="20240810000000 -0300" stop="20240810030000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240810030000 -0300" stop="20240810060000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240810060000 -0300" stop="20240810090000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240810090000 -0300" stop="20240810120000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240810120000 -0300" stop="20240810150000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240810150000 -0300" stop="20240810180000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240810180000 -0300" stop="20240810210000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240810210000 -0300" stop="20240811000000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240811000000 -0300" stop="20240811030000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240811030000 -0300" stop="20240811060000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240811060000 -0300" stop="20240811090000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240811090000 -0300" stop="20240811120000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240811120000 -0300" stop="20240811150000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240811150000 -0300" stop="20240811180000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240811180000 -0300" stop="20240811210000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240811210000 -0300" stop="20240812000000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240812000000 -0300" stop="20240812030000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240812030000 -0300" stop="20240812060000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240812060000 -0300" stop="20240812090000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240812090000 -0300" stop="20240812120000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240812120000 -0300" stop="20240812150000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240812150000 -0300" stop="20240812180000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240812180000 -0300" stop="20240812210000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
+  </programme>
+  <programme start="20240812210000 -0300" stop="20240813000000 -0300" channel="Ani Retro">
+    <title lang="es">Ani Retro</title>
   </programme>
   <programme start="20240810000000 -0300" stop="20240810003000 -0300" channel="AnimeStation">
     <title lang="es">South Park</title>
