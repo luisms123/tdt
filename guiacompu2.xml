@@ -20,6 +20,11 @@
     <icon src="https://i.imgur.com/X0ooVPY.png" />
     <url>http://www.compulms.com</url>
   </channel>
+  <channel id="Color TV">
+    <display-name lang="es">Color TV</display-name>
+    <icon src="https://i.imgur.com/X0ooVPY.png" />
+    <url>http://www.compulms.com</url>
+  </channel>
   <channel id="Futbol Regio">
     <display-name lang="es">Futbol Regio</display-name>
     <icon src="https://i.imgur.com/X0ooVPY.png" />
@@ -38,10 +43,6 @@
   <channel id="Radio Zona FM Ecuador">
     <display-name lang="es">Radio Zona FM Ecuador</display-name>
     <icon src="https://i.imgur.com/X0ooVPY.png" />
-    <url>http://www.compulms.com</url>
-  </channel>
-  <channel id="Radio LMS">
-    <display-name lang="es">Radio LMS</display-name>
     <url>http://www.compulms.com</url>
   </channel>
   <channel id="Retro Hits TV">
@@ -79,30 +80,6 @@
     <icon src="https://i.imgur.com/X0ooVPY.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20240904000000 -0600" stop="20240904030000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20240904030000 -0600" stop="20240904060000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20240904060000 -0600" stop="20240904090000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20240904090000 -0600" stop="20240904120000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20240904120000 -0600" stop="20240904150000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20240904150000 -0600" stop="20240904180000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20240904180000 -0600" stop="20240904210000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20240904210000 -0600" stop="20240905000000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
   <programme start="20240905000000 -0600" stop="20240905030000 -0600" channel="ACO TV">
     <title lang="es">Aco TV</title>
   </programme>
@@ -151,29 +128,29 @@
   <programme start="20240906210000 -0600" stop="20240907000000 -0600" channel="ACO TV">
     <title lang="es">Aco TV</title>
   </programme>
-  <programme start="20240904000000 -0400" stop="20240904030000 -0400" channel="Apocalipsis 38">
-    <title lang="es">Apocalipsis 3:8</title>
+  <programme start="20240907000000 -0600" stop="20240907030000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
   </programme>
-  <programme start="20240904030000 -0400" stop="20240904060000 -0400" channel="Apocalipsis 38">
-    <title lang="es">Apocalipsis 3:8</title>
+  <programme start="20240907030000 -0600" stop="20240907060000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
   </programme>
-  <programme start="20240904060000 -0400" stop="20240904090000 -0400" channel="Apocalipsis 38">
-    <title lang="es">Apocalipsis 3:8</title>
+  <programme start="20240907060000 -0600" stop="20240907090000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
   </programme>
-  <programme start="20240904090000 -0400" stop="20240904120000 -0400" channel="Apocalipsis 38">
-    <title lang="es">Apocalipsis 3:8</title>
+  <programme start="20240907090000 -0600" stop="20240907120000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
   </programme>
-  <programme start="20240904120000 -0400" stop="20240904150000 -0400" channel="Apocalipsis 38">
-    <title lang="es">Apocalipsis 3:8</title>
+  <programme start="20240907120000 -0600" stop="20240907150000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
   </programme>
-  <programme start="20240904150000 -0400" stop="20240904180000 -0400" channel="Apocalipsis 38">
-    <title lang="es">Apocalipsis 3:8</title>
+  <programme start="20240907150000 -0600" stop="20240907180000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
   </programme>
-  <programme start="20240904180000 -0400" stop="20240904210000 -0400" channel="Apocalipsis 38">
-    <title lang="es">Apocalipsis 3:8</title>
+  <programme start="20240907180000 -0600" stop="20240907210000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
   </programme>
-  <programme start="20240904210000 -0400" stop="20240905000000 -0400" channel="Apocalipsis 38">
-    <title lang="es">Apocalipsis 3:8</title>
+  <programme start="20240907210000 -0600" stop="20240908000000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
   </programme>
   <programme start="20240905000000 -0400" stop="20240905030000 -0400" channel="Apocalipsis 38">
     <title lang="es">Apocalipsis 3:8</title>
@@ -223,29 +200,29 @@
   <programme start="20240906210000 -0400" stop="20240907000000 -0400" channel="Apocalipsis 38">
     <title lang="es">Apocalipsis 3:8</title>
   </programme>
-  <programme start="20240904000000 -0600" stop="20240904030000 -0600" channel="Aqmar4k Handball">
-    <title lang="es">Aqmar4k Handball</title>
+  <programme start="20240907000000 -0400" stop="20240907030000 -0400" channel="Apocalipsis 38">
+    <title lang="es">Apocalipsis 3:8</title>
   </programme>
-  <programme start="20240904030000 -0600" stop="20240904060000 -0600" channel="Aqmar4k Handball">
-    <title lang="es">Aqmar4k Handball</title>
+  <programme start="20240907030000 -0400" stop="20240907060000 -0400" channel="Apocalipsis 38">
+    <title lang="es">Apocalipsis 3:8</title>
   </programme>
-  <programme start="20240904060000 -0600" stop="20240904090000 -0600" channel="Aqmar4k Handball">
-    <title lang="es">Aqmar4k Handball</title>
+  <programme start="20240907060000 -0400" stop="20240907090000 -0400" channel="Apocalipsis 38">
+    <title lang="es">Apocalipsis 3:8</title>
   </programme>
-  <programme start="20240904090000 -0600" stop="20240904120000 -0600" channel="Aqmar4k Handball">
-    <title lang="es">Aqmar4k Handball</title>
+  <programme start="20240907090000 -0400" stop="20240907120000 -0400" channel="Apocalipsis 38">
+    <title lang="es">Apocalipsis 3:8</title>
   </programme>
-  <programme start="20240904120000 -0600" stop="20240904150000 -0600" channel="Aqmar4k Handball">
-    <title lang="es">Aqmar4k Handball</title>
+  <programme start="20240907120000 -0400" stop="20240907150000 -0400" channel="Apocalipsis 38">
+    <title lang="es">Apocalipsis 3:8</title>
   </programme>
-  <programme start="20240904150000 -0600" stop="20240904180000 -0600" channel="Aqmar4k Handball">
-    <title lang="es">Aqmar4k Handball</title>
+  <programme start="20240907150000 -0400" stop="20240907180000 -0400" channel="Apocalipsis 38">
+    <title lang="es">Apocalipsis 3:8</title>
   </programme>
-  <programme start="20240904180000 -0600" stop="20240904210000 -0600" channel="Aqmar4k Handball">
-    <title lang="es">Aqmar4k Handball</title>
+  <programme start="20240907180000 -0400" stop="20240907210000 -0400" channel="Apocalipsis 38">
+    <title lang="es">Apocalipsis 3:8</title>
   </programme>
-  <programme start="20240904210000 -0600" stop="20240905000000 -0600" channel="Aqmar4k Handball">
-    <title lang="es">Aqmar4k Handball</title>
+  <programme start="20240907210000 -0400" stop="20240908000000 -0400" channel="Apocalipsis 38">
+    <title lang="es">Apocalipsis 3:8</title>
   </programme>
   <programme start="20240905000000 -0600" stop="20240905030000 -0600" channel="Aqmar4k Handball">
     <title lang="es">Aqmar4k Handball</title>
@@ -295,29 +272,29 @@
   <programme start="20240906210000 -0600" stop="20240907000000 -0600" channel="Aqmar4k Handball">
     <title lang="es">Aqmar4k Handball</title>
   </programme>
-  <programme start="20240904000000 -0600" stop="20240904030000 -0600" channel="Canal Cultural Huauchinango">
-    <title lang="es">Canal Cultural Huauchinango</title>
+  <programme start="20240907000000 -0600" stop="20240907030000 -0600" channel="Aqmar4k Handball">
+    <title lang="es">Aqmar4k Handball</title>
   </programme>
-  <programme start="20240904030000 -0600" stop="20240904060000 -0600" channel="Canal Cultural Huauchinango">
-    <title lang="es">Canal Cultural Huauchinango</title>
+  <programme start="20240907030000 -0600" stop="20240907060000 -0600" channel="Aqmar4k Handball">
+    <title lang="es">Aqmar4k Handball</title>
   </programme>
-  <programme start="20240904060000 -0600" stop="20240904090000 -0600" channel="Canal Cultural Huauchinango">
-    <title lang="es">Canal Cultural Huauchinango</title>
+  <programme start="20240907060000 -0600" stop="20240907090000 -0600" channel="Aqmar4k Handball">
+    <title lang="es">Aqmar4k Handball</title>
   </programme>
-  <programme start="20240904090000 -0600" stop="20240904120000 -0600" channel="Canal Cultural Huauchinango">
-    <title lang="es">Canal Cultural Huauchinango</title>
+  <programme start="20240907090000 -0600" stop="20240907120000 -0600" channel="Aqmar4k Handball">
+    <title lang="es">Aqmar4k Handball</title>
   </programme>
-  <programme start="20240904120000 -0600" stop="20240904150000 -0600" channel="Canal Cultural Huauchinango">
-    <title lang="es">Canal Cultural Huauchinango</title>
+  <programme start="20240907120000 -0600" stop="20240907150000 -0600" channel="Aqmar4k Handball">
+    <title lang="es">Aqmar4k Handball</title>
   </programme>
-  <programme start="20240904150000 -0600" stop="20240904180000 -0600" channel="Canal Cultural Huauchinango">
-    <title lang="es">Canal Cultural Huauchinango</title>
+  <programme start="20240907150000 -0600" stop="20240907180000 -0600" channel="Aqmar4k Handball">
+    <title lang="es">Aqmar4k Handball</title>
   </programme>
-  <programme start="20240904180000 -0600" stop="20240904210000 -0600" channel="Canal Cultural Huauchinango">
-    <title lang="es">Canal Cultural Huauchinango</title>
+  <programme start="20240907180000 -0600" stop="20240907210000 -0600" channel="Aqmar4k Handball">
+    <title lang="es">Aqmar4k Handball</title>
   </programme>
-  <programme start="20240904210000 -0600" stop="20240905000000 -0600" channel="Canal Cultural Huauchinango">
-    <title lang="es">Canal Cultural Huauchinango</title>
+  <programme start="20240907210000 -0600" stop="20240908000000 -0600" channel="Aqmar4k Handball">
+    <title lang="es">Aqmar4k Handball</title>
   </programme>
   <programme start="20240905000000 -0600" stop="20240905030000 -0600" channel="Canal Cultural Huauchinango">
     <title lang="es">Canal Cultural Huauchinango</title>
@@ -367,29 +344,101 @@
   <programme start="20240906210000 -0600" stop="20240907000000 -0600" channel="Canal Cultural Huauchinango">
     <title lang="es">Canal Cultural Huauchinango</title>
   </programme>
-  <programme start="20240904000000 -0600" stop="20240904030000 -0600" channel="Futbol Regio">
-    <title lang="es">Futbol Regio Liga MX</title>
+  <programme start="20240907000000 -0600" stop="20240907030000 -0600" channel="Canal Cultural Huauchinango">
+    <title lang="es">Canal Cultural Huauchinango</title>
   </programme>
-  <programme start="20240904030000 -0600" stop="20240904060000 -0600" channel="Futbol Regio">
-    <title lang="es">Futbol Regio Liga MX</title>
+  <programme start="20240907030000 -0600" stop="20240907060000 -0600" channel="Canal Cultural Huauchinango">
+    <title lang="es">Canal Cultural Huauchinango</title>
   </programme>
-  <programme start="20240904060000 -0600" stop="20240904090000 -0600" channel="Futbol Regio">
-    <title lang="es">Futbol Regio Liga MX</title>
+  <programme start="20240907060000 -0600" stop="20240907090000 -0600" channel="Canal Cultural Huauchinango">
+    <title lang="es">Canal Cultural Huauchinango</title>
   </programme>
-  <programme start="20240904090000 -0600" stop="20240904120000 -0600" channel="Futbol Regio">
-    <title lang="es">Futbol Regio Liga MX</title>
+  <programme start="20240907090000 -0600" stop="20240907120000 -0600" channel="Canal Cultural Huauchinango">
+    <title lang="es">Canal Cultural Huauchinango</title>
   </programme>
-  <programme start="20240904120000 -0600" stop="20240904150000 -0600" channel="Futbol Regio">
-    <title lang="es">Futbol Regio Liga MX</title>
+  <programme start="20240907120000 -0600" stop="20240907150000 -0600" channel="Canal Cultural Huauchinango">
+    <title lang="es">Canal Cultural Huauchinango</title>
   </programme>
-  <programme start="20240904150000 -0600" stop="20240904180000 -0600" channel="Futbol Regio">
-    <title lang="es">Futbol Regio Liga MX</title>
+  <programme start="20240907150000 -0600" stop="20240907180000 -0600" channel="Canal Cultural Huauchinango">
+    <title lang="es">Canal Cultural Huauchinango</title>
   </programme>
-  <programme start="20240904180000 -0600" stop="20240904210000 -0600" channel="Futbol Regio">
-    <title lang="es">Futbol Regio Liga MX</title>
+  <programme start="20240907180000 -0600" stop="20240907210000 -0600" channel="Canal Cultural Huauchinango">
+    <title lang="es">Canal Cultural Huauchinango</title>
   </programme>
-  <programme start="20240904210000 -0600" stop="20240905000000 -0600" channel="Futbol Regio">
-    <title lang="es">Futbol Regio Liga MX</title>
+  <programme start="20240907210000 -0600" stop="20240908000000 -0600" channel="Canal Cultural Huauchinango">
+    <title lang="es">Canal Cultural Huauchinango</title>
+  </programme>
+  <programme start="20240905000000 -0600" stop="20240905030000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240905030000 -0600" stop="20240905060000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240905060000 -0600" stop="20240905090000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240905090000 -0600" stop="20240905120000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240905120000 -0600" stop="20240905150000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240905150000 -0600" stop="20240905180000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240905180000 -0600" stop="20240905210000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240905210000 -0600" stop="20240906000000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240906000000 -0600" stop="20240906030000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240906030000 -0600" stop="20240906060000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240906060000 -0600" stop="20240906090000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240906090000 -0600" stop="20240906120000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240906120000 -0600" stop="20240906150000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240906150000 -0600" stop="20240906180000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240906180000 -0600" stop="20240906210000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240906210000 -0600" stop="20240907000000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240907000000 -0600" stop="20240907030000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240907030000 -0600" stop="20240907060000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240907060000 -0600" stop="20240907090000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240907090000 -0600" stop="20240907120000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240907120000 -0600" stop="20240907150000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240907150000 -0600" stop="20240907180000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240907180000 -0600" stop="20240907210000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
+  </programme>
+  <programme start="20240907210000 -0600" stop="20240908000000 -0600" channel="Color TV">
+    <title lang="es">Color TV</title>
   </programme>
   <programme start="20240905000000 -0600" stop="20240905030000 -0600" channel="Futbol Regio">
     <title lang="es">Futbol Regio Liga MX</title>
@@ -439,29 +488,29 @@
   <programme start="20240906210000 -0600" stop="20240907000000 -0600" channel="Futbol Regio">
     <title lang="es">Futbol Regio Liga MX</title>
   </programme>
-  <programme start="20240904000000 -0600" stop="20240904030000 -0600" channel="JTV">
-    <title lang="es">JTV</title>
+  <programme start="20240907000000 -0600" stop="20240907030000 -0600" channel="Futbol Regio">
+    <title lang="es">Futbol Regio Liga MX</title>
   </programme>
-  <programme start="20240904030000 -0600" stop="20240904060000 -0600" channel="JTV">
-    <title lang="es">JTV</title>
+  <programme start="20240907030000 -0600" stop="20240907060000 -0600" channel="Futbol Regio">
+    <title lang="es">Futbol Regio Liga MX</title>
   </programme>
-  <programme start="20240904060000 -0600" stop="20240904090000 -0600" channel="JTV">
-    <title lang="es">JTV</title>
+  <programme start="20240907060000 -0600" stop="20240907090000 -0600" channel="Futbol Regio">
+    <title lang="es">Futbol Regio Liga MX</title>
   </programme>
-  <programme start="20240904090000 -0600" stop="20240904120000 -0600" channel="JTV">
-    <title lang="es">JTV</title>
+  <programme start="20240907090000 -0600" stop="20240907120000 -0600" channel="Futbol Regio">
+    <title lang="es">Futbol Regio Liga MX</title>
   </programme>
-  <programme start="20240904120000 -0600" stop="20240904150000 -0600" channel="JTV">
-    <title lang="es">JTV</title>
+  <programme start="20240907120000 -0600" stop="20240907150000 -0600" channel="Futbol Regio">
+    <title lang="es">Futbol Regio Liga MX</title>
   </programme>
-  <programme start="20240904150000 -0600" stop="20240904180000 -0600" channel="JTV">
-    <title lang="es">JTV</title>
+  <programme start="20240907150000 -0600" stop="20240907180000 -0600" channel="Futbol Regio">
+    <title lang="es">Futbol Regio Liga MX</title>
   </programme>
-  <programme start="20240904180000 -0600" stop="20240904210000 -0600" channel="JTV">
-    <title lang="es">JTV</title>
+  <programme start="20240907180000 -0600" stop="20240907210000 -0600" channel="Futbol Regio">
+    <title lang="es">Futbol Regio Liga MX</title>
   </programme>
-  <programme start="20240904210000 -0600" stop="20240905000000 -0600" channel="JTV">
-    <title lang="es">JTV</title>
+  <programme start="20240907210000 -0600" stop="20240908000000 -0600" channel="Futbol Regio">
+    <title lang="es">Futbol Regio Liga MX</title>
   </programme>
   <programme start="20240905000000 -0600" stop="20240905030000 -0600" channel="JTV">
     <title lang="es">JTV</title>
@@ -511,29 +560,29 @@
   <programme start="20240906210000 -0600" stop="20240907000000 -0600" channel="JTV">
     <title lang="es">JTV</title>
   </programme>
-  <programme start="20240904000000 -0300" stop="20240904030000 -0300" channel="Radio Doble Impacto">
-    <title lang="es">Radio Doble Impacto</title>
+  <programme start="20240907000000 -0600" stop="20240907030000 -0600" channel="JTV">
+    <title lang="es">JTV</title>
   </programme>
-  <programme start="20240904030000 -0300" stop="20240904060000 -0300" channel="Radio Doble Impacto">
-    <title lang="es">Radio Doble Impacto</title>
+  <programme start="20240907030000 -0600" stop="20240907060000 -0600" channel="JTV">
+    <title lang="es">JTV</title>
   </programme>
-  <programme start="20240904060000 -0300" stop="20240904090000 -0300" channel="Radio Doble Impacto">
-    <title lang="es">Radio Doble Impacto</title>
+  <programme start="20240907060000 -0600" stop="20240907090000 -0600" channel="JTV">
+    <title lang="es">JTV</title>
   </programme>
-  <programme start="20240904090000 -0300" stop="20240904120000 -0300" channel="Radio Doble Impacto">
-    <title lang="es">Radio Doble Impacto</title>
+  <programme start="20240907090000 -0600" stop="20240907120000 -0600" channel="JTV">
+    <title lang="es">JTV</title>
   </programme>
-  <programme start="20240904120000 -0300" stop="20240904150000 -0300" channel="Radio Doble Impacto">
-    <title lang="es">Radio Doble Impacto</title>
+  <programme start="20240907120000 -0600" stop="20240907150000 -0600" channel="JTV">
+    <title lang="es">JTV</title>
   </programme>
-  <programme start="20240904150000 -0300" stop="20240904180000 -0300" channel="Radio Doble Impacto">
-    <title lang="es">Radio Doble Impacto</title>
+  <programme start="20240907150000 -0600" stop="20240907180000 -0600" channel="JTV">
+    <title lang="es">JTV</title>
   </programme>
-  <programme start="20240904180000 -0300" stop="20240904210000 -0300" channel="Radio Doble Impacto">
-    <title lang="es">Radio Doble Impacto</title>
+  <programme start="20240907180000 -0600" stop="20240907210000 -0600" channel="JTV">
+    <title lang="es">JTV</title>
   </programme>
-  <programme start="20240904210000 -0300" stop="20240905000000 -0300" channel="Radio Doble Impacto">
-    <title lang="es">Radio Doble Impacto</title>
+  <programme start="20240907210000 -0600" stop="20240908000000 -0600" channel="JTV">
+    <title lang="es">JTV</title>
   </programme>
   <programme start="20240905000000 -0300" stop="20240905030000 -0300" channel="Radio Doble Impacto">
     <title lang="es">Radio Doble Impacto</title>
@@ -583,29 +632,29 @@
   <programme start="20240906210000 -0300" stop="20240907000000 -0300" channel="Radio Doble Impacto">
     <title lang="es">Radio Doble Impacto</title>
   </programme>
-  <programme start="20240904000000 -0500" stop="20240904030000 -0500" channel="Radio Zona FM Ecuador">
-    <title lang="es">Radio Zona FM Ecuador</title>
+  <programme start="20240907000000 -0300" stop="20240907030000 -0300" channel="Radio Doble Impacto">
+    <title lang="es">Radio Doble Impacto</title>
   </programme>
-  <programme start="20240904030000 -0500" stop="20240904060000 -0500" channel="Radio Zona FM Ecuador">
-    <title lang="es">Radio Zona FM Ecuador</title>
+  <programme start="20240907030000 -0300" stop="20240907060000 -0300" channel="Radio Doble Impacto">
+    <title lang="es">Radio Doble Impacto</title>
   </programme>
-  <programme start="20240904060000 -0500" stop="20240904090000 -0500" channel="Radio Zona FM Ecuador">
-    <title lang="es">Radio Zona FM Ecuador</title>
+  <programme start="20240907060000 -0300" stop="20240907090000 -0300" channel="Radio Doble Impacto">
+    <title lang="es">Radio Doble Impacto</title>
   </programme>
-  <programme start="20240904090000 -0500" stop="20240904120000 -0500" channel="Radio Zona FM Ecuador">
-    <title lang="es">Radio Zona FM Ecuador</title>
+  <programme start="20240907090000 -0300" stop="20240907120000 -0300" channel="Radio Doble Impacto">
+    <title lang="es">Radio Doble Impacto</title>
   </programme>
-  <programme start="20240904120000 -0500" stop="20240904150000 -0500" channel="Radio Zona FM Ecuador">
-    <title lang="es">Radio Zona FM Ecuador</title>
+  <programme start="20240907120000 -0300" stop="20240907150000 -0300" channel="Radio Doble Impacto">
+    <title lang="es">Radio Doble Impacto</title>
   </programme>
-  <programme start="20240904150000 -0500" stop="20240904180000 -0500" channel="Radio Zona FM Ecuador">
-    <title lang="es">Radio Zona FM Ecuador</title>
+  <programme start="20240907150000 -0300" stop="20240907180000 -0300" channel="Radio Doble Impacto">
+    <title lang="es">Radio Doble Impacto</title>
   </programme>
-  <programme start="20240904180000 -0500" stop="20240904210000 -0500" channel="Radio Zona FM Ecuador">
-    <title lang="es">Radio Zona FM Ecuador</title>
+  <programme start="20240907180000 -0300" stop="20240907210000 -0300" channel="Radio Doble Impacto">
+    <title lang="es">Radio Doble Impacto</title>
   </programme>
-  <programme start="20240904210000 -0500" stop="20240905000000 -0500" channel="Radio Zona FM Ecuador">
-    <title lang="es">Radio Zona FM Ecuador</title>
+  <programme start="20240907210000 -0300" stop="20240908000000 -0300" channel="Radio Doble Impacto">
+    <title lang="es">Radio Doble Impacto</title>
   </programme>
   <programme start="20240905000000 -0500" stop="20240905030000 -0500" channel="Radio Zona FM Ecuador">
     <title lang="es">Radio Zona FM Ecuador</title>
@@ -655,173 +704,29 @@
   <programme start="20240906210000 -0500" stop="20240907000000 -0500" channel="Radio Zona FM Ecuador">
     <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
-  <programme start="20240904000000 -0600" stop="20240904050000 -0600" channel="Radio LMS">
-    <title lang="es">Offline</title>
+  <programme start="20240907000000 -0500" stop="20240907030000 -0500" channel="Radio Zona FM Ecuador">
+    <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
-  <programme start="20240904050000 -0600" stop="20240904100000 -0600" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
+  <programme start="20240907030000 -0500" stop="20240907060000 -0500" channel="Radio Zona FM Ecuador">
+    <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
-  <programme start="20240904100000 -0600" stop="20240904103000 -0600" channel="Radio LMS">
-    <title lang="es">Porfirio Cadena</title>
+  <programme start="20240907060000 -0500" stop="20240907090000 -0500" channel="Radio Zona FM Ecuador">
+    <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
-  <programme start="20240904103000 -0600" stop="20240904110000 -0600" channel="Radio LMS">
-    <title lang="es">La Casa Roja</title>
+  <programme start="20240907090000 -0500" stop="20240907120000 -0500" channel="Radio Zona FM Ecuador">
+    <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
-  <programme start="20240904110000 -0600" stop="20240904113000 -0600" channel="Radio LMS">
-    <title lang="es">Kaliman</title>
+  <programme start="20240907120000 -0500" stop="20240907150000 -0500" channel="Radio Zona FM Ecuador">
+    <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
-  <programme start="20240904113000 -0600" stop="20240904120000 -0600" channel="Radio LMS">
-    <title lang="es">Rayo de Plata</title>
+  <programme start="20240907150000 -0500" stop="20240907180000 -0500" channel="Radio Zona FM Ecuador">
+    <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
-  <programme start="20240904120000 -0600" stop="20240904130000 -0600" channel="Radio LMS">
-    <title lang="es">Sones y Pirecuas</title>
+  <programme start="20240907180000 -0500" stop="20240907210000 -0500" channel="Radio Zona FM Ecuador">
+    <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
-  <programme start="20240904130000 -0600" stop="20240904140000 -0600" channel="Radio LMS">
-    <title lang="es">Vicente Fernandez</title>
-  </programme>
-  <programme start="20240904140000 -0600" stop="20240904150000 -0600" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-  </programme>
-  <programme start="20240904150000 -0600" stop="20240904160000 -0600" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-  </programme>
-  <programme start="20240904160000 -0600" stop="20240904170000 -0600" channel="Radio LMS">
-    <title lang="es">Los Bukis</title>
-  </programme>
-  <programme start="20240904170000 -0600" stop="20240904180000 -0600" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-  </programme>
-  <programme start="20240904180000 -0600" stop="20240904190000 -0600" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-  </programme>
-  <programme start="20240904190000 -0600" stop="20240904200000 -0600" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-  </programme>
-  <programme start="20240904200000 -0600" stop="20240904210000 -0600" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-  </programme>
-  <programme start="20240904210000 -0600" stop="20240905000000 -0600" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
-  </programme>
-  <programme start="20240905000000 -0600" stop="20240905050000 -0600" channel="Radio LMS">
-    <title lang="es">Offline</title>
-  </programme>
-  <programme start="20240905050000 -0600" stop="20240905100000 -0600" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
-  </programme>
-  <programme start="20240905100000 -0600" stop="20240905103000 -0600" channel="Radio LMS">
-    <title lang="es">Porfirio Cadena</title>
-  </programme>
-  <programme start="20240905103000 -0600" stop="20240905110000 -0600" channel="Radio LMS">
-    <title lang="es">La Casa Roja</title>
-  </programme>
-  <programme start="20240905110000 -0600" stop="20240905113000 -0600" channel="Radio LMS">
-    <title lang="es">Kaliman</title>
-  </programme>
-  <programme start="20240905113000 -0600" stop="20240905120000 -0600" channel="Radio LMS">
-    <title lang="es">Rayo de Plata</title>
-  </programme>
-  <programme start="20240905120000 -0600" stop="20240905130000 -0600" channel="Radio LMS">
-    <title lang="es">Sones y Pirecuas</title>
-  </programme>
-  <programme start="20240905130000 -0600" stop="20240905140000 -0600" channel="Radio LMS">
-    <title lang="es">Vicente Fernandez</title>
-  </programme>
-  <programme start="20240905140000 -0600" stop="20240905150000 -0600" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-  </programme>
-  <programme start="20240905150000 -0600" stop="20240905160000 -0600" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-  </programme>
-  <programme start="20240905160000 -0600" stop="20240905170000 -0600" channel="Radio LMS">
-    <title lang="es">Los Bukis</title>
-  </programme>
-  <programme start="20240905170000 -0600" stop="20240905180000 -0600" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-  </programme>
-  <programme start="20240905180000 -0600" stop="20240905190000 -0600" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-  </programme>
-  <programme start="20240905190000 -0600" stop="20240905200000 -0600" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-  </programme>
-  <programme start="20240905200000 -0600" stop="20240905210000 -0600" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-  </programme>
-  <programme start="20240905210000 -0600" stop="20240906000000 -0600" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
-  </programme>
-  <programme start="20240906000000 -0600" stop="20240906050000 -0600" channel="Radio LMS">
-    <title lang="es">Offline</title>
-  </programme>
-  <programme start="20240906050000 -0600" stop="20240906100000 -0600" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
-  </programme>
-  <programme start="20240906100000 -0600" stop="20240906103000 -0600" channel="Radio LMS">
-    <title lang="es">Porfirio Cadena</title>
-  </programme>
-  <programme start="20240906103000 -0600" stop="20240906110000 -0600" channel="Radio LMS">
-    <title lang="es">La Casa Roja</title>
-  </programme>
-  <programme start="20240906110000 -0600" stop="20240906113000 -0600" channel="Radio LMS">
-    <title lang="es">Kaliman</title>
-  </programme>
-  <programme start="20240906113000 -0600" stop="20240906120000 -0600" channel="Radio LMS">
-    <title lang="es">Rayo de Plata</title>
-  </programme>
-  <programme start="20240906120000 -0600" stop="20240906130000 -0600" channel="Radio LMS">
-    <title lang="es">Sones y Pirecuas</title>
-  </programme>
-  <programme start="20240906130000 -0600" stop="20240906140000 -0600" channel="Radio LMS">
-    <title lang="es">Vicente Fernandez</title>
-  </programme>
-  <programme start="20240906140000 -0600" stop="20240906150000 -0600" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-  </programme>
-  <programme start="20240906150000 -0600" stop="20240906160000 -0600" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-  </programme>
-  <programme start="20240906160000 -0600" stop="20240906170000 -0600" channel="Radio LMS">
-    <title lang="es">Los Bukis</title>
-  </programme>
-  <programme start="20240906170000 -0600" stop="20240906180000 -0600" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-  </programme>
-  <programme start="20240906180000 -0600" stop="20240906190000 -0600" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-  </programme>
-  <programme start="20240906190000 -0600" stop="20240906200000 -0600" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-  </programme>
-  <programme start="20240906200000 -0600" stop="20240906210000 -0600" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-  </programme>
-  <programme start="20240906210000 -0600" stop="20240907000000 -0600" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
-  </programme>
-  <programme start="20240904000000 -0300" stop="20240904030000 -0300" channel="Retro Hits TV">
-    <title lang="es">Retro Hits TV</title>
-  </programme>
-  <programme start="20240904030000 -0300" stop="20240904060000 -0300" channel="Retro Hits TV">
-    <title lang="es">Retro Hits TV</title>
-  </programme>
-  <programme start="20240904060000 -0300" stop="20240904090000 -0300" channel="Retro Hits TV">
-    <title lang="es">Retro Hits TV</title>
-  </programme>
-  <programme start="20240904090000 -0300" stop="20240904120000 -0300" channel="Retro Hits TV">
-    <title lang="es">Retro Hits TV</title>
-  </programme>
-  <programme start="20240904120000 -0300" stop="20240904150000 -0300" channel="Retro Hits TV">
-    <title lang="es">Retro Hits TV</title>
-  </programme>
-  <programme start="20240904150000 -0300" stop="20240904180000 -0300" channel="Retro Hits TV">
-    <title lang="es">Retro Hits TV</title>
-  </programme>
-  <programme start="20240904180000 -0300" stop="20240904210000 -0300" channel="Retro Hits TV">
-    <title lang="es">Retro Hits TV</title>
-  </programme>
-  <programme start="20240904210000 -0300" stop="20240905000000 -0300" channel="Retro Hits TV">
-    <title lang="es">Retro Hits TV</title>
+  <programme start="20240907210000 -0500" stop="20240908000000 -0500" channel="Radio Zona FM Ecuador">
+    <title lang="es">Radio Zona FM Ecuador</title>
   </programme>
   <programme start="20240905000000 -0300" stop="20240905030000 -0300" channel="Retro Hits TV">
     <title lang="es">Retro Hits TV</title>
@@ -871,29 +776,29 @@
   <programme start="20240906210000 -0300" stop="20240907000000 -0300" channel="Retro Hits TV">
     <title lang="es">Retro Hits TV</title>
   </programme>
-  <programme start="20240904000000 -0400" stop="20240904030000 -0400" channel="Sucremanta TV">
-    <title lang="es">Sucremanta TV</title>
+  <programme start="20240907000000 -0300" stop="20240907030000 -0300" channel="Retro Hits TV">
+    <title lang="es">Retro Hits TV</title>
   </programme>
-  <programme start="20240904030000 -0400" stop="20240904060000 -0400" channel="Sucremanta TV">
-    <title lang="es">Sucremanta TV</title>
+  <programme start="20240907030000 -0300" stop="20240907060000 -0300" channel="Retro Hits TV">
+    <title lang="es">Retro Hits TV</title>
   </programme>
-  <programme start="20240904060000 -0400" stop="20240904090000 -0400" channel="Sucremanta TV">
-    <title lang="es">Sucremanta TV</title>
+  <programme start="20240907060000 -0300" stop="20240907090000 -0300" channel="Retro Hits TV">
+    <title lang="es">Retro Hits TV</title>
   </programme>
-  <programme start="20240904090000 -0400" stop="20240904120000 -0400" channel="Sucremanta TV">
-    <title lang="es">Sucremanta TV</title>
+  <programme start="20240907090000 -0300" stop="20240907120000 -0300" channel="Retro Hits TV">
+    <title lang="es">Retro Hits TV</title>
   </programme>
-  <programme start="20240904120000 -0400" stop="20240904150000 -0400" channel="Sucremanta TV">
-    <title lang="es">Sucremanta TV</title>
+  <programme start="20240907120000 -0300" stop="20240907150000 -0300" channel="Retro Hits TV">
+    <title lang="es">Retro Hits TV</title>
   </programme>
-  <programme start="20240904150000 -0400" stop="20240904180000 -0400" channel="Sucremanta TV">
-    <title lang="es">Sucremanta TV</title>
+  <programme start="20240907150000 -0300" stop="20240907180000 -0300" channel="Retro Hits TV">
+    <title lang="es">Retro Hits TV</title>
   </programme>
-  <programme start="20240904180000 -0400" stop="20240904210000 -0400" channel="Sucremanta TV">
-    <title lang="es">Sucremanta TV</title>
+  <programme start="20240907180000 -0300" stop="20240907210000 -0300" channel="Retro Hits TV">
+    <title lang="es">Retro Hits TV</title>
   </programme>
-  <programme start="20240904210000 -0400" stop="20240905000000 -0400" channel="Sucremanta TV">
-    <title lang="es">Sucremanta TV</title>
+  <programme start="20240907210000 -0300" stop="20240908000000 -0300" channel="Retro Hits TV">
+    <title lang="es">Retro Hits TV</title>
   </programme>
   <programme start="20240905000000 -0400" stop="20240905030000 -0400" channel="Sucremanta TV">
     <title lang="es">Sucremanta TV</title>
@@ -943,29 +848,29 @@
   <programme start="20240906210000 -0400" stop="20240907000000 -0400" channel="Sucremanta TV">
     <title lang="es">Sucremanta TV</title>
   </programme>
-  <programme start="20240904000000 -0600" stop="20240904030000 -0600" channel="Tv Rex Tv">
-    <title lang="es">TV REX TV</title>
+  <programme start="20240907000000 -0400" stop="20240907030000 -0400" channel="Sucremanta TV">
+    <title lang="es">Sucremanta TV</title>
   </programme>
-  <programme start="20240904030000 -0600" stop="20240904060000 -0600" channel="Tv Rex Tv">
-    <title lang="es">TV REX TV</title>
+  <programme start="20240907030000 -0400" stop="20240907060000 -0400" channel="Sucremanta TV">
+    <title lang="es">Sucremanta TV</title>
   </programme>
-  <programme start="20240904060000 -0600" stop="20240904090000 -0600" channel="Tv Rex Tv">
-    <title lang="es">TV REX TV</title>
+  <programme start="20240907060000 -0400" stop="20240907090000 -0400" channel="Sucremanta TV">
+    <title lang="es">Sucremanta TV</title>
   </programme>
-  <programme start="20240904090000 -0600" stop="20240904130000 -0600" channel="Tv Rex Tv">
-    <title lang="es">TV REX TV</title>
+  <programme start="20240907090000 -0400" stop="20240907120000 -0400" channel="Sucremanta TV">
+    <title lang="es">Sucremanta TV</title>
   </programme>
-  <programme start="20240904130000 -0600" stop="20240904150000 -0600" channel="Tv Rex Tv">
-    <title lang="es">TV REX TV</title>
+  <programme start="20240907120000 -0400" stop="20240907150000 -0400" channel="Sucremanta TV">
+    <title lang="es">Sucremanta TV</title>
   </programme>
-  <programme start="20240904150000 -0600" stop="20240904180000 -0600" channel="Tv Rex Tv">
-    <title lang="es">TV REX TV</title>
+  <programme start="20240907150000 -0400" stop="20240907180000 -0400" channel="Sucremanta TV">
+    <title lang="es">Sucremanta TV</title>
   </programme>
-  <programme start="20240904180000 -0600" stop="20240904210000 -0600" channel="Tv Rex Tv">
-    <title lang="es">TV REX TV</title>
+  <programme start="20240907180000 -0400" stop="20240907210000 -0400" channel="Sucremanta TV">
+    <title lang="es">Sucremanta TV</title>
   </programme>
-  <programme start="20240904210000 -0600" stop="20240905000000 -0600" channel="Tv Rex Tv">
-    <title lang="es">TV REX TV</title>
+  <programme start="20240907210000 -0400" stop="20240908000000 -0400" channel="Sucremanta TV">
+    <title lang="es">Sucremanta TV</title>
   </programme>
   <programme start="20240905000000 -0600" stop="20240905030000 -0600" channel="Tv Rex Tv">
     <title lang="es">TV REX TV</title>
@@ -1015,29 +920,29 @@
   <programme start="20240906183000 -0600" stop="20240907000000 -0600" channel="Tv Rex Tv">
     <title lang="es">TV REX TV</title>
   </programme>
-  <programme start="20240904000000 -0400" stop="20240904030000 -0400" channel="TvsxTv">
-    <title lang="es">TeVe Por TV</title>
+  <programme start="20240907000000 -0600" stop="20240907030000 -0600" channel="Tv Rex Tv">
+    <title lang="es">TV REX TV</title>
   </programme>
-  <programme start="20240904030000 -0400" stop="20240904060000 -0400" channel="TvsxTv">
-    <title lang="es">TeVe Por TV</title>
+  <programme start="20240907030000 -0600" stop="20240907060000 -0600" channel="Tv Rex Tv">
+    <title lang="es">TV REX TV</title>
   </programme>
-  <programme start="20240904060000 -0400" stop="20240904090000 -0400" channel="TvsxTv">
-    <title lang="es">TeVe Por TV</title>
+  <programme start="20240907060000 -0600" stop="20240907100000 -0600" channel="Tv Rex Tv">
+    <title lang="es">TV REX TV</title>
   </programme>
-  <programme start="20240904090000 -0400" stop="20240904120000 -0400" channel="TvsxTv">
-    <title lang="es">TeVe Por TV</title>
+  <programme start="20240907100000 -0600" stop="20240907120000 -0600" channel="Tv Rex Tv">
+    <title lang="es">TV REX TV</title>
   </programme>
-  <programme start="20240904120000 -0400" stop="20240904150000 -0400" channel="TvsxTv">
-    <title lang="es">TeVe Por TV</title>
+  <programme start="20240907120000 -0600" stop="20240907140000 -0600" channel="Tv Rex Tv">
+    <title lang="es">TV REX TV</title>
   </programme>
-  <programme start="20240904150000 -0400" stop="20240904180000 -0400" channel="TvsxTv">
-    <title lang="es">TeVe Por TV</title>
+  <programme start="20240907140000 -0600" stop="20240907160000 -0600" channel="Tv Rex Tv">
+    <title lang="es">TV REX TV</title>
   </programme>
-  <programme start="20240904180000 -0400" stop="20240904210000 -0400" channel="TvsxTv">
-    <title lang="es">TeVe Por TV</title>
+  <programme start="20240907160000 -0600" stop="20240907190000 -0600" channel="Tv Rex Tv">
+    <title lang="es">TV REX TV</title>
   </programme>
-  <programme start="20240904210000 -0400" stop="20240905000000 -0400" channel="TvsxTv">
-    <title lang="es">TeVe Por TV</title>
+  <programme start="20240907190000 -0600" stop="20240908000000 -0600" channel="Tv Rex Tv">
+    <title lang="es">TV REX TV</title>
   </programme>
   <programme start="20240905000000 -0400" stop="20240905030000 -0400" channel="TvsxTv">
     <title lang="es">TeVe Por TV</title>
@@ -1087,29 +992,29 @@
   <programme start="20240906210000 -0400" stop="20240907000000 -0400" channel="TvsxTv">
     <title lang="es">TeVe Por TV</title>
   </programme>
-  <programme start="20240904000000 -0300" stop="20240904030000 -0300" channel="Volviendo Tv">
-    <title lang="es">Volviendo TV</title>
+  <programme start="20240907000000 -0400" stop="20240907030000 -0400" channel="TvsxTv">
+    <title lang="es">TeVe Por TV</title>
   </programme>
-  <programme start="20240904030000 -0300" stop="20240904060000 -0300" channel="Volviendo Tv">
-    <title lang="es">Volviendo TV</title>
+  <programme start="20240907030000 -0400" stop="20240907060000 -0400" channel="TvsxTv">
+    <title lang="es">TeVe Por TV</title>
   </programme>
-  <programme start="20240904060000 -0300" stop="20240904090000 -0300" channel="Volviendo Tv">
-    <title lang="es">Volviendo TV</title>
+  <programme start="20240907060000 -0400" stop="20240907090000 -0400" channel="TvsxTv">
+    <title lang="es">TeVe Por TV</title>
   </programme>
-  <programme start="20240904090000 -0300" stop="20240904120000 -0300" channel="Volviendo Tv">
-    <title lang="es">Volviendo TV</title>
+  <programme start="20240907090000 -0400" stop="20240907120000 -0400" channel="TvsxTv">
+    <title lang="es">TeVe Por TV</title>
   </programme>
-  <programme start="20240904120000 -0300" stop="20240904150000 -0300" channel="Volviendo Tv">
-    <title lang="es">Volviendo TV</title>
+  <programme start="20240907120000 -0400" stop="20240907150000 -0400" channel="TvsxTv">
+    <title lang="es">TeVe Por TV</title>
   </programme>
-  <programme start="20240904150000 -0300" stop="20240904180000 -0300" channel="Volviendo Tv">
-    <title lang="es">Volviendo TV</title>
+  <programme start="20240907150000 -0400" stop="20240907180000 -0400" channel="TvsxTv">
+    <title lang="es">TeVe Por TV</title>
   </programme>
-  <programme start="20240904180000 -0300" stop="20240904210000 -0300" channel="Volviendo Tv">
-    <title lang="es">Volviendo TV</title>
+  <programme start="20240907180000 -0400" stop="20240907210000 -0400" channel="TvsxTv">
+    <title lang="es">TeVe Por TV</title>
   </programme>
-  <programme start="20240904210000 -0300" stop="20240905000000 -0300" channel="Volviendo Tv">
-    <title lang="es">Volviendo TV</title>
+  <programme start="20240907210000 -0400" stop="20240908000000 -0400" channel="TvsxTv">
+    <title lang="es">TeVe Por TV</title>
   </programme>
   <programme start="20240905000000 -0300" stop="20240905030000 -0300" channel="Volviendo Tv">
     <title lang="es">Volviendo TV</title>
@@ -1159,37 +1064,29 @@
   <programme start="20240906210000 -0300" stop="20240907000000 -0300" channel="Volviendo Tv">
     <title lang="es">Volviendo TV</title>
   </programme>
-  <programme start="20240904000000 -0500" stop="20240904030000 -0500" channel="WT Medio Digital">
-    <title lang="es">Especial Peliculas</title>
-    <desc lang="es">WT Medio Digital</desc>
+  <programme start="20240907000000 -0300" stop="20240907030000 -0300" channel="Volviendo Tv">
+    <title lang="es">Volviendo TV</title>
   </programme>
-  <programme start="20240904030000 -0500" stop="20240904060000 -0500" channel="WT Medio Digital">
-    <title lang="es">Especial Peliculas</title>
-    <desc lang="es">WT Medio Digital</desc>
+  <programme start="20240907030000 -0300" stop="20240907060000 -0300" channel="Volviendo Tv">
+    <title lang="es">Volviendo TV</title>
   </programme>
-  <programme start="20240904060000 -0500" stop="20240904090000 -0500" channel="WT Medio Digital">
-    <title lang="es">Especial Peliculas</title>
-    <desc lang="es">WT Medio Digital</desc>
+  <programme start="20240907060000 -0300" stop="20240907090000 -0300" channel="Volviendo Tv">
+    <title lang="es">Volviendo TV</title>
   </programme>
-  <programme start="20240904090000 -0500" stop="20240904120000 -0500" channel="WT Medio Digital">
-    <title lang="es">Especial Peliculas</title>
-    <desc lang="es">WT Medio Digital</desc>
+  <programme start="20240907090000 -0300" stop="20240907120000 -0300" channel="Volviendo Tv">
+    <title lang="es">Volviendo TV</title>
   </programme>
-  <programme start="20240904120000 -0500" stop="20240904150000 -0500" channel="WT Medio Digital">
-    <title lang="es">Especial Peliculas</title>
-    <desc lang="es">WT Medio Digital</desc>
+  <programme start="20240907120000 -0300" stop="20240907150000 -0300" channel="Volviendo Tv">
+    <title lang="es">Volviendo TV</title>
   </programme>
-  <programme start="20240904150000 -0500" stop="20240904180000 -0500" channel="WT Medio Digital">
-    <title lang="es">Especial Peliculas</title>
-    <desc lang="es">WT Medio Digital</desc>
+  <programme start="20240907150000 -0300" stop="20240907180000 -0300" channel="Volviendo Tv">
+    <title lang="es">Volviendo TV</title>
   </programme>
-  <programme start="20240904180000 -0500" stop="20240904210000 -0500" channel="WT Medio Digital">
-    <title lang="es">Especial Peliculas</title>
-    <desc lang="es">WT Medio Digital</desc>
+  <programme start="20240907180000 -0300" stop="20240907210000 -0300" channel="Volviendo Tv">
+    <title lang="es">Volviendo TV</title>
   </programme>
-  <programme start="20240904210000 -0500" stop="20240905000000 -0500" channel="WT Medio Digital">
-    <title lang="es">Especial Peliculas</title>
-    <desc lang="es">WT Medio Digital</desc>
+  <programme start="20240907210000 -0300" stop="20240908000000 -0300" channel="Volviendo Tv">
+    <title lang="es">Volviendo TV</title>
   </programme>
   <programme start="20240905000000 -0500" stop="20240905030000 -0500" channel="WT Medio Digital">
     <title lang="es">Especial Peliculas</title>
@@ -1255,29 +1152,37 @@
     <title lang="es">Especial Peliculas</title>
     <desc lang="es">WT Medio Digital</desc>
   </programme>
-  <programme start="20240904000000 -0300" stop="20240904030000 -0300" channel="Xatheaec Tv">
-    <title lang="es">Xatheaec TV</title>
+  <programme start="20240907000000 -0500" stop="20240907030000 -0500" channel="WT Medio Digital">
+    <title lang="es">Especial Peliculas</title>
+    <desc lang="es">WT Medio Digital</desc>
   </programme>
-  <programme start="20240904030000 -0300" stop="20240904060000 -0300" channel="Xatheaec Tv">
-    <title lang="es">Xatheaec TV</title>
+  <programme start="20240907030000 -0500" stop="20240907060000 -0500" channel="WT Medio Digital">
+    <title lang="es">Especial Peliculas</title>
+    <desc lang="es">WT Medio Digital</desc>
   </programme>
-  <programme start="20240904060000 -0300" stop="20240904090000 -0300" channel="Xatheaec Tv">
-    <title lang="es">Xatheaec TV</title>
+  <programme start="20240907060000 -0500" stop="20240907090000 -0500" channel="WT Medio Digital">
+    <title lang="es">Especial Peliculas</title>
+    <desc lang="es">WT Medio Digital</desc>
   </programme>
-  <programme start="20240904090000 -0300" stop="20240904120000 -0300" channel="Xatheaec Tv">
-    <title lang="es">Xatheaec TV</title>
+  <programme start="20240907090000 -0500" stop="20240907120000 -0500" channel="WT Medio Digital">
+    <title lang="es">Especial Peliculas</title>
+    <desc lang="es">WT Medio Digital</desc>
   </programme>
-  <programme start="20240904120000 -0300" stop="20240904150000 -0300" channel="Xatheaec Tv">
-    <title lang="es">Xatheaec TV</title>
+  <programme start="20240907120000 -0500" stop="20240907150000 -0500" channel="WT Medio Digital">
+    <title lang="es">Especial Peliculas</title>
+    <desc lang="es">WT Medio Digital</desc>
   </programme>
-  <programme start="20240904150000 -0300" stop="20240904180000 -0300" channel="Xatheaec Tv">
-    <title lang="es">Xatheaec TV</title>
+  <programme start="20240907150000 -0500" stop="20240907180000 -0500" channel="WT Medio Digital">
+    <title lang="es">Especial Peliculas</title>
+    <desc lang="es">WT Medio Digital</desc>
   </programme>
-  <programme start="20240904180000 -0300" stop="20240904210000 -0300" channel="Xatheaec Tv">
-    <title lang="es">Xatheaec TV</title>
+  <programme start="20240907180000 -0500" stop="20240907210000 -0500" channel="WT Medio Digital">
+    <title lang="es">Especial Peliculas</title>
+    <desc lang="es">WT Medio Digital</desc>
   </programme>
-  <programme start="20240904210000 -0300" stop="20240905000000 -0300" channel="Xatheaec Tv">
-    <title lang="es">Xatheaec TV</title>
+  <programme start="20240907210000 -0500" stop="20240908000000 -0500" channel="WT Medio Digital">
+    <title lang="es">Especial Peliculas</title>
+    <desc lang="es">WT Medio Digital</desc>
   </programme>
   <programme start="20240905000000 -0300" stop="20240905030000 -0300" channel="Xatheaec Tv">
     <title lang="es">Xatheaec TV</title>
@@ -1325,6 +1230,30 @@
     <title lang="es">Xatheaec TV</title>
   </programme>
   <programme start="20240906210000 -0300" stop="20240907000000 -0300" channel="Xatheaec Tv">
+    <title lang="es">Xatheaec TV</title>
+  </programme>
+  <programme start="20240907000000 -0300" stop="20240907030000 -0300" channel="Xatheaec Tv">
+    <title lang="es">Xatheaec TV</title>
+  </programme>
+  <programme start="20240907030000 -0300" stop="20240907060000 -0300" channel="Xatheaec Tv">
+    <title lang="es">Xatheaec TV</title>
+  </programme>
+  <programme start="20240907060000 -0300" stop="20240907090000 -0300" channel="Xatheaec Tv">
+    <title lang="es">Xatheaec TV</title>
+  </programme>
+  <programme start="20240907090000 -0300" stop="20240907120000 -0300" channel="Xatheaec Tv">
+    <title lang="es">Xatheaec TV</title>
+  </programme>
+  <programme start="20240907120000 -0300" stop="20240907150000 -0300" channel="Xatheaec Tv">
+    <title lang="es">Xatheaec TV</title>
+  </programme>
+  <programme start="20240907150000 -0300" stop="20240907180000 -0300" channel="Xatheaec Tv">
+    <title lang="es">Xatheaec TV</title>
+  </programme>
+  <programme start="20240907180000 -0300" stop="20240907210000 -0300" channel="Xatheaec Tv">
+    <title lang="es">Xatheaec TV</title>
+  </programme>
+  <programme start="20240907210000 -0300" stop="20240908000000 -0300" channel="Xatheaec Tv">
     <title lang="es">Xatheaec TV</title>
   </programme>
 </tv>
