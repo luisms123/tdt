@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv generator-info-name="www.matthuisman.nz" generated-ts="1729492327">
+<tv generator-info-name="www.matthuisman.nz" generated-ts="1729575103">
   <channel id="USBA370000104">
     <display-name>CBS News 24/7</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" />
@@ -969,6 +969,10 @@
   <channel id="63a0e33a45264d000850ed7e">
     <display-name>Golazo Network</display-name>
     <icon src="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" />
+  </channel>
+  <channel id="65ea8b928145cb0008509426">
+    <display-name>UEFA Champions League</display-name>
+    <icon src="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" />
   </channel>
   <channel id="60d39387706fe50007fda8e8">
     <display-name>PBR RidePass</display-name>
@@ -2053,6 +2057,10 @@
   <channel id="652e922db4b047000825f975">
     <display-name>Milenio Televisión</display-name>
     <icon src="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" />
+  </channel>
+  <channel id="5dcde07af1c85b0009b18651">
+    <display-name>Pluto TV Deportes</display-name>
+    <icon src="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" />
   </channel>
   <channel id="65cf60d166eec80008724e6f">
     <display-name>Azteca Deportes Premium</display-name>
