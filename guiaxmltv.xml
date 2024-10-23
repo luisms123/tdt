@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv generator-info-name="www.matthuisman.nz" generated-ts="1729575103">
+<tv generator-info-name="www.matthuisman.nz" generated-ts="1729661480">
   <channel id="USBA370000104">
     <display-name>CBS News 24/7</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" />
@@ -1230,6 +1230,10 @@
     <display-name>Bebecito Bum y sus amigos</display-name>
     <icon src="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" />
   </channel>
+  <channel id="66fedd65d7de140008dccd66">
+    <display-name>El Reino Infantil</display-name>
+    <icon src="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png" />
+  </channel>
   <channel id="60faffc3fbbc120007fc4376">
     <display-name>Baby Shark TV</display-name>
     <icon src="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" />
@@ -1254,9 +1258,17 @@
     <display-name>TOTALLY TURTLES</display-name>
     <icon src="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" />
   </channel>
+  <channel id="6675c7868768aa0008d7f1c7">
+    <display-name>Pokémon</display-name>
+    <icon src="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" />
+  </channel>
   <channel id="60fb053712f22a0007ff14d2">
     <display-name>Transformers TV</display-name>
     <icon src="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" />
+  </channel>
+  <channel id="667f3852efa2a10008e1e514">
+    <display-name>Go Go Gadget!</display-name>
+    <icon src="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" />
   </channel>
   <channel id="60f9ebb06f0b3d000746fbdb">
     <display-name>Team Spirit</display-name>
@@ -1273,6 +1285,10 @@
   <channel id="60fb028c2e6a0c00075275a5">
     <display-name>Rainbow Squad</display-name>
     <icon src="https://images.pluto.tv/channels/60fb028c2e6a0c00075275a5/colorLogoPNG.png" />
+  </channel>
+  <channel id="667f393836a2f90008fd17c0">
+    <display-name>Strawberry Shortcake and Friends</display-name>
+    <icon src="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG.png" />
   </channel>
   <channel id="60fb040d4795a6000762fe8f">
     <display-name>Kartoon Channel!</display-name>
