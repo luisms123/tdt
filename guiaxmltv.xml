@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv generator-info-name="www.matthuisman.nz" generated-ts="1729834297">
+<tv generator-info-name="www.matthuisman.nz" generated-ts="1730014305">
   <channel id="USBA370000104">
     <display-name>CBS News 24/7</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" />
@@ -862,6 +862,10 @@
     <display-name>CBS News 24/7</display-name>
     <icon src="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" />
   </channel>
+  <channel id="62cdc6c5a698740007d299b1">
+    <display-name>CBS News Bay Area</display-name>
+    <icon src="https://images.pluto.tv/channels/62cdc6c5a698740007d299b1/colorLogoPNG.png" />
+  </channel>
   <channel id="5dc9b8223687ff000936ed79">
     <display-name>CBS News New York</display-name>
     <icon src="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" />
@@ -1665,6 +1669,10 @@
   <channel id="60cb6df2b2ad610008cd5bea">
     <display-name>CBS News Sacramento</display-name>
     <icon src="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" />
+  </channel>
+  <channel id="632b619c8d2a6c0007ff534e">
+    <display-name>KIRO Seattle</display-name>
+    <icon src="https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png" />
   </channel>
   <channel id="5eceb0d4065c240007688ec6">
     <display-name>CBS News Texas</display-name>
