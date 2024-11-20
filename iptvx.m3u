@@ -23,6 +23,8 @@ http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/0XJcknD.png",XXX | Latina
 http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/0XJcknD.png",Sexxtreme
+http://45.169.163.83:8000/play/a1a8
 
 #EXTINF:-1 group-title="ADULTO" tvg-logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png",JENNY LIVE TV
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
