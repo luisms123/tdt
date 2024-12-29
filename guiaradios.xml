@@ -19,30 +19,6 @@
     <icon src="https://i.imgur.com/X0ooVPY.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20241228000000 -0300" stop="20241228030000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20241228030000 -0300" stop="20241228060000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20241228060000 -0300" stop="20241228090000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20241228090000 -0300" stop="20241228120000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20241228120000 -0300" stop="20241228150000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20241228150000 -0300" stop="20241228180000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20241228180000 -0300" stop="20241228210000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20241228210000 -0300" stop="20241229000000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
   <programme start="20241229000000 -0300" stop="20241229030000 -0300" channel="Radio Cristiana Amor Eterno">
     <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
   </programme>
@@ -97,29 +73,35 @@
   <programme start="20241230220000 -0300" stop="20241231000000 -0300" channel="Radio Cristiana Amor Eterno">
     <title lang="es">Varios Artistas</title>
   </programme>
-  <programme start="20241228000000 -0600" stop="20241228030000 -0600" channel="Evolucion Musical">
-    <title lang="es">Radio Evolucion Musical</title>
+  <programme start="20241231000000 -0300" stop="20241231020000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Adoraciones</title>
   </programme>
-  <programme start="20241228030000 -0600" stop="20241228060000 -0600" channel="Evolucion Musical">
-    <title lang="es">Radio Evolucion Musical</title>
+  <programme start="20241231020000 -0300" stop="20241231080000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">varios</title>
   </programme>
-  <programme start="20241228060000 -0600" stop="20241228090000 -0600" channel="Evolucion Musical">
-    <title lang="es">Radio Evolucion Musical</title>
+  <programme start="20241231080000 -0300" stop="20241231100000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Musicas Variadas</title>
   </programme>
-  <programme start="20241228090000 -0600" stop="20241228120000 -0600" channel="Evolucion Musical">
-    <title lang="es">Radio Evolucion Musical</title>
+  <programme start="20241231100000 -0300" stop="20241231120000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Jubilo</title>
   </programme>
-  <programme start="20241228120000 -0600" stop="20241228150000 -0600" channel="Evolucion Musical">
-    <title lang="es">Radio Evolucion Musical</title>
+  <programme start="20241231120000 -0300" stop="20241231140000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Cumbia y Cuarteto Cristiano</title>
   </programme>
-  <programme start="20241228150000 -0600" stop="20241228180000 -0600" channel="Evolucion Musical">
-    <title lang="es">Radio Evolucion Musical</title>
+  <programme start="20241231140000 -0300" stop="20241231160000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Urbanas Cristianas</title>
   </programme>
-  <programme start="20241228180000 -0600" stop="20241228210000 -0600" channel="Evolucion Musical">
-    <title lang="es">Radio Evolucion Musical</title>
+  <programme start="20241231160000 -0300" stop="20241231180000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Pop Rock Cristiano</title>
   </programme>
-  <programme start="20241228210000 -0600" stop="20241229000000 -0600" channel="Evolucion Musical">
-    <title lang="es">Radio Evolucion Musical</title>
+  <programme start="20241231180000 -0300" stop="20241231200000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Decadas de los 80-90</title>
+  </programme>
+  <programme start="20241231200000 -0300" stop="20241231220000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Folcklore y Tangos Cristiano</title>
+  </programme>
+  <programme start="20241231220000 -0300" stop="20250101000000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Varios Artistas</title>
   </programme>
   <programme start="20241229000000 -0600" stop="20241229030000 -0600" channel="Evolucion Musical">
     <title lang="es">Radio Evolucion Musical</title>
@@ -169,53 +151,29 @@
   <programme start="20241230210000 -0600" stop="20241231000000 -0600" channel="Evolucion Musical">
     <title lang="es">Radio Evolucion Musical</title>
   </programme>
-  <programme start="20241228000000 -0600" stop="20241228050000 -0600" channel="Radio LMS">
-    <title lang="es">Offline</title>
+  <programme start="20241231000000 -0600" stop="20241231030000 -0600" channel="Evolucion Musical">
+    <title lang="es">Radio Evolucion Musical</title>
   </programme>
-  <programme start="20241228050000 -0600" stop="20241228100000 -0600" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
+  <programme start="20241231030000 -0600" stop="20241231060000 -0600" channel="Evolucion Musical">
+    <title lang="es">Radio Evolucion Musical</title>
   </programme>
-  <programme start="20241228100000 -0600" stop="20241228103000 -0600" channel="Radio LMS">
-    <title lang="es">Porfirio Cadena</title>
+  <programme start="20241231060000 -0600" stop="20241231090000 -0600" channel="Evolucion Musical">
+    <title lang="es">Radio Evolucion Musical</title>
   </programme>
-  <programme start="20241228103000 -0600" stop="20241228110000 -0600" channel="Radio LMS">
-    <title lang="es">La Casa Roja</title>
+  <programme start="20241231090000 -0600" stop="20241231120000 -0600" channel="Evolucion Musical">
+    <title lang="es">Radio Evolucion Musical</title>
   </programme>
-  <programme start="20241228110000 -0600" stop="20241228113000 -0600" channel="Radio LMS">
-    <title lang="es">Kaliman</title>
+  <programme start="20241231120000 -0600" stop="20241231150000 -0600" channel="Evolucion Musical">
+    <title lang="es">Radio Evolucion Musical</title>
   </programme>
-  <programme start="20241228113000 -0600" stop="20241228120000 -0600" channel="Radio LMS">
-    <title lang="es">Rayo de Plata</title>
+  <programme start="20241231150000 -0600" stop="20241231180000 -0600" channel="Evolucion Musical">
+    <title lang="es">Radio Evolucion Musical</title>
   </programme>
-  <programme start="20241228120000 -0600" stop="20241228130000 -0600" channel="Radio LMS">
-    <title lang="es">Sones y Pirecuas</title>
+  <programme start="20241231180000 -0600" stop="20241231210000 -0600" channel="Evolucion Musical">
+    <title lang="es">Radio Evolucion Musical</title>
   </programme>
-  <programme start="20241228130000 -0600" stop="20241228140000 -0600" channel="Radio LMS">
-    <title lang="es">Vicente Fernandez</title>
-  </programme>
-  <programme start="20241228140000 -0600" stop="20241228150000 -0600" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-  </programme>
-  <programme start="20241228150000 -0600" stop="20241228160000 -0600" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-  </programme>
-  <programme start="20241228160000 -0600" stop="20241228170000 -0600" channel="Radio LMS">
-    <title lang="es">Los Bukis</title>
-  </programme>
-  <programme start="20241228170000 -0600" stop="20241228180000 -0600" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-  </programme>
-  <programme start="20241228180000 -0600" stop="20241228190000 -0600" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-  </programme>
-  <programme start="20241228190000 -0600" stop="20241228200000 -0600" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-  </programme>
-  <programme start="20241228200000 -0600" stop="20241228210000 -0600" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-  </programme>
-  <programme start="20241228210000 -0600" stop="20241229000000 -0600" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
+  <programme start="20241231210000 -0600" stop="20250101000000 -0600" channel="Evolucion Musical">
+    <title lang="es">Radio Evolucion Musical</title>
   </programme>
   <programme start="20241229000000 -0600" stop="20241229050000 -0600" channel="Radio LMS">
     <title lang="es">Offline</title>
@@ -313,29 +271,53 @@
   <programme start="20241230210000 -0600" stop="20241231000000 -0600" channel="Radio LMS">
     <title lang="es">Musica Variada</title>
   </programme>
-  <programme start="20241228000000 -0600" stop="20241228030000 -0600" channel="Retro Show Music">
-    <title lang="es">Radio Retro Show Music</title>
+  <programme start="20241231000000 -0600" stop="20241231050000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
   </programme>
-  <programme start="20241228030000 -0600" stop="20241228060000 -0600" channel="Retro Show Music">
-    <title lang="es">Radio Retro Show Music</title>
+  <programme start="20241231050000 -0600" stop="20241231100000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
   </programme>
-  <programme start="20241228060000 -0600" stop="20241228090000 -0600" channel="Retro Show Music">
-    <title lang="es">Radio Retro Show Music</title>
+  <programme start="20241231100000 -0600" stop="20241231103000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
   </programme>
-  <programme start="20241228090000 -0600" stop="20241228120000 -0600" channel="Retro Show Music">
-    <title lang="es">Radio Retro Show Music</title>
+  <programme start="20241231103000 -0600" stop="20241231110000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
   </programme>
-  <programme start="20241228120000 -0600" stop="20241228150000 -0600" channel="Retro Show Music">
-    <title lang="es">Radio Retro Show Music</title>
+  <programme start="20241231110000 -0600" stop="20241231113000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
   </programme>
-  <programme start="20241228150000 -0600" stop="20241228180000 -0600" channel="Retro Show Music">
-    <title lang="es">Radio Retro Show Music</title>
+  <programme start="20241231113000 -0600" stop="20241231120000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
   </programme>
-  <programme start="20241228180000 -0600" stop="20241228210000 -0600" channel="Retro Show Music">
-    <title lang="es">Radio Retro Show Music</title>
+  <programme start="20241231120000 -0600" stop="20241231130000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
   </programme>
-  <programme start="20241228210000 -0600" stop="20241229000000 -0600" channel="Retro Show Music">
-    <title lang="es">Radio Retro Show Music</title>
+  <programme start="20241231130000 -0600" stop="20241231140000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
+  </programme>
+  <programme start="20241231140000 -0600" stop="20241231150000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
+  </programme>
+  <programme start="20241231150000 -0600" stop="20241231160000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
+  </programme>
+  <programme start="20241231160000 -0600" stop="20241231170000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
+  </programme>
+  <programme start="20241231170000 -0600" stop="20241231180000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
+  </programme>
+  <programme start="20241231180000 -0600" stop="20241231190000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
+  </programme>
+  <programme start="20241231190000 -0600" stop="20241231200000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
+  </programme>
+  <programme start="20241231200000 -0600" stop="20241231210000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
+  </programme>
+  <programme start="20241231210000 -0600" stop="20250101000000 -0600" channel="Radio LMS">
+    <title lang="es">Canciones de Navidad</title>
   </programme>
   <programme start="20241229000000 -0600" stop="20241229030000 -0600" channel="Retro Show Music">
     <title lang="es">Radio Retro Show Music</title>
@@ -383,6 +365,30 @@
     <title lang="es">Radio Retro Show Music</title>
   </programme>
   <programme start="20241230210000 -0600" stop="20241231000000 -0600" channel="Retro Show Music">
+    <title lang="es">Radio Retro Show Music</title>
+  </programme>
+  <programme start="20241231000000 -0600" stop="20241231030000 -0600" channel="Retro Show Music">
+    <title lang="es">Radio Retro Show Music</title>
+  </programme>
+  <programme start="20241231030000 -0600" stop="20241231060000 -0600" channel="Retro Show Music">
+    <title lang="es">Radio Retro Show Music</title>
+  </programme>
+  <programme start="20241231060000 -0600" stop="20241231090000 -0600" channel="Retro Show Music">
+    <title lang="es">Radio Retro Show Music</title>
+  </programme>
+  <programme start="20241231090000 -0600" stop="20241231120000 -0600" channel="Retro Show Music">
+    <title lang="es">Radio Retro Show Music</title>
+  </programme>
+  <programme start="20241231120000 -0600" stop="20241231150000 -0600" channel="Retro Show Music">
+    <title lang="es">Radio Retro Show Music</title>
+  </programme>
+  <programme start="20241231150000 -0600" stop="20241231180000 -0600" channel="Retro Show Music">
+    <title lang="es">Radio Retro Show Music</title>
+  </programme>
+  <programme start="20241231180000 -0600" stop="20241231210000 -0600" channel="Retro Show Music">
+    <title lang="es">Radio Retro Show Music</title>
+  </programme>
+  <programme start="20241231210000 -0600" stop="20250101000000 -0600" channel="Retro Show Music">
     <title lang="es">Radio Retro Show Music</title>
   </programme>
 </tv>
