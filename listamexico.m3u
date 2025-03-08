@@ -507,11 +507,17 @@ https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cotui Tv Canal 22" tvg-name="Cotui Tv Canal 22" tvg-logo="https://image.roku.com/developer_channels/prod/b228fb39fac5430cbeccd88647df10d234757e1679dab8b254ccef92e674d98e.png" group-title="CANALES INDEPENDIENTES",Cotui Tv Canal 22 | Republica Dominicana
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 
+#EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="CANALES INDEPENDIENTES",DFTV Animacion HD | Argentina
+https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348af/index.m3u8
+
+#EXTINF:-1 tvg-id="DFTV Movie HD" tvg-name="DFTV Movie HD" tvg-logo="https://i.ibb.co/CpZJWgkw/Logo-DFTV-Movie.jpg" group-title="CANALES INDEPENDIENTES",DFTV Movie HD | Argentina
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/7c216bbd236f34cd57f833572018f2b8/index.m3u8
+
 #EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://imgur.com/xksFQ5T.png" group-title="CANALES INDEPENDIENTES",Diti TV | Argentina
 https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
-https://cloudvideo.servers10.com:8081/8096/index.m3u8
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-name="El Magic" tvg-id="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
 https://kali.vdopanel.com:3519/stream/play.m3u8
@@ -772,12 +778,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Japon
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax HD | Indonesia
-https://cdn09jtedge.indihometv.com/joss/130/animax/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV HD | Corea del Sur
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_024&auth=e9963ef1-e25f558f-49451fd9-38ec4fb9
-
 #EXTINF:-1 tvg-id="AZTV" tvg-name="AZTV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV | Republica Dominicana
 http://animezonetv.net/hls/stream.m3u8
 
@@ -836,7 +836,7 @@ http://85.239.54.197:81/live/loco_low/index.m3u8
 http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="Max Anime" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
 https://fl1001.bozztv.com/ssh101/taltal/playlist.m3u8
@@ -5217,6 +5217,8 @@ http://45.181.123.233:8000/play/a17g
 http://201.182.250.126:9999/play/a0ff
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD
+http://185.189.225.150:85/boing/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD (opcion 2)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
@@ -5459,7 +5461,7 @@ http://201.159.113.219:49000/play/a05z/index.m3u8
 
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-https://usw21.playlist.ttvnw.net/v1/playlist/Cs8EY5lzjoCXlxZ-IpHzYk4KgZpsOlrHnhj57gm2wn1fWm_tgFQvBraA6fr5oO-j5ylpCv5OVyYsL2LUBMGQYa820trJX5I0-kGpV5DGTrbscuFblRCpiNOnRA1Ww4ak7ImRN4Y0seT3ZJrXQg-QDlJCbihwBIhjkkDDtfSVQnqAPJyPXrZ-fICBk9zYt8fkT2WOngI6MBr1ZRGzG3C3YCyAHRh4iaDZ7KpYDSWYUTn5EMKzcLWYW23jZl2RF6Mm-TG9OWd4j_Zf918LQSW3NLF75hQaX4rD3szN2lszaWjbN165QJbLC70RJU-vulrHsWv4S5hMDGeR32n2OxrOzu3dkC74aldcgOXzIP91e6oQqJN_8mdI5hi2YsO3JFsJoa4N71YFmGhsMqI1isNlR6yCqu1fgzxccjQ3vPE2mnK1XSDoksp9JjT0BLSrnklpuE42XKyeSksQX5I9mHISgF5O7DORbO8ZKEhSSaX8EaxQud0_eT83HrOk_6-ZoN0Uf4n8OJgkXSEk3lO6FUx5rX5T0-vKITN28HchsY_CZdY4GwbhYv2EMmlzppJ2eNYYb0S0Eqq8CuX5IwfD0WGw36pAUoU-RoF_w3Hu6L6c0MQTOilzqWtoBRFA22kHmjNAQg09GIPcB1tJi2y5jgcRZ2-6wWygLscgBVR7gRTq52x1v1T4QFMhvqRoyNv7ggzP4o11MBIGrEnZS2SO74gELt4RD9akwEDvkuV1jOvvPInyJZINBtxdcpWLgIHzi0st7Fv9pvd1cvtY_VDgvVHNeoPaGgxcUlfFVX3JewTK-bsgASoJdXMtZWFzdC0yMN4L.m3u8 
+https://usw23.playlist.ttvnw.net/v1/playlist/Cs4Exfv59Z94Tx0q4e-uUcDvYwt52iul3U6HU0ZWihLijexm9FuJXzMLi8n1BOor3w95w8UMUkHkbUVhJ9rrfxA1swVHCS8jfzY0y32oCAEIrneAaCegiaoEiPLHR8ZMxXH4vvz5ws7q4egCto0pP3GE8v-ZVTEw--_eoN-5l04UbbjmE4zTOJHnhA94UNxq9e6jGIXHBga8C0A34QlwzK87IpuHzpTWwOkQBZSlyBqpA-kilox9uZ4O2P8bSJJEVGpMdxPEa37Z0ExF9EQH3RY5HdM3IwpMr35w9EydhfhnoUkT1VXgsgwM61SZBI04_XCRX0hLIv0N3yiTbI23rNl9xHZ_Vw-wOpx060XHk_wiABttZUbWeh_yyRzCaqUae71a5da8bN81fBfSJ_KZgYf7b1WHh6l_A1VXBlG_yo-WeTplR-MwwYNlo1pPmeb1mrfdxF8QhhIGS_gLC0Y7uDvXGOtQCmlFgQlXgOqsJmYgD5ONJjYSvhnViU5QiMyPEv_mLoBReLUG-2mlagXxX4OF--8Q5ksblS2nMR3uQLTIVamAshbaxFXVM5ovM8v76zaER-_a6szfSfyXRHH-kerO_2CsudQ2fFI2IQn2lHYWpu7EewJRJkShOVXpyefqpm9W_keZKdVBhYVV-p1yWdfG6O-Nd6PCWGBglhr4GFxT39W7QFSO3MWC_UcAlHvIQICB6uoQM6HRV_BLMamyaN8pyfg5mD-Li2gaAEg62MA-Q0oY2K-NGHKrtdCvBVrpd-ujMhcKmmobqikn330N-HYaDNCQ9nxaa41Y59TngyABKgl1cy1lYXN0LTIw3ws.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Fox Kids 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
@@ -5470,7 +5472,7 @@ https://usw21.playlist.ttvnw.net/v1/playlist/Cs8EY5lzjoCXlxZ-IpHzYk4KgZpsOlrHnhj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Series y Peliculas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal C HD 
-https://use21-0.playlist.ttvnw.net/v1/playlist/CscEfzSmXnUxoqaqTOM-TZUMn3ZnlPDBwYGCuHDMVMj_GJ19RO3taB0U_LuTs4-wn4QgDHq1PuKQU_brOiEjXqCAnQ0x_VNPLXyc5yP5Jcoq4uALvKsViwlclemar16hbYt11D3-T-7uM8dSD2dGI0p13DqWhlWbQhtyyFxoMXTe8rrUnYeWl3iKbE7S-jqXZLTHKzUpB3IAPhl0StSKDE2OECxNS-us-_ceTFXbA557X726PnVxKr1HqGwueePufS_uzrBbX1aw-K9-HKMOYKI8Kf-umra7AswkVWzshXQyoc-8Dr52q_WuEje5Nx2OMht2AaZ47foJm5R3mTx0v87RNzkhJNtQQPrYaFHc_H1Zwxhxmobh-mnOim_njxXnp663dIYlyNDvjU8wnFhavLET4vJ6xO6IigEdJlZpT9RUS7BTaItPHATSxyc0Ar7Ujs3QZ8SOLkZ4YE4AQxGzfzm2R7yPACcetLYKjm6-U9CbbUlXoAl_th_L8eY5I3Po1J78FUKNZeskN97-otC-UNbNTrVPryGRQnUqePNq_bBx56y43CsC5765wD1TqsAMkVkPTJc5YATOyHGZt2PXwXLb3agFnfMa1v2PcqWQksuFConn8A030Udx5EUaJFMtRHXSLrBYMlMbz417yX0LA4YM7j55ISdelE3RFyvBTZv4L_JcdGa9JHCn4_TyOUo2FhMvsf8jc5H46icomPK0SfoVMEJYkZ2a-S4CiFEJGQZTf3jDMKuV7GOD9ZuQ6jkbWBy_nad1NcmDVxoMLNdCv82y7ytA0LPDIAEqCXVzLWVhc3QtMjDeCw.m3u8 
+https://use12-0.playlist.ttvnw.net/v1/playlist/CsYE04rRCGk6jpT3wG4AFtzKtm7jvu95ApHQXgdgvZ6vRtZtAvnaWiwnWebmNvBuMhRRbT0iVOzW5a8KO4WiOJ_baMeWQkLqSAP4IEERFR4jz-BnrVZ0kfMPMAbqCGi_Wd2-75bW55PXFbLVDmABNHxTMdK9WKTyv_gV0hZNXP1V7dTUl7p7LjsAkwW9x1A_PPgg7i89nLzMaYjEI35UGKKw9TmSBUe_Iepdjtf6QpR2L0sSEqqebkNb0C_ClpGzTtIj3CafyBqdYL3-7qwd7ydc5f1t3TUoBMVE0-wR62vEBJ_G98N_q130tIsY1flbwW4S3wnRjsiHrG5mb0BJ189cxH4gjU3fgTdr5J7bMdCy8wW3vYt973uGnPo-9OXeWPXjGH_LmVWG2nSAc7Bn4VLwy4QCdf6JaPjiUK4i07on8tJmqIjGiSJCJQEE4VnNyj9Ks-rRcsWkvi6n_tKPUSW_dBtaGKYdPATO7jNEakxoeCwXkSxzkErHUtXqmShM1prxr4tLLDajPR_XgdgaL_S-WgnzimhPU-Jp_nxXVwElzWB6Owf8AgRbXJ6HUzaLGV7xa0U2H_K8ya9tfOWv8APoz8e0tCOdEBF1psVIWGp8U13FNxX0VoJcMfwWFTtb8fKrYmBp8tuNSz4_uO-PqkUJsXlxxdQkJScTeZ3O-SHT2q48xx7PO57tYupX5cZR5iQuBkABD7maM8T4cCRLlbpGHxHmptRmAhuCWXpGy8JRhrFsuErYeV7zmF8Kssy9XGQaI-U-rR3CGgw0bc07_woqYXuyJxkgASoJdXMtZWFzdC0yMN4L.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Locomotion TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",AlecchiMan 
@@ -5478,6 +5480,7 @@ https://use21-0.playlist.ttvnw.net/v1/playlist/CscEfzSmXnUxoqaqTOM-TZUMn3ZnlPDBw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Nostalgia TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Retro Magico 
+https://usw21.playlist.ttvnw.net/v1/playlist/CtYE3mi4HPprTxEt5KJgf7FnAsr5rXr-EDJ5TIPsDPKgoODaMYrzrFbp7_CWGdvPRD6U82gJ7n8fEbyLtQlwqIPNEz8GLlRvm4pczI55KaURRbnRb8GSrZTkCCEtU8W5sN5ifOIgq9CI8ajFrf1syfzDwDOoUJfwubGcL9qQTIITPtBNKoYWcCoKst5JK2ptAvvltvpJdcoVmcbEzHcLNLu8E-a3DU9HDHuf9244-woEjCJT3ASw1crJ-YTk5XXPCcD-u9MfdfooEldzyhJu8Z7zic9pwToSb91SM8yC4kUu1yn9Rp4XRk0ZAyv-mkzzG1Ry3q9KjUGe6PF8Vn83aB0xGqo_J3ZhZcvDgSzMUWIznoedY608rlI9TTD0uHmQB7oDSaEQ3W11bnpOzOXCPlfoPAEz7zXgIDDbRXCEtlxsxUatHAIizgLUi2H75Fjtto1eDMufNB4LQ8fmW-ED-XozSf6q-t8TQI9mkXBidrgG25KlV7F8h1bGdFPMJY6xIUuGhUzX9_IQFqmGdtFuJRnQtR1GjJuX5NFN2aIqXmliwJC16BS8OO9HtvITahDrkAkQ3GNHzcab7JkWMps0n21eTPUBW7PDpwfj74PNezPku2ydFNQZvEORVTZIdZbQ0UKLegvJpoij81oeNmOC4x0hRbca_1lWK-dQOkHsID53Yf2Tm5bzOZbsetIGosD0PnI_4usaT2xI3HdwBBM7Yf7NN27mPRi_RsnCZHnPHyfzJiyHapDPy8b0hTiFPlTrx2n-RBVs3WO2lMaEOXgO7i4tr0ZEutqlcBoM0UfzGps5TKoIMdEIIAEqCXVzLWVhc3QtMjDeCw.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Anime 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Especial 
