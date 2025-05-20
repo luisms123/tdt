@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="MEXICO",Canal LMS 200525 | Mexico
-https://stream.gia.tv/giatv/giatv-canallms/canallms/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="MEXICO",ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 https://stream.zeno.fm/klrhhk7qmswuv
@@ -478,10 +478,10 @@ https://panel.dattalive.com:443/8186/8186/playlist.m3u8
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS | Mexico
-https://stream.gia.tv/giatv/giatv-canallms/canallms/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op2 | Mexico
-https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-canallms/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado | Mexico
 https://ssh101.bozztv.com/ssh101/tvretrovariado/playlist.m3u8
@@ -8958,11 +8958,26 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 http://181.78.105.146:2000/play/a08f/index.m3u8
 
 
+﻿
+
+#EXTINF:-1 group-title="Peliculas",Scooby Doo Abra Cadabra
+https://ia800509.us.archive.org/5/items/scooby-doo-abracadabra-doo-2010/Scooby-Doo%20Abracadabra-doo%20%282010%29.ia.mp4
+
+#EXTINF:-1 group-title="Peliculas",Scooby Doo y la Escuela de Fantasmas
+https://ia800505.us.archive.org/24/items/scooby-doo-y-la-escuela-de-fantasmas-1988/Scooby-Doo%20y%20la%20Escuela%20de%20Fantasmas%20%281988%29.ia.mp4
+
+#EXTINF:-1 group-title="Peliculas",Scooby Doo Aloha el Misterio de la Isla
+https://ia803208.us.archive.org/4/items/scooby-doo-aloha-el-misterio-de-la-isla/Scooby-Doo%21%20Aloha%2C%20El%20misterio%20de%20la%20isla.mp4
+
+#EXTINF:-1 group-title="Peliculas",Scooby Doo  y la Isla de los Zombies
+https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002.mp4
+
+
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-https://use22.playlist.ttvnw.net/v1/playlist/CrsEdE7I26oMD2yMvs8d2nY6uX27kD-h1HvCgyUtJT1TDGY6F9EKXIc-n-F2iMJmArPK4pYXmzYfIS5R_ShwJpbS12zZX4nF3Xg6HIOI3-PhxTlnuS2rKJxQKlcav23W3EWC_yXLh6OkdDGMFmUP6uUKHFpLp6aHCUGoNfXiubtgHcIrkxHrnDk2IC97sRbP1O2NEsclEywQtDb_Tr5W2zZ4DZxyBdumavgSiQ_igI5MyKVCeALfvJRnfl8Y-1qip7GPJwouoIatyL-7bajVFtq2rDQ2vmK9pfHTEazdruycrVmY8RGYIb0lJ2e8304BuSK67DhJiLp0rAkKuX6N8QjHJulaWHc_iTJvDLFArt7HLMP-SaCk31zRSB7HL1kPExjJH_lbFREtIP8rVrA5G6k1OJLULb3NRX28-e8N0Knqxj4NE5YIFp-c9xuZmk91Uz-z8uF0wemqmRATNY3RlKyIBvaQLmS1XRO9ZREUc9a03KHwBBRT5TXFxFziYNpQ603RgEOdn2BRI1-LC5eK9FWnWLWf0cuKhO20zFlqeOF89sN2Xz2bC2-0y9ka25eUlM7V0RsWxNw9VsMFb_X_-e99y3g9I6LKX5QafHEgQSh52mo2NJqpVvchOwptS4lZG26xW1TRSH0W5n7kKuMsfTAfLqbcSuc4mI5t5rpJCNp05L4DduCLUuHLqRZpIcp0G3YNK1ubryRCCfuHLcgKBhWUuKeborxwa8tJ55678_ar-A_1E-1C4wJNXy9P3BoMex0rbh7BnRaPKUs9IAEqCXVzLWVhc3QtMjCnDA.m3u8 
+https://usw21.playlist.ttvnw.net/v1/playlist/CrsEqtZuJ-uNiEm0wR03cShZPF48pgwXbjT_mxgLU5fntQQfx4ADj1wK6K5brkZJRvfFWLyzm_ESR587pXaiVbNLFVSmGZFBDpmpB0H9bMyrL741nT4YoFuleJTbgM0PjEvh8sngl6Yawcn-HjPYsZoWUlNbPT9_NtdlAhhXzkaRIw0PZx0YViYN00fNFGaEes82JFUDIGhhjQ6Mgxu97-zC2xWva47SJg7n6N0N783Pn8IqQErkxktxMNUINJh1h0H3q-DHcHnJXFJsgIIEE3i6nsoH_l6GNla1a8JV_alkW8O8f_FmBdr_gIFODO33dqNAt5um6GorUzqcpBBCT1lnguwo5q-_HVswTVMDgKIxplQwh8JVPkYQ7O9M5a3Y-dh-hr7Llr_Ahi90fGu6Ow53mC3mR4jHBr9WuJRVjLLdknI2aL3bm8M20p3X8Fp41aKQNt-_BNhx9seN9CmRDpU4EH6XO5_0LRSI1c1tpIVCtvFISYhFfIIiigM_FMgMkZfVtLraqxHOcV9lCE2dpc8x_1_FBUOw6Ibv5x2ZArKnGIa5MfjoRVJXe7YOru7B-hCD0QcQbwZU3UJNGU1xGN3LfpT0PH5qrOPIpZ1YmZstpMyQ0KEDl4W7cO1hzhE-WF1lr0xSDd_SnGSx3RlCH2S3K15pogaY8BYBLVEPdwNkf4XTdSxE2QXL8MlvF9T4n832omH2yr1E_hf1_NQplIEVdlzR1OhNgjFhq688gXgKCeBSx8JJ46q5DWR79RoMWkUtwg2C-JZLlkWdIAEqCXVzLWVhc3QtMjCoDA.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Fox Kids 
-https://use11.playlist.ttvnw.net/v1/playlist/CrsEa8OUHZNM9j9TFOAgj5aoJZ-lyKyNpmtsR61icjE1cHMfWVSMMiseVVxnA4CnyJWqc7dckG1PeM_j1yA-BASkDFbgLYWCBFnhhezAl-iC2clpm51XnefGgENgkJGoJvhWH31UHYkO5YUrbdvtgAIJ8DGAuUWB4aixxIHcFXVCd2JY3zeqqViEBLkHDjHj5rs-tzLyVllZMHJHo-iVYpqEJ2DHGynkPNrfTFJ_8OzcsrYI9Fy9B6DHSZrlaDVV4fFOHZMb1IULHJ9F8xBF7xGsTfIYIvxpJnlOYujcnCQuifIavu4stcTmJ9XdNpW9VZGCen-IzdnjnMLEDwyLlJSoImZ29to7vj-KIPuLfGkIKYbSk-Q6l4u__xPe8852BkjlCXEKn06JvOsErWAby3HC0j65JpjwVq1xFXG3pr8ch_iOPembXr4fu8wJCuq2UCixpHPYeJFD-mt-Ku8o6w8dq1SXOY4CAF3SvkFW-e8heXoiu5CgLKHJ6bJ_dMctjUGUPPaOT7zML0unhxPZpqkquhuh6ix86c_0rF53y-f4X1hW4e4wQqNfOCVgEqskgfrvUZUUPmPfAYw9MNfBBjYXcFzcnw4-w2fRrbkrwrWBZOkR1q6KPq1LGRwOkYiUZvVtDz7mB7tKaNdZAQHBZaJL_DQZMV3Hjut71xnZp4Zus9tQGwo4aPlyFh9uDOSdIT9IKVsMV0Zz1axl8hFxJlMXJfyPhXDBZ7xV6O_Y3HOdMvEhX0I9JIzbNdewzRoM79BvGG6nk1idLxzOIAEqCXVzLWVhc3QtMjCnDA.m3u8 
+https://usw23.playlist.ttvnw.net/v1/playlist/CrsEu_iLqD0sLNDRP1mfrMaOpDUj33T-lLmhm7qMa9Cc4IXIMQInJJLCCdbydpB8l15HsbW51LUtDpsBAeElSlD-mwnpuWNOlTa9NpmLcYMiKcc65aPLk--5dPz6j2GGvnP9728BaDjQBweCkJde9W_gTjrJ4QCPSF3dk_wOL_sEGw02t8f_qUpLWPtub_aoQOm6w1LFGLu7Obiy3H6oNUgTiDYCsg18ZzTzdWdpkC9moKYG_-zzRoUoVKRBTcrGOf1t_WckGdYEJfuwRkTfKbKpHlN6zKByk-Ij60QYLoHb-uVUxznfLGjdDic1IvMCgAyowzPQAQnr81PptrHNiOXdfgOio2wwT6tBO0WAwqNvgcucHuuXjyniLkqnY0Xor5LHM6D3MI6Vrw-QCkqgspOmgy6YfZMmUkhPi2zPA4u6aOVEmmsCrU1EN8Bw-wzsUP6__erilN8iJ9vS2rrZEAhJu2Aa6Lo__qhhKwOKCeCyT3tfIFgE0FB5lkyi2-tYoUzPoTu4yB-wh8NQpCab3GemMcWAuYLEuPLo6NBIiDDIgadnls9jMG0enqPLY2F5CCsU3KM1DjvNM2SOH3Zfd4w2MzeEgc_JsV87vsICw2K6dbnDQfKvtaF3Vn0HfALddpVT0JKtsK7tCVeHFysivn0pKwKcr3GMndQHQtXUr7A4BYCU8kwUW19LcuXZzqKuisN-oomEzP9ZP9VHG1D08PDOf5Irw25XeIwnxG3ZFLoUHkTf7VJatq02gppE3xoMs7xpGp2CGrYIP88BIAEqCXVzLWVhc3QtMjCoDA.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
@@ -8972,7 +8987,7 @@ https://use11.playlist.ttvnw.net/v1/playlist/CrsEa8OUHZNM9j9TFOAgj5aoJZ-lyKyNpmt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Series y Peliculas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal C HD 
-https://use12-0.playlist.ttvnw.net/v1/playlist/CskEXVyWGBhF8xGG_Iky8AIos9SXhEZzrOvOxh6L2B1wFz0VHBLgdjItkCYgswBJpSbQXcvkSOKFcHMFMUk3enZjog2NqWHNBLh0sn985elG0B43wKcWroVgbD2S6HKHJB2pdJLhun3Y75bW4JCZrLgPL-I8YYt_c-lBb2ImLYI0GTYUPtkaLHwAWGHayD7-mCq9iIm4DrmyNMDMMuZQoK0vJQZmC8LBGMyTSeglu5sYQ6BUtpdCAdOU1hlYlB5SFNN7Lg8U3OJie98wZZpvFRDF3N8ow236Qn8ESmpuAD-49HljfIPg1GRQkxOwJHKOqBkcHjHncFAY45qXMiPmq8fdNOzE5s85TZr2HH1kA_dkGP3ovq8b30WK4fpTsZnRfBV3QOQ207flycZTAj_-MTJI1e824gjCKM13t3T8zj2Xd-_mnr5B-Yk4DFVWaCQKNOOzVssfW2vCBE1KQanJL67btgQ6rvPRfHOmJckcnsdaWn2AWaW1p9-Hn3WDfgoOcHgiTlYxGALxpO-xhyKaWl96gnPKjCNcY2eI2sTa4jYnLXvzk-g0xogyNhjCzVI1ivOQ1dL0QqYwZf9gCnO8fsg9U4GMqg_bY1inLSVHsVeqLzQ2hNw7tED8FCnMTyjKQ9GqnLPxMvFzWGDMEER0B6kDlIuMdKVIIvc_odrSF7PanliRouFVeUza3EnN3gxi2HiEpHetnpuH7tzyKDgOjYzEPsL0zesFo8AVQosMYeaaZLEgWBQ_17X04t3i6lJxoQk-hu5AeusxSN5QGgxkLWJf6YrxzkMcXUcgASoJdXMtZWFzdC0yMKcM.m3u8 
+https://usw22.playlist.ttvnw.net/v1/playlist/CsYEJQdLPgblNTbnA0KaCMPyrJ7xbHapE6oN3L23yHUe4ZqSveh5BhioC2pZz5v9kEw-M0oJF7URYz0oAIze7-tNsZLDTroVu-CG7dMUD7KHYcMTAHpC3Qzw4_1uoanjhFrKbZGzcJOiN2zfqThYwRfvoiT0xcu2-j3qFqWGRqSCDguVFjsidGS1fkP2OdJGp2T1eNzImdGV7TkDk4aJ1tzxiwW5jdofz7UhngU_QhxN13_a42sYELwgqd5TFEJ_PaLIrG50yhalW46XhvQqpn1se96tIrdt5ittx13nhmdOEYCaPZ9GDuR7p5pbuqbTFZhkq0sS0PlvfYbMAz2HY29ySt4Qv9t_zIyqoV3blLvpBZbh1PVwDIBI2T22eoRtViD68J_dCae20iLEelH6z2abhijnot8Zn8ey4kERTHM-YW-8XMOwKreY-1GsIgRqdgaeXFGhBetaDBmDZgjF3oEzkDJSFuInN2xbtd7oSrqXIULkiiMCfwoMZPwdDFI86DcotkUKqXjTyBGI-EJdm7lpt_lbQxnvMu2EuHppsTlyJhFKhHc9r06Bct7XIQ1TeWR5PfeTiM7d-Fti_KpkbRzwj-Ew7KjelLGC40qZ1dELrAoFmtCBWQaWdnN2ht1YLebuJnPfkRcwwTeeWdBsdKGHra1EWoetQ-AQ8T4uTpQx44bz2wMg131Zo3v9idaiHqSkgnLfWXXOxZNPBf7siQtrRinjyrchneABJJLdT9wTPKSj3hdZ32And4YJcQ9uwoFnffRRiTI1Ggy0VpJ9JhYBK6aZguIgASoJdXMtZWFzdC0yMKgM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Locomotion TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",AlecchiMan 
@@ -9000,7 +9015,8 @@ https://use12-0.playlist.ttvnw.net/v1/playlist/CskEXVyWGBhF8xGG_Iky8AIos9SXhEZzr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://use13-0.playlist.ttvnw.net/v1/playlist/CrkE7sMjmQNGHU-t5Ur-_eTVrU4uVSz5r-7XIWHbLfDf6bJ4uNK9x57ZXwNl8qipCL29ta3AZemRnWCEX-Aaz_yOZ4e_5ovSfAPcJh6iS7AgOh1mKblpi6yPvFlY520KvlOL3g1INb71muIKbnyGytW4m-KKIKr9--aEHXWy1kY7dV4HH4kJrOY68ej8ImY8SeWSc8pE5bee5lgcuFByMs_Su9IeTmaUNBIgKpe5ETikd5Z7kwovQB1iqaVSrhIrHjmVCAIe5ZVLILVDDbunyjkzR_GG0RpnM3sBKuMdP7NV0lOUtu1ETaA08sOwCGGN9isMQ2x2VNJOFqpp3iAjSv2XsbFolBcNEj6s6QuWYD2tcG9PZkvllPh65h1LYF53wpRGqWVY6mmxBBitf1mczAbnQwXGgwTpgmuR7dQV5HFdhYjBVBBng89c4zxjQbPojJv3o4ubWcB9X-LDQK4P3bacpvm_QLTZzCZxRd6sLeQHJE53I0zEO6-DeF6vPrqaQM9_KO0bWtd9-e1sYyuVxYc8-r9PXyaF53vAOCbuzWuUOE35bPbVxMoVKbGU4xHGSWNfx1v7UMM-MeUCb90xfFuR-2nYQe6VG8DxbNP4jwJBWpS-HpefGoIKlzgLt6i-Pk5c0phY_h-2XsFVqV_02pUkrnF3_RnKkh1zrKzn_e7QSAnFj3gvdJQuUMbELHpN6NPiSWGnPUwikHFfesb4Rk6kX-6SGxe8BvEekRJb5AR4Ve_5VX5e25S7vHoaDIxUpZx0hJk_wyfUXiABKgl1cy1lYXN0LTIwpww.m3u8 
+https://usw21.playlist.ttvnw.net/v1/playlist/CrgEaKDZK7FMBpqPihAYldkSpweAQkE2FGj-1tCJU_XBFjeV8SrhANIYr-uJ5PFHPIyvI4r27xBRzgQifaK3FHwn5CtZuqB1VuBNvTrASk-GpvRBFs8Z_ENaZLOmorwKfKkd0tI-7WfmCXcFlRX68pWHniS6mkevPCMua9ueKVQ3sE1eUx1sPBGiQa3rCBsIX0L9sxoLQJwezPvkjEcsYJARSU8maFUDLjKPBP4OB1UjqoaLhyrpZOXTFMS45JYlZZ3ftXBeIy3dVQ-kWNY1eHDABH-9xvtKUuJ4vpKha2HYIS-qyctlTjPJfJpvIm3nnNtgqc5cqbkZV1Px4iPUo0U3a7z0gfaEn8RojLhDtHVE6Od_9120PK54XFxElfPpwN5QiG3AxaGexYrZDow6aenpCgVCM_uFhQM50S-eTXIhMpspdeKCLUO_65T3ToTrujjHNj1xeUR6WFIkXSP1zDKf23yr1J5MAqGjsoLYaj_HmsJ8ZyapkY7zJYn-23IANvb2x3Ov1GgnHj9xdh4rB-WpT9S6rx8wgtFflloBCp8Razgph9QQnocO-oIZTHp2MKp5_whYGyaZHJkdawbHPOB1gy6hPAvbyDFxE24NQj1M4FiBmHZGSUKbrC3XVMI0cHsPbLl8qkPJ-JJFjNoMOi_dXRjW5wLKTOABQifS9c_rYi_IXGa6F93Kc2TWXJAlPRCkChe2xTE4XlargefAKm7t49i2yvKFhrm3MFHMhR17dLSahT6p2xufixoMyXhtXP4zf9OgAzD_IAEqCXVzLWVhc3QtMjCoDA.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
+https://usw21-0.playlist.ttvnw.net/v1/playlist/CsAESSHGXq0_btA10mGONqvmNG4TBHvStl3KvYA-lKoDLpT3fZFMX2NHDakmOn88uRwKIGFR-2fFt2GQd1hNLOSRPJnEi0_CQ0TqwP3vYXt1VgFkuZKxKVvk3xVnhBVW6p9p27NuZLfYCMMOvFtk9f-d2779cb3Sp68Rw4EdyrNkc7xH4qNp8rLxaIvgwBiWGAWhE50PtvoLvqMP5NKVCEYHzFVicD5o63IBnCFxeh-MR2P7XwJvgzA_icb7wx5lnnEy4JuTqqt2C3-wzm0BJLZXbvPJRGLlHHuAPffIuny7Umm13lwZHCMkUMKJ8JYUGsPumu7n7k4YM2QK2YgCQc9uga8OGrs_8pOA2JUrrgapJjx3YFNyi04Iu-N03a7_DeXHAK1FWBy1DHAR0KvH4DO4oNsBg-ajpPUe1DsmoBZPUJ72SAvgoFW41zc0Cj3XwrZZduEVn-EKRCEoBEG54u_Y8Q3GLtNDSpUjZJnnKZzUfLwiYYilixkyg39gguTGPsjQqPny3pgzTWy8C8m3ek7WZEwOAm3weFNbRQIdeq6hL6afHbYx3_hvEqwCa1ZF8K-5DxXNBgUKLSmb2tJkqNAlhDfz_HcYlFq0QJi2zHmYhYlOI0VcZ7YMpmrzCRlvb5RfYoIeE0wsP0PQc74KGkTfjsQSQfhOBNlIT2HvpKfSYChnwUXWUh7UNmyTsXQWdJb5xFwnJe278AOkDprmxsdo0GJ80rtYQ_o2Qc-u_9iv14DM7nv8BOx-AE0lPfMEd-6iGgxw5rTSvVVmVYigSWggASoJdXMtZWFzdC0yMKgM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
