@@ -8726,253 +8726,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 
 ﻿
 
-
-
-#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim HD | ND
-http://138.118.105.190:8000/play/a0g1
-
-#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim HD op2 | ND
-http://181.78.105.146:6060/play/a01n
-
-#EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim LA
-http://181.119.86.1:8000/play/a019
-
-#EXTINF:-1 tvg-name="Adult Swim Mexico" tvg-id="adultswimmx" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim Mexico
-http://201.163.47.54:8007/play/a006
-
-#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV
-http://45.181.122.46:8090/play/a00t
-
-#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op2
-http://45.181.123.233:8000/play/a0nm
-
-#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op3
-http://170.233.192.234:8112/play/007
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast HD
-http://45.181.123.233:8000/play/a17g
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op2 HD
-http://201.182.250.126:9999/play/a0ff
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op3 HD
-http://181.119.86.1:8000/play/a09y
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD
-http://185.189.225.150:85/boing/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",Bit Me | Mexico
-http://190.60.33.245:4002/play/a0kd
-
-#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",Bit Me op2 | Mexico
-http://190.60.33.245:4002/play/a0kd/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan Latinoamerica HD (geobloqueo)
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-id="Clan Latinoamerica" tvg-name="Clan Latinoamerica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="TV PREMIUM",Clan Latinoamerica | Mexico
-http://190.211.250.102:8000/play/a01j
-
-#EXTINF:-1 tvg-id="Cartoon Network Sur" tvg-name="Cartoon Network Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network | USA
-http://45.181.123.194:8000/play/a0k9/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Senpai TV 
-http://45.184.87.142:8000/play/a021
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Goku Tv
-https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Dragon Ball super
-https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Digimon Adventure
-https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpson
-https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons
-https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Canal del Caballo HD
-http://170.233.192.234:8112/play/230
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Teletrak
-http://170.233.192.234:8112/play/236
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="TV PREMIUM",Telefe | Argentina
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/43312
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="TV PREMIUM",Telefe | Argentina
-http://170.83.242.9:5151/play/a0eg
-
-#EXTINF:-1 tvg-id="Squirrel HD" tvg-name="Squirrel HD" tvg-logo="https://i.ibb.co/svmK1mk/logo-Squirrell.png" group-title="INFANTILES",Squirrel HD | Spain
-http://200.115.120.1:8000/play/ca034
-
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png",De Pelicula Clasico | Mexico
-http://45.181.123.233:8000/play/a0xw
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png",De Pelicula Clasico op2 | Mexico
-http://45.184.87.142:8000/play/a021
-
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://img.hidra.app/entretencion/distritocomedia.png" group-title="TV PREMIUM",Distrito Comedia HD
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302634
-
-#EXTINF:-1 group-title="TV PREMIUM",Volver
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/43346
-
-#EXTINF:-1 group-title="TV PREMIUM",Adult Swim
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302736
-
-#EXTINF:-1 group-title="TV PREMIUM",Golden Plus
-http://200.59.188.3:8000/play/a02d
-#EXTINF:-1 group-title="TV PREMIUM",Golden Premier
-http://138.118.105.190:8000/play/a060/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",AyA
-http://190.61.42.218:9000/play/a00u
-
-#EXTINF:-1 group-title="TV PREMIUM",TIGO SPORTS GUATEMALA
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Televisa
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Uno
-http://181.78.105.146:2000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",LAS ESTRELLAS
-http://181.78.105.146:2000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Imagen
-http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Cinco
-http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Canal 6 CDMX
-http://181.78.105.146:2000/play/a039/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Siete
-http://181.78.105.146:2000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ONCE
-http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Canal 14
-http://181.78.105.146:2000/play/a044/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",UNAM
-http://181.78.105.146:2000/play/a045/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Canal22
-http://181.78.105.146:2000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Congreso
-http://181.78.105.146:2000/play/a046/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",MVSTV
-http://181.78.105.146:2000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Universal
-http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",SONY
-http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",WB
-http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TNTSE
-http://181.78.105.146:2000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",AXN
-http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Space MX
-http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",A&E
-http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Investigation Discovery La
-http://181.78.105.146:2000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",DH&H
-http://181.78.105.146:2000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TLC
-http://181.78.105.146:2000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Lifetime
-http://181.78.105.146:2000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",HOLA
-http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",E!
-http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ComedyC
-http://181.78.105.146:2000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",VideRola
-http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TELER
-http://181.78.105.146:2000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",OnceKids
-http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",DisneyJR
-http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",NICKELODEON
-http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CartoonNetwork
-http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Discovery kids
-http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",MXNuestroCine
-http://181.78.105.146:2000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",IngenioTV
-http://181.78.105.146:2000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Discovery
-http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",NatGeo
-http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",History
-http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",History2
-http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Arts
-http://181.78.105.146:2000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Claro Sport
-http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN3
-http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CNNE
-http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Milenio
-http://181.78.105.146:2000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",MNMX
-http://181.78.105.146:2000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Judicial
-http://181.78.105.146:2000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TNT
-http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",MC
-http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CineCanal O
-http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Film&Arts
-http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",StudioUniversal
-http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Paramount
-http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",AGROTENDENCIA
-http://181.78.105.146:2000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Azteca 7
-http://181.78.105.146:2000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Telemundo USA
-http://181.78.105.146:2000/play/a093/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",SKY LA LIGA
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TLNOVELAS
-http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TN23
-http://181.78.105.146:2000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Azteca Uno
-http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",UNICABLE
-http://181.78.105.146:2000/play/a08f/index.m3u8
-
-
-﻿
-
 #EXTINF:-1 group-title="Peliculas",Scooby Doo Abra Cadabra
 https://ia800509.us.archive.org/5/items/scooby-doo-abracadabra-doo-2010/Scooby-Doo%20Abracadabra-doo%20%282010%29.ia.mp4
 
@@ -8990,9 +8743,9 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-https://use15.playlist.ttvnw.net/v1/playlist/Cr0EddndlK98C_aJ8Z9OsiYmNF4t9EAJGocF8lBfOblN6xj-OWRYAoVjonxle5IMiTGtMiRaKCUEaNhQGKBbQH7tkgbz-c8z1qnDcZaclsk9RFR6yx2Ej4e0TNglbB4mbbomrd_2doXazw8zLfaMw1PmiQghJ8I9rj3KJwe-JgCKeqihlWOMj92IDK96eCrelhofDmkF5WPROe2lY5tJtmWsngZffSbwdmjOhb54tG0qyuUpJXLtgjAKP-bi5BeI6Xp3vFVNsV07bOsNTOFM1_VYGxBm2Nynm007Gy3kTDV1wKd80mZID5jkOXd3aJZkT6HTUhjH-51Kf9e75IicKW8PoIl0S1bZ_ANxTLBGUQGoj94dDHKmz267ApqqbJ1fyfwoKtgmpfnTOeSDzkcBc_vXeEor57JBBGxK8rWjgrqKfdHu9URXiYM4tGX-JjXREPekmZ4UAmP9JiTRadREhu02IhylsnKiRmVXR8jDEOr4s80fqb2crSA1FDVctJBqUvuqGlYZ09Pjk60c_c-uAWvO6Y_7N2ED1VuMmyS1BtFt7vpnvEaWEWeswlTJyVWV6bDf4M0wflrh_bfUnpkOw6aDQpWZAXHKPwql7ZMtSeF98i1TuzVZHUdzXw94EL0F4Q8TymwQBcQP1yVgfHsNyVTW3crRMxikTfy_c3wqxKGy19Gfvgk_uvJTpxsnqWD_wofia7YGa-saWJ75z9MNhw0norvxWmGlQIaFoHTVhZB02Epl1eKLEl_5wuNGet0DGgwsel9eu7MEY5csVbsgASoJdXMtZWFzdC0yMLsM.m3u8 
+https://use15.playlist.ttvnw.net/v1/playlist/CrwEUvpax7Z_9FWs6Ah00h2QqmVQUW488AwtLlWhiTxBEJ09SC8KASqU11MzjuUXnStrvVbnMBx_QsJSQMwW5aw84sVoU7QqNGa8UjSoHariis0JavGb0xeP6Z-7U-9XavNOZ_hFHLaFTJksIztFzW06sZLa8lfEJwCmEskAjooVdlOC1DWe8I0KDePH5UJzhjQo5D9ZgYoE9lBNEglaGw_mLCVNoKYWhd5MZtiV6WDtVRnVJYl98azB-c-Oq9lMMvJHsNW9jxmI13B6EbWISeJZR-Piw3J3gbVAfsOc7WulI0SyD7Q8wqzm1S7YEGnJCZd65wUdx1pqH3zl9LH4LMtNiY5N97oFWuf71r2GaSKqRVMLobSM1-t3eHBEy8cuUwSPd0HCsL0GlJjY-g3mfQIUWb1LpOtCQrvd0-RNYWFu4-jlJdIjLN_j7yFr2v7Tve4E5sSgluFVGK-g3-DzPiP2qf_lLfr_6WoP_4sNaBmpmA1Ib5pMTRivdps4x5yYlgWLB-F0mQAEnzEhQEuXAUR_LLqEaPRz6oI5zcbDqlZ1EcRWDN7WdscAIRO04c39Tvd0w9rwx390fg3YWmqB_KiE4v5BATUOQBDybo-2JEpYOV_HWkj3R-1ctsekvL5IctRSO4o6zjc0B60ssgSHbnLReGaYg3d3tjVhN1TqNVteNr34yzThbKDPsXt2g5ZI4kfn2FqdkJvsfBDbL5eeREfCgpQ4dkWgPBW7MqjHZXDyZTvJXrMkAaskr4sUpfYaDPtwB6y96zH89u_jISABKgl1cy1lYXN0LTIwuww.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Fox Kids 
-https://use23.playlist.ttvnw.net/v1/playlist/CrUEwm0TP0qMU5B48pwtsT1KsCWW1_EA-bo3-KJ96WSo8CZ2mu9lMpR_8w8IqsLzeKdOzVR2MeLxpcjoc9D3P3ouVfuQd54gbDXlYeAU6yCcQEQcZFX1KzywV9TDodvYTfNjFM3rO84L-cWYq7jjOKOz5ajy8pa2iLRmCz9N2F91_xm4e9HJ9xjbUPrDFcoR-ctX2B1BNbcuJVfExwUohQEYDKINhq-rYYuzZihdeW-DUGjTLJRpOMD_cwnMnoiS0c2DhBNTvD75I7LXF4Kt5bvIDA4FzGBSlds6uJSjY-Qqyla37GKKzomqQIArwKya2JnVZCs8sftrViYCljEh0P0p88vFx-UU_tC0UbhtF7r8z3vBpxJaL4zPTTlx9Hi_nywJ7ybx5qTgk-EsHi9VFCePJNNKuC_-piRGE0yUpa_I4JFu0-7uEsIBte8MWhLjFvBQfgXFF9AY5njzrQ1q4TJHFbNxxByArZHnhXD0K_mquv8TV31KUs12iUegwcOLEcVV4KiA0Fr_dG8CCBynQiiv_VcWDkPIl3iTrsU8fT39W6c6oHa8cB8u93F6AnPQ-f9kl_Qst9qihlnDzuBaGGB-xKmFjy4EdVSlVxHzsa0Vqm_XgFduBx79fDwZurOfOcduSBPDVH2q474V6M7KFQsQfagml-fj3yKZVGeLgYuHtNZLYsLLJ26kRAWKPHYttjq8f2dyD-iqAVRyRw6vU5iA1VcLBBF7Q_dGcZZ8HM9SHd5LIMyghBoMEtHAvaD739IFuaH6IAEqCXVzLWVhc3QtMjC7DA.m3u8 
+https://use15.playlist.ttvnw.net/v1/playlist/CrUEYwy-qEM1Ib68aP5itt1W0aUioQm5CwbKVSgS5h_jdBkaLHJx1q3fNgckcShBg1QALCFKGHWA6BzzdQtNWw7PUdPJpZK_BuLLL7aWRKvxaxGznx_ligbsRkt96jGTe_hRW3aCMB6cLWdxF-xF8Sa-NX3cQsrxt_bAEtgx8UVuZR2hLN3i6IZw9J9m3kQkMEcmzgOMaTrkcwEdSkWpzhrVCgbHXHSZs4QX-MYdEfVCVdU0G8p2P66HWoCxGXgVz89WOya9SotBvNKqbLMdXhebazrhk7mi15cBS6y3Yc_rGiIprIom_H5pxMNF7bc5Kj_VomfGMCz5tkE0tDKdTOeVpUa0hFPNOJivt1M-Nqj9CxrwKtIMj6RW29iTeREdG5pLNgkFr3ll_zyPZ_nYkgDgdMv9n8ChQePk_ZkPHfH72yQ5HZbIdEPoXIUKBZtmqSQaIiucczZI6hSywgY7CX1_VTNgugKRqQaHedReQDfPa1Pr16X5rC1fnr-GjB7apiQJnqymgdTElRKK2wIESKvCmBwmlxtI1nBjbW0RaPR3yREpWutwJlXzOSwPIdzpR4ZADDhI2OOLuzbW2aq4wDuOZczQ6bnY95Xdjn-GLlJNNewMaNRMAlJVtJUJdD1NdYR9Whp5-CwWLXeX-F-QE-rFXF59UZvQmF4u7-3DxfaoycSW0iy5gEunG3suprYINGUCcKhvy6b10YGNweYW0_K34enchrkkWEZSpS_e9rnBnQzQCdVi8RoMJNvk-RrAf6fq9mbCIAEqCXVzLWVhc3QtMjC7DA.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
@@ -9002,7 +8755,7 @@ https://use23.playlist.ttvnw.net/v1/playlist/CrUEwm0TP0qMU5B48pwtsT1KsCWW1_EA-bo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Series y Peliculas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal C HD 
-https://use15.playlist.ttvnw.net/v1/playlist/CscEm1BB4SsSk7Hvj5ajh8lSTebzA1QbkYpMa_onO1YU8YqDdvuJvaddkzGqTAKrD-xGMsTTc0vA22niiJHs3JTnspb2HiaqW_3C18c1NwiJ3Iv0XGY54_fMPLajGBvQ7S_SLjw0oln6-nYHzILVCS-JVM8RytOdJzmTFyZNVpfagjZyMvfGOk_mQqEN-brw9_mcBtXi3ON9Is5mHFIm2W82H5t6VQCLMF8jsS0cE1Gh-6Kjy2r9VT7leNI-tBTLR7VLZjkdIZoWWETJ0411IlZVDN2t6LYqfE9L6egwWx2YK37qdcA3SHXYtcfAjHCZkbYLpJMhCGH-LDldSh6Oslr1UL94Xf8Te80VoYOmunP6PDTvS2qDvVRu_L_kBME3UXmFYji0V_GW-LoqbXqGNqdAVCoN8eS3r_Hon2P5n7NPH9mhD_udC7Ui-ZZjVJqZ4wd2x7vTFuyQiCRoNFUL9iYDNPhboFbBJ2zGeBw7mtbDnSzlfSDXtI31nmtM72PCejZgxaHYcSDn4NBf1_7OHeNzdDztEUFRqFMuwuisMulkGVyGWK3LMyXlKpv3A3IPqcvMJjd6QKuuR9ywcaOrVpIsBkSwgQAOlXglV4cbEEfs0z8bXyCBShDiuDqOVFtcbWKMgZHHNwLjOaJgdn3DlD2aZWyrDTKq8pLa6cqWo7mE-NZ_nHbPr3MceVsQeA-FKv8vEY7y-nuvTjGwhHia6f515Ry0fbmbR8LYTbL3ZdXbQxcuqIWQrSbVf291yHzdHYpqFA5pIU4QohoM2uCC7d7KbMDeADPDIAEqCXVzLWVhc3QtMjC7DA.m3u8 
+https://use16.playlist.ttvnw.net/v1/playlist/CsgE_YX2FwcpLOdmxhHJRo0QWU-WU1K1m0N-Zl8uKrQkrhvQE7MjmTTzt3PKkeJdsnLrZCEdpF8Kc0AUF8frvl41Gk6FO8fZAcNQ18zJpB2OWZBDjliaTpZ4ofEiHkJXRvvo5VajUm8DYKMAuL8ANPmbx1TvKhH3wgPtB2MNqY83DybuRZOZfkjc36wORPpeaEC4XUSTOz7P22A1ECS4vLIOn8X-Jhhp2OXMUMOKNkgJOeRvGOlCO9CSu5Pj8_CF0s5_zxOlxI1lpLPkB7j_t6ShkBkpQ_YwlULDsHROPPKfPNxcQv7PVnNC91NurlTdBRjISz6N5XsAEk5AYrFXhHPnWH35Ro0oQCMsi8VW7aesoRONiYXDpHR6WR8gUkHM7Mrp8pUCP0Ul066LYwkmnPtMfNG3wreZl7bUcA3UQ6KrhWrRxoGS9MRQcXop0yad3IcJM7At5RLQuUrHi8LaN_mrRKhyi_O-1ccOWe2C_O4VFzU8wm5BrcoIdLKEHpiyg_5861XwcnaaP9wixeDcbbza8b8JhL9QlJNnMioyYVkpKYS_USGG165T9Z3rJuVApmrtVUPAtKp6u24tRSnkeUxM4o9eqTRtXAiKS8cT50td-mm0nmZvMOSsnJUCHW1QVOkzsFl3kbplYgUUPH-GmFuGcX9HUJfe_sNQNcOi53ToNTCgU2o1Kzg2DrLMLWAwIcV66oR3_QpuFFCIKGW-zB6J54OVm-mV3d0gjofets1yqrnRsyv3OHeNWRz3n6EFdhJOppI3mAIPNhkaDDEeHhmd2EkQlpJ5_SABKgl1cy1lYXN0LTIwuww.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Locomotion TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",AlecchiMan 
@@ -9030,7 +8783,7 @@ https://use15.playlist.ttvnw.net/v1/playlist/CscEm1BB4SsSk7Hvj5ajh8lSTebzA1QbkYp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://use14.playlist.ttvnw.net/v1/playlist/CrkEK8DQGYPQ4_p02EJ6bSROLSxqTnskR3lAcKGriRXG-iGTl3runAcznttc8lnlkzGVG0KCOPuC7fcrlQp-xEAKQGXU-qMtdMcw2aOeDiuErEXHaYDgSQardCIN6Ple29XKsfog2ggE5DUMqjos5GHGIA6dVEYVB_F7diokB9v_Kf8sAc7O9evecAHTydL3M1LLckJp5K8MhqWKt7cydwg0lXOGtx6rVHDN2M5YJPQrfh_uh_SRgFKRnGvpffnMdkKHQcF-PPtQoH684x60OuUIbSFcGa9jhkz3Pyy1uKBsQoUnJxieW2Z1iDRARHNVK9wmcvrkojQq3fFVZkdK5xTbukFjx4INwbPI_GGVeSElD87wr04uKV6W9BClyImv_tWOA3oZSC9q2PYTUlBLez94ZhrHWt8AsiCvAma0IOxrzhwuvqOR_IQBqpcQdBmocETk_2Tvs8RLBoNNontk1cCU4WrwRdV85cDN0WDq1DEt4xQJgQ35gKzTgPIFddgLk2SVV3tf6bN529sDuCUNUxD0BV7QgSVfPM_TFy_Jiihnkjn86ngKeya1i1garnB3q07lD1_-8bmjwv3jAl4MjEeDkk3SmePY9nBV_MefPimInQ3BDbraGOfuLkz5AlcbWJHiHQYJa-UDzqXQRm7NGGsSHOzRffF5p850GMP5I3LN4Kqbc6vhBdYRZU-E9HIn7be2_JTUI65h2DnpqF04f_MT9cODeQixV9sv152oWSzQwP_CHSB-QbN2NfQaDAvPk3bfg-29l63lViABKgl1cy1lYXN0LTIwuww.m3u8 
+https://use11.playlist.ttvnw.net/v1/playlist/CrkECoyUnahoCx2_2E-j2QACMymuMfe_kXkkr8hrtYueDc6A1cXLM_Dh5GKqbK-1X1_ERgcZKrajWDyYhAKoiuMD-fEaIGNYB607pLcjdZPELscZDWmx9R1h_HLkd54oqpGSziUDDwD9BXHVDmnHbNWmLXccWJTWihDBTT03MgWJ6QR3v7CWEaZqcqvMD8hwm2IJ9B6bQVvM354shFu8y4656oqLRqupA19jlpwes0l6EJFDhgLdl12eo2Zl3nNwdC-QRTiajek7yVOKX1H2hz7u13LtfxVjbRTXAqIvjvzD4ElqF1NTxT9084Cf3z3hIuJZopAThlaM_K6Ezq9G5QOPjO3aJ7rLntA0ZFqLXtmkusT9DiaH26C4WA0rCmpMyB15qFR3LH5yEMBlkcU69Oys_IrBG_4_LILaelLx__6alnRFGZ_CbdqNdYjazJVncx0qyNsIyW9PqyTHFmiIp1M9tHnWYXewTq3lPkmWwZ_CIO0S3yiFY95QmkBmgQIEFFQALHxh1fgJ3elXPLmQ97r9XB60W6lWUZKIugGQMN5t98m87PLNKkWE3cu-BVvgTVC9eCi3OCinMumUF0kh_Do6KtRLtJaT2XaTCBg2dnsSkx9mXqJbghz77WIBnuuqN7QzKu14P9G5CCfxmE-YqFxaV7KIdnQ-lyMzlng6TxAV1ufCprL7VM8Qz_JAY-CYxEqM2_ACGzbOEa514xRe5GkEoMMuA3O4dsXwVv2PdX41ZQe_jqPYZ9fNCMUaDPWqeX6rJyBb0DDl7SABKgl1cy1lYXN0LTIwuww.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
