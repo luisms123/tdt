@@ -8726,6 +8726,307 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 
 ﻿
 
+
+
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim HD | ND
+http://138.118.105.190:8000/play/a0g1
+
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim HD op2 | ND
+http://181.78.105.146:6060/play/a01n
+
+#EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim LA
+http://181.119.86.1:8000/play/a019
+
+#EXTINF:-1 tvg-name="Adult Swim Mexico" tvg-id="adultswimmx" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim Mexico
+http://201.163.47.54:8007/play/a006
+
+#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV
+http://45.181.122.46:8090/play/a00t
+
+#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op2
+http://45.181.123.233:8000/play/a0nm
+
+#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op3
+http://170.233.192.234:8112/play/007
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast HD
+http://45.181.123.233:8000/play/a17g
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op2 HD
+http://201.182.250.126:9999/play/a0ff
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op3 HD
+http://181.119.86.1:8000/play/a09y
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD
+http://185.189.225.150:85/boing/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD
+https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing Spain HD (opcion 2)
+https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",Bit Me | Mexico
+http://190.60.33.245:4002/play/a0kd
+
+#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",Bit Me op2 | Mexico
+http://190.60.33.245:4002/play/a0kd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan Latinoamerica HD (geobloqueo)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id="Clan Latinoamerica" tvg-name="Clan Latinoamerica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="TV PREMIUM",Clan Latinoamerica | Mexico
+http://190.211.250.102:8000/play/a01j
+
+#EXTINF:-1 tvg-id="Cartoon Network Sur" tvg-name="Cartoon Network Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network | USA
+http://45.181.123.194:8000/play/a0k9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Senpai TV 
+http://45.184.87.142:8000/play/a021
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Goku Tv
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Dragon Ball super
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Digimon Adventure
+https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpson
+https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons
+https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Canal del Caballo HD
+http://170.233.192.234:8112/play/230
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Teletrak
+http://170.233.192.234:8112/play/236
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="TV PREMIUM",Telefe | Argentina
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/43312
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="TV PREMIUM",Telefe | Argentina
+http://170.83.242.9:5151/play/a0eg
+
+#EXTINF:-1 tvg-id="Squirrel HD" tvg-name="Squirrel HD" tvg-logo="https://i.ibb.co/svmK1mk/logo-Squirrell.png" group-title="INFANTILES",Squirrel HD | Spain
+http://200.115.120.1:8000/play/ca034
+
+#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png",De Pelicula Clasico | Mexico
+http://45.181.123.233:8000/play/a0xw
+#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png",De Pelicula Clasico op2 | Mexico
+http://45.184.87.142:8000/play/a021
+
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://img.hidra.app/entretencion/distritocomedia.png" group-title="TV PREMIUM",Distrito Comedia HD
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302634
+
+#EXTINF:-1 group-title="TV PREMIUM",Volver
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/43346
+
+#EXTINF:-1 group-title="TV PREMIUM",Adult Swim
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302736
+
+#EXTINF:-1 group-title="TV PREMIUM",Golden Plus
+http://200.59.188.3:8000/play/a02d
+#EXTINF:-1 group-title="TV PREMIUM",Golden Premier
+http://138.118.105.190:8000/play/a060/index.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM",AyA
+http://190.61.42.218:9000/play/a00u
+
+#EXTINF:-1 group-title="TV PREMIUM",TIGO SPORTS GUATEMALA
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM",Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Imagen
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Canal 6 CDMX
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Siete
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ONCE
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Canal 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Congreso
+http://181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MVSTV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HOLA
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",VideRola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TELER
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MXNuestroCine
+http://181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",IngenioTV
+http://181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Milenio
+http://181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MNMX
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Judicial
+http://181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Film&Arts
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Telemundo USA
+http://181.78.105.146:2000/play/a093/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",SKY LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLNOVELAS
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TN23
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Azteca Uno
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+
+
+#EXTINF:-1 group-title="TV PREMIUM",C5N ARG
+http://181.78.27.128:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CANAL DE LAS ESTRELLAS
+http://181.78.27.128:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CARTOON NETWORT HD
+http://181.78.27.128:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",CLARO SPORT
+http://181.78.27.128:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",COMEDY CENTRAL
+http://181.78.27.128:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cartoonito HD
+http://181.78.27.128:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",DISNEY JUNIOR
+http://181.78.27.128:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EL GOURMET
+http://181.78.27.128:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EL NUEVE ARG HD 
+http://181.78.27.128:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",EL TRECE ARG HD
+http://181.78.27.128:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",El Trece Arg
+http://181.78.27.128:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORT 2 HD
+http://181.78.27.128:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORT 3 HD
+http://181.78.27.128:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORT HD
+http://181.78.27.128:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NICK JUNIOR
+http://181.78.27.128:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",NICKELODEON
+http://181.78.27.128:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",RCN NOVELAS
+http://181.78.27.128:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TLNOVELAS
+http://181.78.27.128:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TNT HD
+http://181.78.27.128:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TNT NOVELAS HD
+http://181.78.27.128:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TNT SERIES 
+http://181.78.27.128:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TV PUBLICA CH
+http://181.78.27.128:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",TeleSUR
+http://181.78.27.128:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Telefe Arg
+http://181.78.27.128:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Telefuturo IPTV
+http://181.78.27.128:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",WARNER HD
+http://181.78.27.128:8000/play/a04s/index.m3u8
+
+
+﻿
+
 #EXTINF:-1 group-title="Peliculas",Scooby Doo Abra Cadabra
 https://ia800509.us.archive.org/5/items/scooby-doo-abracadabra-doo-2010/Scooby-Doo%20Abracadabra-doo%20%282010%29.ia.mp4
 
