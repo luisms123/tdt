@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="MEXICO",Canal LMS 200525 | Mexico
-https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="MEXICO",ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 https://stream.zeno.fm/klrhhk7qmswuv
@@ -463,7 +463,7 @@ https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTV Baradero Tv" tvg-name="BTV Baradero Tv" tvg-logo="https://i.imgur.com/Yv77IzH.png" group-title="CANALES INDEPENDIENTES",BTV Baradero Tv | Argentina
-https://ssh101.bozztv.com/ssh101/btvdigital/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/btvdigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTV Baradero Tv" tvg-name="BTV Baradero Tv" tvg-logo="https://i.imgur.com/Yv77IzH.png" group-title="CANALES INDEPENDIENTES",BTV Baradero Tv op2 | Argentina
 https://ssh101.com/live/btvdigital?fbclid=IwZXh0bgNhZW0CMTEAAR2r8jw4QNlWI2uARD4ctf5qBhGOd4hyl8M6ikTvbUKJJJ2FeuJVqWMnrTs_aem_MXDk6kBWpq1pUnrXQ89aTw&sfnsn=scwspwa
@@ -481,7 +481,7 @@ https://panel.dattalive.com:443/8186/8186/playlist.m3u8
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS | Mexico
-https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op1 | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
@@ -490,7 +490,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado | Mexico
-https://ssh101.bozztv.com/ssh101/tvretrovariado/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tvretrovariado/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado op2 | Mexico
 https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
@@ -508,16 +508,16 @@ https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 https://v4.tustreaming.cl/canalrex/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal ZeroFIlms" tvg-name="Canal ZeroFIlms" tvg-logo="https://imgur.com/ENa7t5W.png" group-title="CANALES INDEPENDIENTES",Canal ZeroFIlms | Colombia
-https://ssh101.bozztv.com/ssh101/canalzerofilms1/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/canalzerofilms1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstacionKusTv" tvg-name="EstacionKusTv" tvg-logo="https://imgur.com/7Nt6bnK.png" group-title="CANALES INDEPENDIENTES",EstacionKusTv | Mexico
-https://ssh101.bozztv.com/ssh101/estacionkustv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/estacionkustv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://i.imgur.com/nZz0o9I.png" group-title="CANALES INDEPENDIENTES",Casa Grande TV | Argentina
 https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CH TV" tvg-name="CH TV" tvg-logo="https://imgur.com/zzmGHyw.png" group-title="CANALES INDEPENDIENTES",CH TV | Chile
-https://ssh101.bozztv.com/ssh101/testvideo100/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Magica Tv | Argentina
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
@@ -544,7 +544,7 @@ https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/7c216bbd236f34cd57f833572018f2b8/index.m3u8
 
 #EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://imgur.com/xksFQ5T.png" group-title="CANALES INDEPENDIENTES",Diti TV | Argentina
-https://ssh101.bozztv.com/ssh101/dititv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
@@ -580,13 +580,13 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-Premium/Premium/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv op2 | Argentina
-https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="Maxima TV" tvg-name="Maxima TV" tvg-logo="https://i.imgur.com/selfroD.png" group-title="CANALES INDEPENDIENTES",Maxima TV | Argentina
-https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/maxtvstreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Classic | Colombia
 https://stmv6.voxtvhd.com.br/memoriasclassic/memoriasclassic/playlist.m3u8
@@ -607,10 +607,10 @@ https://stmv6.voxtvhd.com.br/memoriassalsa/memoriassalsa/playlist.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Miramax Tv" tvg-name="Miramax Tv" tvg-logo="https://i.imgur.com/vIa08pj.jpg" group-title="CANALES INDEPENDIENTES",Miramax Tv | ND
-https://ssh101.bozztv.com/ssh101/miramaxtv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/miramaxtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png" group-title="CANALES INDEPENDIENTES",Moni TV | Argentina
-https://ssh101.bozztv.com/ssh101/monitvhd/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="CANALES INDEPENDIENTES",Moni TV op2 | Argentina
 https://tv.arkeo.cl:19360/8134/8134.m3u8
@@ -637,7 +637,7 @@ https://panel.host-live.com:19360/20000/20000.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208727/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Plenitud TV HD" tvg-name="Plenitud TV HD" tvg-logo="https://i.imgur.com/QGwcjNT.jpg" group-title="CANALES INDEPENDIENTES",Plenitud TV HD | Chile
-https://ssh101.bozztv.com/ssh101/testvideo40/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Plenitud Juvenil" tvg-name="Plenitud Juvenil" tvg-logo="https://imgur.com/1tcjMAt.jpg" group-title="CANALES INDEPENDIENTES",Plenitud Juvenil | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
@@ -658,7 +658,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
 
 #EXTINF:-1 tvg-id="Retro Canal 2" tvg-name="Retro Canal 2" tvg-logo="https://imgur.com/sjtYSDO.png" group-title="CANALES INDEPENDIENTES",Retro Canal 2 | ND
-https://ssh101.bozztv.com/ssh101/variado/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/variado/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
@@ -676,22 +676,22 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://micanal.ovh/livestreams/165.J7EMP5DQSY6H.m3u8
 
 #EXTINF:-1 tvg-id="Sueños Grup" tvg-name="Sueños Grup" tvg-logo="https://i.imgur.com/VNI6CLc.png" group-title="CANALES INDEPENDIENTES",Sueños Grup | Argentina
-https://ssh101.bozztv.com/ssh101/suenosgrup/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/suenosgrup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tele Estrella" tvg-name="Tele Estrella" tvg-logo="https://i.imgur.com/KInLL0H.png" group-title="CANALES INDEPENDIENTES",Tele Estrella | Argentina
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | Mexico
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleMix" tvg-name="TeleMix" tvg-logo="https://1.bp.blogspot.com/-KCHZEZEctCk/YAaMGRW33wI/AAAAAAAIR14/yXNLqB4BuPgKeu-G2o4faPuUrcwfm1fjgCK4BGAYYCw/s910/la%2Bmix%2B2.jpg" group-title="CANALES INDEPENDIENTES",TeleMix | Argentina
 https://panel.host-live.com:19360/lamixfm/lamixfm.m3u8
 
 #EXTINF:-1 tvg-id="TeleMix" tvg-name="TeleMix" tvg-logo="https://1.bp.blogspot.com/-KCHZEZEctCk/YAaMGRW33wI/AAAAAAAIR14/yXNLqB4BuPgKeu-G2o4faPuUrcwfm1fjgCK4BGAYYCw/s910/la%2Bmix%2B2.jpg" group-title="CANALES INDEPENDIENTES",TeleMix op2 | Argentina
-https://ssh101.bozztv.com/ssh101/telemixlive/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/telemixlive/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele N HD" tvg-id="Tele N HD" tvg-logo="https://imgur.com/CghB5G1.png" group-title="CANALES INDEPENDIENTES",Tele N HD | Argentina
-https://ssh101.bozztv.com/ssh101/telentv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/telentv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Teleanimemania" tvg-id="Teleanimemania" tvg-logo="https://i.ibb.co/MxQ8jCZx/Logo-Teleanimemania-1.png" group-title="CANALES INDEPENDIENTES",Teleanimemania | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
@@ -703,13 +703,13 @@ https://cdn.mycloudstream.io/hls/live/broadcast/mzhbcpi0/index.m3u8?DVR
 https://mitv.zplay.cl/ZRetro/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares" tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="CANALES INDEPENDIENTES",TV Retro Palmares | Costa Rica
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVS Retro" tvg-id="TVS Retro" tvg-logo="https://i.imgur.com/JV6Po2k.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="CANALES INDEPENDIENTES",VariedTV | Argentina
-https://ssh101.bozztv.com/ssh101/variedtvonline/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Voice Over Radio TV" tvg-name="Voice Over Radio TV" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="CANALES INDEPENDIENTES",Voice Over Radio TV | Costa Rica
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
@@ -718,10 +718,10 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://micanal.ovh/livestreams/117.JADPAFEXC5UK.m3u8
 
 #EXTINF:-1 tvg-id="Wow Channel" tvg-name="Wow Channel" tvg-logo="https://i.imgur.com/RaXzDvv.png" group-title="CANALES INDEPENDIENTES",Wow Channel | Colombia
-https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wow Movies" tvg-name="Wow Movies" tvg-logo="https://i.imgur.com/RaXzDvv.png" group-title="CANALES INDEPENDIENTES",Wow Movies | Colombia
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wow Movies" tvg-name="Wow Movies" tvg-logo="https://i.imgur.com/RaXzDvv.png" group-title="CANALES INDEPENDIENTES",Wow Movies op2 | Colombia
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
@@ -866,13 +866,13 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op2 | Argentina
 https://comunidadtv.site:3119/live/aniplustvlive.m3u8
 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op3 | Argentina
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai Tv | ND
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
@@ -1005,13 +1005,13 @@ https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
 http://fortv.cc:8080/54514663/54514663/164869
 
 #EXTINF:-1 tvg-id="Estrella Producciones" tvg-name="Estrella Producciones" tvg-logo="https://i.imgur.com/1Uc4pJw.png" group-title="FAMILIARES",Estrella Producciones | Paraguay
-https://ssh101.bozztv.com/ssh101/estrellatv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/estrellatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png" group-title="FAMILIARES",EvaStream TV | Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD | Argentina
-https://ssh101.bozztv.com/ssh101/gentv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
@@ -1056,7 +1056,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_
 http://newultra.xyz:8080/933227671tv/mx5b73/273
 
 #EXTINF:-1 tvg-id="Presencia TV" tvg-name="Presencia TV" tvg-logo="https://i.imgur.com/CBaV0S8.png" group-title="FAMILIARES",Presencia TV | Peru
-https://ssh101.bozztv.com/ssh101/mitvenvivo/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Quantica TV" tvg-name="Quantica TV" tvg-logo="https://i.imgur.com/OWAL8tz.png" group-title="FAMILIARES",Quantica TV | Argentina
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
@@ -1119,22 +1119,22 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 https://tvcosta.webredirect.org:9443/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Tv En Linea" tvg-name="Tv En Linea" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="FAMILIARES",Tv En Linea | Peru
-https://ssh101.bozztv.com/ssh101/ucchullo/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/ucchullo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unetev HD" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="FAMILIARES",Unetev HD | Argentina
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZoyTV" tvg-name="ZoyTV" tvg-logo="http://tv.zoymilton.com/images/logo-zoytv.png" group-title="FAMILIARES",ZoyTV | Bolivia
-https://ssh101.bozztv.com/ssh101/zoytv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/zoytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZoyTV Kids" tvg-name="ZoyTV Kids" tvg-logo="http://tv.zoymilton.com/images/logo-zoytv.png" group-title="FAMILIARES",ZoyTV Kids | Bolivia
-https://ssh101.bozztv.com/ssh101/zoytvoxd1/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/zoytvoxd1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZoyTV Sports" tvg-name="ZoyTV Sports" tvg-logo="http://tv.zoymilton.com/images/logo-zoytv.png" group-title="FAMILIARES",ZoyTV Sports | Bolivia
-https://ssh101.bozztv.com/ssh101/zoytvsports/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZoyTV Turcas" tvg-name="ZoyTV Turcas" tvg-logo="http://tv.zoymilton.com/images/logo-zoytv.png" group-title="FAMILIARES",ZoyTV Turcas | Bolivia
-https://ssh101.bozztv.com/ssh101/zoytvturcas/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
 
 
 
@@ -1142,13 +1142,13 @@ https://ssh101.bozztv.com/ssh101/zoytvturcas/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AYW Tv" tvg-name="AYW Tv" tvg-logo="https://imgur.com/EJSHaYU.png" group-title="CINE",AYW Tv | Costa Rica
-https://ssh101.bozztv.com/ssh101/88channel/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/88channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bayres TV"  tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="CINE",Bayres TV | Argentina
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-id="Big Cine" tvg-name="Big Cine" tvg-logo="https://imgur.com/jEcFLev.png" group-title="CINE",Big Cine | Colombia
-https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/canalonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
@@ -1358,7 +1358,7 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3sG2SHg.png" group-title="MUSICA",Conecta TV | Mexico
-https://ssh101.bozztv.com/ssh101/conectatvmx/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/conectatvmx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Corazon Llanero TV" tvg-name="Corazon Llanero TV" tvg-logo="https://corazonllanero.com/main/static/img/128.png" group-title="MUSICA",Corazon Llanero TV | Venezuela
 https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8
@@ -1515,7 +1515,7 @@ https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/6
 https://sistemastr.tropicalmoonmedia.com:443/vivalivepublic/BjseGwS28B/23.m3u8
 
 #EXTINF:-1 tvg-logo="https://tropicaltv.com.co/images/about-img11.png" group-title="MUSICA",Tropical Tv | Colombia
-https://ssh101.bozztv.com/ssh101/estvco/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/estvco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="MUSICA",Tropi Xtrema Tv | Argentina
 https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
@@ -8798,7 +8798,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons
-https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Canal del Caballo HD
@@ -9044,9 +9044,9 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-https://use21.playlist.ttvnw.net/v1/playlist/Cr0EF_FGnUH755a685ZffSnNGjlVojSzQ99X0x8XKyUnCFlpyxuECrVaxCY49UJ-AyzoETlEgyE8nRKxGGp7ske7_eFMtAnAQCc1kZ4mbrLzUgGx2BPz6jWnu7IB3skjCg8P0LxtohvZVh_8QZVxfjezbpf7dR0ppF0D1UlwIBqIhgjj1VZkqLheX4-u5TXsz35CBEmX09DrGjTA-JxGp7uHRANtIiaq_3OP6sSfjJss8N3bcfsIL1EHdvOeaZyccNnb2TG95mPxWTvSbVUT_4VHA9BaGLlEMDM-U9uiv8gYmFR_dB0dRk4LWV2HApwRS0u46A58LlTW73p7cMsGlIVknuo8q_GekFQJPlZM2EuOo2RN3oJTVBzHGgJ69xD0I4cQvI7rUmcK9Y7mcmEf7YkcA8GF5RKyuz9uzohKv6XneG13mrR1YOfhNjbP3fKSiOyCaKtTcdpbMHfRF-ct3bsNYfhZmRboBn4qG7P1SjESlmtINiTzI6xiBxlpQUhwrUFZN8V7G5jDqSChz6tJcI5EVjX0rrnNlHBKMSTQOmFVvBJLScYoWhvWBTYAvgdzoId94kezxqfzkQqSrDKcuswBFFK3haCaXqmfvNz79VdJq2ovQXnSe3jc7go67_l2jXZsymyPVcnWLlR80zbPmU9fU6LKsljM_pczzWYAoYuvB4OEybF1fcrWbxn88OPOJDDnC3q3B54LNRoypX4TPwgvaDUD10MXZK5YdTb1cbXyO3IPw_G5YxAumBfli1rwGgxtET2jnjsM0enTfYogASoJdXMtZWFzdC0yMLwM.m3u8 
+https://use12.playlist.ttvnw.net/v1/playlist/Cr0EEX2QBAupR9iL-jUlJbxjnbV7VljYHuo45dJwSwwRuoYs_QPmBkLmJ7f0UHXi5vhaoQIFIY28MFn80q4DZOy2v2lRnSMuW-1OJ3TuUv0a1EGyzUW9IcyayiEj0rNezz71U2ftQgCIg4ku6u5Yn9zw78qhefOVM6tjTjFgN03z1qXMREVqlsurA8rucy46zL0vL6TIg8af6TIVSnRdmNYp5o4alKaweAxjQLKdO5nuEQF_m70vhtXYV38N6_kuWDa_wGBj9SlfmwqLSXA-Su9xFWCi4aTBHKAepiP-hLPkxFB3ZKCUXdz9FNToaUzoQL3DBnuvPj3fnXXDtKcueynUzIKs1jBsyyOETcdhQL24xy04xL4P554Mx5rJS88VCCh2jfPDsVOD34roLdMZNU2yYqU6BwKyAmk4XxbP4p0UdavyQ1m-tzwvsw-J_rfXLiSHeEd6Eiz8InmTvVEmUfR0aKzqMo12kCij3Yic4lPCuwPgj8T4x2pWeypDrf-0RQDBPVwKsnHl0bXCmTNB5mE14fDRoFDtSjBGbD5CuqWomp8xR7Xax7TN9Y9s_SQ-iL9ZunwBfHyO4zZJmw5iE5WG68kpI0OpIEn79rbaJzOeObTAKMdBmYMRxvbO-7MaBDZiYD90xh8niaDvqWyvaarYulHqINjJKVHBsNSOVTyPr2sJydzNnuMui0trZ-PEEYAPGGWSDSXW352F4Kl5sj4aFr--_FRhGLyz80qcfWZ3-bO5oB7ma8W6fvYmfaE5GgwEj9-dFsJP8MKKpwAgASoJdXMtZWFzdC0yML0M.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Fox Kids 
-https://usw21.playlist.ttvnw.net/v1/playlist/Cr0Ey3gOJ650_arVT_LGy0bwjSEpuWc5tP4o4K-_piUVv9uQxlZ8dzSCLJ94IKvF7sLr6xSl1IInsOoEbVJVJ-arWxR8D2jhihRIiaNigFrZnxsCQ2bAJJHP0vQyMmU_utRB83tGXX8iU31iarFamhadXeQwDx48mYCVk_zu_yxlgQsPjhS1VFfTKH4QBqG3sqt9ZCIzG1l1XLoWjPEApwwbJ9EzgieWbM-cs6rIbwypEZRKcv6aD9YGuGyGlYgXfLiOnsYE3COx44iE6pHP0de1n9Y0rc4w3v2LZz6kpSleFR8Ri0ts40UW5uw-wwtqKJAphCXMQi7bwkgkZcGl-RLv4yyoloYwaV13UmwqM-WS1m6wWnOJAB8Sx1q7pJh6yu-c1CPwzcmJqlqbyzXBBAJNqsp8H_H_8ZVKBSqHWBPuzqIrW8-01leD-aJJEkyO6p1no2KDsrJ-rlndUzl0G0yVhKM4LItwpX_Pz-Rwmhw7j_DO6qn0aXu1FJkWq8VXsnD9u0RPIkW1dPWe1LFVohwGyGoQvUV2qaXBnOEKvP5TmUv7VAHkYeFx_RC_R7fk6KMnS7K7UuY6tewOPO5_60stRfELnC_9wSzjei1KrlG4_IBh8ZkrOf-oWtqttC1Ib3cKDqEOoDEi5qE2JbuPm4co2kBUHYRlu4PrXPJyTsv-2hdjRnSC4Sjl54Xuoys2jN2B7k1tLctA5ihR_ygea9ESKSU3Ts93hb2Wuj2irUbKcFMY9hOmw4QItIHvkVf-GgzfGoS5LPzZnBLTyTQgASoJdXMtZWFzdC0yMLwM.m3u8 
+https://use11.playlist.ttvnw.net/v1/playlist/CrsEpe39i2aFu9D3lRXfMqsLKVAYXUBGei1dSgMLXnFNxrzohQhr7fw1STbTKlROcYuqJfBmdmWERr2Wicr5-Y3lB7D83bPpoC9jh1dAJ0F0j-uXHgdlSZPu4D8PW5aD20nSPH5LvvFVa4bh_itcq8NlLaZIOKB3njAriYeH6lC-4ILAHC2yVyUKyWYV1l8nJHJcz4lykO4mKHu3PVe2dfiQsMOFr8CsUUB8wRpF6xbcQZpt11HsPvuhFVszWH4wrl55IbZz8EV4ao-X5UXJXDv98yEOg-Q30LOFRDGRqBijvTcIumKKhLxHNv1nhRW57wNmKDL9rJNCDP4RmW0qbKnmc3TBIOKfnHN2STW2O1Z2mLjAtqZJzE49trCSQsGMbOBFrZuharntveAPWMRithMCRhVGI8mmXw8Mw7OW88yfDigj2W--M2VhT62MPl4w0WA532LR6xx0K1tnKICb0UWdg8feLgnkJtR2Hssud-9ID8-O7uxSVuwWVtgJ63pHqjLraPQhxgOv9kKcMJ4rhwNuS0oHdgaIBhDJdS5q8pJyn-0WMM1jJlUm6bywDlOQA3wqEu5Nut6bEd_Y_cmcgGJlCn0ZFOMVPrswyEnPHZae54_T6u1UGph3KAP5SMl2-3cy_YbHkPgVqSxktzh8JKqf9IeCO16o0KkTuUjCa9hDO3naEEjzN3huhNXHWAqrk0AEPASl6v7d8dwCs4FcIZ37msGxNKJbyZRmGizUDpEtFYbm7PTkAeaLR2T21xoMNiTz6_iOo_VSXcywIAEqCXVzLWVhc3QtMjC9DA.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
@@ -9056,7 +9056,6 @@ https://usw21.playlist.ttvnw.net/v1/playlist/Cr0Ey3gOJ650_arVT_LGy0bwjSEpuWc5tP4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Series y Peliculas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal C HD 
-https://use23.playlist.ttvnw.net/v1/playlist/CscE8togj67hwGjSfDnaU_w5bolI5axuaGR-dY1IRuJBgxumGUWKfI_e6rmCpq49EjfSRRqMHdY8Zs_3WH1ItibpKOwzbYly5i9FVg6dIXu0g_WVAuNkKm79w_E7Ep0w_fixQ1amBmK_d00hzXdNsukHfiTW7N7A_aiHoRmpgDxg5XqQdTqeU4eUawpgvdL5jXX2YuwYhK7yzVhucMaiBfZcg-rxMotxfom5XUGcojkiNTSVaqTe2CQn358IYapq1ubHK3u1Ks9QBB5UCk3fWkZt43IYGuS7xM5Mi4jE5SEaGx-PhIR2NxN7bq7TTfgfurgd6LFfmvxdKAGPVfj1icT6tsc6OvTbo4Wi6JdARhqi4agP3_HgMCy8SSNdsnJWsPaoRUJHkxEpdtdvbCvNZGVkM_-mGIzRF9XSC1GxR9nb1kb-lqZ7PJQF7jTnpGvMe_wHTcm9o-B0w055gBsQTuw1a6pWsmgxXzHZiRrODn3pDVuIaefvKma2Ao3Y48KEBTcHRKvbZZUf3nWifBTiTwav9yB5HDJVg9txNoMaL2kNGdYl0WaU_hCS5wGcpJy7_z9_I0GhUX6Fb4Xux7q9KN6GUsURLHCsa7F4fyuFC03Law8eJ7V9Zym5BUuzOUrtPceV-VCxNoD08JJ-NZNGo1s_WMtTclaZyN1sJkv6d14TIynf5Wa66dy0QmdPSUndWFHXXlNqCLv9kc6OaCBr1RNQosZaxGvwgDp05v2idzS_7HjT52LW0XJC58khavDbH0ZDEYY12Jo6UxoMWXdb4FN4MPichktyIAEqCXVzLWVhc3QtMjC8DA.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Locomotion TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",AlecchiMan 
@@ -9073,7 +9072,7 @@ https://use23.playlist.ttvnw.net/v1/playlist/CscE8togj67hwGjSfDnaU_w5bolI5axuaGR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
-https://use22.playlist.ttvnw.net/v1/playlist/CtsEdLuR2l2bnGcRGw0k6PbCDLh0n4UgBb_pMlS1PkVn1vcF9QHe_9Q0RcHP-U1XQXClLbKUmNwIExg9M2MHWdCMy1Y-SJP6hEeQz2deG2KBGykdpVFoGGHuZfQUglJ3HGxgV9VS1E5vzlFnMkuZFvcxWQDlFjmiwKvUoEPNB9ltaCht3Q8IrKdHtMBLvTIJrmBradAJaKHXOdFO02TYsIIdbPKoy7VIcsVsdq85D37BHXYX3zKIRuWhZlGFb8NU4S-5ZIHGKTQ2Wvtg9kehTUixZ3aQSQg6lEe8JTEtRpxJmMV-doDswOhZi-fgmFtQichpcD5XMQnQCmMJ3vhQK5nYywYcDCSWybwXySQZQgX6iGzb2yiR1CAJPmxIi7qvTOZ5s4M0sOTaQLW8ODXAz454-RGkaZDjmowBYpcfmu0iFuuLG5kPLdwOzeW2jBIiW2yiye0LNGU3R7tsDXIX-vfn2G5k-zJU7nsUTDh1tsgLBCgGZidOLzQU8bH45qImVJJOuuPen5iJcpQySjGaHkZ2KYmNklSthIgWLhKjlhebI1BVkQ1ra0jcXv_8ZcIkhVVcT_Sy_CEy48vadvXdVegZRg29Lk5qLEe7wXVwKzEdB7k04oGZKzXcTz6e2BzUO0ZeR90fHwJeJ1VL9eFmgSewy-I7N10DQEG85jdmNW2Ph8t56JenHQHu9BaF4jwy1LyF07_8E7nhZaJLUfH7vObid5_T4U2keaKz-dbAI05ellzv2jcp8aG5rtViT2HEsDkNYVU1FL1dOV4xntDHhSKImi1-uepxu4ZDW-YxGgz_5D8NoNVwU__WJkUgASoJdXMtZWFzdC0yMLwM.m3u8 
+https://use22.playlist.ttvnw.net/v1/playlist/CtEEGc2qIG4Dz0g0Yy-1vJugsPriqisxWvo6hTIkLRIp7zbsO5iyh2rBHztSxBuMs1cU3SHmCBpiRCDqMrQK3X1fDgVSSimOVyAK66XOqevcp-iYNJMlByMa8bhOEHSlxgtD_8Nqi4DJKoiCLXG7-6EhFlXm8PBpXQokkhNg9c0B4ZSaEoewGsj0LTPJgADulCPr6FYhrcJqYFeYUMuJklp9lSSTAxSWttwNvvAxOBHXDmFfnT0BOSvgANdt5EVsBZibOsiV18i9aUn7CyG_oZVHNqVrIkkMW5osHydOe4JLkH1K-2w_wDNCJbMDNgu-Oj0g6N_DKtRecu741NiH0-NR_4RZ4IbYnvDMz247ozNRGtTwnEbwJWt3Z21UJI1a-UCjwYTUr4O095YiWmLTNbLK0Hu6O7YGKQQnrQ1VAFlv1-PtykP2i5REO4rqcyR-bZ92INHD957TXD6IhgEumRck8XoW9BAwE11UDyq1hoROwozBUD7DLExwQNnfWCfNjGy9o2BOGLMMPdEQNHHrsBV3xmlABaP7m3Fz1Yd2zrTir0MYE4L92UXLfIChshuUEVACaupbo93LWBZyA_xf0qbistXS-hFRUsT_QxQ4Mx0Xc0q-d9rA_38OiZkgpdfEHn7M2Qj-xmLwGnkT3pQl0d8YxwtbA2H3_ccWdNbMW1LncQy4CL6z0fd-FpGHFlVPCvILiODJzkQggBGeWrvp3pVvcsHUI4jCOu7vVkPp0k20Valm9YkjQwXl-KoZLHeMt_mdXZrtzr4wXi9LYVBw8nfTzpwaDDw6J8hS7joEED13pCABKgl1cy1lYXN0LTIwvQw.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
@@ -9085,7 +9084,7 @@ https://use22.playlist.ttvnw.net/v1/playlist/CtsEdLuR2l2bnGcRGw0k6PbCDLh0n4UgBb_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://use15.playlist.ttvnw.net/v1/playlist/CrkEck8FUS1pNOCBplRVFcg5d1dMbyDkoJK0UX-HZe3iDNDQ8aR3u3YE5oFYA9xmB4u5jpRdHp3g0PGBR1-qNGgbFrstbgL-5QkeDaGUqAd2nRq-734x0bl_GZ1BS5nkFclLZg1K76ZyWRVe9nul7Z60PegpQwWJU8C5g2nd1BWQ9k1l0pOAhTczDZp_tSYk_KeTaUEZgQWifUGx59fNbxjjPEIpgYd2VSGDvrkhER1XfNM00l-EnYl-MnWqhGllXnPi8dtticuBoTVlExixJO5iAzlZtfaNViy2I9wgPFc6YifH4UZwiV2nFYeifDg5ECgi-ucdSMQyfa2K_6SymFgs-VtTc7LNQWW7WoNVygeZJgx_CmGuDBxfuEYhaYXPgiJ2xAMiUdZ653Qxes1cqjyJATa9A9iJpLbqem3lGG7NuEk5ze-jm0Z1u8Ahu7_9BqEVG54xcs00TAatt1hRL8WMLfEFqcjv9KmgohR91HptFZNraakdOvX61S4f292HvH5UYJmlkTskBRPV-8GDNTtLO1Rkas3kVhr0TJNKoZ55S72tf5qgRDOB3QDEj-1CU6wi4prgd_QiYpb93R0x5rQLtLjsHfDZDj7ztj9DT3ZxyjJ-cwBuN-GYovf1z_0jZe7xcP1aCyeR1YDM6fZK25tvXdu36fYPTtC6uwWBEuky10jp4l0HpVCPetKIvpOjVvh8iVtjPYGXC5T3zWI7t8dBs2ZCaTOrnyjRRtf_1iJLcr9YzfQs0WiRGWwaDOjgho1hYHm_m_ixYyABKgl1cy1lYXN0LTIwvAw.m3u8 
+https://use16.playlist.ttvnw.net/v1/playlist/CrgEsFk4d9C_tW6bjsqoc0D4tF6GqWVCdy8qv8lcsFSSN76ffe3qa-Dxfk6_Ki-0Qe01lJgOWtl0zlM63YhB1J35IjinQ-KPpCxJBvsRMj69PVOnxsFzl_0DrxecWloxEKYHM3Fg8TBVyRcEv2QXY5yf5N4_-BracIFtjKTllXL7oGrAeuJX3MSkQRg5tdxd8nzon9kvlLmCxjHz9nQfhReq1mk5P1HcXer_qFD2qfK8TaDU7g_9CbevdZuqiZsKVxEWLoiE05GdFAxYBZzE6vTMf2fd_JI0QHP9IppDLYGpE2sG7tmn3HuEHXoOZtqV9_u5LXRA-_WiVy-R2HpsK8jUZeC_4cum3gzdZhqpTnQldaMjuINJTYpEWIgP2I37ZdLvBDYws5HTKDo48bqKdflUEA4LB3EUpZCDkXsoza388aYVdGK_B0ZghQqxXvUqoBx0XVrNiudaAt8zd627QbVMKJCtNnzDj9HWE8DE44UpWp8smhZcOTwgU1iDAevMwJy-A40fN5XNdLmC-if49YcZrXbg6INb-tW97u21dzb1rHsvi-LVAjk_y3Qs0sfD3Zx8KcjLjTAqT0ubKLok_tIGNBmQWCeAYZOFwENah3S78RGeP3O-t4Kq34o1oJq5ppTukOsTen36Gddt7Grns9RwMZ277kph14FAdGKNqUpfJa0dH9tvjDyK4G-aJC-UApTZHuy-5OsvlS7Dw53cKwzBE-YFny6gg2LWMWQ14_k62tqRB8bfzIWDnRoMy4R9Aor62uE1W8AOIAEqCXVzLWVhc3QtMjC9DA.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
