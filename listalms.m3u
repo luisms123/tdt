@@ -43,15 +43,6 @@ https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV op3 | Chile
 https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF
 
-#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="CANALES INDEPENDIENTES",CCP Radio | Chile
-https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="CANALES INDEPENDIENTES",CCP Radio op2 | Chile
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-
-#EXTINF:-1 tvg-id="ModoRadio" tvg-name="ModoRadio" tvg-logo="https://i.imgur.com/WQkkyBp.png" group-title="CANALES INDEPENDIENTES",ModoRadio | Chile
-https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ACS Network TV" tvg-name="ACS Network TV" tvg-logo="https://i.imgur.com/jKsmoAn.png" group-title="INFANTILES",ACS Network Tv | Puerto Rico
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
@@ -187,23 +178,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op2 | Mexico
 https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado | Mexico
-https://live20.bozztv.com/akamaissh101/ssh101/tvretrovariado/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado op2 | Mexico
-https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
-
-#EXTINF:-1 tvg-id="Radio LMS" tvg-name="Radio LMS" tvg-logo="https://imgur.com/dSSzPR5.png" group-title="CANALES INDEPENDIENTES",Radio LMS
-https://stream.zeno.fm/klrhhk7qmswuv
-
-#EXTINF:-1 tvg-id="Radio LMS" tvg-name="Radio LMS" tvg-logo="https://imgur.com/dSSzPR5.png" group-title="CANALES INDEPENDIENTES",Radio LMS op2
-https://xhateaec.com:8090/channel/luisms123/
-
 #EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="CANALES INDEPENDIENTES",Canal Mas | Uruguay
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Canal Rex" tvg-name="Canal Rex" tvg-logo="https://img1.wsimg.com/isteam/ip/6f47b0e4-2e02-4ab1-8103-f541b24dfe4c/CANAL%20REX.png" group-title="CANALES INDEPENDIENTES",Canal Rex | Chile
 https://v4.tustreaming.cl/canalrex/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado | Mexico
+https://live20.bozztv.com/akamaissh101/ssh101/tvretrovariado/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado op2 | Mexico
+https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
 
 #EXTINF:-1 tvg-id="Canal ZeroFIlms" tvg-name="Canal ZeroFIlms" tvg-logo="https://imgur.com/ENa7t5W.png" group-title="CANALES INDEPENDIENTES",Canal ZeroFIlms | Colombia
 https://live20.bozztv.com/akamaissh101/ssh101/canalzerofilms1/playlist.m3u8
@@ -216,6 +201,12 @@ https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u
 
 #EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://i.imgur.com/nZz0o9I.png" group-title="CANALES INDEPENDIENTES",Casa Grande TV | Argentina
 https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="CANALES INDEPENDIENTES",CCP Radio | Chile
+https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="CANALES INDEPENDIENTES",CCP Radio op2 | Chile
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
 #EXTINF:-1 tvg-id="CH TV" tvg-name="CH TV" tvg-logo="https://imgur.com/zzmGHyw.png" group-title="CANALES INDEPENDIENTES",CH TV | Chile
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/chunks.m3u8
@@ -447,6 +438,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/miramaxtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mix Bolivia Tv" tvg-name="Mix Bolivia Tv" tvg-logo="" group-title="FAMILIARES",Mix Bolivia Tv | Bolivia
 https://live20.bozztv.com/giatv/giatv-mixboliviatv/mixboliviatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ModoRadio" tvg-name="ModoRadio" tvg-logo="https://i.imgur.com/WQkkyBp.png" group-title="CANALES INDEPENDIENTES",ModoRadio | Chile
+https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png" group-title="CANALES INDEPENDIENTES",Moni TV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
@@ -829,9 +823,23 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv op2 | Uruguay
 https://giatv.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv op3 | Uruguay
-http://giatv.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Goku Tv
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Dragon Ball super
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Digimon Adventure
+https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpson
+https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons
+https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons op2
+http://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 
 
 
