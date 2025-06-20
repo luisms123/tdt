@@ -562,13 +562,13 @@ https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-id="CachiPum Tv" tvg-name="CachiPum Tv" tvg-logo="http://cachipumtv.live/assets/img/brand.png" group-title="INFANTILES",CachiPum Tv | Chile
 https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Caldera Vision" tvg-name="Caldera Vision" tvg-logo="https://calderavision.cl/wp-content/uploads/2024/06/logo-canal-1.png" group-title="FAMILIARES",Caldera Vision | Chile
+#EXTINF:-1 tvg-id="Caldera Vision" tvg-name="Caldera Vision" tvg-logo="" group-title="FAMILIARES",Caldera Vision | Chile
 https://v4.tustreaming.cl/calderavisiontv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="FAMILIARES",Canal 4 Jujuy | Argentina
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="http://www.canal4sanjuan.com.ar/digital/images/logo-cir.png" group-title="FAMILIARES",Canal 4 San Juan | Argentina
+#EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="" group-title="FAMILIARES",Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 Tv Fantastico" tvg-name="Canal 4 Tv Fantastico" tvg-logo="" group-title="FAMILIARES",Canal 4 Tv Fantastico | Argentina
@@ -721,7 +721,7 @@ https://masplay120.github.io/playtv/estacionmix-playlist.m3u8
 #EXTINF:-1 tvg-id="Estrella Producciones" tvg-name="Estrella Producciones" tvg-logo="https://i.imgur.com/1Uc4pJw.png" group-title="FAMILIARES",Estrella Producciones | Paraguay
 https://live20.bozztv.com/akamaissh101/ssh101/estrellatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EvaStream TV" tvg-name="EvaStream TV" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png" group-title="FAMILIARES",EvaStream TV | Chile
+#EXTINF:-1 tvg-id="EvaStream TV" tvg-name="EvaStream TV" tvg-logo="" group-title="FAMILIARES",EvaStream TV | Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="http://www.radioextremacr.com/img/logo.png" group-title="CINE",Extrema TV | Costa Rica
@@ -805,7 +805,7 @@ http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion op2 | Republica Dominicana
 http://85.239.54.197:81/live/loco_low/index.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion (LQ) | Republica Dominicana
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion (LQ) | Republica Dominicana
 http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 
 #EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
@@ -868,7 +868,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="CANALES INDEPENDIENTES",Moni TV op2 | Argentina
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
-#EXTINF:-1 tvg-id="195149" tvg-name="MOOVIMEX" tvg-logo="https://i.imgur.com/q3PmMF9.jpg" group-title="CINE", MOOVIMEX | Mexico
+#EXTINF:-1 tvg-id="MOOVIMEX" tvg-name="MOOVIMEX" tvg-logo="https://i.imgur.com/q3PmMF9.jpg" group-title="CINE",MOOVIMEX | Mexico
 https://linear-564.frequency.stream:443/mt/studio/564/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Movies Central" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/sRYe8Np.jpg" group-title="CINE",Movies Central by tv player | Spain
@@ -877,7 +877,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 #EXTINF:-1 tvg-id="Multicanal Ecuador" tvg-name="Multicanal Ecuador" tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png"  group-title="FAMILIARES",Multicanal | Ecuador
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png" group-title="FAMILIARES",Multizonas Tv | Costa Rica
+#EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="" group-title="FAMILIARES",Multizonas Tv | Costa Rica
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
 #EXTINF:-1 tvg-id="195146" tvg-name="My Time MX" tvg-logo="https://i.imgur.com/hMksKhc.png" group-title="CINE",My Time Movie | Mexico
@@ -952,10 +952,10 @@ https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV Kids" tvg-name="PlanetaTV Kids" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="INFANTILES",PlanetaTV Kids | Chile
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie | Chile
+#EXTINF:-1 tvg-id="PlanetaTV Movie" tvg-name="PlanetaTV Movie" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie | Chile
 https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
 
-#EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie op2 | Chile
+#EXTINF:-1 tvg-id="PlanetaTV Movie" tvg-name="PlanetaTV Movie" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie op2 | Chile
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Plenitud TV 24/7" tvg-name="Plenitud TV 24/7" tvg-logo="https://i.imgur.com/QGwcjNT.jpg" group-title="CANALES INDEPENDIENTES",Plenitud TV 24/7 | Chile
@@ -994,10 +994,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/variado/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="FAMILIARES",Retro Play TV | Chile
+#EXTINF:-1 tvg-id="Retro Play TV" tvg-name="Retro Play TV" tvg-logo="" group-title="FAMILIARES",Retro Play TV | Chile
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="FAMILIARES",Retro Plus TV 3 | Chile
+#EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="" group-title="FAMILIARES",Retro Plus TV 3 | Chile
 https://live20.bozztv.com/giatv/giatv-Retroplustv03/Retroplustv03/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online | ND
@@ -1240,6 +1240,11 @@ https://mitv.zplay.cl/Ztv/video.m3u8
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv op2 | Uruguay
+https://giatv.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv op3 | Uruguay
+http://giatv.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 
 
