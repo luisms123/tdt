@@ -1,132 +1,73 @@
 ﻿{
+"id-1": {
+    "nombre": "Canales Mexico",
+	"logo": "https://i.imgur.com/RUuoMlL.png",
+    "m3u8_url": "https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8",
+    "pais": "mx"
+  },
+"id-2": {
+    "nombre": "Azteca Uno",
+    "m3u8_url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
+    "pais": "mx"
+  },
+"id-3": {
+    "nombre": "Las Estrellas",
+    "m3u8_url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "pais": "mx"
+  },
 "id-4": {
-    "nombre": "Cartoonito | Mexico",
-    "m3u8_url": "https://131.161.53.2:8000/play/a025/index.m3u8",
+    "nombre": "Foro TV",
+    "m3u8_url": "https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8",
     "pais": "mx"
   },
 "id-5": {
-    "nombre": "Clan TVE | Spain",
-    "m3u8_url": "https://177.128.115.21:8080/live/Binet/6UkGawEA4z/22.m3u8",
+    "nombre": "Canal 5",
+    "m3u8_url": "https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8",
     "pais": "mx"
   },
 "id-6": {
-    "nombre": "ETC TV | Chile",
-    "m3u8_url": "https://177.128.115.21:8080/live/Binet/6UkGawEA4z/158.m3u8",
+    "nombre": "Azteca 7",
+    "m3u8_url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
+    "pais": "mx"
+  },
+"id-7": {
+    "nombre": "A Mas",
+    "m3u8_url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8",
     "pais": "mx"
   },
 "id-8": {
-    "nombre": "Tooncast | Colombia",
-    "m3u8_url": "https://131.161.53.2:8000/play/a04x/index.m3u8",
+    "nombre": "Canal Once",
+    "m3u8_url": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8",
+    "pais": "mx"
+  },
+"id-9": {
+    "nombre": "14 de Mexico",
+    "m3u8_url": "https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8",
+    "pais": "mx"
+  },
+"id-10": {
+    "nombre": "22 de Mexico",
+    "m3u8_url": "https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==",
     "pais": "mx"
   },
 "id-11": {
-    "nombre": "A3 Series Internacional",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv6.php?id=130&token=ShortGod&file=.m3u8",
+    "nombre": "Mexiquense TV",
+    "m3u8_url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+    "pais": "mx"
+  },
+"id-12": {
+    "nombre": "AMX Noticias",
+    "m3u8_url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "pais": "mx"
+  },
+"id-13": {
+    "nombre": "ADN 40",
+    "m3u8_url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
     "pais": "mx"
   },
 "id-14": {
-    "nombre": "America TV | Argentina",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv6.php?id=274&token=ShortGod&file=.m3u8",
-    "pais": "mx"
-  },
-"id-16": {
-    "nombre": "Canal 13 | Chile",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=765.m3u8",
-    "pais": "mx"
-  },
-"id-19": {
-    "nombre": "Chilevision | Chile",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=198.m3u8",
-    "pais": "mx"
-  },
-"id-23": {
-    "nombre": "De Pelicula | USA",
-    "m3u8_url": "https://181.78.67.53:8004/play/a05d/index.m3u8",
-    "pais": "mx"
-  },
-"id-28": {
-    "nombre": "Distrito Comedia | Mexico",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=32.m3u8",
-    "pais": "mx"
-  },
-"id-29": {
-    "nombre": "El Trece | Argentina",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=767.m3u8",
-    "pais": "mx"
-  },
-"id-40": {
-    "nombre": "TL Novelas Univision | USA",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=413.m3u8",
-    "pais": "mx"
-  },
-"id-43": {
-    "nombre": "Univision | Estados Unidos",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv6.php?id=62&token=ShortGod&file=.m3u8",
-    "pais": "mx"
-  },
-"id-46": {
-    "nombre": "Warner Channel | Chile",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv6.php?id=40&token=ShortGod&file=.m3u8",
-    "pais": "mx"
-  },
-"id-47": {
-    "nombre": "Warner Channel op2",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=102.m3u8",
-    "pais": "mx"
-  },
-"id-57": {
-    "nombre": "Claro Sports op | Mexico",
-    "m3u8_url": "https://161.132.243.192:50001/play/a02w/index.m3u8",
-    "pais": "mx"
-  },
-"id-58": {
-    "nombre": "Claro Sports 2 | Mexico",
-    "m3u8_url": "https://161.132.243.192:50001/play/a03v/index.m3u8",
-    "pais": "mx"
-  },
-"id-62": {
-    "nombre": "ESPN | Mexico",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=34.m3u8",
-    "pais": "mx"
-  },
-"id-64": {
-    "nombre": "ESPN 2 | Mexico",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=531.m3u8",
-    "pais": "mx"
-  },
-"id-65": {
-    "nombre": "ESPN 2 | Sur",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=35.m3u8",
-    "pais": "mx"
-  },
-"id-66": {
-    "nombre": "ESPN 3 | Mexico",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=485.m3u8",
-    "pais": "mx"
-  },
-"id-69": {
-    "nombre": "ESPN Extra | Mexico",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=37.m3u8",
-    "pais": "mx"
-  },
-"id-83": {
-    "nombre": "Tigo Sports Plus | Paraguay",
-    "m3u8_url": "https://161.132.243.192:50001/play/a041/index.m3u8",
-    "pais": "mx"
-  },
-"id-86": {
-    "nombre": "TUDN | USA",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=801.m3u8",
-    "pais": "mx"
-  },
-"id-87": {
-    "nombre": "TVC Deportes | Mexico",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=837.m3u8",
-    "pais": "mx"
-  },
-"id-89": {
-    "nombre": "Win Sports + | Colombia",
-    "m3u8_url": "https://pe.shortgod.com/aascawq/tv1.php?id=292.m3u8",
+    "nombre": "Multimedios Cd Mexico",
+    "m3u8_url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
     "pais": "mx"
   }
 }
