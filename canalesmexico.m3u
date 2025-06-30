@@ -490,9 +490,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op2 | Argentina
 https://comunidadtv.site:3119/live/aniplustvlive.m3u8
 
-#EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op3 | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai Tv | ND
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 
@@ -573,6 +570,9 @@ https://acceso.radiosportstv.online:3285/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-id="Canal 15 DTP" tvg-name="Canal 15 DTP" tvg-logo="https://i.imgur.com/fmEKC3S.png" group-title="FAMILIARES",Canal 15 DTP | Honduras
 https://emisoras.hn:8081/dtp/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Cultural Huauchinango" tvg-name="Canal Cultural Huauchinango" tvg-logo="https://i.imgur.com/klMlwwa.jpg" group-title="CANALES INDEPENDIENTES",Canal Cultural Huauchinango | Mexico
+https://micanal.ovh/livestreams/223.FDIDOGXYZQXO.m3u8
 
 #EXTINF:-1 tvg-id="Canal Familia HD" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg" group-title="FAMILIARES",Canal Familia HD | Venezuela
 https://live-stream.iblups.com/video/c76a06ac5e24461dc5c453983cfb72ba88bccc1a.m3u8
@@ -731,9 +731,6 @@ https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="http://globaltv.com.do/wp-content/uploads/2022/06/bannerfull2-e1657853657971.png" group-title="FAMILIARES",Global TV | Republica Dominicana
@@ -948,6 +945,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pride Tv" tvg-name="Pride Tv" tvg-logo="https://neotv.cl/assets/img/channels/pridetv-lat.png" group-title="CANALES INDEPENDIENTES",Pride Tv | Chile
 https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8
+
+#EXTINF:-1 tvg-id="PS Television" tvg-name="PS Television" tvg-logo="https://i.imgur.com/X0ooVPY.png" group-title="CANALES INDEPENDIENTES",PS Television | Colombia
+https://micanal.ovh/livestreams/182.W1QXCAQGTNP6.m3u8
 
 #EXTINF:-1 tvg-id="Quantica TV" tvg-name="Quantica TV" tvg-logo="https://i.imgur.com/OWAL8tz.png" group-title="FAMILIARES",Quantica TV | Argentina
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
@@ -8921,7 +8921,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://use16.playlist.ttvnw.net/v1/playlist/CrgEK_xdW8Ld-la5g1g0N4Zn8gqkGkv8FcstvX5XKdFq55DTDllE2oRO8a0YI1ufRdtUVybmWHzwqfSCp3-GPcDMDqDFU96_PJ8sqiLDcVmQ-1VOdff07suz9Dm3HFocEcnuqk4e7K4PaHfwbC0FohT56kCCTxtsF8OY8ufxvhjWlD205hCYQIsqsFygRob8kzZv6osIjO_4YWyawAKPsVZUcqS30Isgzdoqfm60bqMphVAWA0LOj6zYnu8s2jGeDB8pP1cxUT5RzsoT88aP1Gov_gq-rVuZKcAxK0JIbErLMdxOEoZEtwnKlJ_V7MGYX5EWpoZhpDYTKmtKkeouCnm47Z88wRWXnGNrSlzv73hmYj0rOIVlPFQqvmOvpEVX5wGBZhQw9lS0tvrCZcyDnPCjMAjJIrGjvw6ogZTAr9GUNFvpBlWW9rGtBLNmv9a1W0jV2xkyl5wOGSojsLT_c2Wh-IZnfnfdKLHew2Smjk1n_Q982g0FGTZPSldSY2yjMqiB0LswasgRAnjAX1U5UDUzXtJLJEJ-eEf3CLLLGQi8VOUeOzswajg5FaKDkkhHPMCRqlJjKeh_3x0zkTLCYYKDJQRyVeS6P5dlEqwMHZMc0e1rIWFW0QD0Ep9N1tJ7_JIxqV7nPVBsjKzS6Zdr-Y1FrnRyFZHtMI9aOJlD-Cs1VJT9qj67zootT6lclVsJdJgV6jqrA93moXGIWukcQlFqAnww1527wpYupe5AQsDsryPtGq-x13svdxoMG0ZB9zzOc4A6ScIGIAEqCXVzLWVhc3QtMjDPDA.m3u8 
+https://usw22.playlist.ttvnw.net/v1/playlist/CrgEqPEbfU8ac0xfREE3u4PlykQ5Vpw7BAfAec8KLyw9rnUbYetyIQuj60qZ9goQyHluUEUOOoAhK-umfTB9XZiu4uE9E4F283fRtO0VsYdKRHZCIJcF8elT_3WLBfkr_s8Afx5_6lPWFK2r6b70ET4JcS2AZuBlxm2tKY9zRrcR_mk3vUUByRF5Lki2qxjPs7mVy1JiKbGWBzstgnDIu1JcUoWtYMchLALOIy8LR3rNsKr7SiH0tNuXjF9IL0Rxd5iU3H9ptHd_TIh8-ZXiexl285wpfc3OStC4NMMDei_Qz1YlrfAKXnuPBtonIzWAYFdbypaeIPZjtSV1ZzM1VRG6wXqLjeW-PrTPODZt-baWkR-KhVl0SOBUjbPnRnmd2bPyOLt43NJIhNIp4jl8NnQmWRZ5cJ7HsP0ANh9d0jsLERcufP0jWnO6RlhJafCQ7q6-AuZ6xwK7quVePyMTxkJ1cLcv_IvIwltW7XLJc8csKak79L-5CfwEB3dpjVVZSICMGLzd66YxyDjJaJoDjH8aIsebfZAlUaBmWjJHpAf6ZnY4_BhgG8xAinlfBj5lA-UwcJNvOhXyeRJXp_9_eCw_ee5fpOqZIFOi7kDEEC2zsuTroJ0XKt2h_SLuoi8IeOx5lHznfpZExVtCsU9KHO4uMATPnjenAVxrD7ImondkCi_kTNV3TZNUfK6cXVJZn3KZ8uImLvXp4DWfm--LozgU4HquwdJQ_Q3GGOVomegB5PPd4TJbA8lrEhoMkeDRtDLO2vZAH8_zIAEqCXVzLWVhc3QtMjDQDA.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
