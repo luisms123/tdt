@@ -278,7 +278,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
-https://kali.vdopanel.com:3519/stream/play.m3u8
+https://kali.vdopanel.com:3717/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="EstacionKusTv" tvg-name="EstacionKusTv" tvg-logo="https://imgur.com/7Nt6bnK.png" group-title="CANALES INDEPENDIENTES",EstacionKusTv | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/estacionkustv/playlist.m3u8
@@ -823,7 +823,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons op2
 http://200.60.124.19:29000/play/a0k2/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons op3
+http://38.44.109.41:8003/play/a00j/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons op4
+http://38.44.109.41:8003/play/a00ddj/index.m3u8
 
 
 

@@ -2,7 +2,7 @@
 "id-1": {
     "nombre": "Canales Mexico",
 	"logo": "https://i.imgur.com/RUuoMlL.png",
-    "m3u8_url": "https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8",
+    "m3u8_url": "https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8",
     "pais": "mx"
   },
 "id-2": {
@@ -12,62 +12,112 @@
   },
 "id-3": {
     "nombre": "Las Estrellas",
-    "m3u8_url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "m3u8_url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
     "pais": "mx"
   },
 "id-4": {
     "nombre": "Foro TV",
-    "m3u8_url": "https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8",
+    "m3u8_url": "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true",
     "pais": "mx"
   },
 "id-5": {
+    "nombre": "Foro Tv 1",
+    "iframe_url": "https://www.youtube.com/embed/p2AzyIEuFak",
+    "pais": "mx"
+  },
+"id-6": {
+    "nombre": "Foro Tv 2",
+    "yt_id": "https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA",
+    "pais": "mx"
+  },
+"id-7": {
     "nombre": "Canal 5",
     "m3u8_url": "https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8",
     "pais": "mx"
   },
-"id-6": {
+"id-8": {
     "nombre": "Azteca 7",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
     "pais": "mx"
   },
-"id-7": {
+"id-9": {
     "nombre": "A Mas",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8",
     "pais": "mx"
   },
-"id-8": {
+"id-10": {
     "nombre": "Canal Once",
     "m3u8_url": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8",
     "pais": "mx"
   },
-"id-9": {
+"id-11": {
     "nombre": "14 de Mexico",
     "m3u8_url": "https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8",
     "pais": "mx"
   },
-"id-10": {
+"id-12": {
     "nombre": "22 de Mexico",
     "m3u8_url": "https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==",
     "pais": "mx"
   },
-"id-11": {
+"id-13": {
     "nombre": "Mexiquense TV",
     "m3u8_url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
     "pais": "mx"
   },
-"id-12": {
+"id-14": {
     "nombre": "AMX Noticias",
     "m3u8_url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
     "pais": "mx"
   },
-"id-13": {
+"id-15": {
     "nombre": "ADN 40",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
     "pais": "mx"
   },
-"id-14": {
+"id-16": {
     "nombre": "Multimedios Cd Mexico",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
+    "pais": "mx"
+  },
+"id-17": {
+    "nombre": "Milenio Tv embed",
+    "yt_embed": "CSXA3ICbX-8",
+    "pais": "mx"
+  },
+"id-18": {
+    "nombre": "Locomotion Tv",
+    "iframe_url": "http://locomotiontv.com/envivo/",
+    "fuente": "https://kick.com/kartoonkidz2",
+    "pais": "mx"
+  },
+"fox": {
+    "nombre": "Fox Kids",
+    "iframe_url": "https://ok.ru/video/8967999463166",
+    "fuente": "https://ok.ru/video/8967999463166",
+    "pais": "mx"
+  },
+"fox2": {
+    "nombre": "Fox Kids 2",
+    "iframe_url": "https://player.kick.com/kartoonkidz2",
+    "fuente": "https://kick.com/kartoonkidz2",
+    "pais": "mx"
+  },
+"kartoon": {
+    "nombre": "Kartoon Kids",
+    "iframe_url": "https://ok.ru/video/8896438738686",
+    "fuente": "https://ok.ru/video/8896438738686",
+    "pais": "mx"
+  },
+"kart2": {
+    "nombre": "Kartoon Kids 2",
+    "iframe_url": "https://player.kick.com/kartoonkidz1",
+    "fuente": "https://kick.com/kartoonkidz1",
+    "pais": "mx"
+  },
+"jetix": {
+    "nombre": "Jetix",
+    "iframe_url": "https://jetix2021.jahh19channel.xyz/",
     "pais": "mx"
   }
 }
