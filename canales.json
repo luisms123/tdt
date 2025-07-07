@@ -3,7 +3,7 @@
     "nombre": "Canales Mexico",
 	"logo": "https://i.imgur.com/RUuoMlL.png",
     "m3u8_url": "https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8",
-    "fuente": "Compu LMS",
+    "fuente": "https://compu-lms.blogspot.com/",
     "pais": "mx"
   },
 "id-2": {
@@ -82,43 +82,50 @@
     "pais": "mx"
   },
 "id-17": {
-    "nombre": "Milenio Tv embed",
-    "yt_embed": "CSXA3ICbX-8",
+    "nombre": "Milenio Tv",
+    "yt_embed": "https://www.youtube.com/embed/CSXA3ICbX-8",
     "pais": "mx"
   },
 "id-18": {
     "nombre": "Locomotion Tv",
     "iframe_url": "http://locomotiontv.com/envivo/",
-    "fuente": "https://kick.com/kartoonkidz2",
+    "fuente": "http://locomotiontv.com/envivo/",
     "pais": "mx"
   },
 "fox": {
     "nombre": "Fox Kids",
     "iframe_url": "https://ok.ru/videoembed/8967999463166",
-    "fuente": "https://ok.ru/video/8967999463166",
+    "fuente": "https://vmnavarrod.wixsite.com/kartoonkidz",
     "pais": "mx"
   },
 "fox2": {
     "nombre": "Fox Kids 2",
     "iframe_url": "https://player.kick.com/kartoonkidz2",
-    "fuente": "https://kick.com/kartoonkidz2",
+    "fuente": "https://vmnavarrod.wixsite.com/kartoonkidz",
     "pais": "mx"
   },
 "kartoon": {
     "nombre": "Kartoon Kids",
     "iframe_url": "https://ok.ru/videoembed/8896438738686",
-    "fuente": "https://ok.ru/video/8896438738686",
+    "fuente": "https://vmnavarrod.wixsite.com/kartoonkidz",
     "pais": "mx"
   },
 "kart2": {
     "nombre": "Kartoon Kids 2",
     "iframe_url": "https://player.kick.com/kartoonkidz1",
-    "fuente": "https://kick.com/kartoonkidz1",
+    "fuente": "https://vmnavarrod.wixsite.com/kartoonkidz",
     "pais": "mx"
   },
 "jetix": {
     "nombre": "Jetix",
     "iframe_url": "https://jetix2021.jahh19channel.xyz/",
+    "fuente": "https://jahh19channel.xyz/",
+    "pais": "mx"
+  },
+"gogoplay": {
+    "nombre": "Gogoplay Tv",
+    "iframe_url": "https://player.twitch.tv/?channel=gogoplaytve&parent=compulms.tiiny.site",
+    "fuente": "https://www.twitch.tv/gogoplaytve",
     "pais": "mx"
   }
 }
