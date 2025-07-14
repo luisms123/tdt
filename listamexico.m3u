@@ -773,7 +773,7 @@ http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
-https://live20.bozztv.com/giatv/giatv-Premium/Premium/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
@@ -818,7 +818,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/miramaxtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mix Bolivia Tv" tvg-name="Mix Bolivia Tv" tvg-logo="https://imgur.com/P2k8ioD.jpg" group-title="FAMILIARES",Mix Bolivia Tv | Bolivia
-https://live20.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ModoRadio" tvg-name="ModoRadio" tvg-logo="https://i.imgur.com/WQkkyBp.png" group-title="CANALES INDEPENDIENTES",ModoRadio | Chile
 https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
@@ -841,7 +841,7 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="" group-title="FAMILIARES",Multizonas Tv | Costa Rica
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
-#EXTINF:-1 tvg-id="195146" tvg-name="My Time MX" tvg-logo="https://i.imgur.com/hMksKhc.png" group-title="CINE",My Time Movie | Mexico
+#EXTINF:-1 tvg-id="My Time Movie" tvg-name="My Time Movie" tvg-logo="https://i.imgur.com/hMksKhc.png" group-title="CINE",My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://i.imgur.com/bD8YutM.png" group-title="FAMILIARES",Neo TV | Argentina
@@ -8726,6 +8726,8 @@ http://45.184.87.142:8000/play/a021
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Semillitas
+http://24.152.55.5:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Canal del Caballo HD
 http://170.233.192.234:8112/play/230
@@ -8886,7 +8888,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://use23.playlist.ttvnw.net/v1/playlist/CrUEFjWxtNCOah1XR1ECHrWpqZs2bhvZ3BkKHcW30OEvmPJ-CwoH28RY6Vcimw9RrJDe0Qz1DC2UFfp5ePuGqfPiv6oqw9MVFEF-JzQKlYhQMT5TkRlz3MXXq7YdvO-R_Wg4fQU_VvcYlnt8Zt7xkVaiY_nnyzfbOfBBCBYk00N17tdxTMvbzBFe7FP1L-JNwUk4b3RZF0ejevZRFJ57DVvnpBu8qr3xumJ-CK25ZBVcbbeNQpZEFkbP7iY_sMyC0A10SA4uSDbQZ5vj7sV5p1-jkPlBfBVgfuYgLvoYxpNXieLhsvbEMdNdtDrhrZT937KhqrGRK2LzFn1UR6IGozBD8DdgwtQgv2Sc69430eSNMIJmcdKf4exhw0meRSf4Ma8_kNiVWxJPxyQTZMZBAPDhcfTIgvuKYrOFu6Ug5SIPzTYcjwpXC9Ow9GzOo_5VBc23XmZT-bY68p6x8Zog3-0wOFD7bkdGliLX3REJTbN4n1mDMJJ5J2N37630KUVj-eRnJqO_0E_kUFB8D8QeiUwTD_KPCTi3Xh64dTh0cAF1Nn-B0FaX8cREd3-CrM9jiL-LK6SZr_raSpVuThjGHZLTYgX0LvOWsUwY8-6FYolurL91CYeiFYmBMzjfKRPTe1xTQ7diehmQTOjcIbV8f4kmgUkNiIYQo-H9l6Z_TQhSwHMpIdc8C_nqMVHwb-3H5PO8l_60kRUa9cp5HFZtsKBd_ntxnafS-wom5V7HB5hyIrIQ1RzkfhoMMMap9O9FBEMGyC-OIAEqCXVzLWVhc3QtMjDeDA.m3u8 
+https://usw24.playlist.ttvnw.net/v1/playlist/CrME2MxQGWWOiRBJ4Kn_JdvWhyksKIMLCICsK3uvX-VVwpL7kdj-EwsNaoA_MxGJTgrIGJlZhElNyYyyQ9xAyfSIYsunHY0uBtGi1qUqiIC1zHtInXtn2fDCriWmGr6Q-z3_uojx4sQ4gp_WjElV0IHVcs5MBRJbWMJyb6WMzqzA9teuocGyiDcGAKXZMBZDMFeHKy3q5sg-uvt3P5wdoezt4pkpCWJmiD2sLy60nv77vrtBt3jZXbeh2BhrR8xAt0ZxOh13N9ItFoMaQ80KXBW1pNR1KqJ0ZtCJN4A64fYGhrUtaxJw66PZlcTQcPILPRoHSYcZogiXqi9fIjqSFp8-V6uSP5sFWSbhtVaHyCQHAPswmCy31A-8o_FxUeuz4QazNRtNcQ9cPZITmIm0m_88BBp_LV9EYBjc3wabu71WdFpBQeroWfhDNeW6Q5Te4DlhQ8ghx6U-FRBmZAM93aLinz2SpMOKPT3gSExkGzcU8EaMRVihI9K_astLwBWv9akD67myL5Fa8oKnm3KRqk4jjVaXrQmkGnMWzRzcxfxO6bXQ9d67WZMyboMSpBUiscAyqZbFKwZuHyPXWGk3WbkOFN0O8Lhij2-P8_26ZYEEbpE3lHBHkyli7qpiOq6L7OAo8aL6PYHSPWpoSYNC-AMKE26LSA3oZlmPyIgvB_fWq0DQ3pg0KEAEJNq2hjdYW4C8QqNBvaFMvZUS8QC6367VoX6VXKElkV4UlC5E7xqgeBkg6lUaDMo_QlvC4zmVHn34fyABKgl1cy1lYXN0LTIw3gw.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
