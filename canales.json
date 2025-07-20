@@ -140,9 +140,15 @@
     "fuente": "",
     "pais": "mx"
   },
-"tomorrowland": {
+"tomorrowlandmain": {
     "nombre": "Tomorrowland Main Stage 2025",
     "yt_embed": "https://www.youtube.com/embed/NaDS3gQk2Rc",
+    "fuente": "",
+    "pais": "mx"
+  },
+"tomorrowlandfreedom": {
+    "nombre": "Tomorrowland Freedom Stage 2025",
+    "yt_embed": "https://www.youtube.com/embed/oBMmgkJxSgM",
     "fuente": "",
     "pais": "mx"
   },
