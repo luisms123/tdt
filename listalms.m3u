@@ -268,6 +268,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
+#EXTINF:-1 tvg-id="El Folklorico" tvg-name="El Folklorico" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="CANALES INDEPENDIENTES",El Folklorico | Argentina
+https://stream.t5satelital.blog/hls/elfolklorico.m3u8
+
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
 https://kali.vdopanel.com:3717/stream/play.m3u8
 
