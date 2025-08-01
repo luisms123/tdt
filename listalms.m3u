@@ -32,10 +32,7 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Japon
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-id="Animax HD" tvg-name="Animax HD" tvg-logo="https://i.ibb.co/JnqPS8J/Logo-Animax-3.png" group-title="JOVENES Y ADULTOS",Animax HD | Brasil
-https://stream.ichibantv.com:3547/stream/play.m3u8
+http://vthanh.utako.moe/Animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Anime Vision" tvg-name="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision | Spain
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
@@ -56,7 +53,7 @@ http://animezonetv.com/hls/stream.m3u8
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV | Brasil
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
@@ -180,9 +177,6 @@ https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="MUSICA",CCP Radio | Chile
 https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="MUSICA",CCP Radio op2 | Chile
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
 #EXTINF:-1 tvg-id="CH TV" tvg-name="CH TV" tvg-logo="https://imgur.com/zzmGHyw.png" group-title="CANALES INDEPENDIENTES",CH TV | Chile
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/chunks.m3u8
@@ -316,11 +310,14 @@ https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JTA TV" tvg-name="JTA TV" tvg-logo="" group-title="FAMILIARES",JTA TV | Argentina
 https://streaming.jtamendoza.com/hls/test_src.m3u8
 
-#EXTINF:-1 tvg-id="Kanade Tv" tvg-name="Kanade Tv" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade Tv | Argentina
+#EXTINF:-1 tvg-id="Kanade LA" tvg-name="Kanade LA" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade LA | Argentina
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
-#EXTINF:-1 tvg-id="Kanade Tv" tvg-name="Kanade Tv" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade Tv op2 | Argentina
+#EXTINF:-1 tvg-id="Kanade LA" tvg-name="Kanade LA" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade LA op2 | Argentina
 https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
+
+#EXTINF:-1 tvg-id="Kanade Brasil" tvg-name="Kanade Brasil" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade Brasil | Brasil
+https://streams.kanade.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
@@ -437,7 +434,7 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="Ninja Z" tvg-name="Ninja Z" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="CANALES INDEPENDIENTES",Ninja Z | Argentina
-https://mitv.zplay.cl/NINJAZ637ZjBHOdKlRxI2/video.m3u8
+https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4Im1R0m-tFJES
 
 #EXTINF:-1 tvg-id="Norte Informativo TV" tvg-name="Norte Informativo TV" tvg-logo="https://i.imgur.com/eaU4Mtu.png" group-title="FAMILIARES",Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
