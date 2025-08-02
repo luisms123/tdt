@@ -527,7 +527,7 @@ https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
 https://v4.tustreaming.cl/calderavisiontv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="FAMILIARES",Canal 4 Jujuy | Argentina
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live1/playlist.m3u8
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="https://imgur.com/Ck2bFYn.jpg" group-title="FAMILIARES",Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
@@ -845,7 +845,7 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="Ninja Z" tvg-name="Ninja Z" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="CANALES INDEPENDIENTES",Ninja Z | Argentina
-https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4Im1R0m-tFJES
+https://mitv.zplay.cl/Ninja_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Norte Informativo TV" tvg-name="Norte Informativo TV" tvg-logo="https://i.imgur.com/eaU4Mtu.png" group-title="FAMILIARES",Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
@@ -8537,31 +8537,109 @@ http://177.234.230.206:8011/play/a0it
 http://177.234.230.206:8011/play/a0pk
 #EXTINF:-1 group-title="TV PREMIUM",ESPN
 http://177.234.230.206:8011/play/a0pz
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Chile
+http://177.234.230.206:8011/play/a0eh
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Colombia
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Norte
+http://177.234.230.206:8011/play/a0eh
+#EXTINF:-1 group-title="TV PREMIUM",ESPN.mx
+http://177.234.230.206:8011/play/a0eh
+#EXTINF:-1 group-title="TV PREMIUM",ESPN HD.ar
+http://177.234.230.206:8011/play/a0eh
+#EXTINF:-1 group-title="TV PREMIUM",ESPN HD.cl
 http://177.234.230.206:8011/play/a0eh
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 2
 http://177.234.230.206:8011/play/a0ig
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 HD
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Colombia
+http://177.234.230.206:8011/play/a0eh
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 Venezuela
 http://177.234.230.206:8011/play/a0kg
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Sur
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 Sur
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 Norte
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2.mx
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2.ar
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 HD.cl
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2.cl
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 3
 http://177.234.230.206:8011/play/a0ox
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Sur
 http://177.234.230.206:8011/play/a01e
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Norte
 http://177.234.230.206:8011/play/a0ad
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 3.mx
+http://177.234.230.206:8011/play/a0ad
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 3.ar
+http://177.234.230.206:8011/play/a0ad
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 HD.cl
+http://177.234.230.206:8011/play/a0ad
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 3.cl
+http://177.234.230.206:8011/play/a0ad
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 4
 http://177.234.230.206:8011/play/a0q0
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 4HD
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 4 Norte
 http://177.234.230.206:8011/play/a0ol
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 5HD
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 4 Sur
+http://177.234.230.206:8011/play/a0ol
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 4 Centroamérica y Caribe
+http://177.234.230.206:8011/play/a0ol
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 4.mx
+http://177.234.230.206:8011/play/a0ol
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 4 HD.ar
+http://177.234.230.206:8011/play/a0ol
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 4.cl
+http://177.234.230.206:8011/play/a0ol
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 5
 http://177.234.230.206:8011/play/a0dr
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 6HD
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 5 Sudamérica
+http://177.234.230.206:8011/play/a0dr
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 5.cl
+http://177.234.230.206:8011/play/a0dr
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 6
+http://177.234.230.206:8011/play/a0iz
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 6 Sudamérica
+http://177.234.230.206:8011/play/a0iz
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 6 HD.ar
+http://177.234.230.206:8011/play/a0iz
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 6 HD.cl
 http://177.234.230.206:8011/play/a0iz
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 7
 http://177.234.230.206:8011/play/a0q1
-#EXTINF:-1 group-title="TV PREMIUM",ESPN CO
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 Bolivia
 http://177.234.230.206:8011/play/a0np
-#EXTINF:-1 group-title="TV PREMIUM",ESPN Premium HD
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 Chile
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 Colombia
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 Ecuador
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 Paraguay
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 Perú
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 Uruguay
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 Venezuela
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 HD.cl
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 7.cl
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Deportes
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Premium
+http://177.234.230.206:8011/play/a0o6
+#EXTINF:-1 group-title="TV PREMIUM",ESPN PREMIUM.ar
+http://177.234.230.206:8011/play/a0o6
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Premium HD.cl
+http://177.234.230.206:8011/play/a0o6
+#EXTINF:-1 group-title="TV PREMIUM",ESPN INTERNACIONAL.cl
 http://177.234.230.206:8011/play/a0o6
 #EXTINF:-1 group-title="TV PREMIUM",ET Canal El Tiempo
 http://177.234.230.206:8011/play/a0bb
@@ -8645,7 +8723,50 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Rockola Televisión
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
+
+
 #EXTINF:-1 group-title="TV PREMIUM",DAZN F1
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Azteca Deportes
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Caliente TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Claro Sports
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM",Fox Deportes
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports Cono Norte
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS.mx
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS.ar
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX Sports.cl
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX Sports 1 HD.cl
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 2
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 2.mx
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 2 HD.ar
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX Sports 2.cl
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 3
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 3.mx
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 3.ar
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Fox Sports Premium
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX Sports 3.cl
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FOX Sports Básico.cl
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
 
 ﻿
@@ -8704,8 +8825,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://use12.playlist.ttvnw.net/v1/playlist/CrIE7ki2JzTOl1boZW23aqdlQmxcR_lKtEAHP20IhQCZiQhgaflNrfpqmxkHycPA9fp6zz0n5bMPy6Zz31Y4WB44rGta1uz0kLh-WOOc2xFXZ7_joHiTmbP13g9G96oyYBQzPqQdOwFrNzgUwKTObnjeOtSkagr3Mlsid1W0wQiiHur0nXqGxtmnmaRxI8g9uq67dQ6QKSs2BgLDvs8sondEG4xkNi9dZqy2RxLUDJngHOhvDdobrAapKcAsGd3fEOIzC2JRXIPZQZPNL_Fg___BturzjZYvaV3IEFulTQBv1OCkki_wcqFqQloCuaJK9gadoIIP5tqYS7TFQGHu3EDvAkttUjZzvXx_NFRMs9LCxFld2J8s93fWU_G4sJ45KA2TtE1etFKGzNKJ4xDiC4OTr-zbQqd46yf1yiO1kx0mVV6dIIZG3vCWTKkFN50xCeizUq8bLse4izxu3psbb96MPqoEq77Z4E0B6fJhXsxzhQgoCarpHpAREC-IyGc-gNnMu5C8Vcj4dci2Eyusk0ITkb_j-DpO8h9WbAJC5ndOkhxTV4UvFIPRCLdHPk1jOOUscUEwKNeMO4-T8oTCrB1L2FiL6sXmVadkw6jqWp3mzFOg4vDoXF7Aj2VcUICIrFsLH-U3zV2zovbj1DaBore5IbAuwLDXVYqlHiLWa9PiHJ4aw_NoL4iR5Lnl6IEErre1cQodPDpvaK9cEFUqgFkaAD2nrg6bA4Hw5oApY4zYhDlVBBoMSIhMSV6AYiCAfkjvIAEqCXVzLWVhc3QtMjDwDA.m3u8 
+https://usw24.playlist.ttvnw.net/v1/playlist/CqoERu0l5WTCRqO8-Cbdd_Ffu3rS9hY9MAy5vjOfRmZXdANqsIukXMhGVXFA4qkGZgrrL_NjLZ2FCb2HhicPYN4-m-4f9R0TTFfJiVr-ad9LWg6C901RKSoWrvPJLmc5EM-fiWizjQFeMchqgrEj-nR-J2WoZA6CPfXOQCrNzMsHITz9xtU6GoCMXL-eUiY9f1aPlunxLP56C-Gnfxfx4lg0fNd0v5X78q67WqrobnTuovC43ImMu67Sdh0a5_OiYorBhACHwHXGnzf4-aaiaL-Yr-Q6Cd9PL9TORH2BDU0-rmmsEUtLTC-3E4_uHFGh-WaK4mls4gkfSvck3BAt6A_G9LMjnYTsVGZ3YdXHIJE_S66Xh-W3qy9yajXhTVdOWH_m23u7IO4Il_FThCxFTX2wgTU--T7qD0Q41Uy9cOKl_stpgpc0ZQBP4L0L7d6IxIuEY06MwWj1vIiLzoeUZbLzmdfQgR7cN-l09DPEfgKfN7boHzSVi69kfrObVgJ4Q8I_cvnuFXocDbbRHxfcgq4_ZQrBT1R3E25ej3NKzp1K5nK3LWeak-2ngTpmu1jraPVZ3-4jiiVmNTX6RUWFGKRn7FxO_sibrW0eFApKvfa5wR3lBEYmlxEM3zVnTeIVm9XaIY5AZtBKT8s0iGpfD0Ai_MAhb7-BGbfOW3cj9tW8ab02V_3KIhyqIRlp6XpPmLR9-cNF-cTQuxygz9rBch1731DqY8A-lAFYBfQaDGiaaQ81VjCW-SmBVSABKgl1cy1lYXN0LTIw8Qw.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-https://usw22.playlist.ttvnw.net/v1/playlist/CrIEMoZn4YHam0I-zUH6KUyw4hQEzQ5A0uCBEkRyFX5_lCDFfLo9JxCaTw2iGkAU_MmlnvoqQyMLKdNOMF_Jfo7dXHn1sNq58MI3H23nJ0S0cpOxzlVcuStFlc7_8WUMrbK4VCcehUa35tJY1xnQJ60MjW8j7FzFj_kARkbNzKmZX1Fhlh-_GyF0TGVfwRK7Qeu2q7LD87irUQNbV7xyNMBDpJWijZlmIKDR6zDRo68JEaYbFo7Zn1jPptCmx5fZfjTrsgwXwiX6UuyU8G5lrG-UsEFLHVwSN1uW5MwsvzLQS4Opr6pqbNEogNoDUWgCzPiYwlpr8NxzJjDhSsWniUomhxl9ZL98ZzpmVDjbG8w-EE6MdZNPNEJ7ZAfyBeYNe7dFwHfgQ3Cx9S-gqQZpxuI-XYUz9KRMPUqtOZEOGtD3t_thh6-q0enOOTL1eADakvnKlvTCYFN4bgGmnMKoimH8JiKUWugHdEadqr-Scv4jNbUQT5oUQy-rsfG9anKzHNsHa8I7MuSJCUtbeoHwl99Tu0X1APuVFbI7XuqRW2S5OMr79SaJCiA9K20rQR1gsNolBi-FwmArBIB496KQJjGrEmhV87trdmzp6udQQxg71D3k05GbPD7Cmz7k1Oci-UOgfovVUmxewQU-lLR-jSzdkkabd-09LAb2CC1rDq1JTEaRcYmTRvtgkRh-B9YvBsKU5Ot1H1cKNO4Rql9odiKPOYH7QvhgxDOgx-sEbfwnxqcHpxoMNyB5M43dydIE-NxiIAEqCXVzLWVhc3QtMjDwDA.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
