@@ -116,7 +116,7 @@ https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
 https://v4.tustreaming.cl/calderavisiontv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="FAMILIARES",Canal 4 Jujuy | Argentina
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live1/playlist.m3u8
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="https://imgur.com/Ck2bFYn.jpg" group-title="FAMILIARES",Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
@@ -434,7 +434,7 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="Ninja Z" tvg-name="Ninja Z" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="CANALES INDEPENDIENTES",Ninja Z | Argentina
-https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4Im1R0m-tFJES
+https://mitv.zplay.cl/Ninja_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Norte Informativo TV" tvg-name="Norte Informativo TV" tvg-logo="https://i.imgur.com/eaU4Mtu.png" group-title="FAMILIARES",Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
@@ -550,14 +550,14 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online op2 | ND
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online op3 | ND
-https://live20.bozztv.com/akamaissh101/ssh101/chocobeats/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retrotoons" tvg-name="Retrotoons" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="INFANTILES",Retrotoons | ND
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://gia.tv/images/m3u-default.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
+https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="FAMILIARES",Senal Colombia | Colombia
 https://live20.bozztv.com/giatv/giatv-sc1604/sc1604/playlist.m3u8
@@ -709,10 +709,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS Retro" tvg-name="TVS Retro" tvg-logo="https://i.imgur.com/JV6Po2k.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-id="UCV TV" tvg-name="UCV TV" tvg-logo="https://neotv.cl/assets/img/channels/ucv-television.png" group-title="FAMILIARES",UCV TV | Chile
+#EXTINF:-1 tvg-id="UCV TV" tvg-name="UCV TV" tvg-logo="https://imgur.com/dHpRNM5.png" group-title="FAMILIARES",UCV TV | Chile
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UCV2 TV" tvg-name="UCV2 TV" tvg-logo="https://neotv.cl/assets/img/channels/ucv-television.png" group-title="FAMILIARES",UCV2 TV | Chile
+#EXTINF:-1 tvg-id="UCV2 TV" tvg-name="UCV2 TV" tvg-logo="https://i.imgur.com/KjPjyJH.png" group-title="FAMILIARES",UCV2 TV | Chile
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unetev HD" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="FAMILIARES",Unetev HD | Argentina
@@ -799,7 +799,7 @@ https://mitv.zplay.cl/Ztv/video.m3u8
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Goku Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="TV PREMIUM",24/7 Goku Tv
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Dragon Ball super
@@ -810,6 +810,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons 2
 https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",24/7 TOM AND JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
 
 
