@@ -59,7 +59,10 @@ https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op2 | Argentina
-https://comunidadtv.site:3119/live/aniplustvlive.m3u8
+https://stmv4.voxtvhd.com.br/tv101/tv101/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op3 | Argentina
+https://stmv4.voxtvhd.com.br/tv114/tv114/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai Tv | ND
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
@@ -260,7 +263,7 @@ https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 https://kali.vdopanel.com:3717/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="EstacionKusTv" tvg-name="EstacionKusTv" tvg-logo="https://imgur.com/7Nt6bnK.png" group-title="CANALES INDEPENDIENTES",EstacionKusTv | Mexico
-https://live20.bozztv.com/akamaissh101/ssh101/estacionkustv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/ekusmedios/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Estacion Mix Tv" tvg-name="Estacion Mix Tv" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=350x10000:format=png/path/sc40a039d49acf98a/image/icbe12cae2b3da2d2/version/1628894274/image.png" group-title="CANALES INDEPENDIENTES",Estacion Mix Tv | Argentina
 https://masplay120.github.io/playtv/estacionmix-playlist.m3u8
@@ -556,7 +559,7 @@ https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://gia.tv/images/m3u-default.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
+#EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://i.imgur.com/sD.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="FAMILIARES",Senal Colombia | Colombia
