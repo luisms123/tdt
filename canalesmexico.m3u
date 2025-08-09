@@ -1228,8 +1228,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons 2
 https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",24/7 TOM AND JERRY
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",24/7 Tom y Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
 ﻿
@@ -8542,15 +8542,9 @@ http://177.234.230.206:8011/play/a0pk
 http://177.234.230.206:8011/play/a0pz
 #EXTINF:-1 group-title="TV PREMIUM",ESPN AR
 http://177.234.230.206:8011/play/a0eh
-#EXTINF:-1 group-title="TV PREMIUM",ESPN CL
-http://177.234.230.206:8011/play/a0eh
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 2
 http://177.234.230.206:8011/play/a0ig
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 2 Sur
-http://177.234.230.206:8011/play/a0kg
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 AR
-http://177.234.230.206:8011/play/a0kg
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 CL
 http://177.234.230.206:8011/play/a0kg
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 3
 http://177.234.230.206:8011/play/a0ox
@@ -8558,45 +8552,19 @@ http://177.234.230.206:8011/play/a0ox
 http://177.234.230.206:8011/play/a01e
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 3 AR
 http://177.234.230.206:8011/play/a0ad
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 HD CL
-http://177.234.230.206:8011/play/a0ad
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 CL
-http://177.234.230.206:8011/play/a0ad
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 4
 http://177.234.230.206:8011/play/a0q0
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 4 Sur
 http://177.234.230.206:8011/play/a0ol
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 4 AR
-http://177.234.230.206:8011/play/a0ol
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 4 CL
-http://177.234.230.206:8011/play/a0ol
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 5
-http://177.234.230.206:8011/play/a0dr
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 5 Sudamérica
 http://177.234.230.206:8011/play/a0dr
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 5 CL
-http://177.234.230.206:8011/play/a0dr
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 6
-http://177.234.230.206:8011/play/a0iz
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 6 Sudamérica
-http://177.234.230.206:8011/play/a0iz
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 6 AR
-http://177.234.230.206:8011/play/a0iz
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 6 CL
 http://177.234.230.206:8011/play/a0iz
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 7
 http://177.234.230.206:8011/play/a0q1
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 7 CL
-http://177.234.230.206:8011/play/a0np
 #EXTINF:-1 group-title="TV PREMIUM",ESPN Deportes
 http://177.234.230.206:8011/play/a0np
 #EXTINF:-1 group-title="TV PREMIUM",ESPN Premium
-http://177.234.230.206:8011/play/a0o6
-#EXTINF:-1 group-title="TV PREMIUM",ESPN PREMIUM AR
-http://177.234.230.206:8011/play/a0o6
-#EXTINF:-1 group-title="TV PREMIUM",ESPN Premium CL
-http://177.234.230.206:8011/play/a0o6
-#EXTINF:-1 group-title="TV PREMIUM",ESPN INTERNACIONAL
 http://177.234.230.206:8011/play/a0o6
 #EXTINF:-1 group-title="TV PREMIUM",ET Canal El Tiempo
 http://177.234.230.206:8011/play/a0bb
@@ -8682,42 +8650,104 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM",DAZN F1
+#EXTINF:-1 group-title="Solo Guia EPG",DAZN F1
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Azteca Deportes
+#EXTINF:-1 group-title="Solo Guia EPG",Azteca Deportes
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Caliente TV
+#EXTINF:-1 group-title="Solo Guia EPG",Caliente TV
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Claro Sports
+#EXTINF:-1 group-title="Solo Guia EPG",Claro Sports
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM",Fox Deportes
+
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN
+http://177.234.230.206:8011/play/a0pz
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN AR
+http://177.234.230.206:8011/play/a0eh
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN CL
+http://177.234.230.206:8011/play/a0eh
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 2
+http://177.234.230.206:8011/play/a0ig
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 2 Sur
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 2 AR
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 2 CL
+http://177.234.230.206:8011/play/a0kg
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 3
+http://177.234.230.206:8011/play/a0ox
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 3 Sur
+http://177.234.230.206:8011/play/a01e
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 3 AR
+http://177.234.230.206:8011/play/a0ad
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 3 HD CL
+http://177.234.230.206:8011/play/a0ad
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 3 CL
+http://177.234.230.206:8011/play/a0ad
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 4
+http://177.234.230.206:8011/play/a0q0
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 4 Sur
+http://177.234.230.206:8011/play/a0ol
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 4 AR
+http://177.234.230.206:8011/play/a0ol
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 4 CL
+http://177.234.230.206:8011/play/a0ol
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 5
+http://177.234.230.206:8011/play/a0dr
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 5 Sudamérica
+http://177.234.230.206:8011/play/a0dr
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 5 CL
+http://177.234.230.206:8011/play/a0dr
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 6
+http://177.234.230.206:8011/play/a0iz
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 6 Sudamérica
+http://177.234.230.206:8011/play/a0iz
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 6 AR
+http://177.234.230.206:8011/play/a0iz
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 6 CL
+http://177.234.230.206:8011/play/a0iz
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 7
+http://177.234.230.206:8011/play/a0q1
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN 7 CL
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN Deportes
+http://177.234.230.206:8011/play/a0np
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN Premium
+http://177.234.230.206:8011/play/a0o6
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN PREMIUM AR
+http://177.234.230.206:8011/play/a0o6
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN Premium CL
+http://177.234.230.206:8011/play/a0o6
+#EXTINF:-1 group-title="Solo Guia EPG",ESPN INTERNACIONAL
+http://177.234.230.206:8011/play/a0o6
+
+#EXTINF:-1 group-title="Solo Guia EPG",Fox Deportes
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Fox Sports Norte
+#EXTINF:-1 group-title="Solo Guia EPG",Fox Sports Norte
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Fox Sports
+#EXTINF:-1 group-title="Solo Guia EPG",Fox Sports
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS AR
+#EXTINF:-1 group-title="Solo Guia EPG",FOX SPORTS AR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FOX Sports CL
+#EXTINF:-1 group-title="Solo Guia EPG",FOX Sports CL
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 2
+#EXTINF:-1 group-title="Solo Guia EPG",Fox Sports 2
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 2 AR
+#EXTINF:-1 group-title="Solo Guia EPG",FOX SPORTS 2 AR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FOX Sports 2 CL
+#EXTINF:-1 group-title="Solo Guia EPG",FOX Sports 2 CL
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 3
+#EXTINF:-1 group-title="Solo Guia EPG",Fox Sports 3
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FOX SPORTS 3 AR
+#EXTINF:-1 group-title="Solo Guia EPG",FOX SPORTS 3 AR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FOX Sports 3 CL
+#EXTINF:-1 group-title="Solo Guia EPG",FOX Sports 3 CL
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Fox Sports Premium
+#EXTINF:-1 group-title="Solo Guia EPG",Fox Sports Premium
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FOX Sports Premium AR
+#EXTINF:-1 group-title="Solo Guia EPG",FOX Sports Premium AR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FOX Sports Basico
+#EXTINF:-1 group-title="Solo Guia EPG",FOX Sports Basico
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
 
 ﻿
@@ -8760,13 +8790,11 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Especial 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CeciliaOrson 
-https://use21.playlist.ttvnw.net/v1/playlist/CskERhWC8Z8rEU-dBAJ-SazyfLID9hDBo6vVapT2k50vcydkTPzFcSsFRPIWhA8UUuWy0eQ0Sadn0YTdO6vslf8JRb7IRDANwKRyEDQvyPGUr6uQDL1z4OxX59p_EQQB9DqiwIeD-VR3wq-EihhMnwvgoJ4rYD1bcbgHZpFbZLfL6QWlG7euEzzejlqUluCnEQwNrQmfyEZ9zZ0gnK6pZYBLfv6Nr5F6-CWpk_5YAmMg4-dv9RyeJyqFT-Adr6yGLf2rtFW-AJbmCvWTrMdiSdrTcQHGE8tsOKSBo1YZOITuyIzL0HThup7-Ae3okkIEDmd6bH4QxIn4D47bxctQdCJDL3evGZl6mwEvQzM8kbhFrybAcjj6kJYHGwwHju0pbUOyeBPD9xTEVT3iVTIU3Da3Cv_hKW02f8epNRFetlMg7hpyvIAj6lMakXDupDUMsKxMTs9hdS7g9WoVbzpTDztmZk7l3RFRnkzF46yvBDFACrM5cp7oOGm1F8aO_JEJtcvuRhoOsXccV70QaY844iZtpv9JEvj6I1jQTmDYoZ99re06p6jR8hFa0LXaLJsaRQctkVGsCjuTJo5lLXKGX__GAZtVx5Bb5HDWOVMvmyC89wGvhNzX_7ARZ1Sk3znmDjaBM-g6b_nQ8EbIFSX8bhFKmgcY_DE_kVe9Walgnv8gP1S6eE_5A5EJKupGkWkJTBDjsI1CD7EPd3jKh7UvZRb8usdB7PntObwlEWWn6MqnYH1naaNlO8T9Sqn2aOrIP_F2PRcT04AZ29-UGgxZVwj85EsiljRBqLEgASoJdXMtZWFzdC0yMPcM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CineMX4 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ZAZ Tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
-https://use23.playlist.ttvnw.net/v1/playlist/CtsE70PdJLQGroDELRQBlmIXXjtL2hIOrbLdilkw1T-Ik5_ZSo_Z5zWhADRiaMItnaiX5PxOO7wyPTHRXCJiofkF9b9mfd-61kDoOVsQazlMRPOEsiX3vL3m6Rygwc4wnXASDnyaGZjkJVamHZYzKfIpYpXA7GwXoZCaoi6RSWTLc-xB58R0kNENk9RnwauMp82amlKzaABTUHHj91pITDpqccMLQPvIagLoSEVnUUKjhEUkKu3Y4JtAYqDCjPwkqKf-okUy18a8fKg1oCya7ngnW4pzI9HSynl0RvTVazVarWe74kkcwrwy8kgvbTlxVFKkuxTjAdw1cFM607yN2uIPKQQXmOdMXJm_a06ysZSvLivPwyfqJZsVbzMhmh1ukPd-zdfoqxEP6V8KEf7UynJ469bxtvKBG5cuBQg0UQ082U-QFdessvzeWVfES9WQhmVFtuPVb-s7Oq1V_xvq-r93SeDfrfFkOqfa0TmY8inNDqHLWm28CdE9RDGZ8Ggvl0VXCJmd32XLBUcdbDKaFpvB3RXxp05R8Z794dbYb0aV2zqRTzd-s5WBKlQPHFWqE_Q9-6Iz8dDQZPCgRJbhsR_bLyGYTysQwuk--NdSSfE-yLjMfLz4wOoquEOIDX3V4Jfv4nmliNVVShJZa7lvHeDmmUuaX9bgRZoGCAjc8u0hTwDIzo9SVwVgvrCVrq_KBdOo1UYLmOS5ba5GAkfR3G5f7z0PMJcy9ccl3ImwVg-LYJEP1AZlZGNKyWEZIo-SjNpIeC2jTA1mZVbPZBt16SLoU4wJXM7zlHrjOx-NGgzKuHh74E0u_rbFxDcgASoJdXMtZWFzdC0yMPcM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
@@ -8778,7 +8806,7 @@ https://use23.playlist.ttvnw.net/v1/playlist/CtsE70PdJLQGroDELRQBlmIXXjtL2hIOrbL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-https://use21.playlist.ttvnw.net/v1/playlist/CqwEVH0OTu6m94ftbxFbvnLh8-SVWKWEHHYgags794YCcuZQMMef93I73L-8DO2bRTLXUVTvUk5nhs2Sp-h_vt6c_gMlVEOQjuu96gxrHdRvY8wR7tS_kZdHSEnkr6ByqEX3M0o-6sYNXo8kcCzfaJfH8SA6ewxl0HoxEgqhkLMGEPQBOEpfSWLGXuo53kkkpPjOe8OPzatNK6NJ0GW3m73zK-Yur5OphghJUfFyPyUtO02L-YSEGSNvsdYkeer8ClPxvy4Y2LefO6x3HNcWwwofQFtK2CLlAyZFuZOS1oRaZUgk-KYB7zzmfnttd31gtGwlsal_Euz4wdOQcSJqg5396Pza6LOgj7W_bDs28ONNtpZiZljcR788yU-XjQCbbzqohOe4-kBrcLtRSh8_CRnJfu1vB5YGR62j5e7ohqlt_Q7bdwK9iIYKoQt83824_uS_wNtkIfgy3FaI8sQwT6psdaUZwgwSZZm0JXoHzDngmUW993oo1jcN2hd8ir2Ry_TZ3Je5N0s3y8ZMrm8ktn6GYBseWixer56BaqdVwlNG7rPlxCbA8r-Qj4Ndi_SPA4IRU6G_xOT75hY6tIHF7LsbgDjaq8CEKH_t1ACm24HwBP9wbBuliJqGvAVtAxqf6Gn_KbT5SgOwM-4zOje37f8lb3hecDKQwTO7HEhq0uQrFfaZVcZOSHzyWfqkF3XprZpZbKz8aIzDEcg6YsNGTQ7AX3WJ0RfbWsJavGMYsBoM7Q5LJEkJVJIn6BNHIAEqCXVzLWVhc3QtMjD3DA.m3u8 
+https://use23.playlist.ttvnw.net/v1/playlist/CqwEXtfamobPG36otibrSzAk6nyaB_3kOTZEhgTasxVWYgRnj3hxjuyywSCsGS0caneFnFppo6J1JYLDNIkoyhudKY2x02imCuzWBs6rA4voV5C2Z6hYEevzbYUCn7r-dXwIzLUUxoXlezK2CBw-GebrYVrZ_M0i-_bZFZxXn881UcAZRfzx9hkZXSuTtK6ob1H0IZ2N9N9JA5MbTPftY2tx2iTPgIBkdw1XoO13L3a7xPKwlA3H5hMfH3Wzn7WRfg5dAFzcwyv5nXnbVg9f_OUG140IYiswhb1wT1SHaL14mbvu8lj4JSmfkPOGKM30fpHrpcknsWMZu74odHSIxfK40rQdnpY0ouipyOYIS2cWhKRzpmm7jRt9T0W6Y5ywGunlWkMf5syJ_6eZ4jEFfkWPzFNNlXQWKpD7PD5oVTPqX5yH7lzqBUE8Lded9bTj01DLcLC_ASomyt0CK5g0xvWhWuQo7wnBILq_4ZWWlitmeLHEm3HDGgXEBhcCVhWNugC4SetiRYIwwp5GjV9hFEI6pzD7bIazTcrYBTlkP3kiBuj1-b1eTQAwKhGtMDYeAB0K28qdIJjkMtUh_XAT7kyGBeqL47V1SukddF64ycJYMMx6DNZd_Xu5foa4idyL-dUMeMSlhjqaBWVMbQwV0d8knz3tMck6XOt5rmv66I4Uvog5qjIbLIuj9G1XR3_aJD4DcisSIBq07MV05fV3FXdd31Jtol3rh_Hmld6Y2hoMiOvJiEYsNlJBZPffIAEqCXVzLWVhc3QtMjD4DA.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
 
