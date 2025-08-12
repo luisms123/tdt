@@ -83,13 +83,7 @@
   },
 "id-17": {
     "nombre": "Milenio Tv",
-    "yt_embed": "https://www.youtube.com/embed/CSXA3ICbX-8",
-    "pais": "mx"
-  },
-"id-18": {
-    "nombre": "Locomotion Tv",
-    "iframe_url": "http://locomotiontv.com/envivo/",
-    "fuente": "http://locomotiontv.com/envivo/",
+    "iframe_url": "https://www.youtube.com/embed/CSXA3ICbX-8",
     "pais": "mx"
   },
 "fox": {
@@ -132,6 +126,12 @@
     "nombre": "Jetix",
     "iframe_url": "https://jetix2021.jahh19channel.xyz/",
     "fuente": "https://jahh19channel.xyz/",
+    "pais": "mx"
+  },
+"id-locomotion": {
+    "nombre": "Locomotion Tv",
+    "iframe_url": "http://locomotiontv.com/envivo/",
+    "fuente": "http://locomotiontv.com/envivo/",
     "pais": "mx"
   },
 "gogoplay": {

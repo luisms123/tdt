@@ -1,0 +1,70 @@
+﻿#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS | Mexico
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro | Chile
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+
+#EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="CANALES INDEPENDIENTES",Energeek Radio TV | Chile
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
+
+#EXTINF:-1 tvg-id="Energeek Pop" tvg-name="Energeek Pop" tvg-logo="https://neotv.cl/assets/img/channels/eg-pop.png" group-title="CANALES INDEPENDIENTES",Energeek Pop | Chile
+https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
+
+#EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV | Chile
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
+
+#EXTINF:-1 tvg-id="AZTV" tvg-name="AZTV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV | Republica Dominicana
+http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op2 | Argentina
+https://stmv4.voxtvhd.com.br/tv101/tv101/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai Tv | ND
+https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado | Mexico
+https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
+#EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanade LA" tvg-name="Kanade LA" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade LA | Argentina
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
+
+#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico op2| Argentina
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online | ND
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
+https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://i.imgur.com/sD.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
+https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="CANALES INDEPENDIENTES",VariedTV | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="TV PREMIUM",24/7 Goku Tv
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Dragon Ball super
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",24/7 Tom y Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
