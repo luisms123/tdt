@@ -434,7 +434,7 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon Espana" tvg-name="Nickelodeon Espana" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="INFANTILES",Nickelodeon Espana HD | Spain
-http://185.189.225.150:85/nickelodeon/index.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/NICK/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="Ninja Z" tvg-name="Ninja Z" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="CANALES INDEPENDIENTES",Ninja Z | Argentina
 https://mitv.zplay.cl/Ninja_Channel/index.m3u8
@@ -605,6 +605,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica | Argentina
+https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Tec TV" tvg-name="Tec TV" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="FAMILIARES",Tec TV | Argentina
