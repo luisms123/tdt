@@ -394,21 +394,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega Cine Tv" tvg-name="Mega Cine Tv" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Classic | Colombia
-https://stmv6.voxtvhd.com.br/memoriasclassic/memoriasclassic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Memorias Film" tvg-name="Memorias Film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Film| Colombia
-https://stmv6.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Memorias Series" tvg-name="Memorias Series" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Series | Colombia
-https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Memorias TV" tvg-name="Memorias TV" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias TV | Colombia
-https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Memorias Salsa" tvg-name="Memorias Salsa" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Salsa | Colombia
-https://stmv6.voxtvhd.com.br/memoriassalsa/memoriassalsa/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
@@ -838,10 +823,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons 2
 https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 MaxCartoon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Canal 5 Vision Latina
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Produciones
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Nextv
 https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",24/7 Tom y Jerry

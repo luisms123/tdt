@@ -805,21 +805,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/maxtvstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega Cine Tv" tvg-name="Mega Cine Tv" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Classic | Colombia
-https://stmv6.voxtvhd.com.br/memoriasclassic/memoriasclassic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Memorias Film" tvg-name="Memorias Film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Film| Colombia
-https://stmv6.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Memorias Series" tvg-name="Memorias Series" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Series | Colombia
-https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Memorias TV" tvg-name="Memorias TV" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias TV | Colombia
-https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Memorias Salsa" tvg-name="Memorias Salsa" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Salsa | Colombia
-https://stmv6.voxtvhd.com.br/memoriassalsa/memoriassalsa/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
@@ -1249,10 +1234,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons 2
 https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 MaxCartoon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Canal 5 Vision Latina
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Produciones
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Nextv
 https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",24/7 Tom y Jerry
@@ -8490,10 +8475,10 @@ http://45.181.123.233:8000/play/a0nm
 #EXTINF:-1 tvg-id="Senpai TV" tvg-name="Senpai TV" tvg-logo="" group-title="TV PREMIUM",Senpai TV | Chile
 http://45.184.87.142:8000/play/a021
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast | Colombia
 http://45.181.123.233:8000/play/a17g
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op2
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op2 | Colombia
 http://181.119.86.1:8000/play/a09y
 
 #EXTINF:-1 group-title="TV PREMIUM",Volver | Argentina
@@ -8501,6 +8486,41 @@ http://200.60.124.19:29000/play/a0k2/index.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-s.jpg" group-title="TV PREMIUM",El Nueve | Argentina
 http://fortv.cc:8080/54514663/54514663/164869
+
+#EXTINF:-1 tvg-id="Memorias 921" tvg-name="Memorias 921" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias 921 | Colombia
+http://190.60.41.187:45000/play/a0jl/index.m3u8
+#EXTINF:-1 tvg-id="Memorias 921" tvg-name="Memorias 921" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias 921 | Colombia
+http://190.60.41.187:45000/play/a0jl
+
+#EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Classic | Colombia
+http://190.60.41.187:45000/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Classic | Colombia
+http://190.60.41.187:45000/play/a0ji
+
+#EXTINF:-1 tvg-id="Memorias Corazon" tvg-name="Memorias Corazon" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Corazon | Colombia
+http://190.60.41.187:45000/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-id="Memorias Corazon" tvg-name="Memorias Corazon" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Corazon | Colombia
+http://190.60.41.187:45000/play/a0jj
+
+#EXTINF:-1 tvg-id="Memorias Film" tvg-name="Memorias Film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Film| Colombia
+http://190.60.41.187:45000/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-id="Memorias Film" tvg-name="Memorias Film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Film| Colombia
+http://190.60.41.187:45000/play/a0jk
+
+#EXTINF:-1 tvg-id="Memorias Series" tvg-name="Memorias Series" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Series | Colombia
+http://190.60.41.187:45000/play/a0jn/index.m3u8
+#EXTINF:-1 tvg-id="Memorias Series" tvg-name="Memorias Series" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Series | Colombia
+http://190.60.41.187:45000/play/a0jn
+
+#EXTINF:-1 tvg-id="Memorias Toons" tvg-name="Memorias Toons" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Toons | Colombia
+http://190.60.41.187:45000/play/a0jo/index.m3u8
+#EXTINF:-1 tvg-id="Memorias Toons" tvg-name="Memorias Toons" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Toons | Colombia
+http://190.60.41.187:45000/play/a0jo
+
+#EXTINF:-1 tvg-id="Memorias Tropical" tvg-name="Memorias Tropical" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Tropical | Colombia
+http://190.60.41.187:45000/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-id="Memorias Tropical" tvg-name="Memorias Tropical" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Tropical | Colombia
+http://190.60.41.187:45000/play/a0jm
 
 #EXTINF:-1 group-title="TV PREMIUM",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -8835,7 +8855,6 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
-https://use22.playlist.ttvnw.net/v1/playlist/CtIErSm72QUNz5S4ffixGe3RPU0i6S79CAid9tE0_M1uyeTxXmNBA14G60CcRr7bDx2yABVMwpbBIlSR4o1oX3dX_ZSZKjDpEztnefJFBt_11etjQe4RhPpLpEnUTklT6CDFj07su3-hunw71qaWoQ4989rbRFQqUTZwCSuX5adSAs2fEEArdo_sfnVbDsG9agC_PJHbgQAW-D8mDLtozcZcmoCd-WF65jwv9paZzbGc29SLZO_ng9E7N-cxR__9keDHmm0jC1FpZ1viArw_0MsLD9IRUvwg7DYcSGLWB4epFs9CwJHFcrU9A_JwlU7fwrDbmKucsntHhOeDSP9tH-V3_5SLK57iJ91jZzHY-AnXARNX2qEO9BidXNvc8CFsm1hMkP2mcxI4-m6YhSZzCRRiE6fXkbl7w18sWc72ptd29LksVo1aO2t7xCLYoVEm0cMBWe99xIkmcd32omaqf0AQldYfQQMfouEgUmJ__H_IRLa5GDRwcFSFHFWXZYVC8ak-J2Lzrq-Hmkq1VSVMPveS2uhu6qdnyEvbd0vphs2pGmf7rZjz9nBzEHKSfgfQSOGgJF_5bQzOisSdDRALv2hEbxFxnYn2diT9L95uxkWnupHUdo1YUHwCenB-nOdY9McsMnCfXwQZ5lTMyin1s0eIyDWiuz5Qz_mRaqY8LBd3yDqDpGvi5GgB7xnIRLWvw9iq5Df_mUZBtdC7dUrxxlNlJVj0HN8W5wbJLv8yG6k98DCR6eLRkroF2bblqwbBVUH6rIiGWnEbNN4P5CuJY6JZP6FYGgxZdNQ9BmKeZx-g0hogASoJdXMtZWFzdC0yMIcN.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
