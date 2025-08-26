@@ -1864,13 +1864,13 @@ http://72.249.55.100:9846/;
 https://stream.zeno.fm/klrhhk7qmswuv
 
 #EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/61b09d328b87a.jpg" group-title="RADIOS LATINAS",Radio Within Temptation
+http://stream.pcradio.ru/Within_Temptation-med
+
+#EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/61b09d328b87a.jpg" group-title="RADIOS LATINAS",Radio Within Temptation op2
 https://stream.pcradio.ru/Within_Temptation-med
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/98742.v2.png" group-title="RADIOS LATINAS",Radio Rock-Anhalt
 https://rock-anhalt.stream.laut.fm/rock-anhalt?t302=2025-07-12_16-28-49&uuid=f1cbc978-6e70-40f0-882d-8156ca64a272
-
-#EXTINF:-1 tvg-logo="" group-title="RADIOS LATINAS",Radio Bahia 947
-https://streaming01.shockmedia.com.ar:10842/stream
 
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ayjlunmfjje7.png" group-title="RADIOS LATINAS",Radio Exclusively Alanis Morissette
 https://2.mystreaming.net/er/alanismorissette/icecast.audio
