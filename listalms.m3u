@@ -467,7 +467,7 @@ https://live20.bozztv.com/giatv/giatv-opinionsurn/opinionsurn/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-opinionsurs/opinionsurs/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/heJNpjQ.png" group-title="CINE",Orbit TV | Republica Dominicana
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 
 #EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="INFANTILES",PakaPaka | Argentina
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
@@ -707,7 +707,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/756
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-id="TV Costa" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg" group-title="FAMILIARES",Tv Costa | Chile
-https://tvcosta.webredirect.org:9443/hls/live.m3u8
+https://tvcosta.gleeze.com/981a9598-b521-4051-b32a-066941e23967.m3u8
 
 #EXTINF:-1 tvg-id="Tv En Linea" tvg-name="Tv En Linea" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="FAMILIARES",Tv En Linea | Peru
 https://live20.bozztv.com/akamaissh101/ssh101/ucchullo/playlist.m3u8
@@ -821,7 +821,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons 2
-https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/simplatn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Canal 5 Vision Latina
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8

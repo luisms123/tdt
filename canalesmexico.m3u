@@ -878,9 +878,6 @@ https://live20.bozztv.com/giatv/giatv-opinionsurn/opinionsurn/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-opinionsurs/opinionsurs/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/heJNpjQ.png" group-title="CINE",Orbit TV | Republica Dominicana
-http://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
-
-#EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/heJNpjQ.png" group-title="CINE",Orbit TV op2 | Republica Dominicana
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 
 #EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="INFANTILES",PakaPaka | Argentina
@@ -1121,9 +1118,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/756
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-id="TV Costa" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg" group-title="FAMILIARES",Tv Costa | Chile
-http://tvcosta.gleeze.com/981a9598-b521-4051-b32a-066941e23967.m3u8
-
-#EXTINF:-1 tvg-id="TV Costa" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg" group-title="FAMILIARES",Tv Costa op2 | Chile
 https://tvcosta.gleeze.com/981a9598-b521-4051-b32a-066941e23967.m3u8
 
 #EXTINF:-1 tvg-id="Tv En Linea" tvg-name="Tv En Linea" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="FAMILIARES",Tv En Linea | Peru
@@ -1238,7 +1232,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Los Simpsons 2
-https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/simplatn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",24/7 Canal 5 Vision Latina
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8
@@ -8856,13 +8850,11 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Especial 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CeciliaOrson 
-https://use22.playlist.ttvnw.net/v1/playlist/CssETn5pSu76mHz8P9FmdMxZ04K5Nxz8iS7kVCou1C6vR_ubstranIt5aQs43M_HyU7Ld9O3tf_KtskaQ7y4WePYaeD2IcGkDtkDCpQI2LQjcOt-vzJoymGZ1lHHD2LZp7yW7ts1ph_AghjBNNlBpKeEe37EcJwz8_6mVmMGbjRJcQ1YcuzEysOxdsLH4956hVh8yyxERjPshSmcjqWMBaRFaSkY0iPPFNwXdeBXCN5Da0zYPn3FB5EA-drwyt8vG2KWAku30A7YpFagOckqLdVzJujGQZDsKsuxaHEZoQBHoafLMpZbWSUunZrMypKQSNY39kPfV8_u6nU8ETOl5yHFUyoQZ78AMtxxo9-OTYtHxibf3BaZjNqyzEvPpB6i7h05pvr3xfdu4RlJIq7JLEOl1d5DBLYaTr2BgXcM2KKTTm29v-ssDSkQvQq776NLlMA1bwgFhkpgC8y7D-7DQ-yiK1EeqpmrrTk1-fkq92IbLmo1MADg8q41232Xzt-Z--wJ89uldZHoyRtg5qDf_6123NRhGMd5AzEFs0RyzrWE9_2RJ8ojrbJcELlqj-EUH2BMiHScb4Ok-IUXSt-isin2aJ81PWpJlJ-7I3XGNnTxjH56QnlI421x0x4UIjtCc-sYYh4Yk4e0bcA2ckR1OqHSxbHoXGiCmUfyYEIy7Wy3vQNZ8RgpjJW97zSgCLFVNlqWOteumAm2t50Yq2p6bXYVbfl6Zqk3wl6P1-nYIWz5a5MXwsvU3smZjcYAeh1Y2jwk6pL4gapIN5AHlOcaDJydB7NtaTCBfE6IcSABKgl1cy1lYXN0LTIwjQ0.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CineMX4 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ZAZ Tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
-https://use21.playlist.ttvnw.net/v1/playlist/CtIEOormw_lbYIW0PMRLKoTL5VI_mqr5Fl7SV_xOG2gkFWCIA-1zgHP4uh82DGh6dis2ZbNEHHVLc4AcwKBR0PMYIPHEdCt2FhGBpOpgq1nKq56dB6n8k93ZaWvqVZpS9HtQp_aM6Wwea_GjcS4rEoMvkr84acDb4auCk85CmPAYTjq_KbLEVxDkHAFOz-FZFmp9qaFiW3pPFfO3MbXRRZcdYl5qBvhu42s5nhSwe-VeBIkCrgdKjPfrciBgWWGeoDF_O57KtOPLIU0oB5UUvwU_MplCIlH5TyewimHIuUclQQC-RnOy-epdYr2OkHIxtoDBPRbeOYaoHD00GNgwTsX-5JMRXZHZfEd0hE0kzKqAUrV7hCtnoudxESM9kGpA6dsl6X3PKZo3wrIjtkqmWDeKHasS2NZT0TITodYmxP8IABe94_h4iNv2GU0QIAA0lA0ZImjiEPWed1hUO34bo3MLbUPfKxaOKu5u76H1buNHhUH6KSH8dlReWGVd_hXZ7SATLWPgeyhi2EE8kGh4wVs2Sp6o8PHOh5ynUhJNOY6QjZbMGE5DaQimDaIP0kaoDAttzCHJCXHyGfrRs92YxvvFLGcuYao2C_GvBwYKVm__R00vWvCfOSARE05_V09qqzMBHrEM4u4ujp2lSDuxz6ecJZQJp3_l95OsNFgGdRF6aSM8azWFOYSZ9fhq9t5bQVTN8gL3u238JRp-fgXxHezLMf80VaG61nicAFF6khSayuFdmbKy2i1zllsAWj11uRLTz88YvWAQL05W1AaPN__wLvJ_Ggzi6RxCpjyrFmYRy2QgASoJdXMtZWFzdC0yMI0N.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
