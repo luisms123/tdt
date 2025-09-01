@@ -386,7 +386,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/maxtvstreaming/playlist.m3u8
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Miramax Tv" tvg-name="Miramax Tv" tvg-logo="https://i.imgur.com/vIa08pj.jpg" group-title="CANALES INDEPENDIENTES",Miramax Tv | ND
 https://live20.bozztv.com/akamaissh101/ssh101/miramaxtv/playlist.m3u8
@@ -799,31 +799,31 @@ https://mitv.zplay.cl/Ztv/video.m3u8
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="TV PREMIUM",24/7 Locomotion 2
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="TV PREMIUM",-Locomotion 2 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="TV PREMIUM",24/7 Goku Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="TV PREMIUM",-Goku Tv 24/7
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="TV PREMIUM",24/7 Dragon Ball super
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="TV PREMIUM",-Dragon Ball super 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",24/7 Los Simpson
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Los Simpson 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",24/7 Los Simpsons 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Los Simpsons 2 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simplatn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",24/7 Canal 5 Vision Latina
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Canal 5 Vision Latina 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",24/7 Nextv
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Nextv 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",24/7 Tom y Jerry
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",-Tom y Jerry 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",24/7 Tom y Jerry op2
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",-Tom y Jerry op2 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
