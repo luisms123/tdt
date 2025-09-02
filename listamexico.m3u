@@ -757,13 +757,13 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading Brasil" tvg-name="Loading Brasil" tvg-logo="https://i.imgur.com/eiCT1i1.png" group-title="JOVENES Y ADULTOS",Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion op1 | Republica Dominicana
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="JOVENES Y ADULTOS",Locomotion op1 | Republica Dominicana
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion op2 | Republica Dominicana
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="JOVENES Y ADULTOS",Locomotion op2 | Republica Dominicana
 http://85.239.54.197:81/live/loco_low/index.m3u8
 
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion (LQ) | Republica Dominicana
@@ -8889,4 +8889,5 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
+https://use21.playlist.ttvnw.net/v1/playlist/CrEEsz2vQadTvhGQgQMXT1s_ZTL-knxpagcru8uIOTk8lOOJWTkKI5Q6cCUmoJlMYLL27oMlZ-z0qWy74wVqrebRWeusV2lwRugcXf6an2g2qdtRVeiHUetgWOlhZ4WGCZmZNYnxNrq8cULg_9nRI8nyEwN8EJS3-sLUoAnPtHFZConnfD2tKRT2XSq_06LZfyL9WZtrT6HL_l7XPXUEgIhUGBRmG--FSQ_uQHU540kgTox1vqQtVrat5B0Cit689XVp30MCJN4MK6uSGPYcU8ScQsxbQT-CNfBesgBhpRarQvrcN2RGH-8pkdMZ6-DmYzqSMfE-geVPEzusm4rQ9sdoaqVuDkiRuJdOFNNX6cs8gxq0B0n7LjwTpEi7oLuPtZnXrxp_YSMUB9aBkcQNGD55LyGq8QDUONnZaGiiEupponRkszqV3D263K7AkbUJZcrT8Uwwc5NTCpQx3qTWjFXMEQ00JloKLK077IwsXWnp9mtEsh87hzbF8yFbiAuxgE-ojuY-9WUZm5sIdsmIkUNfd1-m3utUlq3_qQPDly2x6ViIh6g5Z-Qf9JLIxkWCkYWawWSgUMpxJSwLaWVznIUUVIYT9OMV4n3vafHh8dtAF-qSwsnk0taib7_f-YuXL7DUQPmDsiB_dVBG-tKNdB3ZesJB-yddAXasiBxZFaddOx_MiSk3LrI22LJ73fT-_Aj6iQ_uhXWK3Ie4flyUMDSmmHNIhQPC4hLJ5Q9l4W-4bcfoGgwKBtvrN5OuGMs4lmkgASoJdXMtZWFzdC0yMJAN.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
