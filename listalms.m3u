@@ -172,6 +172,12 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Clasico LAT" tvg-name="Cartoon Clasico LAT" tvg-logo="https://imgur.com/VhTtcXx.jpg" group-title="INFANTILES",Cartoon Clasico LAT | Argentina
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cartoon Classics" tvg-name="Cartoon Classics" tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="INFANTILES",Cartoon Classics | ND
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cartooncito" tvg-name="Cartooncito" tvg-logo="https://gia.tv/streams/logo/208284.jpg?1756618557" group-title="INFANTILES",Cartooncito | ND
+https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://i.imgur.com/nZz0o9I.png" group-title="CANALES INDEPENDIENTES",Casa Grande TV | Argentina
 https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 
@@ -247,6 +253,9 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
 #EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://imgur.com/xksFQ5T.png" group-title="CANALES INDEPENDIENTES",Diti TV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="JOVENES Y ADULTOS",Dragon Ball Super | ND
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
@@ -316,6 +325,9 @@ https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Goku Tv" tvg-name="Goku Tv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="JOVENES Y ADULTOS",Goku Tv | ND
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Iquique Tv" tvg-name="Iquique Tv" tvg-logo="https://iquiquetv.cl/wp-content/uploads/2020/05/iquiqueTV_logo_202005_272x90.png" group-title="FAMILIARES",Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 
@@ -346,20 +358,29 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading Brasil" tvg-name="Loading Brasil" tvg-logo="https://i.imgur.com/eiCT1i1.png" group-title="JOVENES Y ADULTOS",Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="JOVENES Y ADULTOS",Locomotion op1 | Republica Dominicana
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion op1 | Republica Dominicana
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="JOVENES Y ADULTOS",Locomotion op2 | Republica Dominicana
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion op2 | Republica Dominicana
 http://85.239.54.197:81/live/loco_low/index.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion (LQ) | Republica Dominicana
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion (LQ) | Republica Dominicana
 http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
+
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://imgur.com/Z6HJvy8.png" group-title="JOVENES Y ADULTOS",Los Simpson 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://imgur.com/Z6HJvy8.png" group-title="JOVENES Y ADULTOS",Los Simpsons 2 24/7
+https://live20.bozztv.com/akamaissh101/ssh101/simplatn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
@@ -664,6 +685,12 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/sI2lUuY.png" group-title="CANALES INDEPENDIENTES",Tigueritos TV | Republica Dominicana
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tom y Jerry" tvg-name="Tom y Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTILES",Tom y Jerry 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Tom y Jerry" tvg-name="Tom y Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTILES",Tom y Jerry op2 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 
@@ -799,31 +826,10 @@ https://mitv.zplay.cl/Ztv/video.m3u8
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="TV PREMIUM",-Locomotion 2 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="TV PREMIUM",-Goku Tv 24/7
-https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="TV PREMIUM",-Dragon Ball super 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Los Simpson 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Los Simpsons 2 24/7
-https://live20.bozztv.com/akamaissh101/ssh101/simplatn/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Canal 5 Vision Latina 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Nextv 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",-Tom y Jerry 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="TV PREMIUM",-Tom y Jerry op2 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
