@@ -344,7 +344,7 @@ https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 https://streams.kanade.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
-https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Invasiva TV" tvg-name="Invasiva TV" tvg-logo="https://imgur.com/AuHSQ03.png" group-title="CANALES INDEPENDIENTES",Invasiva TV | Paraguay
 https://tv.invasivamedia.com/hls/limtv.m3u8
@@ -601,25 +601,25 @@ https://streamaction.ddns.net/suertv_hls/suertv.m3u8
 #EXTINF:-1 tvg-id="T5 Satelital" tvg-name="T5 Satelital" tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="FAMILIARES",T5 Satelital | Argentina
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv HD" tvg-name="TalTal Tv HD" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
+#EXTINF:-1 tvg-id="TalTal Tv HD" tvg-name="TalTal Tv HD" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
 https://giatv.bozztv.com/giatv/giatv-TALTALTVTURISMO/TALTALTVTURISMO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv Documentales" tvg-name="TalTal Tv Documentales" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Documentales | Argentina
+#EXTINF:-1 tvg-id="TalTal Tv Documentales" tvg-name="TalTal Tv Documentales" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Documentales | Argentina
 https://live20.bozztv.com/giatvplayout7/giatv-208260/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv Educa" tvg-name="TalTal Tv Educa" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Educa | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/daem/chunks.m3u8
+#EXTINF:-1 tvg-id="Taltal Tv Series Educativas" tvg-name="Taltal Tv Series Educativas" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Series Educativas | Argentina
+https://live20.bozztv.com/giatvplayout7/giatv-209703/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TalTal Tv Anime" tvg-name="TalTal Tv Anime" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Anime | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv Anime Culto" tvg-name="TalTal Tv Anime Culto" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Anime Culto | Argentina
+#EXTINF:-1 tvg-id="Taltal Tv Series Anime" tvg-name="Taltal Tv Series Anime" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Series Anime | Argentina
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica | Argentina
+#EXTINF:-1 tvg-id="Taltal Tv City Pop" tvg-name="Taltal Tv City Pop" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv City Pop | Argentina
 https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica op2 | Argentina
+#EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Tec TV" tvg-name="Tec TV" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="FAMILIARES",Tec TV | Argentina
