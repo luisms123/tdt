@@ -16,19 +16,9 @@
     "m3u8_url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
     "pais": "mx"
   },
-"id-4": {
-    "nombre": "Foro TV",
-    "m3u8_url": "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true",
-    "pais": "mx"
-  },
 "id-5": {
-    "nombre": "Foro Tv 1",
+    "nombre": "Foro Tv",
     "iframe_url": "https://www.youtube.com/embed/p2AzyIEuFak",
-    "pais": "mx"
-  },
-"id-6": {
-    "nombre": "Foro Tv 2",
-    "yt_id": "https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA",
     "pais": "mx"
   },
 "id-7": {
@@ -92,21 +82,9 @@
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
-"fox2": {
-    "nombre": "Fox Kids 2",
-    "iframe_url": "https://player.kick.com/kartoonkidz2",
-    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "pais": "mx"
-  },
 "kartoon": {
     "nombre": "Cartoon Galaxy",
     "iframe_url": "https://ok.ru/videoembed/8896438738686",
-    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "pais": "mx"
-  },
-"kart2": {
-    "nombre": "Cartoon Galaxy 2",
-    "iframe_url": "https://player.kick.com/kartoonkidz1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },

@@ -1,0 +1,281 @@
+﻿{
+    "canal-lms": {
+        "nombre": "Canal LMS",
+        "logo": "https://i.imgur.com/RUuoMlL.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://compulms.blogspot.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "azteca-uno": {
+        "nombre": "Azteca Uno",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "las-estrellas": {
+        "nombre": "Las Estrellas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "foro-tv": {
+        "nombre": "Foro TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+			"https://www.youtube.com/embed/p2AzyIEuFak"
+			],
+            "m3u8_url": [
+			"https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true"
+			],
+            "yt_id": "UCUsm-fannqOY02PNN67C0KA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "azteca-7": {
+        "nombre": "Azteca 7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "a-mas": {
+        "nombre": "A Mas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "canal-once": {
+        "nombre": "Canal Once",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8"
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "22-de-mexico": {
+        "nombre": "22 de Mexico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ=="
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "mexiquense-tv": {
+        "nombre": "Mexiquense TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "amx-noticias": {
+        "nombre": "AMX Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "adn-40": {
+        "nombre": "ADN 40",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+			"https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+			],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "maussan-tv": {
+        "nombre": "Maussan Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": ["https://www.youtube.com/embed/IhTecbhM1PE"],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "fox-kids": {
+        "nombre": "Fox Kids",
+        "logo": "",
+        "señales": {
+            "iframe_url": ["https://ok.ru/videoembed/8967999463166"],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "cartoon-galaxy": {
+        "nombre": "Cartoon Galaxy",
+        "logo": "",
+        "señales": {
+            "iframe_url": ["https://ok.ru/videoembed/8896438738686"],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "nick-at-nite": {
+        "nombre": "Nick at Nite",
+        "logo": "",
+        "señales": {
+            "iframe_url": ["https://ok.ru/videoembed/9194603093758"],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "mtv": {
+        "nombre": "MTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": ["https://ok.ru/videoembed/9197124787966"],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+        "país": "mx",
+        "categoría": "classic"
+    },
+    "gogoplay": {
+        "nombre": "Gogoplay Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "gogoplaytve"
+        },
+        "sitio_oficial": "https://www.twitch.tv/gogoplaytve",
+        "país": "mx",
+        "categoría": "classic"
+    }
+}
