@@ -541,6 +541,9 @@ https://stmv2.voxtvhd.com.br/radiotvfantastico/radiotvfantastico/chunklist_w1135
 #EXTINF:-1 tvg-id="Canal 5 del Pueblo" tvg-name="Canal 5 del Pueblo" tvg-logo="https://imgur.com/NiqNn1j.png" group-title="CANALES INDEPENDIENTES",Canal 5 del Pueblo | Argentina
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal 5 Vision Latina" tvg-name="Canal 5 Vision Latina" tvg-logo="https://imgur.com/eChAxaN.png" group-title="FAMILIARES",Canal 5 Vision Latina | ND
+https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal 6 Mar del Plata" tvg-name="Canal 6 Mar del Plata" tvg-logo="https://i.imgur.com/MzuTLkz.png" group-title="CANALES INDEPENDIENTES",Canal 6 Mar del Plata | Argentina
 https://panel.dattalive.com:443/8186/8186/playlist.m3u8
 
@@ -1336,10 +1339,7 @@ https://mitv.zplay.cl/Ztv/video.m3u8
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Canal 5 Vision Latina 24/7
-https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Nextv 24/7
+#EXTINF:-1 tvg-id="Nextv" tvg-name="Nextv" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Nextv 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
 
 
