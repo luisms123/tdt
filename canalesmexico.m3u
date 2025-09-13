@@ -668,7 +668,7 @@ https://mitv.zplay.cl/SYFYcl/index.m3u8
 https://mitv.zplay.cl/MuchmusicCL/index.m3u8
 
 #EXTINF:-1 tvg-id="Conecta TV" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/3sG2SHg.png" group-title="MUSICA",Conecta TV | Mexico
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
 #EXTINF:-1 tvg-id="Conectate TV" tvg-name="Conectate TV" tvg-logo="https://i.imgur.com/69KTqf4.png" group-title="CANALES INDEPENDIENTES",Conectate TV | Puerto Rico
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
@@ -829,6 +829,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://imgur.com/Z6HJvy8.png" group-title="JOVENES Y ADULTOS",Los Simpsons 2 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simplatn/playlist.m3u8
 
+#EXTINF:-1 tvg-id="m2o Tv" tvg-name="m2o Tv" tvg-logo="http://thaiptv.com/img/m2o.jpg" group-title="MUSICA",m2o Tv | Italia
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="CANALES INDEPENDIENTES",Magic Kids Tv | Argentina
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
@@ -855,6 +858,9 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Maxima TV" tvg-name="Maxima TV" tvg-logo="https://i.imgur.com/selfroD.png" group-title="CANALES INDEPENDIENTES",Maxima TV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/maxtvstreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Melody Channel" tvg-name="Melody Channel" tvg-logo="https://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w140" group-title="MUSICA" group-title="MUSICA",Melody Channel | Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega Cine Tv" tvg-name="Mega Cine Tv" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -891,6 +897,9 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Multizonas Tv | Costa Rica
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
+
+#EXTINF:-1 tvg-id="Mundo de la Musica TV" tvg-name="Mundo de la Musica TV" tvg-logo="https://mundodelamusicachile.cl/wp-content/uploads/2021/05/Sin-ti%CC%81tulo-1.png" group-title="MUSICA",Mundo de la Musica TV | Chile
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="My Time Movie" tvg-name="My Time Movie" tvg-logo="https://i.imgur.com/hMksKhc.png" group-title="CINE",My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -962,10 +971,10 @@ https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTV Movie" tvg-name="PlanetaTV Movie" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie | Chile
-https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaTV Movie" tvg-name="PlanetaTV Movie" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie op2 | Chile
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV Music" tvg-name="PlanetaTV Music" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/09/perfil-facebook.png" group-title="MUSICA",PlanetaTV Music | Chile
+https://tls-cl.cdnz.cl/music/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Plenitud TV 24/7" tvg-name="Plenitud TV 24/7" tvg-logo="https://i.imgur.com/QGwcjNT.jpg" group-title="CANALES INDEPENDIENTES",Plenitud TV 24/7 | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-208727/playlist.m3u8
@@ -975,6 +984,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Plenitud Juvenil" tvg-name="Plenitud Juvenil" tvg-logo="https://imgur.com/1tcjMAt.jpg" group-title="CANALES INDEPENDIENTES",Plenitud Juvenil | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Portal FoxMix Tv" tvg-name="Portal FoxMix Tv" tvg-logo="http://i.imgur.com/63s1k43.png" group-title="MUSICA",Portal FoxMix Tv | Chile
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Presencia TV" tvg-name="Presencia TV" tvg-logo="https://i.imgur.com/CBaV0S8.png" group-title="FAMILIARES",Presencia TV | Peru
 https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
@@ -988,6 +1000,15 @@ https://micanal.ovh/livestreams/182.W1QXCAQGTNP6.m3u8
 #EXTINF:-1 tvg-id="Quantica TV" tvg-name="Quantica TV" tvg-logo="https://i.imgur.com/OWAL8tz.png" group-title="FAMILIARES",Quantica TV | Argentina
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
+#EXTINF:-1 tvg-id="Radio Bruno" tvg-name="Radio Bruno" tvg-logo="http://i.imgur.com/OXgDjwN.png" group-title="MUSICA",Radio Bruno | Italia
+https://stream2.xdevel.com/video0s975758-1048/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio Capital Tivu" tvg-name="Radio Capital Tivu" tvg-logo="https://pbs.twimg.com/profile_images/1088375534395052033/jBKVUQbV_400x400.jpg" group-title="MUSICA",Radio Capital Tivu | Italia
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio Contact Feel Good" tvg-name="Radio Contact Feel Good" tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA",Radio Contact Feel Good | Belgica
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+
 #EXTINF:-1 tvg-id="Radio Ipersonica TV" tvg-name="Radio Ipersonica TV" tvg-logo="https://i.imgur.com/8eSqC8L.png" group-title="CANALES INDEPENDIENTES",Radio Ipersonica TV | Argentina
 https://micanal.ovh/livestreams/154.IRG4SVDYHEK3.m3u8
 
@@ -996,6 +1017,9 @@ https://5f700d5b2c46f.streamlock.net/tvoldtime/tvoldtime/chunklist_w1126196422.m
 
 #EXTINF:-1 tvg-id="Radio Old Time" tvg-name="Radio Old Time" tvg-logo="https://www.radioldtime.com.ar/data/files/logoradioldtime2-1.png" group-title="MUSICA",Radio Old Time | Argentina
 https://5f700d5b2c46f.streamlock.net/tvoldtime/tvoldtime/chunklist_w1126196422.m3u8
+
+#EXTINF:-1 tvg-id="Radio Sanborja Tv" tvg-name="Radio Sanborja Tv" tvg-logo="http://i.imgur.com/wpzgjWt.png" group-title="MUSICA",Radio Sanborja Tv | Peru
+https://stream.mediacorp.pe/srt/3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Red TV 24/7" tvg-name="Red TV 24/7" tvg-logo="https://i.imgur.com/AnV1ZSj.jpg" group-title="CANALES INDEPENDIENTES",Red TV 24/7 | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
@@ -1012,10 +1036,19 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico op2| Argentina
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Retro Music Tv" tvg-name="Retro Music Tv" tvg-logo="https://www.parsatv.com/index_files/channels/retromusic.png" group-title="MUSICA",Retro Music Tv | Checoslovaquia
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Retro Play TV" tvg-name="Retro Play TV" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Retro Play TV | Chile
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Retro Plus TV 3 | Chile
+#EXTINF:-1 tvg-id="Retro Plus Tv" tvg-name="Retro Plus Tv" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",Retro Plus Tv | Chile
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro Plus Tv 2" tvg-name="Retro Plus Tv 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",Retro Plus Tv 2 TV | Chile
+https://scl.edge.grupoz.cl/retroplustvdos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro Plus Tv 3" tvg-name="Retro Plus Tv 3" tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Retro Plus Tv 3 | Chile
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online | ND
@@ -1114,6 +1147,9 @@ https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMix" tvg-name="TeleMix" tvg-logo="https://1.bp.blogspot.com/-KCHZEZEctCk/YAaMGRW33wI/AAAAAAAIR14/yXNLqB4BuPgKeu-G2o4faPuUrcwfm1fjgCK4BGAYYCw/s910/la%2Bmix%2B2.jpg" group-title="CANALES INDEPENDIENTES",TeleMix op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/telemixlive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telemusica" tvg-name="Telemusica" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png" group-title="MUSICA",Telemusica | Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telenorte" tvg-name="Telenorte" tvg-logo="https://i.imgur.com/2WLql1q.png" group-title="FAMILIARES",Telenorte | ND
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 
@@ -1123,6 +1159,9 @@ https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1 tvg-id="TeleRed" tvg-name="TeleRed" tvg-logo="https://i.imgur.com/pkstHpE.png" group-title="FAMILIARES",Telered | Costa Rica
 https://k20.usastreams.com:8081/telered/index.m3u8
 
+#EXTINF:-1 tvg-id="Teleritmo" tvg-name="Teleritmo" tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="MUSICA",Teleritmo | Mexico
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-1 tvg-id="Telesistema" tvg-name="Telesistema" tvg-logo="https://imgur.com/zAeJ8OH.png" group-title="FAMILIARES",Telesistema | Costa Rica
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
@@ -1131,6 +1170,9 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telesur.png" group-title="FAMILIARES",TeleSUR | Costa Rica
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="The Retro Channel" tvg-name="The Retro Channel" tvg-logo="http://theretrochannel.tv/img/theretrofb.jpg" group-title="MUSICA",The Retro Channel | Puerto Rico	
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tierra Mia" tvg-name="Tierra Mia" tvg-logo="https://imgur.com/1ffqn4i.png" group-title="FAMILIARES",Tierra Mia | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
@@ -1171,6 +1213,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Top Cine" tvg-name="Top Cine" tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="CINE",Top Cine | USA
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
+#EXTINF:-1 tvg-id="Tropi Xtrema Tv" tvg-name="Tropi Xtrema Tv" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="MUSICA",Tropi Xtrema Tv | Argentina
+https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tu Cine" tvg-name="Tu Cine" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="CINE",Tu Cine | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
@@ -1179,6 +1224,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/756
 
 #EXTINF:-1 tvg-id="Tu Cine" tvg-name="Tu Cine" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="CINE",Tu Cine op2 | USA
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
+#EXTINF:-1 tvg-id="Tu Musica" tvg-name="Tu Musica" tvg-logo="https://serenotv.com/wp-content/uploads/2021/10/canal-Tumusica-HD-en-vivo.jpg" group-title="MUSICA",Tu Musica | Latino
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 
 #EXTINF:-1 tvg-id="TV Costa" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg" group-title="FAMILIARES",Tv Costa | Chile
 https://tvcosta.gleeze.com/981a9598-b521-4051-b32a-066941e23967.m3u8
@@ -1366,189 +1414,6 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="NOTICIAS",SKY News | Reino Unido
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/asondesalsa/picture?width=320&height=320" group-title="MUSICA",A Son de Salsa | Panama
-https://asondesalsa.b-cdn.net/salsa106tve/salsa106tve/playlist.m3u8?token=8MlnwLhenom67gL1U9EVLg&expires=1704602109
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/ARTS_TV_World.png" group-title="MUSICA",ARTS Tv | Etiopia
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-
-#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax.png" group-title="MUSICA",Bandamax | Mexico
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2552.m3u8
-
-#EXTINF:-1 tvg-id="Corazon Llanero TV" tvg-name="Corazon Llanero TV" tvg-logo="https://corazonllanero.com/main/static/img/128.png" group-title="MUSICA",Corazon Llanero TV | Venezuela
-https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2022-04/kmk-radio-tv-costa-rica_0.png.webp" group-title="MUSICA",KMK Radio TV | Costa Rica
-https://cloudvideo.servers10.com:8081/8120/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/latinatv-v1_logo.png" group-title="MUSICA",Latina Tv | Argentina
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/etndUmR.png" group-title="MUSICA",Latinos Up Tv | USA
-https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://thaiptv.com/img/m2o.jpg" group-title="MUSICA",m2o TV | Italia
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3295764.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="https://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w140" group-title="MUSICA" group-title="MUSICA",Melody Channel | Colombia
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="MUSICA",Mezzo | Francia
-http://ott-cdn.ucom.am/s35/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA",Mix 24-7 | Chile
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="MUSICA",MMC | USA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/f5378a67-beb2-4733-87e5-97093d53728a/4.m3u8
-
-#EXTINF:-1 tvg-id="MTV MX" tvg-name="MTV MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICA",MTV | USA
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV Sur" tvg-name="MTV Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICA",MTV | Noruega
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 tvg-id="MTV Hits Mexico" tvg-name="MTV Hits Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png" group-title="MUSICA",MTV HITS | USA
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mundodelamusicachile.cl/wp-content/uploads/2021/05/Sin-ti%CC%81tulo-1.png" group-title="MUSICA",Mundo de la Musica TV | Chile
-https://tv.streamingchilenos.com:1936/8034/8034/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/05/fc/66/05fc6605-acfe-d39e-1b4a-87d3d5a548b0/source/512x512bb.jpg" group-title="MUSICA",MUSIC BOX | Eslovenia
-http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.port.hu/images/000/986/300x300/359.jpg" group-title="MUSICA",Music Channel | Hungria
-http://1music.hu/1music.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.port.hu/images/000/986/300x300/358.jpg" group-title="MUSICA",Music Channel HiT | Hungria
-http://hitmusic.hu/hitmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="MUSICA",Music Top HD | Argentina
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="MUSICA",Music Top SD | Argentina
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="MUSICA",PlanetaTV 90s | Chile
-https://mediacpstreamchile.com:1936/8102/8102/chunklist_w1159975531.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/09/perfil-facebook.png" group-title="MUSICA",PlanetaTV Music | Chile
-https://tls-cl.cdnz.cl/music/live/chunklist_w260426131.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/09/perfil-facebook.png" group-title="MUSICA",PlanetaTV Music | Chile
-https://scl.edge.grupoz.cl/streaming/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/63s1k43.png" group-title="MUSICA",Portal FoxMix Tv HD | Chile
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2021-02/radio-best-music-tv-costa-rica.png" group-title="MUSICA",Radio Best Music RBM TV | Costa Rica
-https://cp.sradiotv.com:1936/8016/8016/chunklist_w1427361354.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OXgDjwN.png" group-title="MUSICA",Radio Bruno | Italia
-http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088375534395052033/jBKVUQbV_400x400.jpg" group-title="MUSICA",Radio Capital Tivu | Italia
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088375534395052033/jBKVUQbV_400x400.jpg" group-title="MUSICA",Radio Capital Tivu | Italia
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA",Radio Contact Feel Good | Belgica
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://a.mktgcdn.com/p/dx3Atx8Hz7jeTQk6f-GwR75jdyMOECfesZLYF79O6DI/400x400.jpg" group-title="MUSICA",Radio Italia Vision | Italia
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wpzgjWt.png" group-title="MUSICA",Radio Sanborja | Peru
-https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w1611789128.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="MUSICA",Radio U | USA
-https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lollapaloozamania.com/wp-content/uploads/2018/02/BATALLA-DE-LOS-GALLOS.jpg" group-title="MUSICA",RB Batalla de Gallos | ND
-https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1071424898.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/retromusic.png" group-title="MUSICA",RETRO MUSIC TV | Checoslovaquia
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",Retro Plus TV | Chile
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",RETRO PLUS 2 TV | Chile
-https://live20.bozztv.com/giatv/giatv-retroplus02/retroplus02/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",Ritmo Top Latino | ND
-https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="MUSICA",RU TV | Rusia
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-
-#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit.png" group-title="MUSICA",Telehit | Mexico
-http://latinosiptv.online:8090/live/notocar/xmauc84bx1/1098.m3u8
-
-#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit.png" group-title="MUSICA",Telehit | Mexico
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telehit Musica" tvg-name="Telehit Musica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica.png" group-title="MUSICA",Telehit Musica | Mexico
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png" group-title="MUSICA",Telemusica | Colombia
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Teleritmo" tvg-name="Teleritmo" tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="MUSICA",Teleritmo | Mexico
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="http://theretrochannel.tv/img/theretrofb.jpg" group-title="MUSICA",The Retro Channel | Puerto Rico	
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wFu6p6" group-title="MUSICA",TiVu | Italia
-http://capital-live-tv-01-hls.akamai.m/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-RD4EAC0i0gU/VNV1DUqW6QI/AAAAAAAABlk/YG0lnk9XBYg/s1600/logo%2Btoplatino.jpg" group-title="MUSICA",TOP Latino TV | Peru
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",Top New Radio | ND
-https://panel.tvstream.cl:1936/8052/8052/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3036-294x165-FFFFFF.jpg" group-title="MUSICA",Tropical Cumbia TV | ND
-https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3036-294x165-FFFFFF.jpg" group-title="MUSICA",Tropical Urbano TV | ND
-https://sistemastr.tropicalmoonmedia.com:443/vivalivepublic/BjseGwS28B/23.m3u8
-
-#EXTINF:-1 tvg-logo="https://tropicaltv.com.co/images/about-img11.png" group-title="MUSICA",Tropical Tv | Colombia
-https://live20.bozztv.com/akamaissh101/ssh101/estvco/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="MUSICA",Tropi Xtrema Tv | Argentina
-https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/10/canal-Tumusica-HD-en-vivo.jpg" group-title="MUSICA",Tu Musica HD | Latino
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="MUSICA",TV 538 | Paises Bajos
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png" group-title="MUSICA",TV Exitos | Republica Dominicana
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="MUSICA",TVR | Chile
-https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://vivotvhd.com/img/cha/3191.gif" group-title="MUSICA",UCSG TV | Ecuador
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/04/Urban-FM-106.1.jpg" group-title="MUSICA",Urban | Argentina
-http://cda1.streaming.ws/urban985tv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png" group-title="MUSICA",Urban TV | Spain
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSICA",Viva TV
-https://marcsoul.com/vivatv/stream.m3u8
-
 
 
 ﻿
