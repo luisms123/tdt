@@ -658,9 +658,6 @@ https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="FAMILIARES",Senal Colombia | Colombia
-https://live20.bozztv.com/giatv/giatv-sc1604/sc1604/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="CANALES INDEPENDIENTES",Sicardi TV | Argentina
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
@@ -726,9 +723,6 @@ https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica op2 | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="FAMILIARES",Telefuturo | Paraguay
-http://181.78.27.128:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemas" tvg-name="Telemas" tvg-logo="https://telemascr.com/wp-content/uploads/2024/06/cropped-LOGO-TELEMAS-LETRA-BLANCA-PNG-3-272x91.png" group-title="FAMILIARES",Telemas | Costarica
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8

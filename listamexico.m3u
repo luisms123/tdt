@@ -1069,9 +1069,6 @@ https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="FAMILIARES",Senal Colombia | Colombia
-https://live20.bozztv.com/giatv/giatv-sc1604/sc1604/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="CANALES INDEPENDIENTES",Sicardi TV | Argentina
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
@@ -1137,9 +1134,6 @@ https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica op2 | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="FAMILIARES",Telefuturo | Paraguay
-http://181.78.27.128:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemas" tvg-name="Telemas" tvg-logo="https://telemascr.com/wp-content/uploads/2024/06/cropped-LOGO-TELEMAS-LETRA-BLANCA-PNG-3-272x91.png" group-title="FAMILIARES",Telemas | Costarica
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
@@ -8339,7 +8333,7 @@ http://185.189.225.150:85/boing/playlist.m3u8
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing op3 | Spain
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/302
+http://world-qualite.xyz:8080/MarcosRojas/RO-2019./236532
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network  | Mexico
 http://45.181.123.194:8000/play/a0k9/index.m3u8
@@ -8366,7 +8360,7 @@ http://45.181.123.233:8000/play/a0nm
 http://45.184.87.142:8000/play/a021
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast | Colombia
-http://45.181.123.233:8000/play/a17g
+http://177.234.230.206:8011/play/a0es
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op2 | Colombia
 http://181.119.86.1:8000/play/a09y
@@ -8423,6 +8417,12 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/khlcec9.png" group-title="TV PREMIUM",Saber Mas | USA
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="FAMILIARES",Senal Colombia | Colombia
+http://world-qualite.xyz:8080/MarcosRojas/RO-2019./350
+
+#EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="FAMILIARES",Telefuturo | Paraguay
+http://world-qualite.xyz:8080/MarcosRojas/RO-2019./61962
 
 #EXTINF:-1 group-title="TV PREMIUM",Discovery World
 http://190.60.38.45:8000/play/a0dr/index.m3u8
