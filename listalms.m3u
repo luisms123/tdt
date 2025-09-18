@@ -200,7 +200,7 @@ https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Central Tv" tvg-name="Central Tv" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="FAMILIARES",Central Tv | Chile
-https://live20.bozztv.com/giatvplayout7/giatv-210617/playlist.m3u8
+https://freya.mivideo.pro/centraltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CH TV" tvg-name="CH TV" tvg-logo="https://imgur.com/zzmGHyw.png" group-title="CANALES INDEPENDIENTES",CH TV | Chile
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/chunks.m3u8
@@ -208,7 +208,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/chunks.m3u8
 #EXTINF:-1 tvg-id="Chamame Tv" tvg-name="Chamame Tv" tvg-logo="https://i.imgur.com/Q9pLtbI.png" group-title="FAMILIARES",Chamame Tv | Argentina
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",California Music Channel | USA
+#EXTINF:-1 tvg-id="California Music Channel" tvg-name="California Music Channel" tvg-logo="https://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",California Music Channel | USA
 https://cmc-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Chile Channel" tvg-name="Chile Channel" tvg-logo="https://play-lh.googleusercontent.com/-O83D1mBPLH7fB9eeedTX-rXOv3PwY-qca_I0SmBHEj0y8ee8HfFEA23imupP0ZkaYk" group-title="FAMILIARES",Chile Channel | Chile
@@ -715,11 +715,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/telentv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleanimemania Latino HD" tvg-name="Teleanimemania Latino HD" tvg-logo="https://i.ibb.co/nqYr3jMD/Logo-Teleanimemania-Latino.png" group-title="JOVENES Y ADULTOS",Teleanimemania Latino HD | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleanimemania Spain HD" tvg-name="Teleanimemania Spain HD" tvg-logo="https://i.ibb.co/TM0V2Ynn/Logo-Teleanimemania-Espa-a.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD | Spain
+#EXTINF:-1 tvg-id="Teleanimemania Spain HD" tvg-name="Teleanimemania Spain HD" tvg-logo="https://i.ibb.co/bMDMK8zd/Logo-Teleanimemania-Espa-a.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Teleanimemania Spain HD" tvg-name="Teleanimemania Spain HD" tvg-logo="https://i.ibb.co/TM0V2Ynn/Logo-Teleanimemania-Espa-a.png" group-title="JOVENES Y ADULTOS",Teleanimemania Spain HD | Spain
-https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | Mexico
 https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
