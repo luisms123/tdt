@@ -610,6 +610,9 @@ https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="MUSICA",CCP Radio | Chile
 https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Central Tv" tvg-name="Central Tv" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="FAMILIARES",Central Tv | Chile
+https://live20.bozztv.com/giatvplayout7/giatv-210617/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CH TV" tvg-name="CH TV" tvg-logo="https://imgur.com/zzmGHyw.png" group-title="CANALES INDEPENDIENTES",CH TV | Chile
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/chunks.m3u8
 
@@ -8418,10 +8421,10 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/khlcec9.png" group-title="TV PREMIUM",Saber Mas | USA
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="FAMILIARES",Senal Colombia | Colombia
+#EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="TV PREMIUM",Senal Colombia | Colombia
 http://world-qualite.xyz:8080/MarcosRojas/RO-2019./350
 
-#EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="FAMILIARES",Telefuturo | Paraguay
+#EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="TV PREMIUM",Telefuturo | Paraguay
 http://world-qualite.xyz:8080/MarcosRojas/RO-2019./61962
 
 #EXTINF:-1 group-title="TV PREMIUM",Discovery World
