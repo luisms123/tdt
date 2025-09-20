@@ -667,6 +667,9 @@ https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 tvg-id="Colosal TV" tvg-name="Colosal TV" tvg-logo="http://costaricatelevision.com/sites/default/files/2020-07/colosal-tv-costa-rica.png" group-title="MUSICA",Colosal TV | Costa Rica
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Comet Tv" tvg-name="Comet Tv" tvg-logo="https://d17su2xjlj6zyp.cloudfront.net/uploads/2021/04/comet-logo-1536x924.png" group-title="FAMILIARES",Comet Tv | USA
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
 #EXTINF:-1 tvg-id="COMCHANNEL" tvg-name="COMCHANNEL" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="CANALES INDEPENDIENTES",COMCHANNEL | Chile
 https://mitv.zplay.cl/SYFYcl/index.m3u8
 
@@ -8741,6 +8744,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Locomotion TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",AlecchiMan 
+https://use15.playlist.ttvnw.net/v1/playlist/CsgEE2bO00hhINz2UU8Vjd9wLXxon1GmldWm8QFMPQc8f-yRzeT_9xg6mrprn80CKIpxT_H-Z55Cx5ba6dMf3_h3dWecOnu9TxMl7rXP8hyC4mlGSkVxa_mPLDpPQ2eQ5VD0TjwNZ8gFpAD1jq8Vl4huOQ3velsl6mwoFtRo-F9dG8XIXjLqyQX5pqFwKq-avVyZXygVbbPDUYn8l1NzgLiDllFHp2ajZ0orXhmjakWy2WauS7mig42H8GZ91IiM01bD2tzYEoZSuWqj3CV0U2TtJBshAk-HqVhrBIdx2rd2vX7R-5fC7UyLTAhuelGTi7sOg-_OgpTdPTAdZe4AVwl-IC-iBCXp9HYa--VphdfrsrnNKfRz-STdt24cRdNNuuQqkyessbg9vPn6aHqUlmWWtku49Gnd093Uwud4SSlmmGMSFMJIQovrAqAHyUr1CvIuHihM6XKq7wbsmo8PoMskbGwwPdOF_jCREIiGNaoVrk0cA3WsHI1VWAKvMBH8D8LQcpq6LuHIyovKRj2-VLIWszxMw3l-QlvdBEvQLSOCfD1UVbX6gC5bsRXM6uN7T9BF-S6Bl-VPNjP3JeT3vFsgidXdw86MgyEoNLxpnR-WeDao1h0o4SaJDJxz53p9VUsBO1-qUfSMfGRqgNBP8dRocx6k24jYx-nfHvx_vpfP8Hbftz793HIDP8leK0VO0pSqty54V8NVEKXPrcYbCzGO0IeoSAb_CrbiSVLRfbvGlBh-VKMqRDAoolQokTYm7bc-KCp7SutHBp4aDJK0vHtM8Es5DjtteiABKgl1cy1lYXN0LTIwog0.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas Mania 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Nostalgia TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 

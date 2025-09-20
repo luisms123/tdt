@@ -256,6 +256,9 @@ https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 tvg-id="Colosal TV" tvg-name="Colosal TV" tvg-logo="http://costaricatelevision.com/sites/default/files/2020-07/colosal-tv-costa-rica.png" group-title="MUSICA",Colosal TV | Costa Rica
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Comet Tv" tvg-name="Comet Tv" tvg-logo="https://d17su2xjlj6zyp.cloudfront.net/uploads/2021/04/comet-logo-1536x924.png" group-title="FAMILIARES",Comet Tv | USA
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
 #EXTINF:-1 tvg-id="COMCHANNEL" tvg-name="COMCHANNEL" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="CANALES INDEPENDIENTES",COMCHANNEL | Chile
 https://mitv.zplay.cl/SYFYcl/index.m3u8
 
