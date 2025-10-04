@@ -24,7 +24,7 @@
                         {
                           "name": "Canal Variado",
                           "image": "https://imgur.com/25dMMif.png",
-                          "url": "https://gia.tv/watchssh101.php?pptv=210538",
+                          "url": "https://gia.tv/watchssh101.php?pptv=209448",
                           "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
                           "embed": true,
                           "isHost": ""
@@ -32,7 +32,15 @@
                         {
                           "name": "Cartoon Network",
                           "image": "https://imgur.com/QlfnOJW.png",
-                          "url": "https://ok.ru/videoembed/8896438738686?autoplay=1",
+                          "url": "https://ok.ru/videoembed/8896438738686",
+                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
+                          "embed": true,
+                          "isHost": ""
+                        },
+                        {
+                          "name": "Cartoon Network2",
+                          "image": "https://imgur.com/QlfnOJW.png",
+                          "url": "https://ok.ru/live/8896438738686",
                           "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
                           "embed": true,
                           "isHost": ""
@@ -40,7 +48,7 @@
                         {
                           "name": "Fox Kids",
                           "image": "https://imgur.com/OaePQAd.png",
-                          "url": "https://ok.ru/videoembed/8967999463166?autoplay=1",
+                          "url": "https://ok.ru/videoembed/8967999463166",
                           "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
                           "embed": true,
                           "isHost": ""
@@ -48,7 +56,7 @@
                         {
                           "name": "Nick at Nite",
                           "image": "https://imgur.com/eWg0fxX.png",
-                          "url": "https://ok.ru/videoembed/9194603093758?autoplay=1",
+                          "url": "https://ok.ru/videoembed/9194603093758",
                           "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
                           "embed": true,
                           "isHost": ""
@@ -56,7 +64,7 @@
                         {
                           "name": "MTV",
                           "image": "https://imgur.com/0vhpkPo.png",
-                          "url": "https://ok.ru/videoembed/9197124787966?autoplay=1",
+                          "url": "https://ok.ru/videoembed/9197124787966",
                           "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
                           "embed": true,
                           "isHost": ""
@@ -64,7 +72,7 @@
                         {
                           "name": "Retro Magico",
                           "image": "https://i.imgur.com/qFndbzN.png",
-                          "url": "https://ok.ru/videoembed/6035274800769?autoplay=1",
+                          "url": "https://ok.ru/videoembed/6035274800769",
                           "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
                           "embed": true,
                           "isHost": ""
