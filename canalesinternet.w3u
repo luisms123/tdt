@@ -30,46 +30,6 @@
                           "isHost": ""
                         },
                         {
-                          "name": "Cartoon Network",
-                          "image": "https://imgur.com/QlfnOJW.png",
-                          "url": "https://ok.ru/videoembed/8896438738686",
-                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
-                          "embed": true,
-                          "isHost": ""
-                        },
-                        {
-                          "name": "Cartoon Network2",
-                          "image": "https://imgur.com/QlfnOJW.png",
-                          "url": "https://ok.ru/live/8896438738686",
-                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
-                          "embed": true,
-                          "isHost": ""
-                        },
-                        {
-                          "name": "Fox Kids",
-                          "image": "https://imgur.com/OaePQAd.png",
-                          "url": "https://ok.ru/videoembed/8967999463166",
-                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
-                          "embed": true,
-                          "isHost": ""
-                        },
-                        {
-                          "name": "Nick at Nite",
-                          "image": "https://imgur.com/eWg0fxX.png",
-                          "url": "https://ok.ru/videoembed/9194603093758",
-                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
-                          "embed": true,
-                          "isHost": ""
-                        },
-                        {
-                          "name": "MTV",
-                          "image": "https://imgur.com/0vhpkPo.png",
-                          "url": "https://ok.ru/videoembed/9197124787966",
-                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
-                          "embed": true,
-                          "isHost": ""
-                        },
-                        {
                           "name": "Retro Magico",
                           "image": "https://i.imgur.com/qFndbzN.png",
                           "url": "https://ok.ru/videoembed/6035274800769",
@@ -160,7 +120,45 @@
                         
                      ] 
                  }, 
-                               
+                                 
+                 { 
+                 "name": "CARTOON GALAXY",
+                 "image": "https://imgur.com/VQA2G2a.png",
+                 "stations":
+                    [ 
+                        {
+                          "name": "Cartoon Network",
+                          "image": "https://imgur.com/QlfnOJW.png",
+                          "url": "https://ok.ru/videoembed/8896438738686",
+                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
+                          "embed": true,
+                          "isHost": "true"
+                        },
+                        {
+                          "name": "Fox Kids",
+                          "image": "https://imgur.com/OaePQAd.png",
+                          "url": "https://ok.ru/videoembed/8967999463166",
+                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
+                          "isHost": "true"
+                        },
+                        {
+                          "name": "Nick at Nite",
+                          "image": "https://imgur.com/eWg0fxX.png",
+                          "url": "https://ok.ru/videoembed/9194603093758",
+                          "userAgent": "stagefright/1.2 (Linux;Android 6.0)",
+                          "embed": false,
+                          "isHost": "true"
+                        },
+                        {
+                          "name": "MTV",
+                          "image": "https://imgur.com/0vhpkPo.png",
+                          "url": "https://ok.ru/videoembed/9197124787966",
+                          "isHost": "true"
+                        }
+  
+                    ] 
+
+                },              
                 
                  { 
                  "name": "DEPORTES",
@@ -188,7 +186,7 @@
                     ] 
 
                 } 
-
+				
             ]
-       
-        }
+			
+       }
