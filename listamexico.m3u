@@ -85,6 +85,9 @@ http://pe.shortgod.com/awester/tv4.php?id=503
 #EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_mexico.png" group-title="MEXICO",14.1 Canal 14
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
+#EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_mexico.png" group-title="MEXICO",14.1 Canal 14
+https://mexside-stream.b-cdn.net/canal14/canal14/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ingenio TV" tvg-name="Ingenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/ingenio_tv_mexico.png" group-title="MEXICO",14.2 Ingenio TV
 http://pe.shortgod.com/awester/tv5.php?id=158629
 
@@ -8755,11 +8758,13 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Especial 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CeciliaOrson 
+https://use22.playlist.ttvnw.net/v1/playlist/Cs4EApMeW3Elks_ctKYCtHCjMMPQ9EChH4R1mCoeD8OmB2taDfeul-FJOix5r25x17e0jSqT7UR0lZZfFIqX2b-VuG09tsEJQTdNk8KzDZ2UYu1LTIWy-3p91-PLl7BbGuVPRAKoCoYmWxw9xPL1UvcthnNdAq9l7VXyPXNnSfJeUM-aE7hkCC-lcyTergd8qAc8jnMhL5Ed3aaVzCUUpvCQGnRgssMwld3jnFY_6z3JBDjIiNt_cFRjlXaLvm9MIcWOxijwHhIfQxZr8m8w1rV_9JRmhrkcJTdY5_-KzKa80qd-gextKSuy0_yfHznXwDUhhBJgnF9WJghTlsJ6AYl_1qEk_CyAYp2UnQBs17p8Iiva1gP7gmcqyXaDgD0KQdbHhEekU30_iDrK_9rw0u5kxS-xwmes8UT3W3ENnOK4Q896asOtzNOWU1RNC8W--ZuB1uxDjwwsFeRF7awz6TQeouzzpnnn0Hbv-PJlvaJUgJXVfbWP4OrvuqBRIwzuAUaMAcF_zabL5bddWNvMD3uIPwsqSykWWDEMAo7vzSL5370y_9No_pf0dq3TJxGXzjJCnp9VwU0NyKPM7t_cmHYgm6qnK2QbyvtlmI0tMIOoNM1E-9idDyYJiTzIXRZJVO9q4JjegoIz3m4Dcl454C2BG39JkgjXpX6rNkAYPVozT_RPYHqGtF8TgAln36LwDta7bZ-5pvuakhlTBfvsTu3FHR7bkwtZ59EOm-rkBwRNgW3M2hAsi8-0gUgMztMXfo7ZntPKzyWbgFOJr3edQuIaDA9qU5T0xAfl-fBiEiABKgl1cy1lYXN0LTIwsA0.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CineMX4 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ZAZ Tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
+https://use23.playlist.ttvnw.net/v1/playlist/CtgEKuju_UIL_Y-8elasbgpE06tanQy8k5IK-G4CGKbFY2Bhyx4uI8jPtCZU7GHxGHjruQnlGRlFfY-9-IDfmSRIM_GhKsCF5gN-e7iKhkvfpEnXZLpqXwgHh9FZyFdfRqeTWYA2WJTb9niLnburOyzCN2rApQ8lutzY81Zt_Yw8-whnD36OctChuHrWjueGDUKp9O82CUjt1xnJH_kMGr8VQgrqDFLXLNSuD8GyFBbFiISNEiJukS5J22Pm428BleSBfRtSarBXkvJikPYBHddYWku-bZqesG3gIBfXVGOYmI0TWCJDCLwW1gu5qhfTiM3-kl7Zg-8usOgh66fyTaZzPKNsQt08K1BgCIxA1E7IMVwyMONpMBg8u1bddZmqvA19chIb0vEVciNFWoayLneTYE2bVSDW6Ow2c7HsZXH-G9IXpeuD774AlQxlwKNDKYpjd94yqf8bCJ1AINpVa4WbyX9vcC_D1iG7tueX03g48nElbbBzvemI5h2LtsOSsE3xkPvcaW4U-YA3c2O_1Z4VjvcHOz7Rj_X3tr86BIT1HOf6wckIAqG5lpYLNVY36FYyTS28A8a3Sy9aBrY-HnhBJcll-r3dfFhbXHm2BD9Urj8D45iWHhuLmHPVwCCPELyQ7DKHnn1wI7bWUWo9nDH8O0k4rP27oy93YiAhgm9aU0rU4hK9mKeoEhDQczSw6LWKjaL9SAovKAEo7n_WURpssqDTbl-CYxkDiosHY79gsgDILj4oW5cR_hcJMrQjBH5J2PS2ZHOFf2aJQRNnGtBROr0nsr5OQqo_GgwmLQ6axQJVhxru0mogASoJdXMtZWFzdC0yMLAN.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
