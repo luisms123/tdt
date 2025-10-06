@@ -304,6 +304,9 @@ https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
 https://kali.vdopanel.com:3717/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="EpicToon" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="CANALES INDEPENDIENTES",EpicToon |ND
+https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=vibra060425
+
 #EXTINF:-1 tvg-id="EstacionKusTv" tvg-name="EstacionKusTv" tvg-logo="https://imgur.com/7Nt6bnK.png" group-title="CANALES INDEPENDIENTES",EstacionKusTv | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/ekusmedios/playlist.m3u8
 
@@ -622,10 +625,10 @@ https://stream.mediacorp.pe/srt/3/playlist.m3u8
 #EXTINF:-1 tvg-id="Red TV 24/7" tvg-name="Red TV 24/7" tvg-logo="https://i.imgur.com/AnV1ZSj.jpg" group-title="CANALES INDEPENDIENTES",Red TV 24/7 | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Red TV" tvg-name="Red TV" tvg-logo="https://i.imgur.com/AnV1ZSj.jpg" group-title="CANALES INDEPENDIENTES",Red TV op2 | Chile
+#EXTINF:-1 tvg-id="Nostalgia TV" tvg-name="Nostalgia TV" tvg-logo="https://imgur.com/eS1Zv5x.png" group-title="CANALES INDEPENDIENTES",Nostalgia TV | Chile
 https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
 
-#EXTINF:-1 tvg-id="Red TV" tvg-name="Red TV" tvg-logo="https://i.imgur.com/AnV1ZSj.jpg" group-title="CANALES INDEPENDIENTES",Red TV op3 | Chile
+#EXTINF:-1 tvg-id="Nostalgia TV" tvg-name="Nostalgia TV" tvg-logo="https://imgur.com/eS1Zv5x.png" group-title="CANALES INDEPENDIENTES",Nostalgia TV op2 | Chile
 https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
