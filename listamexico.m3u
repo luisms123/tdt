@@ -937,6 +937,12 @@ https://mitv.zplay.cl/Ninja_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Norte Informativo TV" tvg-name="Norte Informativo TV" tvg-logo="https://i.imgur.com/eaU4Mtu.png" group-title="FAMILIARES",Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
 
+#EXTINF:-1 tvg-id="Nostalgia TV" tvg-name="Nostalgia TV" tvg-logo="https://imgur.com/eS1Zv5x.png" group-title="CANALES INDEPENDIENTES",Nostalgia TV | Chile
+https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
+
+#EXTINF:-1 tvg-id="Nostalgia TV" tvg-name="Nostalgia TV" tvg-logo="https://imgur.com/eS1Zv5x.png" group-title="CANALES INDEPENDIENTES",Nostalgia TV op2 | Chile
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Now 70" tvg-name="Now 70" tvg-logo="https://i.imgur.com/RRxC9Va.png" group-title="MUSICA",Now 70 | ND
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
@@ -1038,12 +1044,6 @@ https://stream.mediacorp.pe/srt/3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Red TV 24/7" tvg-name="Red TV 24/7" tvg-logo="https://i.imgur.com/AnV1ZSj.jpg" group-title="CANALES INDEPENDIENTES",Red TV 24/7 | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Nostalgia TV" tvg-name="Nostalgia TV" tvg-logo="https://imgur.com/eS1Zv5x.png" group-title="CANALES INDEPENDIENTES",Nostalgia TV | Chile
-https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
-
-#EXTINF:-1 tvg-id="Nostalgia TV" tvg-name="Nostalgia TV" tvg-logo="https://imgur.com/eS1Zv5x.png" group-title="CANALES INDEPENDIENTES",Nostalgia TV op2 | Chile
-https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
