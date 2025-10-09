@@ -1073,7 +1073,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retrotoons" tvg-name="Retrotoons" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="INFANTILES",Retrotoons | ND
-https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
@@ -1119,6 +1119,9 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlis
 
 #EXTINF:-1 tvg-id="Taltal Tv City Pop" tvg-name="Taltal Tv City Pop" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv City Pop | Argentina
 https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Taltal Tv" tvg-name="Taltal Tv" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv | Argentina
+https://live20.bozztv.com/giatvplayout7/giatv-210617/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
@@ -8776,7 +8779,6 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal 9 San Luis 
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Energeek 3 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ETC TV 
-https://use21.playlist.ttvnw.net/v1/playlist/CtwEHzclELIEOlCD9Fz05BvyjreEuVFtPqvry-P3sumsS5tJj4dUhmnNE-Cf26p8PlyWZxlh7KTXVTYBtnXcA9coWqxyhv76HJLZtmICuTZGd4VANXCnVGMqsl5aQGYewQ0eOM42UVRT_e9YEeZxoXGe0uFtcLGm56WJFpXMoKPVxZtFAMjynVM5rrxqp_iHYfCW_bkkgSXzvSlEvBahCN2DSmnnNBsOuuxovMzPZygkZUpZD5E2yl-SaJbMsQt7Wcu2ZxkJ03qHmV6EYYIl7cq22JKjMBmVAhfNGETfMkBIZzbS0ysvZTxxYW4wjyxdmEp8OO-1wGSGFdVi3JjRW0GNg-PixA5ICqTSSR9TsFhpyikZVErHw3gMZWsrC4YMdZE03702irlPFrV8OqO9Y-bc7YwYNerFiAyo-BT3GXQqsaSIGNsqkr2fc4m0sI8AP1oM7zksQOE5Sz7-567AYqvM5c0jtVF2uHHT_jB36Stf6gR-3ahzTJI3aKx0DirdyXl9NPfWEk2U4BoEtx-hgKmMkUHFVjrx5wcMcPQNjtE0KhK6B_RbjmxkSN4oajk5erPOva_urdOoEeuXqbbabuv6bHEhWUgmyPmtUIoxEaZHkx5kOo-GU_KBNAUAP_8Sdtlvpo7AGRDPrmm76ZF3BFk-wOd97pPE-FamrKkqf_wPTDy56PV3TTaECOJGkOeCyv9r4HzDtaHVTprn48GHFxvLhhzDXIaOg_vW1xedOfDgQiMs4Yh2etP_iOTot9ibyzVlVlQcyXVSQiFChu7doUb0Zcf1ITgqEQWXu7PNqRoMsP5kDxqtCtlChxegIAEqCXVzLWVhc3QtMjC1DQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kemacral 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 

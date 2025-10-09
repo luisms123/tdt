@@ -659,7 +659,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retrotoons" tvg-name="Retrotoons" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="INFANTILES",Retrotoons | ND
-https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
@@ -705,6 +705,9 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlis
 
 #EXTINF:-1 tvg-id="Taltal Tv City Pop" tvg-name="Taltal Tv City Pop" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv City Pop | Argentina
 https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Taltal Tv" tvg-name="Taltal Tv" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv | Argentina
+https://live20.bozztv.com/giatvplayout7/giatv-210617/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
