@@ -718,7 +718,7 @@ https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
 https://kali.vdopanel.com:3717/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="EpicToon" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="CANALES INDEPENDIENTES",EpicToon |ND
+#EXTINF:-1 tvg-id="EpicToon" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="CANALES INDEPENDIENTES",EpicToon | ND
 https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=vibra060425
 
 #EXTINF:-1 tvg-id="EstacionKusTv" tvg-name="EstacionKusTv" tvg-logo="https://imgur.com/7Nt6bnK.png" group-title="CANALES INDEPENDIENTES",EstacionKusTv | Mexico
@@ -8333,6 +8333,9 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 http://177.234.230.206:8011/play/a0pt
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe | Mexico
+http://195.66.210.10:80/MgTv476/MKXPB/9430
+
+#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe op1 | Mexico
 http://38.44.109.41:8003/play/a045
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe op2 | Mexico
@@ -8746,7 +8749,8 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Fox Kids 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
+https://use23.playlist.ttvnw.net/v1/playlist/CrsEPvtDmLAlGwP5qvX04J2_5D3w3kyOKBm-wmJ52EmJL-xFKjCZvylZ49x0cs6tWfCpNhuzbaxNwXs9WmIf6jkBl2bULKVSeib24QenVj_d8ploKGCGUPvZBs4Kk54aS_k_-Nw77p2Vi5K_Yxgv_OrKcho4j51IvHQC3TJ-9wD-3YkW03lrMlgFimAdM1MuKo7M4JFgyGxqq1F12K8eytdjVooQ2ePEUt6tSrCYfxMOq9vB5_-O8Yjpxsbiz3TpjbC2nkTHF1bCAoT5EtZg_b6ruXf9Vrn-GV2sZQnUqzFTT_KDRJSwfuM83VfcR8ZbdqBeOctCvAAuhB6zmogPd-IDKo7U347j9sVgOOtnoohyN4zrCkjCK7AU2FyPGbQoGtsIaFvrQYR5a685XMY28E5dOPpAiavEhG3b8N9g871MytHKSrlluStLp_IwE_PsPG5TN5-b6U8FQiBNPySrPc-cGAtOJ1PEDbbCq4hRxuaYrz-o837NNFxso7M5LH0KEXPRa-Jxs8p9gc6tIbL7ANjk06DFRA0Mdbcc43AwE8-WzKi_M4-1upRj2mg5Sfb1DcSpc-uhDjiSkNNTmWl-64R1Ll-1KubCN91sUda-3VdpFR7dfN6LPdJ9J1gf_5zFSCQs7r3lZ1g0p_hZRb1mCyWkFrxw8fGybjSTHYaPXEUZqm5WFgxfQZYnN246-lt1WBKA8n6D60lO-pVUZOt5AXVlUlCPCwx3d2Yedtmi7EG7DTIe8yJS7ARYBoIR2BoMN5AE2VT1n5Eepj70IAEqCXVzLWVhc3QtMjC3DQ.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 

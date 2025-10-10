@@ -21,11 +21,6 @@
     "iframe_url": "https://www.youtube.com/embed/p2AzyIEuFak",
     "pais": "mx"
   },
-"id-7": {
-    "nombre": "Canal 5",
-    "m3u8_url": "https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8",
-    "pais": "mx"
-  },
 "id-8": {
     "nombre": "Azteca 7",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
@@ -66,37 +61,38 @@
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
     "pais": "mx"
   },
-"id-16": {
-    "nombre": "Multimedios Cd Mexico",
-    "m3u8_url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
-    "pais": "mx"
-  },
 "id-17": {
     "nombre": "Maussan Tv",
     "iframe_url": "https://www.youtube.com/embed/IhTecbhM1PE",
     "pais": "mx"
   },
-"fox": {
-    "nombre": "Fox Kids",
-    "iframe_url": "https://ok.ru/videoembed/8967999463166",
+"kartoon": {
+    "nombre": "Cartoon Galaxy",
+    "iframe_url": "https://player.twitch.tv/?channel=cartoongalaxy1&parent=compulms.tiiny.site",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
 "kartoon": {
-    "nombre": "Cartoon Galaxy",
-    "iframe_url": "https://ok.ru/videoembed/8896438738686",
+    "nombre": "Cartoon Network",
+    "iframe_url": "https://ok.ru/videoembed/8896438738686?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "mx"
+  },
+"fox": {
+    "nombre": "Fox Kids",
+    "iframe_url": "https://ok.ru/videoembed/8967999463166?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
 "nick": {
     "nombre": "Nick at Nite",
-    "iframe_url": "https://ok.ru/videoembed/9194603093758",
+    "iframe_url": "https://ok.ru/videoembed/9194603093758?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
 "mtv": {
     "nombre": "MTV",
-    "iframe_url": "https://ok.ru/videoembed/9197124787966",
+    "iframe_url": "https://ok.ru/videoembed/9197124787966?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
