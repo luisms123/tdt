@@ -23,7 +23,7 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Japon
-https://ott.udptv.net/stream/iptv/animax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://ca01.utako.moe/Animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Anime Vision" tvg-name="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision | Spain
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
@@ -688,9 +688,6 @@ https://streamaction.ddns.net/suertv_hls/suertv.m3u8
 #EXTINF:-1 tvg-id="T5 Satelital" tvg-name="T5 Satelital" tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="FAMILIARES",T5 Satelital | Argentina
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv HD" tvg-name="TalTal Tv HD" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
-https://giatv.bozztv.com/giatv/giatv-TALTALTVTURISMO/TALTALTVTURISMO/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TalTal Tv Documentales" tvg-name="TalTal Tv Documentales" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Documentales | Argentina
 https://live20.bozztv.com/giatvplayout7/giatv-208260/tracks-v1a1/mono.ts.m3u8
 
@@ -711,6 +708,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210617/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TalTal Tv HD" tvg-name="TalTal Tv HD" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
+https://giatv.bozztv.com/giatv/giatv-TALTALTVTURISMO/TALTALTVTURISMO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tec TV" tvg-name="Tec TV" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="FAMILIARES",Tec TV | Argentina
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
@@ -786,9 +786,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Tom y Jerry" tvg-name="Tom y Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTILES",Tom y Jerry op2 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Toonami Aftermath" tvg-name="Toonami Aftermath" tvg-logo="https://imgur.com/uaB70MD.png" group-title="JOVENES Y ADULTOS",Toonami Aftermath | USA
-https://asp6.toonamiaftermath.com/livehttporigin/est/wPbRWN-W3YunY-playlist.m3u8
 
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8

@@ -437,7 +437,7 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Japon
-https://ott.udptv.net/stream/iptv/animax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://ca01.utako.moe/Animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Anime Vision" tvg-name="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision | Spain
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
@@ -1102,9 +1102,6 @@ https://streamaction.ddns.net/suertv_hls/suertv.m3u8
 #EXTINF:-1 tvg-id="T5 Satelital" tvg-name="T5 Satelital" tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="FAMILIARES",T5 Satelital | Argentina
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv HD" tvg-name="TalTal Tv HD" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
-https://giatv.bozztv.com/giatv/giatv-TALTALTVTURISMO/TALTALTVTURISMO/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TalTal Tv Documentales" tvg-name="TalTal Tv Documentales" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Documentales | Argentina
 https://live20.bozztv.com/giatvplayout7/giatv-208260/tracks-v1a1/mono.ts.m3u8
 
@@ -1125,6 +1122,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210617/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TalTal Tv HD" tvg-name="TalTal Tv HD" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv HD | Argentina
+https://giatv.bozztv.com/giatv/giatv-TALTALTVTURISMO/TALTALTVTURISMO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tec TV" tvg-name="Tec TV" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="FAMILIARES",Tec TV | Argentina
 https://vd01.streaminghd.net.ar:3787/live/jcslppmtlive.m3u8
@@ -1200,9 +1200,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Tom y Jerry" tvg-name="Tom y Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTILES",Tom y Jerry op2 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Toonami Aftermath" tvg-name="Toonami Aftermath" tvg-logo="https://imgur.com/uaB70MD.png" group-title="JOVENES Y ADULTOS",Toonami Aftermath | USA
-https://asp6.toonamiaftermath.com/livehttporigin/est/wPbRWN-W3YunY-playlist.m3u8
 
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
@@ -8750,7 +8747,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use21.playlist.ttvnw.net/v1/playlist/CsMEJPB_tE1LgmP7luezNQ_fcq2bAmq1IbP7hzvKbDsDnGB5M48YszcHe8hhmB3aCkPmNKqavNCym0FPAOrNqIjUYmrQguMxCYLY8kUlLzYfwFggwYGEVoiDKJkQNMm2N_RLEsubz4Cxfe3FMpb-XVZ6Kaz8f5WMv7xfCidAINtQKELUSqCfNDCqyZHOcLINLgngH3DTSYO_a_3xy1l5G7cI715bsFySmlSE26HE6BHXZrDy_7OqPLNMYjGkFS0NzNDlTNbuYRPH23rW7GLFglnYsX9nwhuuTu5aMRqW1Wg05YS1R13ZwV96OKwbcoas8hWffmNyNWdKtCSF_DQiza8sY33wXUrlTPWWH5Mtoqnad2B_j0DuvrShLUVIiMwlV-WP6_RmyY6NGsKy3khGiLLBLvMCNaqS-0FIaQ0c7lX6gvflK6DfcSVgdxS3D_Y25odAGpUER4dEgn02dbggmHk-4yd3MN4K7nyeDJ1UTvPjLlZYjfCPtpRwvprzm1EaUyEeTO6DqnFeWgWaQgIMxQ4PUtR0JKDkdZ4ck2BC1RBOsFefPwYqya53HEEVzXD6wPK5DOt1cZntpeAo9uI2xJcSPlU8qs0TnDov6YfIYQ8hMCfilxQA4-7M5XRZGoxjcdnE8JNqVjJ8iMoM7ANf6E5KKgJf9iz2JmcPbZQEJVbzN7lVSATU96DFfgM6UVq8oVze__S1TrsnKj2sOzGhU7nvoFea9THZzoNDh4tmSqk4pgiAlND6KfwDecEWDGb5R9XlWw9UGgzagJU69RRIzg5WcY8gASoJdXMtZWFzdC0yMLgN.m3u8 
+https://use22.playlist.ttvnw.net/v1/playlist/CsMEcAD1WeHz0WCWKKhWmh2waoRijZXP-9MftTVGEDhwEpy-SIEDZweUle3EAkHbxp4RPTk6qT8-UW7rinoULGYXIkk7TAaiCWYr7Fjl6EQDLQBOEPW9B_xqWRvTnvWDl_Vg1GOMjnh-DLeKgtALeSLVdRIRcWOcis0J1WyDGqsCbnbIO-wHZciYZWoswC7mVQSd0QlLv8oao5ivHlXpth9gu-naz5TR3C_dR7cvvwtIPWqbs_qp7mpJF9t3Hwzzfs5D_NRb8mxVkZLbL59wGO_Z9WY8Cu3nkfpe1Qnt11DK1hSEDIrNp7mivJydZG6OKUhRY-r_9eyp_rj0sGwI7bB-dJtPrN6e174hwohXzGc5uQsqMixqi9xDSyGorE9nzuoE8qaS_1U-_izh2sxpP7I1WMXaTWhtQLzp582FHy2Etf3IywX66v6Dd62cYaLee_tI0_aTsavhb9scMdkSsSUjgj-68Cb11PlMeiv2O9-qrKqp-lYMqy_YdhIPf1PUnJRkrwxMtcZ2vOOVxWqFz5UWV3VRomxExkYcGynvuQ2iV-D-SA8gquC_6DuJrDOU7AMOU8OZkTtOyry3Am_bJ419tH6laViXFcrbUw1wV38K7fg4G5dnfCccKNII1aFP9cy322X3kCwNFGMfVts9u5aL7aOafQILEy4iCdfZoWayo3al97Xxl_vRNrISwpGUG-3mHd5ISX5yNXKDum4WeJDLeQ2AHGwvuellZO4eKS_3KMiwQZPVN26DvY-SoumduzhA7Rm6Ggz7qygyvU_ARHkuTk8gASoJdXMtZWFzdC0yMLkN.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
