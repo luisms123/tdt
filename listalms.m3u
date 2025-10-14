@@ -511,6 +511,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CINE",Neox | Argentina
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
+#EXTINF:-1 tvg-id="Nextv" tvg-name="Nextv" tvg-logo="https://imgur.com/eChAxaN.png" group-title="FAMILIARES",Nextv | ND
+https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="FAMILIARES",NET TV | Argentina
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -933,8 +936,5 @@ https://mitv.zplay.cl/Ztv/video.m3u8
 
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nextv" tvg-name="Nextv" tvg-logo="https://imgur.com/eChAxaN.png" group-title="TV PREMIUM",-Nextv 24/7
-https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
 
 
