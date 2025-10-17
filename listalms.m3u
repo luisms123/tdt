@@ -577,6 +577,9 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Planeta Junior TV" tvg-name="Planeta Junior TV" tvg-logo="https://i.imgur.com/dRBHa7c.png" group-title="INFANTILES",Planeta Junior TV | ND
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 
+#EXTINF:-1 tvg-id="Planeta TV" tvg-name="Planeta TV" tvg-logo="" group-title="INFANTILES",Planeta TV | Peru
+https://live.obslivestream.com/planetatv/index.m3u8
+
 #EXTINF:-1 tvg-id="PlanetaTV Kids" tvg-name="PlanetaTV Kids" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="INFANTILES",PlanetaTV Kids | Chile
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
