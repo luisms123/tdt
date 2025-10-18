@@ -113,7 +113,7 @@ https://bst.buin.cl/0.m3u8
 https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Caldera Vision" tvg-name="Caldera Vision" tvg-logo="https://imgur.com/SHWtE1X.jpg" group-title="FAMILIARES",Caldera Vision | Chile
-https://v4.tustreaming.cl/calderavisiontv/index.m3u8
+https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 2 Retro Alcorta" tvg-name="Canal 2 Retro Alcorta" tvg-logo="https://imgur.com/z7yzJ4N.png" group-title="CANALES INDEPENDIENTES",Canal 2 Retro Alcorta | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/variado/playlist.m3u8
@@ -374,7 +374,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Iquique Tv" tvg-name="Iquique Tv" tvg-logo="https://iquiquetv.cl/wp-content/uploads/2020/05/iquiqueTV_logo_202005_272x90.png" group-title="FAMILIARES",Iquique Tv | Chile
-https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
+https://stream.skarnetchile.com:19360/iquiquetv-hd/iquiquetv-hd.m3u8
 
 #EXTINF:-1 tvg-id="JTA TV" tvg-name="JTA TV" tvg-logo="https://imgur.com/pyRSWBg.png" group-title="FAMILIARES",JTA TV | Argentina
 https://streaming.jtamendoza.com/hls/test_src.m3u8
