@@ -631,6 +631,9 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="Chilevisual" tvg-name="Chilevisual" tvg-logo="https://i.imgur.com/QgkHhfd.jpg" group-title="FAMILIARES",Chilevisual | Chile
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cine 35 mm" tvg-name="Cine 35 mm" tvg-logo="https://imgur.com/CuoEZS9.png" group-title="CINE",Cine 35 mm | Argentina
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cine Horrorfy" tvg-name="Cine Horrorfy" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="CINE",Cine Horrorfy | USA
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
@@ -729,6 +732,9 @@ https://streamingtv.masplay.x10.mx/proxy/mixtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Estrella Producciones" tvg-name="Estrella Producciones" tvg-logo="https://i.imgur.com/1Uc4pJw.png" group-title="FAMILIARES",Estrella Producciones | Paraguay
 https://live20.bozztv.com/akamaissh101/ssh101/estrellatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Evavision" tvg-name="Evavision" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Evavision | Chile
+https://stmv4.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="https://imgur.com/PS3hllN.png" group-title="CINE",Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -7427,8 +7433,6 @@ https://mediacpstreamchile.com:1936/hugomendez/hugomendez/playlist.m3u8
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-id="EvaRetro.cl",EvaRetro (Corporación Eva) (600p) [Not 24/7]
 https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-id="Evavision.cl",Evavision (720p)
-https://stmv4.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-id="EvavisionPachanga.cl",Evavision Pachanga (Corporación Eva) (720p)
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-id="ExprezionTV.cl",Exprezion TV (720p)
@@ -8753,7 +8757,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use22.playlist.ttvnw.net/v1/playlist/CtoE7XaqqBwy2IL24OaICYrij3GXWBs0ulk3M6ggKpKh3lFASSgLCGhqy59HPPosXljQgFeC_UILaPt-yOjQOfhJYpdzUZWqFC_XVOSpuOmxxgg6_njE8syGyfofidMnxsdpNh2GdTsSL8FhrxcLIPBpjZ9veEVN1Iyn3f3NxgmwPw-2uAuMOnZaz7_8Y_mL4OQrs9kv5GxIBVsCnNQD0MSayI7yMvdyZNvR5ZCiDFL1NwKCBly2-b6hjLmbnMF1ZkYKtPuLrZvRZ0A9HTN6c5RB0OT6L-DJglqk0hEc_-RTNwZDlrGR1j9w4hQXWapf6EKc-YkHqT0ahkbHpGwDZxmNuTrhYjZh9JKHtR5TbCQdr0VIzCs9N9unHW9zqt7ev1hkjb6fwELmwJ9nE5F9N_pfy1WRe7_lYwpG2fwCszQdW9Fxgw5lhpjJb7iNwkBQcAidGqoOvKcArphdbmZNG3UpC8RgKrt4snMhawvv5MuqXD551cUPn_oo5mQCoYsFZi1mtPPi3HlO6wordDJZr-MEwMzgD6UY1DQKGV_rcAoEosR1nVs0RREIEypTuhLs7JC0v2JDPL2bHGqdB26D2aYosGnyUjhv2fMBeoUQwgn4qIutTd_7EgyRPUuMuV4bkzZY-FJ_r7hnHcclPHEfdv6ko6pQBoyyjOI-_ImEBDTLLrA41niVDjHEletAc-v-voxIomObYSpEAT0aYV6Inv-oEEDpe7MFHzchxEnUzPNh-NsAtGdUG1egABbYpLHP8dX9_KhHzshwD1FznwWRyX0idsAif6DNrRG6UI0aDHIdCtDAkEaDcCxNkSABKgl1cy1lYXN0LTIwvg0.m3u8 
+https://use23.playlist.ttvnw.net/v1/playlist/CuUEPiF3AMYlGhrdu-DVz9v-YLd8a0xep2lah4KeL8K3NoB6waBuhSH8WvAw8a116xi8Pl3Ntw1VOzUV0fqfWAXDdrB4o3QjXC8TSewUHEvCVWnn5eF_gNv8aZ8j7hJvrCLC2d-9UUWx0WYgmAhytYGwJKTbWQPzAB8nE6R2-YHS_th7SjKgWtPIEUQxZIekwzp77C7gjcDnk5MLwTymIZK-v6BQCISt4RpjYkagK2bbi8wEKEsqS4MtsMmMJehadVOddMnKhTpETDPcBWj-t62t-iq-6hSp2O9nqny96p3Ig4HkCRg64ZS9kVM9RJLwehfIWC3d8w-dx1XF95fJDmjHrqGoVabf0qVAoGwHbyyE5-XxZjehP369ZfuebYTi0Si9ENKAJG5-WJHMl3GkT-qB2MlDMunBL6gK9KskVeiqUUoqVG-sRW9NrVAiDDPGt_pRPyQDC5dHEI5hDaMwYlhxPPpM4T8QGceA6ZqX_AS1T69ns4-Kkldq-r2b8U0u_8BJxJC-BNbL_SATbcS-CNgwGV475X6LAouC61F_29TFRhwHVVVvXNaNrDT5YlAVoYmn5IHq8siD-wNz66Wb-Z6-PZs5GuAQYZFdmZqcB5sGMP5UaC83pcg-kLasduMnxR-nr0hOnHmVSltlYt6AYuC4vszduZILZzFkPN6uN1J7FIHPFGv5teOa1OWRKmuk-PZyVsHt8t-0RHEl0ISAi6rESvE8fwH7lSFzvOZZneW4s9P8MqcaUrYwvzjnBZDYlqN0z7xeb0fwJp81GsFAxlYhA17sz8rfztzgJpRsfoVHviHdfsU1fRoMXfHHrZyLAz0ItxXWIAEqCXVzLWVhc3QtMjC-DQ.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
