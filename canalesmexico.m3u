@@ -730,9 +730,6 @@ https://streamingtv.masplay.x10.mx/proxy/mixtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Estrella Producciones" tvg-name="Estrella Producciones" tvg-logo="https://i.imgur.com/1Uc4pJw.png" group-title="FAMILIARES",Estrella Producciones | Paraguay
 https://live20.bozztv.com/akamaissh101/ssh101/estrellatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EvaStream TV" tvg-name="EvaStream TV" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",EvaStream TV | Chile
-https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="https://imgur.com/PS3hllN.png" group-title="CINE",Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -1752,8 +1749,8 @@ https://lt15concordia.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ylkrjsxy5gyh.png" group-title="RADIOS LATINAS",Radio Selena
 http://s10.voscast.com:7870/;
 
-#EXTINF:-1 tvg-logo="http://fmcube.net/images/stations/61b09d34c2466.jpg" group-title="RADIOS LATINAS",Radio Tatu Tatu
-https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8e/41/83/8e41833b-4297-09ec-b743-4ba5f3530058/mzaf_5816836810197755269.plus.aac.p.m4a
+#EXTINF:-1 tvg-logo="http://fmcube.net/images/stations/61b09d34c2466.jpg" group-title="RADIOS LATINAS",Radio Tatu-Tatu
+https://stream.pcradio.ru/Tatu-med
 
 #EXTINF:-1 tvg-logo="https://empresasdeconcordia.com/img/fotos/foto-LT15-Radio-del-Litoral-AM-560-02.jpg" group-title="RADIOS LATINAS",Radio FM Vida Concordia
 https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
@@ -7430,11 +7427,11 @@ https://mediacpstreamchile.com:1936/hugomendez/hugomendez/playlist.m3u8
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-id="EvaRetro.cl",EvaRetro (Corporación Eva) (600p) [Not 24/7]
 https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-id="Evavision.cl",Evavisión (720p)
-https://stmv1.zcasthn.com.br/evevision/evevision/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-id="EvavisionPachanga.cl",Evavisión Pachanga (Corporación Eva) (720p)
+#EXTINF:-1 group-title="CHILE" tvg-id="Evavision.cl",Evavision (720p)
+https://stmv4.voxtvhd.com.br/evavision/evavision/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" tvg-id="EvavisionPachanga.cl",Evavision Pachanga (Corporación Eva) (720p)
 http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-id="ExprezionTV.cl",Exprezión TV (720p)
+#EXTINF:-1 group-title="CHILE" tvg-id="ExprezionTV.cl",Exprezion TV (720p)
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1 group-title="CHILE" tvg-id="Girovisual.cl",Girovisual (720p)
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
@@ -8756,7 +8753,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use22.playlist.ttvnw.net/v1/playlist/CuMEb01XvZ26wy1_rqEULt2U8UCE_S2xBdNCDWYfIAAOlcF5qKhHdt1qmUxfBeXwBtyu7OmZSkJtvzaagQyfFlP5TpJhxW6frxAZESbWdyhpjwVcTro2xmEUDRUNhbIr3V-5uYj_TSHiheeVtowao0NKGab-XDqtcifoCj6XKGCFXD5jG_cGS9l5AxdE5_tetTUa_Ri39NTsinDXH6pN5D8z3dJpJtMg2ge-KfjERg7fUbiLUKHQPRFwW8knlEUJo5mNO6v_3l7Yf_o0CQYYE0x4bjCU5z46wDMmqeS2nqTZE1-utMy24l0ausG2gmbOQz5uZnK-QsWlyS8SKT_fkUi6OENx05ETbvQhRXV5118JWyLOyfmPEbiNJsieK7pGnARWSwDyvzwPe8cM_YhO-kgFZORdxIdDYsxs-f7wu3pNtRLmX4UgCE-wABJLPqPuQdXQMy18hMWJ78u-DhPstgVkTeqe7HIo6-36j6L0h1lrxNmkfzxhcHoHq_ZKpC2iOBygNE7-T3lOxxAw2BIRrrCJk7O_m7subN-31Dy52WpWZFDfEPMUymh5Xgmlef1ePprUJPiSzR2DXFtQ00nnRGjU_TW0b_bBhzJoMEa7P-CEwbTYRZswIcDbMRRh3bzydrQUzUWDhvND87GRkFhl-bGVt6zegmRarp3IRHTsKerKDvmPtK-lFjHqdURvAMFwZFbmF6VPWXztaaz-2yCKwOfCWUyRyhnGXew6ZKcWekhBakEfTEKA1cxUeDChBzx67v77YmUm_2MnCHYFnsg5npIWyFDUFjm_4zQI9OxxH1fD81S5cfoaDJxAfsc4FtMf2CgXFiABKgl1cy1lYXN0LTIwvg0.m3u8 
+https://use22.playlist.ttvnw.net/v1/playlist/CtoE7XaqqBwy2IL24OaICYrij3GXWBs0ulk3M6ggKpKh3lFASSgLCGhqy59HPPosXljQgFeC_UILaPt-yOjQOfhJYpdzUZWqFC_XVOSpuOmxxgg6_njE8syGyfofidMnxsdpNh2GdTsSL8FhrxcLIPBpjZ9veEVN1Iyn3f3NxgmwPw-2uAuMOnZaz7_8Y_mL4OQrs9kv5GxIBVsCnNQD0MSayI7yMvdyZNvR5ZCiDFL1NwKCBly2-b6hjLmbnMF1ZkYKtPuLrZvRZ0A9HTN6c5RB0OT6L-DJglqk0hEc_-RTNwZDlrGR1j9w4hQXWapf6EKc-YkHqT0ahkbHpGwDZxmNuTrhYjZh9JKHtR5TbCQdr0VIzCs9N9unHW9zqt7ev1hkjb6fwELmwJ9nE5F9N_pfy1WRe7_lYwpG2fwCszQdW9Fxgw5lhpjJb7iNwkBQcAidGqoOvKcArphdbmZNG3UpC8RgKrt4snMhawvv5MuqXD551cUPn_oo5mQCoYsFZi1mtPPi3HlO6wordDJZr-MEwMzgD6UY1DQKGV_rcAoEosR1nVs0RREIEypTuhLs7JC0v2JDPL2bHGqdB26D2aYosGnyUjhv2fMBeoUQwgn4qIutTd_7EgyRPUuMuV4bkzZY-FJ_r7hnHcclPHEfdv6ko6pQBoyyjOI-_ImEBDTLLrA41niVDjHEletAc-v-voxIomObYSpEAT0aYV6Inv-oEEDpe7MFHzchxEnUzPNh-NsAtGdUG1egABbYpLHP8dX9_KhHzshwD1FznwWRyX0idsAif6DNrRG6UI0aDHIdCtDAkEaDcCxNkSABKgl1cy1lYXN0LTIwvg0.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
@@ -8777,13 +8774,11 @@ https://use22.playlist.ttvnw.net/v1/playlist/CuMEb01XvZ26wy1_rqEULt2U8UCE_S2xBdN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Especial 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CeciliaOrson 
-https://use23.playlist.ttvnw.net/v1/playlist/CskEd1-RX5ppNcaIV5RifrXcqkWNwmbonv8UeG-nmvmRM8mXxRl9FTPc00Fg0r4L-YA4Lyfs8vsdeJpdEaygoaH1jSuvxJOnCt9WezEsfIfV39_Ie4znoJPDJAVdux_WlRlB86iZXIOC7wElhkvIxRlHMdZZrFeq6cCBAJ2I9D6DefJ14Q0clI7EmNc2MikgxrgOPJqAri1ChrTxTn0farkLGMqrQDZJ8_yped6NVRc-WUMhZtPJdCevsLBS76Soxj7hRMJ4emxJ-8yfUukXGetJWmc5-qPk55HE6rbt3D8GQCTZcVVciPyEqnzfnTvAvO8Q_8-sJCDTatBfDgaVulczOGnpCzGyD8z84o4qbeB7D0WCWm-Epjz6MP_P0fZK8E7TIPiZbu3Og1jAPg3W5R-0Va60Nf4HL8Q5_b-aS7S4XDS6YpnidhVnCyT6d9zl-NEpiwO7HEufCqwpOdduh9Xym1myF9cJxgoC6VWCT83m9AlaSA5Fs_l22-wUllaUAxbjWiU7qLP83bFc6DLthf0Xer7Kbbu7U3gOrs5Bu0jlU4s-J9eC_YH5KjRgHczTJee73UOIslYpkWWmpr4qFNP4K5xSCj70I66RoDyNWork8RYP5gE7aEnTh4ORNpz0HHZ2EWYe5-p61hQ-uHIlF0NUa1AY2m98GqbfY5LcfolJJbk-A3oz3BidyMY6zHYNqS4XAVtv6O1JK2jWdNvKrSnNEB3nR1O6pRiBSUX0xk1rifkTRAufFQGPRnuu0fECgi8AYnd5rTibqfGtGgwedpZ0GQzmbpbcTkEgASoJdXMtZWFzdC0yML4N.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CineMX4 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ZAZ Tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
-https://use22.playlist.ttvnw.net/v1/playlist/CtwEWIjOLToUSf83IJ75j600GBn4BhLBY0lmUDauuFe0UaYPq8UyAOsOYP-XEmfith8wnh4zg5-pIaJr7JEg7tXb3bY6C47qoHbzFwKuaH939SaCoIL4RaOPaR0HlXPcCWJ12Unhn6jOodu5bihJA8HP4Alz7W3OB4v0Ji5AUksNV0VmwIL1WpqMiEilOpZbVDIaVd95ISR2Iq9nkNZL1_NtjChPfUSz0lWM8BDCMvpE5R6_1JnydGLSCg_lNE9ZMKwIHa-NwZgS41T7nzZgQqxBK9EY_8QlOvNLoKU8Nz6kx0JbtsUfX8KPN37AllTQ27K-___zTGkHvRP_pDvKDFBWTP8v2VNcwmgQIXU1TQ_K0MMVbkXCKHn1p4XJM7JsRbGB6MWGRRgWWteJpR3Zm-hQeO-41BrfeHIoLqxzGRmzNIyNtTsfE8X0TrZS6xkWqgqJs_o9RnN0PioPXgI9xuO_ZwmVT7_AMc9re1p0PNO1zx7ospu2yNCXBvoYmNEe6JDS3wkmfHOrJNlRRAnZIV8pF3qjQlwqiFjPZoSVsbCgbiahUPygBwSpoum0j_4JFVu4wuhsaqXfxNqLRtKEK0deStbXrKRJ1CGS1VVlCQ_mtJ-JPCuOLvS26Jl-dSkpJl0_ucergYR3JJ7sXATk_1AsaELpmskFUJ7kG21mtu2MLmNqx6ZhF8P_IlQ2jzBbFyanA_oVQOb8i4xSHyx5ocVnP8TR6m4QDgBw93eNWrWOx3nFbIOSO0tvNDOV32Igtt5YjhxqYH2XfWuG1hRbUfQhn5b0UoisNlXxLfcGChoM6d902TIgYGG0hQ-mIAEqCXVzLWVhc3QtMjC-DQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
