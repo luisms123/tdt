@@ -96,8 +96,7 @@
   </channel>
   <channel id="Magic Kids Tv">
     <display-name lang="es">Magic Kids Tv</display-name>
-    <icon src="https://i.imgur.com/Uu8dciU.png" />
-    <url>http://www.magick1ds.wixsite.com/magick1ds</url>
+    <url>http://www.compulms.com</url>
   </channel>
   <channel id="Magic Kids">
     <display-name lang="es">Magic Kids</display-name>
@@ -215,8 +214,7 @@
   </channel>
   <channel id="Casa Grande TV">
     <display-name lang="es">Casa Grande TV</display-name>
-    <icon src="https://i.imgur.com/qu4T37F.png" />
-    <url>http://www.magick1ds.wixsite.com/magick1ds</url>
+    <url>http://www.compulms.com</url>
   </channel>
   <channel id="Voice Over Radio TV">
     <display-name lang="es">Voice Over Radio TV</display-name>
@@ -5245,6 +5243,294 @@
   </programme>
   <programme start="20251021210000 -0300" stop="20251022000000 -0300" channel="Loco">
     <title lang="es">Locomotion TV</title>
+  </programme>
+  <programme start="20251019000000 -0300" stop="20251019040000 -0300" channel="Magic Kids Tv">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251019040000 -0300" stop="20251019080000 -0300" channel="Magic Kids Tv">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251019080000 -0300" stop="20251019120000 -0300" channel="Magic Kids Tv">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251019120000 -0300" stop="20251019160000 -0300" channel="Magic Kids Tv">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251019160000 -0300" stop="20251019200000 -0300" channel="Magic Kids Tv">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251019200000 -0300" stop="20251020000000 -0300" channel="Magic Kids Tv">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020000000 -0300" stop="20251020003000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020003000 -0300" stop="20251020010000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Le temes a la oscuridad?</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020010000 -0300" stop="20251020013000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020013000 -0300" stop="20251020020000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020020000 -0300" stop="20251020100000 -0300" channel="Magic Kids Tv">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020100000 -0300" stop="20251020103000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Spider Man</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020103000 -0300" stop="20251020110000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020110000 -0300" stop="20251020113000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Detective Conan</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020113000 -0300" stop="20251020120000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020120000 -0300" stop="20251020123000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020123000 -0300" stop="20251020130000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020130000 -0300" stop="20251020133000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020133000 -0300" stop="20251020140000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slam Dunk</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020140000 -0300" stop="20251020143000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020143000 -0300" stop="20251020150000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020150000 -0300" stop="20251020153000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020153000 -0300" stop="20251020160000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020160000 -0300" stop="20251020163000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020163000 -0300" stop="20251020170000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020170000 -0300" stop="20251020173000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020173000 -0300" stop="20251020180000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020180000 -0300" stop="20251020183000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Spider Man</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020183000 -0300" stop="20251020190000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020190000 -0300" stop="20251020193000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Detective Conan</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020193000 -0300" stop="20251020200000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020200000 -0300" stop="20251020203000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020203000 -0300" stop="20251020210000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020210000 -0300" stop="20251020213000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020213000 -0300" stop="20251020220000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slam Dunk</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020220000 -0300" stop="20251020223000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020223000 -0300" stop="20251020230000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020230000 -0300" stop="20251020233000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251020233000 -0300" stop="20251021000000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021000000 -0300" stop="20251021003000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021003000 -0300" stop="20251021010000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021010000 -0300" stop="20251021013000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021013000 -0300" stop="20251021020000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Mundo de Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021020000 -0300" stop="20251021100000 -0300" channel="Magic Kids Tv">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021100000 -0300" stop="20251021103000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Spider Man</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021103000 -0300" stop="20251021110000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021110000 -0300" stop="20251021113000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Detective Conan</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021113000 -0300" stop="20251021120000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021120000 -0300" stop="20251021123000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021123000 -0300" stop="20251021130000 -0300" channel="Magic Kids Tv">
+    <title lang="es">El Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021130000 -0300" stop="20251021133000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021133000 -0300" stop="20251021140000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slam Dunk</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021140000 -0300" stop="20251021143000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021143000 -0300" stop="20251021150000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021150000 -0300" stop="20251021153000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021153000 -0300" stop="20251021160000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021160000 -0300" stop="20251021163000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021163000 -0300" stop="20251021170000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021170000 -0300" stop="20251021173000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Mikami</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021173000 -0300" stop="20251021180000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Beakman</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021180000 -0300" stop="20251021183000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Spider Man</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021183000 -0300" stop="20251021190000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Thundercats</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021190000 -0300" stop="20251021193000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Detective Conan</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021193000 -0300" stop="20251021200000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Los caballeros del Zodiaco</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021200000 -0300" stop="20251021203000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Ranma 1/2</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021203000 -0300" stop="20251021210000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Chavo</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021210000 -0300" stop="20251021213000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Dragon Ball Gt</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021213000 -0300" stop="20251021220000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Slam Dunk</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021220000 -0300" stop="20251021223000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021223000 -0300" stop="20251021230000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Zenki</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021230000 -0300" stop="20251021233000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Alf</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
+  </programme>
+  <programme start="20251021233000 -0300" stop="20251022000000 -0300" channel="Magic Kids Tv">
+    <title lang="es">Sakura Card Captor</title>
+    <desc lang="es">Solo Por Magic Kids TV</desc>
   </programme>
   <programme start="20251019000000 -0300" stop="20251019003000 -0300" channel="Magic Kids">
     <title lang="es">Bloque Magic</title>
@@ -10570,6 +10856,134 @@
   </programme>
   <programme start="20251021210000 -0300" stop="20251022000000 -0300" channel="VariedTV">
     <title lang="es">VariedTV</title>
+  </programme>
+  <programme start="20251019000000 -0300" stop="20251019030000 -0300" channel="Casa Grande TV">
+    <title lang="es">Cine</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019030000 -0300" stop="20251019040000 -0300" channel="Casa Grande TV">
+    <title lang="es">La Teoria del Big Bang</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019040000 -0300" stop="20251019050000 -0300" channel="Casa Grande TV">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019050000 -0300" stop="20251019060000 -0300" channel="Casa Grande TV">
+    <title lang="es">Mandalorian</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019060000 -0300" stop="20251019070000 -0300" channel="Casa Grande TV">
+    <title lang="es">911</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019070000 -0300" stop="20251019080000 -0300" channel="Casa Grande TV">
+    <title lang="es">Roswell</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019080000 -0300" stop="20251019103000 -0300" channel="Casa Grande TV">
+    <title lang="es">El Hijo</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019103000 -0300" stop="20251019113000 -0300" channel="Casa Grande TV">
+    <title lang="es">Friends</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019113000 -0300" stop="20251019123000 -0300" channel="Casa Grande TV">
+    <title lang="es">La Theoria del Big Bang</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019123000 -0300" stop="20251019133000 -0300" channel="Casa Grande TV">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019133000 -0300" stop="20251019143000 -0300" channel="Casa Grande TV">
+    <title lang="es">Mandalorian</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019143000 -0300" stop="20251019153000 -0300" channel="Casa Grande TV">
+    <title lang="es">911</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019153000 -0300" stop="20251019160000 -0300" channel="Casa Grande TV">
+    <title lang="es">Roswell</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019160000 -0300" stop="20251019180000 -0300" channel="Casa Grande TV">
+    <title lang="es">El Hijo</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019180000 -0300" stop="20251019190000 -0300" channel="Casa Grande TV">
+    <title lang="es">Friends</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019190000 -0300" stop="20251019200000 -0300" channel="Casa Grande TV">
+    <title lang="es">La Theoria del Big Bang</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019200000 -0300" stop="20251019210000 -0300" channel="Casa Grande TV">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019210000 -0300" stop="20251019220000 -0300" channel="Casa Grande TV">
+    <title lang="es">Mandalorian</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019220000 -0300" stop="20251019230000 -0300" channel="Casa Grande TV">
+    <title lang="es">911</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251019230000 -0300" stop="20251020000000 -0300" channel="Casa Grande TV">
+    <title lang="es">Roswell</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251020000000 -0300" stop="20251020040000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251020040000 -0300" stop="20251020080000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251020080000 -0300" stop="20251020120000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251020120000 -0300" stop="20251020160000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251020160000 -0300" stop="20251020200000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251020200000 -0300" stop="20251021000000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251021000000 -0300" stop="20251021040000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251021040000 -0300" stop="20251021080000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251021080000 -0300" stop="20251021120000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251021120000 -0300" stop="20251021160000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251021160000 -0300" stop="20251021200000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
+  </programme>
+  <programme start="20251021200000 -0300" stop="20251022000000 -0300" channel="Casa Grande TV">
+    <title lang="es">OFFLINE</title>
+    <desc lang="es">Solo Por Casa Grande TV</desc>
   </programme>
   <programme start="20251019010000 -0600" stop="20251019070000 -0600" channel="Voice Over Radio TV">
     <title lang="es">Videos de Musica Variada</title>
