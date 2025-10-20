@@ -91,6 +91,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/wHsHiab.png" group-title="JOVENES Y ADULTOS",Aniplus HD | Asia
 http://iptv12k.com:35461/654321/123456/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Aurora Media Films" tvg-name="Aurora Media Films" tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png/v1/fill/w_262,h_262,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AuroraMedia.png" group-title="CINE",Aurora Media Films | Guatemala
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
 #EXTINF:-1 tvg-id="AYW Tv" tvg-name="AYW Tv" tvg-logo="https://imgur.com/EJSHaYU.png" group-title="CINE",AYW Tv | Costa Rica
 https://live20.bozztv.com/akamaissh101/ssh101/88channel/playlist.m3u8
 
@@ -674,7 +677,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+
+#EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV op2 | Costa Rica
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV op3 | Costa Rica
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8

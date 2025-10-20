@@ -505,6 +505,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/wHsHiab.png" group-title="JOVENES Y ADULTOS",Aniplus HD | Asia
 http://iptv12k.com:35461/654321/123456/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Aurora Media Films" tvg-name="Aurora Media Films" tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png/v1/fill/w_262,h_262,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AuroraMedia.png" group-title="CINE",Aurora Media Films | Guatemala
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
 #EXTINF:-1 tvg-id="AYW Tv" tvg-name="AYW Tv" tvg-logo="https://imgur.com/EJSHaYU.png" group-title="CINE",AYW Tv | Costa Rica
 https://live20.bozztv.com/akamaissh101/ssh101/88channel/playlist.m3u8
 
@@ -1088,7 +1091,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+
+#EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV op2 | Costa Rica
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV op3 | Costa Rica
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
@@ -8763,7 +8772,6 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use22.playlist.ttvnw.net/v1/playlist/CuME4nlbzl6g5upcOqsfqgB6dWVnUaYJu0zlq1vi6nclIYhWGtkgi21E3FpwhWr6WYAr0jhQCTYbVOi0pjq5KbfkC3H0Ib8h4aGYbGme3uImnIUdEaSqGlgevFTmgKlq-SD32imPcV1Q0KyZ3yCJZRPpxodx3H7YZCvsIAe4vECZWFgyLfV8pTyZtyE1s7pts5lNDAApAzqhGNcizUE3SD8SLoj0Up6mDBYSWQbui_LpO3n22T0quJ5_eepw9vrT7j_Se4913zkRWLEl7UDX__PZQXBKywGvwgJ5Zw8ePl-NdbtrvRidbrZDHSdClBr7nvLbkRNqUbaf2axqXB28H41ZEtzWg9BDurDQAXUDhOwMQv8OMJybtMJqLss-WALwqAvA-fNKlUsJHvhWArTdytxrfVXusLHjQyJqe_hCaCmncq1N9kg6y4_jV0r4UQGC5By0KSQPEG21R4A9iErhxem9VMnk1TfB7xbHGBz6LBynbCkvvHXVIehIB4ihxBlqfKM3WMk4kB7TNnTFWhGXC8NW4jvdf35H_HS5IuBQ8Go6BN0fRpeWrFNaE5_sDhNrqlczxX0_rdFSaRHhSDS6aOEHqpspEfGwNVtyYFC_tQ1IdkCONJbdAWrDJlWiJyIa9hQLH--UKXZlBQNyHTIFgUbXvk5MOdo07Ufrdk5gclmew82dqXzaK9HhlJ9G24jrWnYjOD8abofeC8JhuiFh2yuShdAMUE2mMj3aWZJ3DX_plNf2qoXoZjPdOPRI3JDfthLOsL6q3m1nYpHMqPrY_6vgm27ScotilEfcEHRHjoHbaBCkBbQaDMPj139hf-ixWhMbriABKgl1cy1lYXN0LTIwvw0.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
