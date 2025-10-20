@@ -520,6 +520,10 @@ https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="INFANTILES",Big TV | Argentina
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BIG" tvg-name="BIG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLtcWKP3NWyNzjEPqhZlm2hGW5IGNYfb8axxKpgp4gPndcB4P8cqMqFuAiSqeZJgROACtB9_9aSrV_sseSMVszwumU_SnEKPJ9OZtpFjw8QBrqz43B9Njd8N84dOKb2J2nTRkf3S_ZELk/s1600/BIG.jpg" group-title="INFANTILES",BIG | 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210590/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Bjgtjme" tvg-name="Bjgtjme" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
@@ -600,6 +604,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal ZeroFIlms" tvg-name="Canal ZeroFIlms" tvg-logo="https://imgur.com/ENa7t5W.png" group-title="CINE",Canal ZeroFIlms | Colombia
 https://live20.bozztv.com/akamaissh101/ssh101/canalzerofilms1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Capitan Futuro" tvg-name="Capitan Futuro" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3ZOrowmnDUR6PB3C9Kast4z1fsV.jpg" group-title="INFANTILES",Capitan Futuro | 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210700/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-id="Caracola TV" tvg-name="Caracola TV" tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2021/12/logo-296x300.jpg" group-title="FAMILIARES",Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
@@ -697,6 +705,10 @@ https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cotui Tv Canal 22" tvg-name="Cotui Tv Canal 22" tvg-logo="https://image.roku.com/developer_channels/prod/b228fb39fac5430cbeccd88647df10d234757e1679dab8b254ccef92e674d98e.png" group-title="CANALES INDEPENDIENTES",Cotui Tv Canal 22 | Republica Dominicana
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 
+#EXTINF:-1 tvg-id="Cuentos de la Cripta Serie Animada" tvg-name="Cuentos de la Cripta Serie Animada" tvg-logo="https://gia.tv/streams/pptv/210858.png?1760964658" group-title="INFANTILES",Cuentos de la Cripta Serie Animada | 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="CANALES INDEPENDIENTES",DFTV Animacion HD | Chile
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/playlist.m3u8
 
@@ -723,6 +735,10 @@ https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
 
 #EXTINF:-1 tvg-id="El Folklorico" tvg-name="El Folklorico" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="CANALES INDEPENDIENTES",El Folklorico | Argentina
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
+
+#EXTINF:-1 tvg-id="El Hombre Araña" tvg-name="El Hombre Araña" tvg-logo="https://gia.tv/streams/pptv/210702.jpg?1758864551" group-title="INFANTILES",El Hombre Araña | 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
 https://kali.vdopanel.com:3717/stream/play.m3u8
@@ -820,6 +836,9 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-id="La Mega Mundial" tvg-name="La Mega Mundial" tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="MUSICA",La Mega Mundial | USA
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="La Pantera Rosa" tvg-name="La Pantera Rosa" tvg-logo="https://www.ecured.cu/images/0/04/Pantera_Rosa_2.jpg" group-title="INFANTILES",La Pantera Rosa | ND
+https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="La Popular TV" tvg-name="La Popular TV" tvg-logo="https://i.imgur.com/hv6nO9Z.jpg" group-title="FAMILIARES",La Popular TV | Chile
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 
@@ -871,6 +890,10 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Maria Vision" tvg-name="Maria Vision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision.png" group-title="RELIGION",Maria vision Capilla | Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Mario TV" tvg-name="Mario TV" tvg-logo="https://gia.tv/streams/pstream/210141.png" group-title="INFANTILES",Mario TV | 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210141/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Mas Cine" tvg-name="Mas Cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="CINE",Mas Cine | Chile
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 
@@ -906,6 +929,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="CANALES INDEPENDIENTES",Moni TV op2 | Argentina
 https://tv.arkeo.cl:19360/8134/8134.m3u8
+
+#EXTINF:-1 tvg-id="Monstruos de Verdad" tvg-name="Monstruos de Verdad" tvg-logo="https://gia.tv/streams/pptv/210856.jpg?1760921866" group-title="INFANTILES",Monstruos de Verdad | 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210856/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Monte Maria" tvg-name="Monte Maria" tvg-logo="https://i.imgur.com/NIfwd9a.png" group-title="RELIGION",Monte Maria | Mexico
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
@@ -1320,6 +1347,10 @@ https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wow Tv" tvg-name="Wow Tv" tvg-logo="https://imgur.com/Kbjf0An.png" group-title="CINE",Wow Tv | El Salvador
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-id="X Men" tvg-name="X Men" tvg-logo="https://gia.tv/streams/pptv/210703.jpg" group-title="INFANTILES",X Men | 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Xabarin TV HD" tvg-name="Xabarin TV HD" tvg-logo="https://i.imgur.com/ogwLihA.png" group-title="INFANTILES",Xabarin TV HD | Spain
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG/playlist.m3u8
@@ -8772,6 +8803,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
+https://use22.playlist.ttvnw.net/v1/playlist/CuUER2I-2lJfvIjOtts0gv6q4vYl_s--ITh7AkfY7QWGFkNQ80Uk00Inl708O9WgwNPvnk_Bejc6Iz0gp2kxHd8r9V8oAjV-D7Vtvp4eAQnxwtlZWcjYiIcIgHAO2AKq0hqGtDvt5rBYSVm5yfKN88JW5t8-0HUpZtiJajaek6AuHiokFUIjpk9Wny_-BWS_Xtowir--Kdcr5oEwX7UmeQMksJmxrkYNUjGj0wTL14dvkdftl07XfRGm1G-4mNUSPqIbx4o-OgkaTwITaaaYNR0Hh4nxcfXJdPyJ4kb4oOsjY13zTweh9u6k1CF6_Nt6dLKqOq6dtq6AaZ3Kfi475AaujRxnEWs10i4dcmSWhrUSYX3roivMOwKkD_saaiuaTT0kd2OzVyogGlZLjZxANNgdaKE_563XEC9c3k81H1J8sYm7SGPRPvq6xoEUfk7W7FeJMx2blsJmsthYqoF0ROrIlYPAAPWRbXFEf6Kdxd1VoTTwc_lMFpKM86HsVoVVYu3zCSYn4y-i4a4-bBqrnxSR8mvJNeHRW_XpTBEJrODbMwiuiN1tEtHHItxc0605--gYdN2skwF-3ZZaEr7bL9a3EIerua44dIi6IgPUdO4bVnJSLMdT2LXOFzuFU7HPoGoFLKNuOuuhbHKYU179sxm7FHxRDuY0jiMgmDEIRDAG8V98uJLNrdMWOkU7v0fnrQqFugZy6VIUl3RFQPmor8ToCg4sa5fdL9rBOeG1-LOECDXLuoCy9mfo_h2AXQSJkObjmlv2l4TeybfVy2VpbdHD3FQ4hhXIiGIbddesMUua_CyP2r14RxoMa86eOUWe6cBDTeFQIAEqCXVzLWVhc3QtMjDADQ.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
