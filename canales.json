@@ -108,9 +108,15 @@
     "fuente": "https://m.ok.ru/",
     "pais": "mx"
   },
+"toonamiaftermath": {
+    "nombre": "Toonami Aftermath",
+    "m3u8_url": "https://asp6.toonamiaftermath.com/livehttporigin/est/rkeVmg-EE6ode-chunklist.m3u8",
+    "fuente": "https://www.toonamiaftermath.com/",
+    "pais": "mx"
+  },
 "toonami": {
     "nombre": "Toonami Aftermath",
-    "iframe_url": "https://www.toonamiaftermath.com/",
+    "iframe_url": "https://www.toonamiaftermath.com/6c9c779a-8be3-4342-83c8-edf8e2f8e12b/",
     "fuente": "https://www.toonamiaftermath.com/",
     "pais": "mx"
   },
@@ -124,12 +130,6 @@
     "nombre": "Locomotion Tv",
     "iframe_url": "http://locomotiontv.com/envivo/",
     "fuente": "http://locomotiontv.com/envivo/",
-    "pais": "mx"
-  },
-"gogoplay": {
-    "nombre": "Gogoplay Tv",
-    "iframe_url": "https://player.twitch.tv/?channel=gogoplaytve&parent=compulms.tiiny.site",
-    "fuente": "https://www.twitch.tv/gogoplaytve",
     "pais": "mx"
   }
 }
