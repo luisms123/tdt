@@ -838,6 +838,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="Toonami Aftermath" tvg-name="Toonami Aftermath" tvg-logo="https://imgur.com/8M9OgHV.png" group-title="JOVENES Y ADULTOS",Toonami Aftermath | ND
 https://asp6.toonamiaftermath.com/livehttporigin/est/rkeVmg-EE6ode-chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Toonami Aftermath East" tvg-name="Toonami Aftermath East" tvg-logo="https://imgur.com/8M9OgHV.png" group-title="JOVENES Y ADULTOS",Toonami Aftermath East | ND
+https://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Toonami Aftermath West" tvg-name="Toonami Aftermath West" tvg-logo="https://imgur.com/8M9OgHV.png" group-title="JOVENES Y ADULTOS",Toonami Aftermath West| ND
+https://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 

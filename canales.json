@@ -115,8 +115,8 @@
     "pais": "mx"
   },
 "toonami": {
-    "nombre": "Toonami Aftermath",
-    "iframe_url": "https://www.toonamiaftermath.com/6c9c779a-8be3-4342-83c8-edf8e2f8e12b/",
+    "nombre": "Toonami Aftermath West",
+    "iframe_url": "https://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
     "fuente": "https://www.toonamiaftermath.com/",
     "pais": "mx"
   },
