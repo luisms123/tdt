@@ -103,7 +103,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="BD Network" tvg-name="BD Network" tvg-logo="https://i.imgur.com/OYNIliW.png" group-title="CANALES INDEPENDIENTES",BD Network | Argentina
 https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
 
-#EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="INFANTILES",Big TV | Argentina
+#EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://imgur.com/oNB4KQA.png" group-title="INFANTILES",Big TV | Argentina
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BIG" tvg-name="BIG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLtcWKP3NWyNzjEPqhZlm2hGW5IGNYfb8axxKpgp4gPndcB4P8cqMqFuAiSqeZJgROACtB9_9aSrV_sseSMVszwumU_SnEKPJ9OZtpFjw8QBrqz43B9Njd8N84dOKb2J2nTRkf3S_ZELk/s1600/BIG.jpg" group-title="INFANTILES",BIG | 24/7
@@ -141,7 +141,7 @@ https://stmv2.voxtvhd.com.br/radiotvfantastico/radiotvfantastico/chunklist_w1135
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5 Vision Latina" tvg-name="Canal 5 Vision Latina" tvg-logo="https://imgur.com/eChAxaN.png" group-title="FAMILIARES",Canal 5 Vision Latina | ND
-https://live20.bozztv.com/akamaissh101/ssh101/maxcartoon/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-VISIONLATINA5/VISIONLATINA5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 6 Mar del Plata" tvg-name="Canal 6 Mar del Plata" tvg-logo="https://i.imgur.com/MzuTLkz.png" group-title="CANALES INDEPENDIENTES",Canal 6 Mar del Plata | Argentina
 https://panel.dattalive.com:443/8186/8186/playlist.m3u8
@@ -205,7 +205,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/cartoonclasico/playlist.m3u8
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cartooncito" tvg-name="Cartooncito" tvg-logo="https://gia.tv/streams/logo/208284.jpg?1756618557" group-title="INFANTILES",Cartooncito | ND
-https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://i.imgur.com/nZz0o9I.png" group-title="CANALES INDEPENDIENTES",Casa Grande TV | Argentina
 https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
@@ -232,7 +232,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine 35 mm" tvg-name="Cine 35 mm" tvg-logo="https://imgur.com/CuoEZS9.png" group-title="CINE",Cine 35 mm | Argentina
-https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Horrorfy" tvg-name="Cine Horrorfy" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="CINE",Cine Horrorfy | USA
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
