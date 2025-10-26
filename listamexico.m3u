@@ -667,13 +667,16 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Magica Tv | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Magica Tv op2 | Argentina
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE | Spain
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Classic Channel HD" tvg-name="Classic Channel HD" tvg-logo="https://i.imgur.com/taejlKJ.png" group-title="CANALES INDEPENDIENTES",Classic Channel HD | Chile
-https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
+https://paneltv.stream:19360/classicchannel/classicchannel.m3u8
 
 #EXTINF:-1 tvg-id="Click TV" tvg-name="Click TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Cn8_xNlr_6B8xkddXtMJJjqw93z2CoSFZA&s" group-title="FAMILIARES",Click TV | Chile
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
@@ -8815,7 +8818,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use21.playlist.ttvnw.net/v1/playlist/CrkEdY_7VpeedvQBPGvQd7irwNzo61EDv_lMwxG-wdhlVHxLTApOS92NXQSHELajEQV6AWuOOGNcgfjewnFTiqdOypuAJ7WcfZy_Pv_qd1BAd_XYKyvVu5VvhlHLLWD9pU2V98aZ-H9wCfI3tGIa1IWbzYA2tdOpLWpKhqNLXWsy53b0-PLKoKcNUjr03zZkzrZWIABrE4ZbSGzQnPkrN5c69me-3_k_4VASUYr1f4--u_hpMqi_tc1IhmXf8a9_CmIKGfz5hDwPeQEamYY8S2Sh7P0JxYn_Xkfk9qazH-PSEQKBAHWjZ0pHPX4Dp2Lr06-vPJ5Z7LqH-H9pwdunObDU4yxb9XJcOrdMxqzEWBi50UNV2xflMUWapJpORmGstOMoQPtdoo23nkmqVF8ksKofEAMjfws5VHzAmC2BaXLibpbE1q1lZ1MFQGnLXpnlc5__TYHgP9GHhsvVaOJRzXtbEnAXQY4yory5JMmqDCp8IvqSqLjaKRosN3C8JaUHeOu9RlJo0KFpNaHuQs4-UkGoScJzx9PwHGnrpFzP_D8Rn8fr2JJeiQ_GTiea83hasWKPJXDYrSqWQWQl1w9wKfr_Huw7QERdQy0ufISuFmvUDGpweXZ69clNJROuSJmGYTgVHq1MCKOgJAbuqyvifz2o2jesZTjdF6xZXHxGcaLYkNfvVVuafytju-QcP0p62mfb-BfwLgIj3VTwZsSsSGuKGxJM9H-0wcGPpIVtlUt-nyUmXqMY6FWfqkQaDAjOanfCPJWn2zwtWyABKgl1cy1lYXN0LTIwxQ0.m3u8 
+https://use23.playlist.ttvnw.net/v1/playlist/CrkEsdNIZDhLG-9SPgeI-mfaQxp2CKyiD0pTvx9y2kw6uaNslmmAH1Tj8vSJmJGtFe1S36CupBYYDyiApMkPrgoCBQXDYgwdqXXt0k9fKq3G4UcPZc1MeZ6UrqHGkcMWhMcIoEE1N1wSkiR6ET1reK0Gb8ADfoJ_j-Qct0Bv11sI5_mNFCEQY8WtWlcDCtxMehTvmxzcuPJMQ6s3RF7udI7cCSRccxrkeQl50A65j0aBGvL7LAV8KNOu1EvjmrfKB84fC2Ms_KS0o2SiT9BtwDkrXd_j_FaO-RYGDzMEO9emrQOFk2eSV6BiMl8bSXZ44pP06tVw__0NTj7Zc3hOJFR-gC39O-QjhUNv_5xL0Euh_BhPdBDr9y7JB9o59vOEPEGKNXyvjTrZGlWcFHwYyB4KmSAKQQee8ypHclQTuMIDyYT6VrKtn03u8iWaNTdmOfGMz1SYiQDq2zFsqDhxhMN_4EBH7uKsX6Uya1iZ8Z8qugkBFHbBTxuhu3vutAlG5xjaG4nxLUwaqgtBdR_6-gN11Uhrelvoj2v1fWQoD8rhEiBWQAdQzT-YBpKzt8Nu6Ek6H3KDox-Pe2nOGgkIb9--C4Ev3CD_0KJ--Jk5fVLIkse_Tdv0ynPD8KawKTjIwLSlTOeqSzEYEZ9zu1xDsz2FBJV93yLz7LCDCLh-I7QhccMvur9ZuHs40MoLTvFVWZNefDhMhqZ2qLlcEYZ4Ep_hUp2psYqJ9iyAPyg3vzlNzX6XJUi26oQmw70aDFfVRosRukzlm4nBISABKgl1cy1lYXN0LTIwxg0.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 

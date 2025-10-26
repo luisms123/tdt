@@ -253,13 +253,16 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Magica Tv | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Magica Tv op2 | Argentina
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE | Spain
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Classic Channel HD" tvg-name="Classic Channel HD" tvg-logo="https://i.imgur.com/taejlKJ.png" group-title="CANALES INDEPENDIENTES",Classic Channel HD | Chile
-https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
+https://paneltv.stream:19360/classicchannel/classicchannel.m3u8
 
 #EXTINF:-1 tvg-id="Click TV" tvg-name="Click TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Cn8_xNlr_6B8xkddXtMJJjqw93z2CoSFZA&s" group-title="FAMILIARES",Click TV | Chile
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
