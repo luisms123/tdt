@@ -590,17 +590,11 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 #EXTINF:-1 tvg-id="Canal Juegos Retros" tvg-name="Canal Juegos Retros" tvg-logo="https://i.ibb.co/7t25BBxC/Logo-Canal-Juegos-retros-2.png" group-title="JOVENES Y ADULTOS",Canal Juegos Retros | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op2 | Mexico
-https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="CANALES INDEPENDIENTES",Canal Mas | Uruguay
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Canal Rex" tvg-name="Canal Rex" tvg-logo="https://img1.wsimg.com/isteam/ip/6f47b0e4-2e02-4ab1-8103-f541b24dfe4c/CANAL%20REX.png" group-title="CANALES INDEPENDIENTES",Canal Rex | Chile
 https://v4.tustreaming.cl/canalrex/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado | Mexico
-https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal ZeroFIlms" tvg-name="Canal ZeroFIlms" tvg-logo="https://imgur.com/ENa7t5W.png" group-title="CINE",Canal ZeroFIlms | Colombia
 https://live20.bozztv.com/akamaissh101/ssh101/canalzerofilms1/playlist.m3u8
@@ -714,6 +708,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="CANALES INDEPENDIENTES",DFTV Animacion HD | Chile
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digimon" tvg-name="Digimon" tvg-logo="https://imgur.com/25dMMif.png" group-title="INFANTILES",Digimon 24/7 | Mexico
+https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DIOS Te Ve" tvg-name="DIOS Te Ve" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO.png" group-title="RELIGION",DIOS Te Ve | Honduras
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
@@ -8821,7 +8818,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use23.playlist.ttvnw.net/v1/playlist/Cr8ER-CaODJD3hfTbIURjxK0g8Jsk1BEMvTTl0eN-HP0c0_gJf1YdTHElzudIrrv9qsVgSTavFechyAuU0c-E_8EnhSaENZweMOdwiLygaUHcpMJ-0TEEnqAAQvQFPZaXu8Rw5xgWwpfDAWoaxJvofpl5PlEDOBIoGNik61toqVtwUjShhUKHiIg_rz_f6RIqYloVeJwa1Bvcpbg9De-DTnzpGHl5df2nY_IkUXB217xNwSCRtKBhx2ALgZ_eyqpgkifk20fHpWh1RIcCSxjfHedVe__pJ98Z3D0nO5-8IzF0K-0-_FGStjDl7SdTMqNtJWJHPG2E-7ShDt3cQnMB1u4ICdTdLCn4L1ITyqI8XtOAJ9U2H1WSyEbPJGfgnm0vpVfyKusEJDQY5oMINCsW5x3Z2NxeWeKBhE2mJ6cP6f0hbwEYKcNgGVT-ZVLzkmmdjaR3A5sAYPEMKQpxViDWYkA0DSFvqjrsElO2bFSgcxnK1NQ-ZopTHDlmvXVISP4neOa0uoxdZYd-jBqlYfGa9fnFTyJVLQ6J5kY-t9qKametDocGAHFPQ7WiT3uQgibyxTj5wDQokpC8swYPjYvLFtxYAAcPgwc1VCFAOT9k7ozvNpMho1pOSU9UEOrvWbMqJSFDv-WAUdHchKrHdYgE4c2HnFgqh6gGniRb9bSiMnh8suaKm1TQ0WTtLRZEELFW1QzCNu0mj-UypJREc8jABAaDZ9JBNIFcYZmYHyNNkeJZvftEugyS6P7_1nrNb4uQvoaDNwc5Bj8XDKViriMlCABKgl1cy1lYXN0LTIwyw0.m3u8 
+https://use23.playlist.ttvnw.net/v1/playlist/CtME85qSaMZ6NUTmGS_6FEZf4M0Q1LD1tyWXr540GdDVitK20PdH_KLUSloeitmigyl-qUvZ5eAuJgB2DeI-7zjjkDrjCKPEAyXYf7R-N597Y5CR1Qb5M6bYUsL8FbUsq9ovkwvq6EAoL9NcoPkr8l1hMsebhCmZeRApyS8qtj-rH7w4Kw-oiOUCPHv2x1EueitKA2LfBj9P0FT5owcKPDZUi3g98vyN8JYq9LPIzMjMOn7nTCCslqR2U4nYy4rvGz_njvcouXm0DwaJpc_8Xe6eQo4k4lJQDbPtHENwGJX8zaEvzNF4XHhXPdHx8-s3QQH2VXWXqM_b8TbDuCVuVGSZTug2A_HayXEvj9dhIhjDMl-IhP42wIcPWnVyN7QozIbqgctCAEhCsv8S4Biw63qdIXpRTzN0qM8vZsejzX1fEM8lTS_FVOf9lxjuxq_I1a2HmoFslJCHE8e7k3gK0a2UgslOe4kqkMGRnKX5aDjGoLadk4mo4JwbiHL-WcAIriMFi3kPnTbVT-4vEipH7YlH8cxXmWWZoS93LGiJS_huL_yBMannk0TnA1EjIEPW9kIvnun5TBU1dzHwqA98G5kbAaTTQXwRQacqwGrwuzB5SBdSoDUzb3Ut8jHYwk9hHxbblMiXG3Zdpz5a2yA078-KZd4EB1OitCGumoQI6a9V5TBghR5Tdv9a7MAr65RGfPeXyxTnARg3pHi5RKzZ2a6MSJsAt9bzQ-DuZe8tSsMqRuH_cMLS7HGRUmwb5NIwdBlPXNZcuygerQjYbrleLbYH0Q7dtRoMieYiLEJxL_3PWLCSIAEqCXVzLWVhc3QtMjDMDQ.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
