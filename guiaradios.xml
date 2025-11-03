@@ -20,30 +20,6 @@
     <icon src="https://i.imgur.com/X0ooVPY.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20251102000000 -0300" stop="20251102030000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20251102030000 -0300" stop="20251102060000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20251102060000 -0300" stop="20251102090000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20251102090000 -0300" stop="20251102120000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20251102120000 -0300" stop="20251102150000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20251102150000 -0300" stop="20251102180000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20251102180000 -0300" stop="20251102210000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
-  <programme start="20251102210000 -0300" stop="20251103000000 -0300" channel="Radio Cristiana Amor Eterno">
-    <title lang="es">Merengues, Salsas, Mambo Cristiano</title>
-  </programme>
   <programme start="20251103000000 -0300" stop="20251103020000 -0300" channel="Radio Cristiana Amor Eterno">
     <title lang="es">Adoraciones</title>
   </programme>
@@ -102,6 +78,36 @@
     <title lang="es">Folcklore y Tangos Cristiano</title>
   </programme>
   <programme start="20251104220000 -0300" stop="20251105000000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Varios Artistas</title>
+  </programme>
+  <programme start="20251105000000 -0300" stop="20251105020000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Adoraciones</title>
+  </programme>
+  <programme start="20251105020000 -0300" stop="20251105080000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">varios</title>
+  </programme>
+  <programme start="20251105080000 -0300" stop="20251105100000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Musicas Variadas</title>
+  </programme>
+  <programme start="20251105100000 -0300" stop="20251105120000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Jubilo</title>
+  </programme>
+  <programme start="20251105120000 -0300" stop="20251105140000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Cumbia y Cuarteto Cristiano</title>
+  </programme>
+  <programme start="20251105140000 -0300" stop="20251105160000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Urbanas Cristianas</title>
+  </programme>
+  <programme start="20251105160000 -0300" stop="20251105180000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Pop Rock Cristiano</title>
+  </programme>
+  <programme start="20251105180000 -0300" stop="20251105200000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Decadas de los 80-90</title>
+  </programme>
+  <programme start="20251105200000 -0300" stop="20251105220000 -0300" channel="Radio Cristiana Amor Eterno">
+    <title lang="es">Folcklore y Tangos Cristiano</title>
+  </programme>
+  <programme start="20251105220000 -0300" stop="20251106000000 -0300" channel="Radio Cristiana Amor Eterno">
     <title lang="es">Varios Artistas</title>
   </programme>
   <programme start="20251102000000 -0600" stop="20251102030000 -0700" channel="Evolucion Musical">
