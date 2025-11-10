@@ -350,6 +350,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Extrema TV Kids" tvg-name="Extrema TV Kids" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="INFANTILES",Extrema TV Kids | ND
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FoxKind" tvg-name="FoxKind" tvg-logo="https://i.imgur.com/RUlL.png" group-title="CANALES INDEPENDIENTES",FoxKind | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/foxkind/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Free TV LQ" tvg-name="Free TV LQ" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Live | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
@@ -604,6 +607,9 @@ https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1 tvg-id="Panc Tv Peru HD" tvg-name="Panc Tv Peru HD" tvg-logo="https://imgur.com/ASVVkA0.png" group-title="CANALES INDEPENDIENTES",Panc Tv Peru HD | Peru
 https://panel.host-live.com:19360/20000/20000.m3u8
 
+#EXTINF:-1 tvg-id="Pantalla Clasica" tvg-name="Pantalla Clasica" tvg-logo="https://i.imgur.com/RUMlL.png" group-title="CANALES INDEPENDIENTES",Pantalla Clasica | Ecuador
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/sMVLdVq.png" group-title="INFANTILES",PBS Kids (Inglés) | USA
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
@@ -723,6 +729,9 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 #EXTINF:-1 tvg-id="Solo Stand Up" tvg-name="Solo Stand Up" tvg-logo="https://i.imgur.com/dQBY6Sb.jpg" group-title="FAMILIARES",Solo Stand Up | Chile
 https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
+
+#EXTINF:-1 tvg-id="Sora Tv" tvg-name="Sora Tv" tvg-logo="https://i.imgur.com/RUMlL.png" group-title="CANALES INDEPENDIENTES",Sora Tv | ND
+https://live20.bozztv.com/giatv/giatv-SoraTv/SoraTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sucremanta TV" tvg-name="Sucremanta TV" tvg-logo="https://xhateaec.com/upload/photos/2023/10/6z6HVTEMgZ2alcrC1f7d_06_de2acf159e0bb543f774fce7bd8bd0d6_avatar.png" group-title="CANALES INDEPENDIENTES",Sucremanta TV | Bolivia
 https://micanal.ovh/livestreams/165.J7EMP5DQSY6H.m3u8
