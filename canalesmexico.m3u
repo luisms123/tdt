@@ -8397,47 +8397,17 @@ http://177.234.230.206:8011/play/a0pt
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe | Mexico
 http://38.49.128.38:8000/play/a0np
 
-#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe | Mexico
-http://199.127.63.143:8989/278522_.m3u8
-
-#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe op2 | Mexico
-http://195.66.210.10:80/MgTv476/MKXPB/9430
-
-#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe op1 | Mexico
-http://38.44.109.41:8003/play/a045
-
 #EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing | Spain
 http://185.157.184.13:6001/play/BoingHD
-
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing op1 | Spain
-http://185.189.225.150:85/boing/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing op2 | Spain
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing op3 | Spain
-http://world-qualite.xyz:8080/MarcosRojas/RO-2019./236532
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network  | Mexico
-http://45.181.123.194:8000/play/a0k9/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network  | Mexico
 http://104.238.205.28:8989/278524_.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network  | Mexico
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
-
 #EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan TVE | Spain
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
-#EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="TV PREMIUM",Clan TVE op2 | Spain
-http://190.211.250.102:8000/play/a01j
-
 #EXTINF:-1 tvg-id="Etc TV" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV | Chile
 http://45.181.122.46:8090/play/a00t
-
-#EXTINF:-1 tvg-id="Etc TV" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op2 | Chile
-http://45.181.123.233:8000/play/a0nm
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="TV PREMIUM",Nickelodeon | Spain
 http://45.5.119.43:4000/play/a0hs
@@ -8448,88 +8418,20 @@ http://45.184.87.142:8000/play/a021
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast | Colombia
 http://177.234.230.206:8011/play/a0es
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op2 | Colombia
-http://181.119.86.1:8000/play/a09y
+#EXTINF:-1 group-title="TV PREMIUM",Baby TV
+http://38.183.182.166:8000/play/a0ub
 
-#EXTINF:-1 group-title="TV PREMIUM",Volver | Argentina
-http://181.209.95.30:8000/play/a021
+#EXTINF:-1 group-title="TV PREMIUM",Disney Channel
+http://177.234.230.206:8011/play/a0c2
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-s.jpg" group-title="TV PREMIUM",El Nueve | Argentina
-http://fortv.cc:8080/54514663/54514663/164869
-
-#EXTINF:-1 tvg-id="Memorias 921" tvg-name="Memorias 921" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias 921 | Colombia
-http://190.60.41.187:45000/play/a0jl/index.m3u8
-#EXTINF:-1 tvg-id="Memorias 921" tvg-name="Memorias 921" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias 921 | Colombia
-http://190.60.41.187:45000/play/a0jl
-
-#EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Classic | Colombia
-http://190.60.41.187:45000/play/a0ji/index.m3u8
-#EXTINF:-1 tvg-id="Memorias Classic" tvg-name="Memorias Classic" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Classic | Colombia
-http://190.60.41.187:45000/play/a0ji
-
-#EXTINF:-1 tvg-id="Memorias Corazon" tvg-name="Memorias Corazon" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Corazon | Colombia
-http://190.60.41.187:45000/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-id="Memorias Corazon" tvg-name="Memorias Corazon" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Corazon | Colombia
-http://190.60.41.187:45000/play/a0jj
-
-#EXTINF:-1 tvg-id="Memorias Film" tvg-name="Memorias Film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Film| Colombia
-http://190.60.41.187:45000/play/a0jk/index.m3u8
-#EXTINF:-1 tvg-id="Memorias Film" tvg-name="Memorias Film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Film| Colombia
-http://190.60.41.187:45000/play/a0jk
-
-#EXTINF:-1 tvg-id="Memorias Series" tvg-name="Memorias Series" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Series | Colombia
-http://190.60.41.187:45000/play/a0jn/index.m3u8
-#EXTINF:-1 tvg-id="Memorias Series" tvg-name="Memorias Series" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Series | Colombia
-http://190.60.41.187:45000/play/a0jn
-
-#EXTINF:-1 tvg-id="Memorias Toons" tvg-name="Memorias Toons" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Toons | Colombia
-http://190.60.41.187:45000/play/a0jo/index.m3u8
-#EXTINF:-1 tvg-id="Memorias Toons" tvg-name="Memorias Toons" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Toons | Colombia
-http://190.60.41.187:45000/play/a0jo
-
-#EXTINF:-1 tvg-id="Memorias Tropical" tvg-name="Memorias Tropical" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Tropical | Colombia
-http://190.60.41.187:45000/play/a0jm/index.m3u8
-#EXTINF:-1 tvg-id="Memorias Tropical" tvg-name="Memorias Tropical" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="TV PREMIUM",Memorias Tropical | Colombia
-http://190.60.41.187:45000/play/a0jm
-
-#EXTINF:-1 group-title="TV PREMIUM",Televisa
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/OwBr8zT.jpg" group-title="TV PREMIUM", Love Nature
-https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASATV.us" tvg-logo="https://i.imgur.com/w0r9bpC.png" group-title="TV PREMIUM",NASA | USA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/khlcec9.png" group-title="TV PREMIUM",Saber Mas | USA
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="TV PREMIUM",Senal Colombia | Colombia
-http://world-qualite.xyz:8080/MarcosRojas/RO-2019./350
-
-#EXTINF:-1 tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="TV PREMIUM",Telefuturo | Paraguay
-http://world-qualite.xyz:8080/MarcosRojas/RO-2019./61962
+#EXTINF:-1 group-title="TV PREMIUM",Telefe
+http://38.183.182.166:8000/play/a0s5
 
 #EXTINF:-1 group-title="TV PREMIUM",Telefe
 http://45.5.150.5:8887/play/a0b0/index.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM",Telefe HD
 http://200.115.120.1:8000/play/ca016
-
-#EXTINF:-1 group-title="TV PREMIUM",Discovery World
-http://190.60.38.45:8000/play/a0dr/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Best Clasicos
-https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6886d1d0a9add914ef17230b.m3u8?uid=medioscr&pkey=pAwXDpVB
-
-#EXTINF:-1 group-title="TV PREMIUM",FUTV
-https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6886d57020479bc2e2d16fb2.m3u8?uid=medioscr&pkey=pAwXDpVB
-
-#EXTINF:-1 group-title="TV PREMIUM",Tigo Sports
-https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6886d5e6c33520ea75a7e4a1.m3u8?uid=medioscr&pkey=pAwXDpVB
-
-#EXTINF:-1 group-title="TV PREMIUM",ESPN Deportes
-https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6852d1175d21554d2dbf724b.m3u8?uid=medioscr&pkey=pAwXDpVB
 
 #EXTINF:-1 group-title="TV PREMIUM",13 C
 http://177.234.230.206:8011/play/a0rf
@@ -8675,6 +8577,17 @@ http://177.234.230.206:8011/play/a0p7
 http://177.234.230.206:8011/play/a0og
 
 
+#EXTINF:-1 group-title="TV PREMIUM",Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Best Clasicos
+https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6886d1d0a9add914ef17230b.m3u8?uid=medioscr&pkey=pAwXDpVB
+#EXTINF:-1 group-title="TV PREMIUM",FUTV
+https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6886d57020479bc2e2d16fb2.m3u8?uid=medioscr&pkey=pAwXDpVB
+#EXTINF:-1 group-title="TV PREMIUM",Tigo Sports
+https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6886d5e6c33520ea75a7e4a1.m3u8?uid=medioscr&pkey=pAwXDpVB
+#EXTINF:-1 group-title="TV PREMIUM",ESPN Deportes
+https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6852d1175d21554d2dbf724b.m3u8?uid=medioscr&pkey=pAwXDpVB
+
 #EXTINF:-1 group-title="TV PREMIUM",GritosTV by Trinian
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Mi Miedo Canal
@@ -8687,8 +8600,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",NegociosTV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FLOU Detonacion
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-detonacion/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",VIAJAR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",La Bocina Latina
@@ -8699,6 +8610,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Rockola Televisión
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FLOU Detonacion
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-detonacion/playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",FLOU Detonacion
+https://cce.noisypeak.com/d/ams-av/contentserver/v2/distributions/46414937/content/m.m3u8?ads.app_bundle2=floutv&ads.app_name2=FLOUtv&ads.app_store_url2=https%253A%252F%252Ffloutv.com%252F&ads.channel_name=FLOU+Detonacion&ads.content_genre=Action%2CThriller%2CHorror%2CLATAM%2CIndependent+Movies%2CHispanic&ads.content_title=El+Plan+Perfecto&ads.provider_id=spanglish&ads.rating=0&ads.vast_id=SSP100&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IklsQzFwZENiMld3QjdkT3lLZXVmIiwiaXNzIjoiY29udGVudHNlcnZlciIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiNDY0MTQ5MzcifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNzYzMjcyMTkxfQ.iPxG3Tx3btjIdJcZwI7FdPiSEDHYMGlX5swSAtzvjec&ads.h%3D652%26ads.w%3D349%26ads.did%3D9c4f354f%26ads.channel_name%3DFLOU%20Detonacion%26ads.content_genre%3DAction%2CThriller%2CHorror%2CLATAM%2CIndependent%20Movies%2CHispanic%26ads.rating%3DTV14%26ads.content_series%3Dundefined%26ads.us_privacy%3D1N-N%26ads.app_platform%3Dweb%26ads.app_ver%3D1.0.39
 
 
 #EXTINF:-1 group-title="Solo Guia EPG",DAZN F1
@@ -8821,7 +8736,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use22.playlist.ttvnw.net/v1/playlist/CtUEbQVjRHDi_nc3vGXMdqbZH1-NS6OndYrTLv5B3Nmcc4nWAnAuIV1UZtKKoDn8mBlzowuP8zAUISSZ7xVXhln8PP9zB7wopX0pL2k9N9KlAek9TXt7TR_oMH8PM_mvMKssvE-DaTh6aWfZ8_gVkqxbGOR45aYuQ1f3TZg63NfSMtlBInrUG5fL74g7EqruhvwRMW5N1qv0rkF6u75-QdI-hhDg8mevIbw6tZDVNTDvBUcQXa9bGzdwLwStp6tCktWp0ybuymz_4FESZ0civJ7UW3zR3viTgKmRpBIgSmr-BT4qWh8Z17ft57aygnPnXRvB7vlqt-m0O4bzd1YmJ8YCvLFIXvTx2JlrshW2SGpkcK1DVMEcgzPi36Tam0QfLlf9rY-01WePUAkXrZo2txcSmcJmULMN-twdHb1s4CO8Yvn6MPWSViz1CsWpSc3Hz9MsQAPF5m7z8lZoeiFxn7ELKNzBwB80l95hc0qVF4FqF7t4ytEi_vWsAstq6r3FJHdn07fJSy8LeoNhcOuhpN420UxPK01YqwXlEEsKFWtEW8BT0bRnRo_GxhsbrF21r6mmhF8elqfRP-GW70BAvQMYLo4r-jMsT75FcLP1Xyw5jorWCkYIPu76oBEZpm_HtRxZKGFgrBshnfFOz69gEIcO2T19JRnDbsL2fcShdj0rO0xs8Xt6fLcSM98-vGEd8ub2HwIaSlAaUOOWBwT-gL1K5OWfiizlSodW7ZbLooN41GPkx62isFPrIz5jXfWFk8WUYXaQrRl158Jp4J4c2WNzKyK1-HmQGgw7_FLDrRtmiLCbxEYgASoJdXMtZWFzdC0yMNoN.m3u8 
+https://use21.playlist.ttvnw.net/v1/playlist/CsEExd7TTZWDqkZPfd-9DD8PEbYVI6BI8CkNJp_CFeKDf986UJ_8rBbR_BnABqJxjBbG1DsL1z5KrQx4f-Dx-_mxSg4RzGE0P6JPdmrc9NW1NBMU11HVSP6EErC6RBVPqYmxsPS9KvvZDyY9SMcQCZ0BFfRbk6oU6NLXYeqTqKlubSPC5LnZ1fiOTz7B5PQsxgFKK0ghA7WfBG7PRLd9denMHgzt5KOn5KZJmr1Nh0J4M8kni8VIi0YlaQIzT7jw1u5ccswr7Zme_KFwNQtQGpxwAxHpWMb4DryklTKvt8DbPs2OkCrcLznOrdKVaXeXSNh7AR_97AmRGjQ69cwhd9fpamd9O5Bw8myZWqPUusfisdZx8UIROEcvcrcKffkmG-TeZs4OS_s1DnuxaNRWWUv4CBeL79v2x-J41cqhvZzI1W2lbzgSMMjmlOpdtngCycYCsbMysC1ut1NSUYMnzv-D8SwEev8ufardZiEURJWZq11F5zROg2GjkG2M8gl4OTbX8ZzaTlqIn-5V-BXLFC1sx8MNSGrv8s0Amfohc13lqmq0fAmzJ8Sr9lNUt0LkdzSI3MTUDS_x6WXZ_frUm3UkigerSqdHwpCBSk_K7e99ZDx0yW2ZO25MSZLj5bvVi9YIvKvXrt-ahRs_6cHaZZhaKC7vqT8BAqcga45kzto1a2uxgYYsYpZp8375xfaJMrcJ13HZVpJL6SPNV03xPY2OO7hb82T4LUPYpiBQSZT3zGNWpF1Ah52So7mqRMHVem5U5xoMEKJg8yf8IqCnPaqsIAEqCXVzLWVhc3QtMjDbDQ.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
