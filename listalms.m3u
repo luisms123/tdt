@@ -98,10 +98,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/88channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bayres TV"  tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="CINE",Bayres TV | Argentina
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-#EXTINF:-1 tvg-id="BD Network" tvg-name="BD Network" tvg-logo="https://i.imgur.com/OYNIliW.png" group-title="CANALES INDEPENDIENTES",BD Network | Argentina
-https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://imgur.com/oNB4KQA.png" group-title="INFANTILES",Big TV | Argentina
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
@@ -113,7 +110,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210590/playlist.m3u8
 #EXTINF:-1 tvg-id="Bjgtjme" tvg-name="Bjgtjme" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BTV Baradero Tv" tvg-name="BTV Baradero Tv" tvg-logo="https://i.imgur.com/Yv77IzH.png" group-title="CANALES INDEPENDIENTES",BTV Baradero Tv | Argentina
+#EXTINF:-1 tvg-id="BTV Baradero Tv" tvg-name="BTV Baradero Tv" tvg-logo="https://i.imgur.com/Yv77IzH.png" group-title="MUSICA",BTV Baradero Tv | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/btvdigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Buin Somos Todos" tvg-name="Buin Somos Todos" tvg-logo="https://i.ytimg.com/vi/k_Q7-gqkfAo/maxresdefault.jpg" group-title="FAMILIARES",Buin Somos Todos | Chile
@@ -178,9 +175,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="CANALES INDEPENDIENTES",Canal Mas | Uruguay
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="Canal Rex" tvg-name="Canal Rex" tvg-logo="https://img1.wsimg.com/isteam/ip/6f47b0e4-2e02-4ab1-8103-f541b24dfe4c/CANAL%20REX.png" group-title="CANALES INDEPENDIENTES",Canal Rex | Chile
-https://v4.tustreaming.cl/canalrex/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal ZeroFIlms" tvg-name="Canal ZeroFIlms" tvg-logo="https://imgur.com/ENa7t5W.png" group-title="CINE",Canal ZeroFIlms | Colombia
 https://live20.bozztv.com/akamaissh101/ssh101/canalzerofilms1/playlist.m3u8
@@ -272,12 +266,6 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comet Tv" tvg-name="Comet Tv" tvg-logo="https://d17su2xjlj6zyp.cloudfront.net/uploads/2021/04/comet-logo-1536x924.png" group-title="FAMILIARES",Comet Tv | USA
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-
-#EXTINF:-1 tvg-id="COMCHANNEL" tvg-name="COMCHANNEL" tvg-logo="https://i.ibb.co/PbrpmLy/Logo-White.png" group-title="CANALES INDEPENDIENTES",COMCHANNEL | Chile
-https://mitv.zplay.cl/SYFYcl/index.m3u8
-
-#EXTINF:-1 tvg-id="COMMUSIC" tvg-name="COMMUSIC" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="CANALES INDEPENDIENTES",COMMUSIC | Chile
-https://mitv.zplay.cl/MuchmusicCL/index.m3u8
 
 #EXTINF:-1 tvg-id="Conecta TV" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/3sG2SHg.png" group-title="MUSICA",Conecta TV | Mexico
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
