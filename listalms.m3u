@@ -205,7 +205,7 @@ https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
 https://freya.mivideo.pro/centraltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CH TV" tvg-name="CH TV" tvg-logo="https://imgur.com/zzmGHyw.png" group-title="CANALES INDEPENDIENTES",CH TV | Chile
-https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Chamame Tv" tvg-name="Chamame Tv" tvg-logo="https://i.imgur.com/Q9pLtbI.png" group-title="FAMILIARES",Chamame Tv | Argentina
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
@@ -307,7 +307,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="Educa TV" tvg-name="Educa TV" tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="CULTURALES",Educa  TV | Ecuador
 https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
 
-#EXTINF:-1 tvg-id="El Folklorico" tvg-name="El Folklorico" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="CANALES INDEPENDIENTES",El Folklorico | Argentina
+#EXTINF:-1 tvg-id="El Folklorico" tvg-name="El Folklorico" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="MUSICA",El Folklorico | Argentina
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
 #EXTINF:-1 tvg-id="El Hombre Araña" tvg-name="El Hombre Araña" tvg-logo="https://gia.tv/streams/pptv/210702.jpg?1758864551" group-title="INFANTILES",El Hombre Araña | 24/7
@@ -317,7 +317,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
 https://kali.vdopanel.com:3717/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="EpicToon" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="CANALES INDEPENDIENTES",EpicToon | ND
+#EXTINF:-1 tvg-id="EpicToon" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="INFANTILES",EpicToon | ND
 https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=vibra060425
 
 #EXTINF:-1 tvg-id="EstacionKusTv" tvg-name="EstacionKusTv" tvg-logo="https://imgur.com/7Nt6bnK.png" group-title="CANALES INDEPENDIENTES",EstacionKusTv | Mexico
@@ -570,6 +570,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/w1jK0n7.png" group-title="INFANTILES",NTV | Chile
 https://marine2.miplay.cl/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oeste Mas" tvg-name="Oeste Mas" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Oeste Mas | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/oestemas2025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Opinion Sur" tvg-name="Opinion Sur" tvg-logo="https://imgur.com/ubOk8av.png" group-title="INFANTILES",Opinion Sur Cine | Chile
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
@@ -967,9 +970,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13012
 
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/DdYrpbY.png" group-title="INFANTILES",Zaz TV op3 | Mexico
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv_distro/zaztv.m3u8
-
-#EXTINF:-1 tvg-id="Zona de Accion" tvg-name="Zona de Accion" tvg-logo="https://i.imgur.com/WLjUHTa.jpg" group-title="INFANTILES",Zona de Accion | ND
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4312
 
 #EXTINF:-1 tvg-id="ZoyTV" tvg-name="ZoyTV" tvg-logo="https://imgur.com/L6uo1Ua.png" group-title="FAMILIARES",ZoyTV | Bolivia
 https://live20.bozztv.com/akamaissh101/ssh101/zoytv/playlist.m3u8
