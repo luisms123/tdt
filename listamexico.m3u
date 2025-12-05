@@ -681,6 +681,9 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="Comet Tv" tvg-name="Comet Tv" tvg-logo="https://d17su2xjlj6zyp.cloudfront.net/uploads/2021/04/comet-logo-1536x924.png" group-title="FAMILIARES",Comet Tv | USA
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
+#EXTINF:-1 tvg-id="COMHITS" tvg-name="COMHITS" tvg-logo="https://ibb.co/JRRnk1JM" group-title="MUSICA",COMHITS | Chile
+https://mitv.zplay.cl/ComHits/index.m3u8
+
 #EXTINF:-1 tvg-id="Conecta TV" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/3sG2SHg.png" group-title="MUSICA",Conecta TV | Mexico
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
@@ -8737,7 +8740,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use22.playlist.ttvnw.net/v1/playlist/CtMEzor3QYzJ5yoS4q9Mcd_tRQxUJ_VSvGuhJ1E2rIHxjvtO0gG9Kzp-BDrRNEEjWKcKlI7pZ8tQGYmyv5vIA5GkaSTgPIaX3vh75XJ79IRsm-ilbbycO8bdfaGsxIJX66kz77GsKGlw42JKj8FEge1p4zwn4kcjDnuRG3hyaDajjqeo7O2uCgDRNM_TfI5DL7By7IyeTcqjpnI2CrFNbJ71MWFGZejOuySDcyf6jXx-oJQG3m-trF90QSMEWgRu0KhtpLS7H70TYpfcWyWCUh4SnaNceRSUm4jA-5aemTryVOoAeuYoDp-xkW2Gjg5AQXOc7QLmR1DQSMmRK4ZhBBWEZzjfGmc5VoRiScrd5coJd3Yb9q5jE57baByvZc94KQHd0JjU71rqG948Q1ThS2xj3XiRyMqoZei1LraBxv1Vdd39w18gxl7YhLOBew8b4kuw0K2saCqFAODwaGCO-0YvS0bNUxxR0Lzsii9L4WmJV9pqU1alI11L-p-aAktX5AE1IHv5J-aL0C8XmMtWn9nhJhV3VG8LIkDr1UZDtDKXhw8FDXJV27-V1NktEx34djal7vzphv8yZN1BQOIo4e15Ypbk-C71hBfu9VO3P8ESuOyroSEeCF0WzoELlq8JGFe4PLCvG572kNnHmyamg81728wz6j-Xwyst6LbWLoJiNMitj0UjdkGSOYTm72BHdGhycWCx7RqboDKOuAN-vvbD-LuM2XJM1s6WtxDalu_RR0z-uf1FAZTqh2JxTUSIjDInyhAPzLZfOdBxFKmnzlX-GDWfRBoM1KGzWrpDw3c-Vw2LIAEqCXVzLWVhc3QtMjDtDQ.m3u8 
+https://use23.playlist.ttvnw.net/v1/playlist/CtwEGHZDeU-kAzOl2U8ZqoCe1IDSRRUKzJC8hscPABG6DiXnTeXq4d5BXu51RcT-ubJNbEZoF3Hw4Aft9l1wk4zfEDweS7ML2FzOhhdtHl9s5xXj6b5vv3s2gk02meViO68CknFBqBy15r5MMUCnOepqy0JexbnRs_neCBU8rUK7KboWVK44P3nx4e8Pv_fQvwzrXdkc6d3TPXIGVk03FJqOAUHdWNjwx1AFsBjyuENkEu4cQ0LdPFqQmZlZjRirzyB_USGgT663fN5-BfVe5o3eQ1hSbCtWrclVjcdTyuTj7f0n_o9dOjDwaij1V2CR9p3-aw8AAb4qWkxqE34qSz0Vt95sQf2cX4ZnykBODWWIoshZUDPtIULOub_28rQWxgSPlZjA6hFJu7Ir0USMyvt0uL90nxaNjnZuSzXgEa2PjycnBUl6TxCxT8xDNgiKmKcqL6iLg9ul5lxu6FIKbnp4dCIrHfqb4bSr21shjukz0n-X9ndkj14EC4tiaWatSIff8k7T5WLTT3ZIC7F1MI7iU9iF-TNQ1KvmJGYpt0XxgPfjsz--6zVN6AmMA-k-5iTkSGDoRKrHFJzK_ziYuZFD2meMrZpZYb0ezfs5P7IsIbzWPK_8Fb7X5MTgLjc4SrEZ2TkeYbtPBhqdD92TFempHgIVKmW270dHbLCW5quy_k-VFxb2dwH8V9qPgSVtxuyQGV7OLb43lwqpARbSf-vYaL0WtmJpu9TPwvC-6VKgAqrbdZtHdMZG5HeBvhljLHbNiWatwwVYiXyqPhjUpPyZ8FpJSqqJsH9ti0tSbxoMlJTfiAuNx9disIS3IAEqCXVzLWVhc3QtMjDuDQ.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
@@ -8768,7 +8771,6 @@ https://use22.playlist.ttvnw.net/v1/playlist/CtMEzor3QYzJ5yoS4q9Mcd_tRQxUJ_VSvGu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cine 5 Estrellas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal 9 San Luis 
-https://use21.playlist.ttvnw.net/v1/playlist/CrwEd3WpB4hmGFk6zKkuZYRD2LRVVWZA7oqbEK6brkqRmzpEOIyA4pzSLb6QDb70pqORgUOVr_x7wUCTNl97OYa56GJ66hJ-9etz39cf6rIcZ94_Iu3LUwjgIzUb9-FACy13ysnTDXCtLSSrpb4yXHP8j6B8L4AmQsjOZ1_ZTey-I15zlg39RNRBTHm65d4LGNlr1DMLuOidpa8gHRBeJbNVHqiSReGqUaaeGfcZthxY4ARZ0C1WtAUzjDc5pVX1nSWXMLOiDUNhY7LrTUGzyqQU9lGJqLnNZaTmwdu0tilbN5poPYFOcKsnWwZHhR_mZcDUX-6-Ad6Sx7ZC1OvE8EMOKXpDBDp6xVG22Q36IHqAAxuoPFPD1s0O0a3bhEbbMuwJgO5JPhvPspKLB3ZGdA_T_Z1LGjmpp-1yJwBIbhZ21nXtGiabsDnQC-Wcl_AaIVT9c8UqYkzDhvjbTBWWiFrFVXcyaVAaFH2OhfF3WdwR2GDmnPrDFnd93A00-xk95Xd-efD2LLgAw6sbP9cuezeLhDv-2EQvvShobHKEcrwusQQ2IU96fpG1tzluKzdth6PNll_E6Q4BXmRebt6D_TbiYpSOAEo9xFjMHUmPWZau6bc4MOTpu6vJN_UTP3hWm0gcHoiYQNRFQ_RxDdsqKiUC3hM1KTuM538Um9wncXW9Hzn2CgW0COfxvn0Y2jO5iNCvIBgf8zvsH3cMLuz7AUN6c9mlFYHqUBuhIrMxFRt4nl-9EkGTSwqdn41urWoaDB44_1Yw8xkdfGRchSABKgl1cy1lYXN0LTIw7Q0.m3u8 
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Energeek 3 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ETC TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kemacral 
