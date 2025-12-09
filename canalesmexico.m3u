@@ -421,9 +421,6 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal MyEvent" tvg-name="Canal MyEvent" tvg-logo="https://i.imgur.com/RL.png" group-title="CANALES INDEPENDIENTES",Canal MyEvent | ND
-https://live21.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro | Chile
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
 
@@ -844,6 +841,9 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading Brasil" tvg-name="Loading Brasil" tvg-logo="https://i.imgur.com/eiCT1i1.png" group-title="JOVENES Y ADULTOS",Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LocomotionESP" tvg-name="LocomotionESP" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="CANALES INDEPENDIENTES",LocomotionESP | ND
+https://live21.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -8752,7 +8752,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use23.playlist.ttvnw.net/v1/playlist/CtIEe7DHFLWAPJgspR8dW8sFIxet_r18rpnjp6p7H4IfWbXwCfkL7wGGBdtF23IiodqsnGaqNziT_cadvkACvrVEswBJgT5Ij8ZTo4Mhrg8twKKb_-FZMBRKgSZ5Jui4LexnUDy_y7ZMRd-xz-GJJ0uel0priPj2pxPz0fXKuhkTzsRTh4Ylm8bh10dUUjpJBt82p2cz3koDoBlbM62_nZ-9QzKyZ8yGOzNCiNeQE9sk3U74M2vyf7h8P3hwFbe9UfpuogSKeAD_HTSLIeQel35E1BVzRuHCDIsCBEUAJ4DT5UoxaGTmNF8S48C3VtI1w_nWYw2FUPP82_tcVgP9vVopmVpNl2dZnYnJMkjRFVz0rNnJktVHMkopuoiJL3B5JhSUT7cinoJNQCg8Pv1lIkRBT31NkvQ6e0u_gcYMSR6SJurf69kVAMQRO-D8W2pwo-AYJEOCUco2PSt2_ottBI-zIciCr10KogacFGxeq5WsOfws57UKAuw4JYpcpe50pirKJhXGoEtnsy6ykkp3cCYmWwse19ZuRyX0aTAVpPCC9ymP2moPh_WUCADDpe0-Myd6u2sTB7sDdSp1la8fpclo1EKjYYkhAgMSd-XkE-Ju8av_e8XK90kZIcFcX6BDie5hB6PM5ULwhF2SucXw0gigv5AnXexQedfT1IqluS-zoClvKWrpuZPrUu6EjeubzIuAJcuvVlrTeSp_r9VPTNSowHD0jT_f5H7kEIu7QHmhA7-JncTdHhklzxtBv4XXxJfV0ohkt3CLfwEAIjcIY91JbOOQGgwDmzmkfL6WqlZ9pX8gASoJdXMtZWFzdC0yMPIN.m3u8 
+https://use21.playlist.ttvnw.net/v1/playlist/CtMERQmEyCvRmyuE1Md-2KTp05NEPGZhnrXfl1HUihXr_mosAlWBeX9kQ6E4EF_WDtJd8QuScEmn_1EF6uYr3e9fsw4ec0FXJp1x6N4AQn1Pv_EXwh0wZrkQD6rtJA1cUZG1K4zprDvY0rV0IslZ7xOsnt9oJLdp6_yCOQMmNxf2YmpzUF1Ij0Cta2EXT7NZfV3CeD7ASh35YWoJhRgpGauWfLqt2M5aSFEXGwMIG2efwbIisuwUehVBaW5hLa7t-QR-DcPKC67h0GU3oGSa5JeoBeqH_RF2v9UFuDr_Z0_pCWXqdBWCMOycI1GyJ8pAIpV7lHzR5SagpHlK7fGBi4XVxy-CliVwKoR9ycoyz8eCm7hHe31P8zUjsYtl64WCq9hW7-bpva_2Fk7cGp8d96nEDzTUU5tiNZOKFFiN8dsz1BIUmRmqIWP3b86Iw-MsJAkrrK7lM0eUR7O4DsJowG9HTB4aoAtH44KxpDVEbwdq1bM0e60SfDCex1_-IxIdyjbjvXJdEzLFqvHM4kRXKMVNLDnLA4QCaTB2n6aluLYUOiW1i4E7fvIrkLecfVNevRr3iJ8dOCGoa1B1hYYwegUSHE06cp_9n-9aiycDNamG_XWRVqFxG4uErSISlZmsKNuPdoBRm15VSvcsmHhuPsPALPfOQ4HVCjTtaNuhbJqF6kB90n93DQ6yWt2Lyua1t6wNGoKiaI3D2F4eKMSn6PUup3f8bj9-uB039zPA2ntAMbgCGxMWDro98C9fcZDR9dNyLy1PxNd1j3n0Etps2RUtCb4eVhoMmJ7Ykp0xVcnBu6dkIAEqCXVzLWVhc3QtMjDyDQ.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
