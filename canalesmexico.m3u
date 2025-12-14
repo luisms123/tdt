@@ -851,6 +851,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://imgur.com/Z6HJvy8.png" group-title="JOVENES Y ADULTOS",Los Simpsons 2 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://imgur.com/Z6HJvy8.png" group-title="JOVENES Y ADULTOS",Los Simpsons 3 24/7
+http://186.0.181.237/Live/6fb5915940cdb1605ec7f4ecd4308091/online-24-7.playlist.m3u8
+
 #EXTINF:-1 tvg-id="m2o Tv" tvg-name="m2o Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",m2o Tv | Italia
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
@@ -8497,6 +8500,10 @@ http://177.234.230.206:8011/play/a0pz
 http://177.234.230.206:8011/play/a0eh
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 2
 http://177.234.230.206:8011/play/a0ig
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 op2
+http://177.234.230.206:8011/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 op3
+http://45.186.107.173:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 2 Sur
 http://177.234.230.206:8011/play/a0kg
 #EXTINF:-1 group-title="TV PREMIUM",ESPN 3
@@ -8618,104 +8625,104 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now
 
 
 #EXTINF:-1 group-title="Solo Guia EPG",DAZN F1
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/23RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",Azteca Deportes
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/24RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",Caliente TV
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/25RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",Claro Sports
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/236RHT6XGG6VHZ.m3u8
 
 
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN
-http://177.234.230.206:8011/play/a0pz
+http://177.234.230.206:8011/play/1a0pzsss.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN AR
-http://177.234.230.206:8011/play/a0eh
+http://177.234.230.206:8011/play/2a0ehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN CL
-http://177.234.230.206:8011/play/a0eh
+http://177.234.230.206:8011/play/3a0ehehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 2
-http://177.234.230.206:8011/play/a0ig
+http://177.234.230.206:8011/play/4a0igehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 2 Sur
-http://177.234.230.206:8011/play/a0kg
+http://177.234.230.206:8011/play/50kgehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 2 AR
-http://177.234.230.206:8011/play/a0kg
+http://177.234.230.206:8011/play/6a0kgehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 2 CL
-http://177.234.230.206:8011/play/a0kg
+http://177.234.230.206:8011/play/7a0kgehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 3
-http://177.234.230.206:8011/play/a0ox
+http://177.234.230.206:8011/play/8a0oxehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 3 Sur
-http://177.234.230.206:8011/play/a01e
+http://177.234.230.206:8011/play/9a01eehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 3 AR
-http://177.234.230.206:8011/play/a0ad
+http://177.234.230.206:8011/play/10a0adehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 3 HD CL
-http://177.234.230.206:8011/play/a0ad
+http://177.234.230.206:8011/play/11a0adehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 3 CL
-http://177.234.230.206:8011/play/a0ad
+http://177.234.230.206:8011/play/12a0adehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 4
-http://177.234.230.206:8011/play/a0q0
+http://177.234.230.206:8011/play/13a0q0ehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 4 Sur
-http://177.234.230.206:8011/play/a0ol
+http://177.234.230.206:8011/play/14a0olehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 4 AR
-http://177.234.230.206:8011/play/a0ol
+http://177.234.230.206:8011/play/15a0olehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 4 CL
-http://177.234.230.206:8011/play/a0ol
+http://177.234.230.206:8011/play/16a0olehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 5
-http://177.234.230.206:8011/play/a0dr
+http://177.234.230.206:8011/play/17a0drehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 5 Sudamérica
-http://177.234.230.206:8011/play/a0dr
+http://177.234.230.206:8011/play/18a0drehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 5 CL
-http://177.234.230.206:8011/play/a0dr
+http://177.234.230.206:8011/play/19a0drehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 6
-http://177.234.230.206:8011/play/a0iz
+http://177.234.230.206:8011/play/20a0izehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 6 Sudamérica
-http://177.234.230.206:8011/play/a0iz
+http://177.234.230.206:8011/play/21a0izehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 6 AR
-http://177.234.230.206:8011/play/a0iz
+http://177.234.230.206:8011/play/22a0izehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 6 CL
-http://177.234.230.206:8011/play/a0iz
+http://177.234.230.206:8011/play/23a0izehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 7
-http://177.234.230.206:8011/play/a0q1
+http://177.234.230.206:8011/play/24a0q1ehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN 7 CL
-http://177.234.230.206:8011/play/a0np
+http://177.234.230.206:8011/play/25a0npehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN Deportes
-http://177.234.230.206:8011/play/a0np
+http://177.234.230.206:8011/play/26a0npehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN Premium
-http://177.234.230.206:8011/play/a0o6
+http://177.234.230.206:8011/play/27a0o6ehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN PREMIUM AR
-http://177.234.230.206:8011/play/a0o6
+http://177.234.230.206:8011/play/28a0o6ehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN Premium CL
-http://177.234.230.206:8011/play/a0o6
+http://177.234.230.206:8011/play/29a0o6ehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",ESPN INTERNACIONAL
-http://177.234.230.206:8011/play/a0o6
+http://177.234.230.206:8011/play/30a0o6ehssaaa.m3u8
 
 #EXTINF:-1 group-title="Solo Guia EPG",Fox Deportes
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/1RHTehssaaa.m3u86XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",Fox Sports Norte
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/2RHehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",Fox Sports
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/3RHT6ehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",FOX SPORTS AR
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/4RHT6XGehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",FOX Sports CL
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/5RHT6XGG6VHehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",Fox Sports 2
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/d6istroehssaaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",FOX SPORTS 2 AR
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/7RHTehssaddaa.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",FOX Sports 2 CL
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/8RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",Fox Sports 3
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/9RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",FOX SPORTS 3 AR
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/10RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",FOX Sports 3 CL
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/11RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",Fox Sports Premium
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/12RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",FOX Sports Premium AR
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/13RHT6XGG6VHZ.m3u8
 #EXTINF:-1 group-title="Solo Guia EPG",FOX Sports Basico
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZ.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/14RHT6XGG6VHZ.m3u8
 
 ﻿
 
@@ -8737,7 +8744,7 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-https://use23.playlist.ttvnw.net/v1/playlist/CsIELrq33EcxHVXvF7WWYrM70bfTAVmVdi_xY8nNYPp3yzfgneRJFY58koMackuiU6Q8KrAkj4iqJOyIbQ2HZc9N2VWJ1pH2V2N2vNZaFbKoxYDdQmsTM9IOFXXa77gXh7wUiVbRm0GwC6a9XESoNIHPNzZCKQOjFqm6H543Hz0gedcL7aOFM--5qO33NUfyMY3Ec7NrE3VKt_JD-IJYaHe5ykU3nt_JBaUHnz6iVAWHUa9rRSZ0OIM9uMxw7cUX_LZhwJ7vwlB5jv52O8yQ_e3MrLiyRhdub6-3aC8Lq8I1VO-DWBO4893T8MtXICv1ZoevnLx1UIqHpnykcs8b0IKKW55Bvg6V-eJGNHRSR7EDXgGPRMLbihoYWpSCWLUWmU03h9CFkZk1XpwSroi6wCSurQ2e8SwLZ1y8EbNjUFtchYPk5jBsw3KcyY33bNb2a6JXKbL5Ddd1XFz44yFR9pteglDPEeH_On3WhKS2Kyfkmd2KBZMxYjBsE6gyV6OOMXLi9YcSgm9NuYnAeVqoIvjgLKe56T9TIYXWKg80aBuNecQgnGYlO1d8osv1-a2xPPErCbQTVMYk6LVtZioT9AfMRjYiwB6qWofsiXx4pqnK9Q7h4FaxBPjh-2RsLEIska8_G-GQDhlnys7KwHD88Dm4TK3OCjmUJxcZNJ2YbL-cE6nVywRFqCHTcK7GXimJPn31TTj238ILck5ES36Cwk7wolSouKz-J2avAllXXM8GAl63HdXbZ-GzRZwbaEycbBnNiuQaDLidZQr7p0FKGovySSABKgl1cy1lYXN0LTIw9g0.m3u8 
+https://use23.playlist.ttvnw.net/v1/playlist/CtsECR6D_DPt_3BSS8blP1V4jzOr8iPZZXCsJi_zSHXGwhsPhepIxcz564rdWgcMh31WaVkHOP2uoYbhPayHPDKk-PlwCt-4n1n1Cl8Gc65CWLuuO9rGv4oC7KxT9khxkDzQyddKwtyUMUKd1sieX8v9FqeTO8u1Zgjf72-SHXB187QfFxoEhhAzO4HVRicOxn9cuYbBKFFAKIAr1SVp3txgDLo1Q_Ea58Kn8aZo9-_rzOJqdJGHXuWQPgVyco30xNX7GeEqNbORTXHUCWq2wE4_81goJRggjWfynMn0wIKiDAW_ko3NBBTDBV2xj6LL4CVvhG9UbtZoJRLDnRVfd6Irs-CRowDX-SFQyc0vWBQK6O0uEYah2_WPGpnZ_x3_GDYq7bY1WMHfHaPOYtuhK9C5Hi5SO2gjPmMzTalhBqMQ_EhTU-3Uv3T3H1U_AvEj9OG7uOcRRAUiBL06TE0drcrhpPxJLH2srGh-RkLQz94yy4u2iQnybPQ4jgzgdh5pxVzUUDnqsOn-hXPY28AW88bA5p2Ka5jp8F3Ee7UdfWGx7-R1nsvxEdNR4hkxvvBhKNmaZTjPo8t95sQnz0a4VK7XFPWfXZoNNxg4qGnB1mrppDMe9n2FfMz7kX3ZhJckEG5TQ3pGtAELZrQHAnt3Xu6z6N38wlD4Ip5smlUfsH5EofyZUl6vCAjYKoOEfOS5JVHNdK0AMb6yuJR_NViONd9ANZdzOErQzH1Rh1bTrgGOV5iMOCCtQ3uvr2cHeqzRU7d3DnXXlaixDq_50n8uoxAxQbU9DOaNjlDEoKpMGgz9yyZfBbyib1beMDcgASoJdXMtZWFzdC0yMPcN.m3u8 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
