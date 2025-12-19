@@ -546,7 +546,7 @@ https://panel.dattalive.com:443/8186/8186/playlist.m3u8
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 10 CR" tvg-name="Canal 10 CR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrXNytbMDKI_5Kfg005LyK7LEoydqlraydYYrUZri7zhmJ9FuqYYu3Dy2dS9Gu_eRU1BKMtzjihbNGzYYyBAkSf1MBSIjWymwzmEGe21OhbFNAOQzacBuD0pmKujAH9_fCkVcl2o3b8XjEOr-yI-x68cr9tf3DLjPwQgwXGxd3bbXx2tuQqhZj0JINcRE/w1200-h630-p-k-no-nu/NUEVO%20PORTADA%20CANAL%2010.png" group-title="FAMILIARES",Canal 10 CR | Costa Rica
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Canal 15 DTP" tvg-name="Canal 15 DTP" tvg-logo="https://i.imgur.com/fmEKC3S.png" group-title="FAMILIARES",Canal 15 DTP | Honduras
 https://emisoras.hn:8081/dtp/index.m3u8
@@ -8587,13 +8587,11 @@ http://177.234.230.206:8011/play/a0og
 #EXTINF:-1 group-title="TV PREMIUM",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Best Clasicos
-https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6886d1d0a9add914ef17230b.m3u8?uid=medioscr&pkey=pAwXDpVB
+https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",FUTV
-https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6886d57020479bc2e2d16fb2.m3u8?uid=medioscr&pkey=pAwXDpVB
+https://live21.bozztv.com/akamaissh101/ssh101/livefutvcr/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Tigo Sports
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/154377
-#EXTINF:-1 group-title="TV PREMIUM",ESPN Deportes
-https://api.m3use.projectmoose.xyz/m3u/medioscr/Medios%20de%20Costa%20Rica/6852d1175d21554d2dbf724b.m3u8?uid=medioscr&pkey=pAwXDpVB
 
 #EXTINF:-1 group-title="TV PREMIUM",GritosTV by Trinian
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
@@ -8781,4 +8779,5 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
+https://use22.playlist.ttvnw.net/v1/playlist/Cr0EYtDvg9J6FfksEGDNBT7dCa-HIv8ZM9koOnoZmoxVObI7Qi7zvI1deoWE9AUEPK941qRz6gNf3k260P9nUWVeMUZsyKQPwLihuDDZ_zjGHWNe_xymXech1gg6Cdt1LpaCIWx4Mc5p3LJlRu9hSejUcAS0DlpstN2KGJUzAH5EFig4rbIcRwY2mqWmQamJ67Qri7JFooJTiuyphIWT6Ut0EQfGBj9xrgxOFI2Sg89OyqOEJxpd8TzDXKfKsri91eC5TEBreRDzui_TtVZ358y0D0X8IXA_FSGbik8PfYACaODcEAvPsUWDciSKoj20sBYd0zv4tTt_Drm8YqVG4FnihcZf0erYcbfJaevJzdkA0F1kSuar6cEpHAKQv0r7A_XF4WRrfWo1DSpKhrZwxrRH_aUXyZIascUFCNsJXS20WTNjZ_IqSNC9T1kaMujry1_z6soeja0hMpqm6JrtpRm9ZMvA_JpTXitevyuVWa4qT1fSjaiU-MyJtpw0CNBEkP4O91aJV25vLNWuzwV8EBbkKOXcmJc7naTSO0mtxXa3Vx3WHTW75hupypIHksOdbB6f5xD6vTJ4poZlUvGIdBfJCk6XQP8bZa2Ua2jkj1Q8fKdxKAECxy4CG2lbTBizonwNDTBYNPKWVB0zcHKViM-61EasXC4ghMCIs_lelKgh_tsxOMoxNb7PlHgsoRBb8mbyITgVJPELE9w4Y3UuFLUUc1RZ6GDk5T7KPiOc-nMBPk2q4oU9FHpt3PlvwNJuGgzdW5y8SCZJjSvpyQogASoJdXMtZWFzdC0yMPwN.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
