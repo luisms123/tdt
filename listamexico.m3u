@@ -1175,9 +1175,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | Mexico
-https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica op2 | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemas" tvg-name="Telemas" tvg-logo="https://telemascr.com/wp-content/uploads/2024/06/cropped-LOGO-TELEMAS-LETRA-BLANCA-PNG-3-272x91.png" group-title="FAMILIARES",Telemas | Costarica
@@ -8415,6 +8412,9 @@ http://199.127.63.105:9090/278489_.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Disney Channel
 http://177.234.230.206:8011/play/a0c2
 
+#EXTINF:-1 group-title="TV PREMIUM",Atres Series
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9618
+
 #EXTINF:-1 group-title="TV PREMIUM",Telefe
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/157589
 
@@ -8779,5 +8779,5 @@ https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-https://use22.playlist.ttvnw.net/v1/playlist/Cr0EYtDvg9J6FfksEGDNBT7dCa-HIv8ZM9koOnoZmoxVObI7Qi7zvI1deoWE9AUEPK941qRz6gNf3k260P9nUWVeMUZsyKQPwLihuDDZ_zjGHWNe_xymXech1gg6Cdt1LpaCIWx4Mc5p3LJlRu9hSejUcAS0DlpstN2KGJUzAH5EFig4rbIcRwY2mqWmQamJ67Qri7JFooJTiuyphIWT6Ut0EQfGBj9xrgxOFI2Sg89OyqOEJxpd8TzDXKfKsri91eC5TEBreRDzui_TtVZ358y0D0X8IXA_FSGbik8PfYACaODcEAvPsUWDciSKoj20sBYd0zv4tTt_Drm8YqVG4FnihcZf0erYcbfJaevJzdkA0F1kSuar6cEpHAKQv0r7A_XF4WRrfWo1DSpKhrZwxrRH_aUXyZIascUFCNsJXS20WTNjZ_IqSNC9T1kaMujry1_z6soeja0hMpqm6JrtpRm9ZMvA_JpTXitevyuVWa4qT1fSjaiU-MyJtpw0CNBEkP4O91aJV25vLNWuzwV8EBbkKOXcmJc7naTSO0mtxXa3Vx3WHTW75hupypIHksOdbB6f5xD6vTJ4poZlUvGIdBfJCk6XQP8bZa2Ua2jkj1Q8fKdxKAECxy4CG2lbTBizonwNDTBYNPKWVB0zcHKViM-61EasXC4ghMCIs_lelKgh_tsxOMoxNb7PlHgsoRBb8mbyITgVJPELE9w4Y3UuFLUUc1RZ6GDk5T7KPiOc-nMBPk2q4oU9FHpt3PlvwNJuGgzdW5y8SCZJjSvpyQogASoJdXMtZWFzdC0yMPwN.m3u8 
+https://use22.playlist.ttvnw.net/v1/playlist/CrwEaeuhAIkoc2dWgqlzopGNGnxzYT5XR0Zbj0Jmq2MeEU8Dz102vWdLIqKUOaApj1NEod4l7x9CP8i3oQLMcIMmZQBSpva0imN-sLWyZXzHPFqiFvDwcNKYj314UVvpRplFWYakKQm9RaJKJeAZxLMW72Z0lvqYTPS_6pK_6PEzl5FCLocyWwTWWQJUEahIvLQqXYfcjxJLtmma-FOoXD9AixBeWCKFubvAaO23wQ02XuarQCu78sn5b-GSqqP6HZug9Yd0O7qMIqW0jVxSuzlwOQl9YIkRKqqoX0ymAF2dXfSmtDhO2YqKlI-nVIX5p3y8d1o9l0uUvpL9RYGSRItrKTZkbU91KnqNGHjftaeQD_DNpQbssV0PlnjijQOVBchl4KU920lFOExuGq256CHfJuZNZfiDa5ORNGBTmKZZSl08gbIrYAZBsePW4kxIi98IaTXanuQTWd1ZEtyRZYCa3wP17p-ldjvq6ZhY_JtMckMeLHumfbkJGob8GR3ifU094hi8JxYlMz5_UANxaYok_85Yx6mvNDIbb0h1hNZR7dElPZ8t_onBEtGQHatth7bktw2Pffp_f_WNJdts8RhE7Fd7Ae9ckxgDtjOVmr4cPNe3Jg1vFYCbu_-c9cBMQmiLQUR9TRQvti8gyrfn0_XzkJFgMhvhQelLv9KHnFDQzMXxwTJVwnh5JgNAlHKSU09B2fquHbK4qNnX1NXQdrQ2V_3y1xC1Zv_NX689kOiAUC07nPrGNnYl4q8CDn4aDPqejHR_8-IQl2UlryABKgl1cy1lYXN0LTIw_Q0.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV 
