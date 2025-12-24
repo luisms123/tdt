@@ -66,9 +66,9 @@
     "iframe_url": "https://www.youtube.com/embed/IhTecbhM1PE",
     "pais": "mx"
   },
-"cartoongalaxy": {
+"cartoonkick": {
     "nombre": "Cartoon Galaxy",
-    "iframe_url": "https://player.twitch.tv/?channel=cartoongalaxy1&parent=compulms.tiiny.site",
+    "iframe_url": "https://player.kick.com/cartoongalaxy",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
@@ -103,7 +103,7 @@
     "pais": "mx"
   },
 "especialhallo": {
-    "nombre": "Ofline",
+    "nombre": "Especial de Navidad",
     "iframe_url": "https://ok.ru/videoembed/9586717892350?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
@@ -136,6 +136,12 @@
     "nombre": "Locomotion Tv",
     "iframe_url": "http://locomotiontv.com/envivo/",
     "fuente": "http://locomotiontv.com/envivo/",
+    "pais": "mx"
+  },
+"cartoongalaxy": {
+    "nombre": "offline",
+    "iframe_url": "https://player.twitch.tv/?channel=cartoongalaxy1&parent=compulms.tiiny.site",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   }
 }
