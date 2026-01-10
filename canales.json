@@ -18,7 +18,8 @@
   },
 "id-5": {
     "nombre": "Foro Tv",
-    "iframe_url": "https://www.youtube.com/embed/p2AzyIEuFak",
+    "iframe_url": "https://www.youtube.com/embed/p2AzyIEuFak?si=XoOTCIFd22pzl4FQ",
+    "fuente": "https://www.youtube.com/@nmas",
     "pais": "mx"
   },
 "id-8": {
@@ -64,11 +65,12 @@
 "id-17": {
     "nombre": "Maussan Tv",
     "iframe_url": "https://www.youtube.com/embed/IhTecbhM1PE",
+    "fuente": "https://www.youtube.com/@jaimemaussanoficial",
     "pais": "mx"
   },
-"cartoongalaxy": {
+"cartoonkick": {
     "nombre": "Cartoon Galaxy",
-    "iframe_url": "https://player.twitch.tv/?channel=cartoongalaxy1&parent=compulms.tiiny.site",
+    "iframe_url": "https://player.kick.com/cartoongalaxy",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
@@ -102,28 +104,34 @@
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
+"cartooncartoons": {
+    "nombre": "Cartoon Cartoons",
+    "iframe_url": "https://ok.ru/videoembed/10378284506878?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "mx"
+  },
 "especialhallo": {
-    "nombre": "Ofline",
+    "nombre": "Offline",
     "iframe_url": "https://ok.ru/videoembed/9586717892350?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   },
+"retromagico": {
+    "nombre": "Retro Magico",
+    "iframe_url": "https://ok.ru/videoembed/6035274800769?autoplay=1",
+    "fuente": "https://retromagico.wixsite.com/inicio",
+    "pais": "mx"
+  },
 "guerreras": {
-    "nombre": "guerreras",
+    "nombre": "Asahi Tv",
     "iframe_url": "https://ok.ru/videoembed/9234868543069?autoplay=1",
     "fuente": "https://m.ok.ru/",
     "pais": "mx"
   },
-"toonamiaftermath": {
-    "nombre": "Toonami Aftermath",
-    "m3u8_url": "https://asp6.toonamiaftermath.com/livehttporigin/est/rkeVmg-EE6ode-chunklist.m3u8",
-    "fuente": "https://www.toonamiaftermath.com/",
-    "pais": "mx"
-  },
-"toonami": {
-    "nombre": "Toonami Aftermath West",
-    "iframe_url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
-    "fuente": "https://www.toonamiaftermath.com/",
+"claudio": {
+    "nombre": "Claudio TV",
+    "iframe_url": "https://ok.ru/videoembed/11796412762653?autoplay=1",
+    "fuente": "https://m.ok.ru/",
     "pais": "mx"
   },
 "jetix": {
@@ -132,10 +140,58 @@
     "fuente": "https://jahh19channel.xyz/",
     "pais": "mx"
   },
-"id-locomotion": {
+"animestation": {
+    "nombre": "AnimeStation",
+    "m3u8_url": "https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8",
+    "fuente": "https://animestationtv.com/",
+    "pais": "mx"
+  },
+"locomotionesp": {
+    "nombre": "LocomotionESP",
+    "m3u8_url": "https://live21.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8",
+    "fuente": "https://ssh101.com/live/myevent2025",
+    "pais": "mx"
+  },
+"animextv": {
+    "nombre": "Anime XTV",
+    "m3u8_url": "http://animezonetv.net:81/live_hls/animetest/index.m3u8",
+    "fuente": "http://locomotiontv.com/envivo/",
+    "pais": "mx"
+  },
+"animezonetv": {
+    "nombre": "Anime Zone Tv",
+    "m3u8_url": "http://animezonetv.net/hls/stream.m3u8",
+    "fuente": "http://locomotiontv.com/envivo/",
+    "pais": "mx"
+  },
+"locomotion": {
     "nombre": "Locomotion Tv",
+    "m3u8_url": "http://146.19.49.197:81/live/loco.m3u8",
+    "fuente": "http://locomotiontv.com/envivo/",
+    "pais": "mx"
+  },
+"id-locomotion": {
+    "nombre": "Locomotion Tv Web",
     "iframe_url": "http://locomotiontv.com/envivo/",
     "fuente": "http://locomotiontv.com/envivo/",
+    "pais": "mx"
+  },
+"id-animezonetv": {
+    "nombre": "Anime Zone Tv Web",
+    "iframe_url": "http://animezonetv.net/",
+    "fuente": "http://animezonetv.net/",
+    "pais": "mx"
+  },
+"toonamiaftermath": {
+    "nombre": "Toonami Aftermath",
+    "m3u8_url": "https://asp6.toonamiaftermath.com/livehttporigin/est/rkeVmg-EE6ode-chunklist.m3u8",
+    "fuente": "https://www.toonamiaftermath.com/",
+    "pais": "mx"
+  },
+"cartoongalaxy": {
+    "nombre": "offline",
+    "iframe_url": "https://player.twitch.tv/?channel=cartoongalaxy1&parent=compulms.tiiny.site",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "mx"
   }
 }
