@@ -195,9 +195,6 @@ https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
 #EXTINF:-1 tvg-id="Central Tv" tvg-name="Central Tv" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="FAMILIARES",Central Tv | Chile
 https://freya.mivideo.pro/centraltv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CH TV" tvg-name="CH TV" tvg-logo="https://imgur.com/zzmGHyw.png" group-title="CANALES INDEPENDIENTES",CH TV | Chile
-https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Chamame Tv" tvg-name="Chamame Tv" tvg-logo="https://i.imgur.com/Q9pLtbI.png" group-title="FAMILIARES",Chamame Tv | Argentina
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 
@@ -264,12 +261,6 @@ https://mitv.zplay.cl/ComHits/index.m3u8
 #EXTINF:-1 tvg-id="Conecta TV" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/3sG2SHg.png" group-title="MUSICA",Conecta TV | Mexico
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
-#EXTINF:-1 tvg-id="Conectate TV" tvg-name="Conectate TV" tvg-logo="https://i.imgur.com/69KTqf4.png" group-title="CANALES INDEPENDIENTES",Conectate TV | Puerto Rico
-https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cotui Tv Canal 22" tvg-name="Cotui Tv Canal 22" tvg-logo="https://image.roku.com/developer_channels/prod/b228fb39fac5430cbeccd88647df10d234757e1679dab8b254ccef92e674d98e.png" group-title="CANALES INDEPENDIENTES",Cotui Tv Canal 22 | Republica Dominicana
-https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
-
 #EXTINF:-1 tvg-id="Cuentos de la Cripta Serie Animada" tvg-name="Cuentos de la Cripta Serie Animada" tvg-logo="https://gia.tv/streams/pptv/210858.png?1760964658" group-title="INFANTILES",Cuentos de la Cripta Serie Animada | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
 
@@ -331,9 +322,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Extrema TV Kids" tvg-name="Extrema TV Kids" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="INFANTILES",Extrema TV Kids | ND
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxKind" tvg-name="FoxKind" tvg-logo="https://i.imgur.com/RUlL.png" group-title="CANALES INDEPENDIENTES",FoxKind | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/foxkind/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Free TV LQ" tvg-name="Free TV LQ" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Live | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
@@ -477,9 +465,6 @@ https://euw32.playlist.ttvnw.net/v1/playlist/CrEGfTa2f8DstyzCvIs0oQIQ1uy7Q90MQ9l
 #EXTINF:-1 tvg-id="Max Anime" tvg-name="Max Anime" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Maxima TV" tvg-name="Maxima TV" tvg-logo="https://i.imgur.com/selfroD.png" group-title="CANALES INDEPENDIENTES",Maxima TV | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/maxtvstreaming/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Melody Channel" tvg-name="Melody Channel" tvg-logo="https://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w140" group-title="MUSICA" group-title="MUSICA",Melody Channel | Colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 
@@ -488,9 +473,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Miramax Tv" tvg-name="Miramax Tv" tvg-logo="https://i.imgur.com/vIa08pj.jpg" group-title="CANALES INDEPENDIENTES",Miramax Tv | ND
-https://live20.bozztv.com/akamaissh101/ssh101/miramaxtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mix Bolivia Tv" tvg-name="Mix Bolivia Tv" tvg-logo="https://imgur.com/P2k8ioD.jpg" group-title="FAMILIARES",Mix Bolivia Tv | Bolivia
 https://live20.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
@@ -543,9 +525,6 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon Espana" tvg-name="Nickelodeon Espana" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="INFANTILES",Nickelodeon Espana HD | Spain
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/NICK/20-hls/live-media.m3u8
-
-#EXTINF:-1 tvg-id="Ninja Z" tvg-name="Ninja Z" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="CANALES INDEPENDIENTES",Ninja Z | Argentina
-https://mitv.zplay.cl/Ninja_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Norte Informativo TV" tvg-name="Norte Informativo TV" tvg-logo="https://i.imgur.com/eaU4Mtu.png" group-title="FAMILIARES",Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
@@ -718,12 +697,6 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="Solo Stand Up" tvg-name="Solo Stand Up" tvg-logo="https://i.imgur.com/dQBY6Sb.jpg" group-title="FAMILIARES",Solo Stand Up | Chile
 https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 
-#EXTINF:-1 tvg-id="Sora Tv" tvg-name="Sora Tv" tvg-logo="https://i.imgur.com/gKJejWR.png" group-title="CANALES INDEPENDIENTES",Sora Tv | ND
-https://live20.bozztv.com/giatv/giatv-SoraTV/SoraTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sucremanta TV" tvg-name="Sucremanta TV" tvg-logo="https://xhateaec.com/upload/photos/2023/10/6z6HVTEMgZ2alcrC1f7d_06_de2acf159e0bb543f774fce7bd8bd0d6_avatar.png" group-title="CANALES INDEPENDIENTES",Sucremanta TV | Bolivia
-https://micanal.ovh/livestreams/165.J7EMP5DQSY6H.m3u8
-
 #EXTINF:-1 tvg-id="Sueños Grup" tvg-name="Sueños Grup" tvg-logo="https://i.imgur.com/VNI6CLc.png" group-title="CANALES INDEPENDIENTES",Sueños Grup | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/suenosgrup/playlist.m3u8
 
@@ -777,9 +750,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleMix" tvg-name="TeleMix" tvg-logo="https://1.bp.blogspot.com/-KCHZEZEctCk/YAaMGRW33wI/AAAAAAAIR14/yXNLqB4BuPgKeu-G2o4faPuUrcwfm1fjgCK4BGAYYCw/s910/la%2Bmix%2B2.jpg" group-title="CANALES INDEPENDIENTES",TeleMix | Argentina
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleMix" tvg-name="TeleMix" tvg-logo="https://1.bp.blogspot.com/-KCHZEZEctCk/YAaMGRW33wI/AAAAAAAIR14/yXNLqB4BuPgKeu-G2o4faPuUrcwfm1fjgCK4BGAYYCw/s910/la%2Bmix%2B2.jpg" group-title="CANALES INDEPENDIENTES",TeleMix op2 | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/telemixlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemusica" tvg-name="Telemusica" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png" group-title="MUSICA",Telemusica | Colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
@@ -846,9 +816,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_b
  
 #EXTINF:-1 tvg-id="Toon Googles Movies" tvg-name="Toon Googles Movies" tvg-logo="https://channels.roku.com/images/5bcf223b79ce4f959d76497b531088d4-hd.png" group-title="INFANTILES",Toon Googles Movies (Inglés) | USA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=285&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616163335&id=264522&ip=92.38.148.59&override_expiration=1500&sign=z936zg2CSi4j4KGtT351mCqyum%2BVJv0Jj0HE4Pu92jQ%3D
-
-#EXTINF:-1 tvg-id="Toonizaki HD" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/GWw3dbZ/Logo-Toonizaki-Chile.png" group-title="CANALES INDEPENDIENTES",Toonizaki HD | Chile
-https://mitv.zplay.cl/ZRetro/index.m3u8
 
 #EXTINF:-1 tvg-id="Toonz Kids" tvg-name="Toonz Kids" tvg-logo="https://i.ibb.co/cLbZwwK/Logo-Toonz-Kids.png" group-title="INFANTILES",Toonz Kids | ND
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
