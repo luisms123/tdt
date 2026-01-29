@@ -22,9 +22,6 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-id="ACS Network TV" tvg-name="ACS Network TV" tvg-logo="https://i.imgur.com/jKsmoAn.png" group-title="INFANTILES",ACS Network Tv | Puerto Rico
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Adult Swim CL" tvg-name="Adult Swim CL" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim CL | Chile
-http://45.186.107.173:8000/play/a01i/index.m3u8
-
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Japon
 https://nl00.utako.moe/Animax/index.m3u8
 
@@ -79,14 +76,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 #EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai 5 HD | ND
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 
-#EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/wHsHiab.png" group-title="JOVENES Y ADULTOS",Aniplus HD | Asia
-http://iptv12k.com:35461/654321/123456/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Aurora Media Films" tvg-name="Aurora Media Films" tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png" group-title="CINE",Aurora Media Films | Guatemala
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-
-#EXTINF:-1 tvg-id="AYW Tv" tvg-name="AYW Tv" tvg-logo="https://imgur.com/EJSHaYU.png" group-title="CINE",AYW Tv | Costa Rica
-https://live20.bozztv.com/akamaissh101/ssh101/88channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bayres TV"  tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="CINE",Bayres TV | Argentina
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -107,14 +98,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/btvdigital/playlist.m3u8
 #EXTINF:-1 tvg-id="Buin Somos Todos" tvg-name="Buin Somos Todos" tvg-logo="https://i.ytimg.com/vi/k_Q7-gqkfAo/maxresdefault.jpg" group-title="FAMILIARES",Buin Somos Todos | Chile
 https://bst.buin.cl/0.m3u8
 
-#EXTINF:-1 tvg-id="CachiPum Tv" tvg-name="CachiPum Tv" tvg-logo="https://imgur.com/kXq9dr3.png" group-title="INFANTILES",CachiPum Tv | Chile
-https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Caldera Vision" tvg-name="Caldera Vision" tvg-logo="https://imgur.com/SHWtE1X.jpg" group-title="FAMILIARES",Caldera Vision | Chile
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 2 Retro Alcorta" tvg-name="Canal 2 Retro Alcorta" tvg-logo="https://imgur.com/z7yzJ4N.png" group-title="CANALES INDEPENDIENTES",Canal 2 Retro Alcorta | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/variado/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="FAMILIARES",Canal 4 Jujuy | Argentina
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
@@ -149,9 +134,6 @@ https://micanal.ovh/livestreams/223.FDIDOGXYZQXO.m3u8
 #EXTINF:-1 tvg-id="Canal Familia HD" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg" group-title="FAMILIARES",Canal Familia HD | Venezuela
 https://vs20.live.opencaster.com/canalfamiliahd_0a1e5667/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal Familia HD" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg" group-title="FAMILIARES",Canal Familia HD op2 | Venezuela
-https://live-stream.iblups.com/video/c76a06ac5e24461dc5c453983cfb72ba88bccc1a.m3u8
-
 #EXTINF:-1 tvg-id="Canal ILCE" tvg-name="Canal ILCE" tvg-logo="https://www.ilce.edu.mx/images/RadioyTV/CI.png" group-title="CULTURALES",Canal ILCE | Mexico
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w420201970_b2430208.m3u8
 
@@ -169,9 +151,6 @@ https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal ZeroFIlms" tvg-name="Canal ZeroFIlms" tvg-logo="https://imgur.com/ENa7t5W.png" group-title="CINE",Canal ZeroFIlms | Colombia
-https://live20.bozztv.com/akamaissh101/ssh101/canalzerofilms1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Capitan Futuro" tvg-name="Capitan Futuro" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3ZOrowmnDUR6PB3C9Kast4z1fsV.jpg" group-title="INFANTILES",Capitan Futuro | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210700/tracks-v1a1/mono.ts.m3u8
@@ -191,9 +170,6 @@ https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://i.imgur.com/nZz0o9I.png" group-title="CANALES INDEPENDIENTES",Casa Grande TV | Argentina
 https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CCP Radio" tvg-name="CCP Radio" tvg-logo="https://i.imgur.com/WzKFh03.png" group-title="MUSICA",CCP Radio | Chile
-https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Central Tv" tvg-name="Central Tv" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="FAMILIARES",Central Tv | Chile
 https://freya.mivideo.pro/centraltv/tracks-v1a1/mono.m3u8
