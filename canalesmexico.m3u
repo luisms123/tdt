@@ -8278,7 +8278,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 
 
 #EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim | Mexico
-http://177.234.230.206:8011/play/a0pt
+http://45.5.119.43:4000/play/a051
 
 #EXTINF:-1 tvg-id="Adult Swim CL" tvg-name="Adult Swim CL" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim CL | Chile
 http://45.186.107.173:8000/play/a01i/index.m3u8
@@ -8287,7 +8287,7 @@ http://45.186.107.173:8000/play/a01i/index.m3u8
 http://45.186.107.173:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica.png" group-title="TV PREMIUM",Baby TV
-http://172.93.102.112:9090/278532_.m3u8
+http://104.194.8.54:8080/get/oSTTgsfK-XCHZr1ONU9R4W1NMFRFY1lLSGV4cW5KM2hIelJIc1dUa1hWWEFkOWRlRGl6OERIY0JKWFhjWWtqT2tyYnBhRTE1UWpRZHJ2aWtkZkdhaTZCVGhhSFdUUzBybUVCa3d3PT0.m3u8
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe | Mexico
 http://104.238.222.251:9090/278522_.m3u8
@@ -8296,10 +8296,10 @@ http://104.238.222.251:9090/278522_.m3u8
 http://imaxplay.net:8880/live/Alemilo/Kg3wf9X3yG/56224.ts
 
 #EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing op2 | Spain
-http://185.157.184.13:6001/play/BoingHD
+https://live.proyectoxpro.com:8080/lolitamos1/6x9MUpKxLK/161984
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network  | Mexico
-http://104.238.205.28:8989/278524_.m3u8
+http://104.194.8.54:8080/get/kLGei-_N9zQlz2lq5xHePjhkS2UrMm1qVjJkNjlyRFM3RDZHb1RvdmpQSmFnZmhMU3k2VkNtQUl0bmJyS0N4S2JnSzBMOGk5RjZFYlRuSjBOcGZudHoyZEl4VVJBVW5DMGRXMzlBPT0.m3u8
 
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="" group-title="TV PREMIUM",Chespirito | Mexico
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
@@ -8310,47 +8310,49 @@ https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Etc TV" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV | Chile
 http://45.181.122.46:8090/play/a00t
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="TV PREMIUM",Nickelodeon | Spain
-http://177.234.230.206:8011/play/a0km
+#EXTINF:-1 tvg-id="Elgourmet" tvg-name="Elgourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="TV PREMIUM",Elgourmet | Chile
+http://45.5.119.43:4000/play/a04v/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="TV PREMIUM",Nickelodeon op2 | Spain
-http://45.5.119.43:4000/play/a0hs
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="TV PREMIUM",Nickelodeon | Spain
+http://104.194.8.54:8080/get/sbdLHU8KfwDBlBYJ9P8fHnpqTzVudm5SWUxLSkFIR2RkbjJEMllLWjU4WG9wVS9xd204WEZGcUUxVHE0eWdlc3NYU1dMZlRGbzlDNEpvSGlzM09jVU9aYkhldUkxVmpxZmluNHVBPT0.m3u8
 
 #EXTINF:-1 tvg-id="Senpai TV" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png" group-title="TV PREMIUM",Senpai TV | Chile
 http://45.184.87.142:8000/play/a021
 
-#EXTINF:-1 group-title="TV PREMIUM",Telefe HD
-http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/telefe_720.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Televisa
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",ComercioTV
+https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Best Clasicos
 https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",GritosTV by Trinian
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",HITS MEXICANOS
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",La Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Mi Miedo Canal
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/manifest.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Mi Raza Canal
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal/master.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Mi Raza Canal Plus
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ComercioTV
-https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",NegociosTV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",VIAJAR
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",La Bocina Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Trace Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",HITS MEXICANOS
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Rockola Televisión
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Telefe HD
+http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/telefe_720.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Trace Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",VIAJAR
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
 
 
-
-
+#EXTINF:-1 group-title="TV PREMIUM",distrito comedia
+http://45.5.119.43:4000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",espn 2
+http://45.5.119.43:4000/play/a053/index.m3u8
 
 
 
