@@ -8322,7 +8322,7 @@ http://45.184.87.142:8000/play/a021
 #EXTINF:-1 group-title="TV PREMIUM",ComercioTV
 https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Best Clasicos
-https://acceso.mediosdecostarica.com:3873/stream/play.m3u8
+https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",GritosTV by Trinian
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",HITS MEXICANOS
