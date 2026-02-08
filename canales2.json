@@ -3,30 +3,192 @@
     "nombre": "Cartoon Cartoons dia 1",
     "iframe_url": "https://ok.ru/videoembed/10465443121918?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "pais": "chile"
+    "pais": "argentina"
   },
 "cartoons2": {
     "nombre": "Cartoon Cartoons dia 2",
     "iframe_url": "https://ok.ru/videoembed/10490185583358?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "pais": "chile"
+    "pais": "argentina"
   },
 "cartoons3": {
     "nombre": "Cartoon Cartoons dia 3",
     "iframe_url": "https://ok.ru/videoembed/10491629996798?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "pais": "chile"
+    "pais": "argentina"
   },
 "cartoons4": {
     "nombre": "Cartoon Cartoons dia 4",
     "iframe_url": "https://ok.ru/videoembed/10493022767870?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "pais": "chile"
+    "pais": "argentina"
   },
 "cartoons5": {
     "nombre": "Cartoon Cartoons dia 5",
     "iframe_url": "https://ok.ru/videoembed/10494548642558?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "argentina"
+  },
+"cartoons6": {
+    "nombre": "Cartoon Cartoons dia 6",
+    "iframe_url": "https://ok.ru/videoembed/10495626447614?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "argentina"
+  },
+"cartoons7": {
+    "nombre": "Cartoon Cartoons dia 7",
+    "iframe_url": "https://ok.ru/videoembed/10511305411326?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "argentina"
+  },
+"cartoons8": {
+    "nombre": "Cartoon Cartoons dia 8",
+    "iframe_url": "https://ok.ru/videoembed/10511601175294?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "argentina"
+  },
+"cartoons9": {
+    "nombre": "Cartoon Cartoons dia 9",
+    "iframe_url": "https://ok.ru/videoembed/10511979776766?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "argentina"
+  },
+"cartoons10": {
+    "nombre": "Cartoon Cartoons dia 10",
+    "iframe_url": "https://ok.ru/videoembed/10512195128062?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "argentina"
+  },
+"carnet1": {
+    "nombre": "Cartoon Network Latino dia 1",
+    "iframe_url": "https://ok.ru/videoembed/10043147881214?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "pais": "chile"
+  },
+"carnet2": {
+    "nombre": "Cartoon Network Latino dia 2",
+    "iframe_url": "https://ok.ru/videoembed/10043147815678?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"carnet3": {
+    "nombre": "Cartoon Network Latino dia 3",
+    "iframe_url": "https://ok.ru/videoembed/10465716144894?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"carnet4": {
+    "nombre": "Cartoon Network Latino dia 4",
+    "iframe_url": "https://ok.ru/videoembed/11005457795838?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"carnet5": {
+    "nombre": "Cartoon Network Latino dia 5",
+    "iframe_url": "https://ok.ru/videoembed/11005466774270?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"carnet6": {
+    "nombre": "Cartoon Network Latino dia 6",
+    "iframe_url": "https://ok.ru/videoembed/11005536307966?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"carnet7": {
+    "nombre": "Cartoon Network Latino dia 7",
+    "iframe_url": "https://ok.ru/videoembed/11043503016702?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"carnet8": {
+    "nombre": "Cartoon Network Latino dia 8",
+    "iframe_url": "https://ok.ru/videoembed/11051505945342?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"carnet9": {
+    "nombre": "Cartoon Network Latino dia 9",
+    "iframe_url": "https://ok.ru/videoembed/11043544632062?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"carnet10": {
+    "nombre": "Cartoon Network Latino dia 10",
+    "iframe_url": "https://ok.ru/videoembed/11073331858174?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "chile"
+  },
+"foxkids1": {
+    "nombre": "Fox Kids dia 1",
+    "iframe_url": "https://ok.ru/videoembed/9264306785022?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids2": {
+    "nombre": "Fox Kids dia 2",
+    "iframe_url": "https://ok.ru/videoembed/9266865048318?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids3": {
+    "nombre": "Fox Kids dia 3",
+    "iframe_url": "https://ok.ru/videoembed/9266866096894?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids4": {
+    "nombre": "Fox Kids dia 4",
+    "iframe_url": "https://ok.ru/videoembed/9270985951998?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids5": {
+    "nombre": "Fox Kids dia 5",
+    "iframe_url": "https://ok.ru/videoembed/9270986017534?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids6": {
+    "nombre": "Fox Kids dia 6",
+    "iframe_url": "https://ok.ru/videoembed/9270985886462?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids7": {
+    "nombre": "Fox Kids dia 7",
+    "iframe_url": "https://ok.ru/videoembed/9273709693694?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids8": {
+    "nombre": "Fox Kids dia 8",
+    "iframe_url": "https://ok.ru/videoembed/9273709628158?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids9": {
+    "nombre": "Fox Kids dia 9",
+    "iframe_url": "https://ok.ru/videoembed/9273709759230?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"foxkids10": {
+    "nombre": "Fox Kids dia 10",
+    "iframe_url": "https://ok.ru/videoembed/9275125074686?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "pais": "series"
+  },
+"cartooncity1": {
+    "nombre": "Cartoon City dia 1",
+    "iframe_url": "https://ok.ru/videoembed/10843870857788?autoplay=1",
+    "fuente": "https://ok.ru/profile/910348924732/video",
+    "pais": "cartoon"
+  },
+"cartooncity2": {
+    "nombre": "Cartoon City dia 2",
+    "iframe_url": "https://ok.ru/videoembed/11414365538876?autoplay=1",
+    "fuente": "https://ok.ru/profile/910348924732/video",
+    "pais": "cartoon"
   }
 }
