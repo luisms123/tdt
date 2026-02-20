@@ -3,35 +3,35 @@
     "nombre": "De tal palo tal astilla 1960",
     "iframe_url": "https://ok.ru/videoembed/3618345257604?autoplay=1",
     "fuente": "https://ok.ru/",
-    "categoria": "mexicana"
+    "categoria": "mexicana",
     "pais": "mx"
   },
 "pelis2": {
     "nombre": "Chucky",
     "iframe_url": "https://ok.ru/video/266682764002?autoplay=1",
     "fuente": "https://ok.ru/",
-    "categoria": "terror"
+    "categoria": "terror",
     "pais": "mx"
   },
 "pelis3": {
     "nombre": "Robocop 2014",
     "iframe_url": "https://ok.ru/video/10412454054643?autoplay=1",
     "fuente": "https://ok.ru/",
-    "categoria": "accion"
+    "categoria": "accion",
     "pais": "mx"
   },
 "pelis4": {
     "nombre": "La lengua de las mariposas",
     "iframe_url": "https://ok.ru/video/8352963824200?autoplay=1",
     "fuente": "https://ok.ru/",
-    "categoria": "cultural"
+    "categoria": "cultural",
     "pais": "mx"
   },
 "pelis5": {
     "nombre": "Helena de troya",
     "iframe_url": "https://ok.ru/video/9414357617392?autoplay=1",
     "fuente": "https://ok.ru/",
-    "categoria": "serie"
+    "categoria": "serie",
     "pais": "mx"
   }
 }
