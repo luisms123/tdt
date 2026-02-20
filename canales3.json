@@ -14,24 +14,38 @@
     "pais": "mx"
   },
 "pelis3": {
+    "nombre": "La socieda de la Nieve 2022",
+    "iframe_url": "https://ok.ru/videoembed/6802642242299?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "aventura",
+    "pais": "mx"
+  },
+"pelis4": {
     "nombre": "Robocop 2014",
     "iframe_url": "https://ok.ru/videoembed/10412454054643?autoplay=1",
     "fuente": "https://ok.ru/",
     "categoria": "accion",
     "pais": "mx"
   },
-"pelis4": {
+"pelis5": {
     "nombre": "La lengua de las mariposas",
     "iframe_url": "https://ok.ru/videoembed/8352963824200?autoplay=1",
     "fuente": "https://ok.ru/",
     "categoria": "cultural",
     "pais": "mx"
   },
-"pelis5": {
+"pelis6": {
     "nombre": "Helena de troya",
-    "iframe_url": "https://ok.ru/videoembed/9414357617392?autoplay=1",
+    "iframe_url": "https://ok.ru/videoembed/9414357617392?autoplay=1",https://www.youtube.com/watch?v=sg4HgAHmRac
     "fuente": "https://ok.ru/",
     "categoria": "serie",
+    "pais": "mx"
+  },
+"pelis7": {
+    "nombre": "Pasajeros",
+    "iframe_url": "https://www.youtube.com/embed/sg4HgAHmRac",
+    "fuente": "https://www.youtube.com/",
+    "categoria": "suspenso",
     "pais": "mx"
   }
 }
