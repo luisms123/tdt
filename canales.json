@@ -4,176 +4,207 @@
 	"logo": "https://i.imgur.com/RUuoMlL.png",
     "m3u8_url": "https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8",
     "fuente": "https://compulms.blogspot.com/",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-2": {
     "nombre": "Azteca Uno",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-3": {
     "nombre": "Las Estrellas",
     "m3u8_url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-5": {
     "nombre": "Foro Tv",
     "iframe_url": "https://www.youtube.com/embed/p2AzyIEuFak?si=XoOTCIFd22pzl4FQ",
     "fuente": "https://www.youtube.com/@nmas",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-8": {
     "nombre": "Azteca 7",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-9": {
     "nombre": "A Mas",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-10": {
     "nombre": "Canal Once",
     "m3u8_url": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-11": {
     "nombre": "14 de Mexico",
     "m3u8_url": "https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-12": {
     "nombre": "22 de Mexico",
     "m3u8_url": "https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-13": {
     "nombre": "Mexiquense TV",
     "m3u8_url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-14": {
     "nombre": "AMX Noticias",
     "m3u8_url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-15": {
     "nombre": "ADN 40",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-17": {
     "nombre": "Maussan Tv",
     "iframe_url": "https://www.youtube.com/embed/IhTecbhM1PE",
     "fuente": "https://www.youtube.com/@jaimemaussanoficial",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "cartoonkick": {
     "nombre": "Cartoon Galaxy",
     "iframe_url": "https://player.kick.com/cartoongalaxy",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria3",
     "pais": "cartoongalaxy"
   },
 "cartoon": {
     "nombre": "Cartoon Network",
     "iframe_url": "https://ok.ru/videoembed/8896438738686?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria3",
     "pais": "cartoongalaxy"
   },
 "fox": {
     "nombre": "Fox Kids",
     "iframe_url": "https://ok.ru/videoembed/8967999463166?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria3",
     "pais": "cartoongalaxy"
   },
 "nick": {
     "nombre": "Nick at Nite",
     "iframe_url": "https://ok.ru/videoembed/9194603093758?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria3",
     "pais": "cartoongalaxy"
   },
 "mtv": {
     "nombre": "MTV",
     "iframe_url": "https://ok.ru/videoembed/9197124787966?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria3",
     "pais": "cartoongalaxy"
   },
 "nomolestar": {
     "nombre": "No Molestar",
     "iframe_url": "https://ok.ru/videoembed/9545890995966?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria3",
     "pais": "cartoongalaxy"
   },
 "cartooncartoons": {
     "nombre": "Cartoon Cartoons",
     "iframe_url": "https://ok.ru/videoembed/10378284506878?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria3",
     "pais": "cartoongalaxy"
   },
 "especialhallo": {
-    "nombre": "Animax",
+    "nombre": "Animax / Jetix",
     "iframe_url": "https://ok.ru/videoembed/9586717892350?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria3",
     "pais": "cartoongalaxy"
   },
 "retromagico": {
     "nombre": "Retro Magico",
     "iframe_url": "https://ok.ru/videoembed/6035274800769?autoplay=1",
     "fuente": "https://retromagico.wixsite.com/inicio",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "guerreras": {
     "nombre": "Asahi Tv",
     "iframe_url": "https://ok.ru/videoembed/9234868543069?autoplay=1",
     "fuente": "https://m.ok.ru/",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "claudio": {
     "nombre": "Claudio TV",
     "iframe_url": "https://ok.ru/videoembed/11858686577181?autoplay=1",
     "fuente": "https://m.ok.ru/",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "jetix": {
     "nombre": "Jetix",
     "iframe_url": "https://jetix2021.jahh19channel.xyz/",
     "fuente": "https://jahh19channel.xyz/",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "animestation": {
     "nombre": "AnimeStation",
     "m3u8_url": "https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8",
     "fuente": "https://animestationtv.com/",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "locomotionesp": {
     "nombre": "LocomotionESP",
     "m3u8_url": "https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8",
     "fuente": "https://ssh101.com/live/myevent2025",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-locomotion": {
     "nombre": "Locomotion Tv Web",
     "iframe_url": "http://locomotiontv.com/envivo/",
     "fuente": "http://locomotiontv.com/envivo/",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "id-animezonetv3": {
     "nombre": "Anime Zone Tv Web",
     "iframe_url": "http://animezonetv.net/",
     "fuente": "http://animezonetv.net/",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "toonamiaftermath": {
     "nombre": "Toonami Aftermath",
     "m3u8_url": "https://asp6.toonamiaftermath.com/livehttporigin/est/rkeVmg-EE6ode-chunklist.m3u8",
     "fuente": "https://www.toonamiaftermath.com/",
+    "categoria": "categoria2",
     "pais": "mx"
   },
 "cartoongalaxy": {
     "nombre": "offline",
     "iframe_url": "https://player.twitch.tv/?channel=cartoongalaxy1&parent=compulms.tiiny.site",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria2",
     "pais": "mx"
   }
 }
