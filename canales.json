@@ -83,6 +83,13 @@
   },
 "cartoonkick": {
     "nombre": "Cartoon Galaxy",
+    "iframe_url": "https://player.kick.com/cartoongalaxy",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria2",
+    "pais": "mx"
+  },
+"cartoonkick2": {
+    "nombre": "Cartoon Galaxy2",
     "iframe2_url": "https://player.kick.com/cartoongalaxy",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "categoria": "categoria2",
@@ -182,6 +189,13 @@
 "id-locomotion": {
     "nombre": "Locomotion Tv Web",
     "iframe_url": "http://locomotiontv.com/envivo/",
+    "fuente": "http://locomotiontv.com/envivo/",
+    "categoria": "categoria",
+    "pais": "mx"
+  },
+"id-locomotion2": {
+    "nombre": "Locomotion Tv Web2",
+    "iframe2_url": "http://locomotiontv.com/envivo/",
     "fuente": "http://locomotiontv.com/envivo/",
     "categoria": "categoria",
     "pais": "mx"
