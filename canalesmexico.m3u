@@ -521,9 +521,6 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="https://imgur.com/Ck2bFYn.jpg" group-title="FAMILIARES",Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 
-#EXTINF:-1 tvg-id="Canal 4 Tv Fantastico" tvg-name="Canal 4 Tv Fantastico" tvg-logo="https://imgur.com/9CUu26f.jpg" group-title="FAMILIARES",Canal 4 Tv Fantastico | Argentina
-https://stmv2.voxtvhd.com.br/radiotvfantastico/radiotvfantastico/chunklist_w1135979227.m3u8
-
 #EXTINF:-1 tvg-id="Canal 5 del Pueblo" tvg-name="Canal 5 del Pueblo" tvg-logo="https://imgur.com/NiqNn1j.png" group-title="CANALES INDEPENDIENTES",Canal 5 del Pueblo | Argentina
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
@@ -535,9 +532,6 @@ https://panel.dattalive.com:443/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 8 Rosario" tvg-name="Canal 8 Rosario" tvg-logo="https://imgur.com/1SRpTva.jpg" group-title="FAMILIARES",Canal 8 Rosario | Argentina
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 10 CR" tvg-name="Canal 10 CR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrXNytbMDKI_5Kfg005LyK7LEoydqlraydYYrUZri7zhmJ9FuqYYu3Dy2dS9Gu_eRU1BKMtzjihbNGzYYyBAkSf1MBSIjWymwzmEGe21OhbFNAOQzacBuD0pmKujAH9_fCkVcl2o3b8XjEOr-yI-x68cr9tf3DLjPwQgwXGxd3bbXx2tuQqhZj0JINcRE/w1200-h630-p-k-no-nu/NUEVO%20PORTADA%20CANAL%2010.png" group-title="FAMILIARES",Canal 10 CR | Costa Rica
-https://acceso.mediosdecostarica.com:3606/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Canal 15 DTP" tvg-name="Canal 15 DTP" tvg-logo="https://i.imgur.com/fmEKC3S.png" group-title="FAMILIARES",Canal 15 DTP | Honduras
 https://emisoras.hn:8081/dtp/index.m3u8
@@ -764,6 +758,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="Goku Tv" tvg-name="Goku Tv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="JOVENES Y ADULTOS",Goku Tv | ND
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Invasiva TV" tvg-name="Invasiva TV" tvg-logo="https://imgur.com/AuHSQ03.png" group-title="CANALES INDEPENDIENTES",Invasiva TV | Paraguay
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
 #EXTINF:-1 tvg-id="Iquique Tv" tvg-name="Iquique Tv" tvg-logo="https://iquiquetv.cl/wp-content/uploads/2020/05/iquiqueTV_logo_202005_272x90.png" group-title="FAMILIARES",Iquique Tv | Chile
 https://stream.skarnetchile.com:19360/iquiquetv-hd/iquiquetv-hd.m3u8
 
@@ -778,9 +775,6 @@ https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Invasiva TeVe" tvg-name="Invasiva TeVe" tvg-logo="https://imgur.com/AuHSQ03.png" group-title="CANALES INDEPENDIENTES",Invasiva TeVe | Paraguay
-https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-id="La Mega Mundial" tvg-name="La Mega Mundial" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",La Mega Mundial | USA
 https://server40.servistreaming.com:3477/stream/play.m3u8
@@ -1341,7 +1335,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
 https://mitv.zplay.cl/Ztv/video.m3u8
 
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
-https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 
 
 ﻿

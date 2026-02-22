@@ -19,13 +19,6 @@
     "categoria": "categoria",
     "pais": "mx"
   },
-"id-5": {
-    "nombre": "Foro Tv",
-    "iframe_url": "https://www.youtube.com/embed/p2AzyIEuFak?si=XoOTCIFd22pzl4FQ",
-    "fuente": "https://www.youtube.com/@nmas",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
 "id-8": {
     "nombre": "Azteca 7",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
@@ -71,13 +64,6 @@
 "id-15": {
     "nombre": "ADN 40",
     "m3u8_url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
-"id-17": {
-    "nombre": "Maussan Tv",
-    "iframe_url": "https://www.youtube.com/embed/IhTecbhM1PE",
-    "fuente": "https://www.youtube.com/@jaimemaussanoficial",
     "categoria": "categoria",
     "pais": "mx"
   },
