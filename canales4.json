@@ -1,49 +1,28 @@
 ﻿{
-"pelis1": {
-    "nombre": "De tal palo tal astilla 1960",
-    "iframe_url": "https://ok.ru/videoembed/3618345257604?autoplay=1",
-    "fuente": "https://ok.ru/",
-    "categoria": "mexicana",
+"cartoonkick": {
+    "nombre": "Cartoon Galaxy",
+    "iframe_url": "https://player.kick.com/cartoongalaxy",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria2",
     "pais": "mx"
   },
-"pelis2": {
-    "nombre": "Chucky",
-    "iframe_url": "https://ok.ru/videoembed/266682764002?autoplay=1",
-    "fuente": "https://ok.ru/",
-    "categoria": "terror",
+"id-5": {
+    "nombre": "Foro Tv",
+    "iframe_url": "https://www.youtube.com/embed/p2AzyIEuFak?si=XoOTCIFd22pzl4FQ",
+    "fuente": "https://www.youtube.com/@nmas",
+    "categoria": "tv",
     "pais": "mx"
   },
-"pelis3": {
-    "nombre": "La socieda de la Nieve 2022",
-    "iframe_url": "https://ok.ru/videoembed/6802642242299?autoplay=1",
-    "fuente": "https://ok.ru/",
-    "categoria": "aventura",
-    "pais": "mx"
-  },
-"pelis4": {
-    "nombre": "Robocop 2014",
-    "iframe_url": "https://ok.ru/videoembed/10412454054643?autoplay=1",
-    "fuente": "https://ok.ru/",
-    "categoria": "accion",
-    "pais": "mx"
-  },
-"pelis5": {
-    "nombre": "La lengua de las mariposas",
-    "iframe_url": "https://ok.ru/videoembed/8352963824200?autoplay=1",
-    "fuente": "https://ok.ru/",
-    "categoria": "cultural",
-    "pais": "mx"
-  },
-"pelis6": {
-    "nombre": "Helena de troya",
-    "iframe_url": "https://ok.ru/videoembed/9414357617392?autoplay=1",
-    "fuente": "https://ok.ru/",
-    "categoria": "serie",
+"id-17": {
+    "nombre": "Maussan Tv",
+    "iframe_url": "https://www.youtube.com/embed/IhTecbhM1PE",
+    "fuente": "https://www.youtube.com/@jaimemaussanoficial",
+    "categoria": "tv",
     "pais": "mx"
   },
 "pelis7": {
     "nombre": "Pasajeros",
-    "iframe_url": "https://www.youtube-nocookie.com/embed/sg4HgAHmRac",
+    "iframe_url": "https://www.youtube.com/embed/sg4HgAHmRac",
     "fuente": "https://www.youtube.com/",
     "categoria": "suspenso",
     "pais": "mx"
