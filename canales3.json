@@ -6,9 +6,65 @@
     "categoria": "mexicana",
     "pais": "mx"
   },
-"pelis2": {
+"terminator2": {
+    "nombre": "Terminator 2",
+    "iframe_url": "https://ok.ru/videoembed/9651656198793?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "accion",
+    "pais": "mx"
+  },
+"volveralfuturo1": {
+    "nombre": "Volver al Futuro",
+    "iframe_url": "https://ok.ru/videoembed/9663368727177?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "accion",
+    "pais": "mx"
+  },
+"volveralfuturo2": {
+    "nombre": "Volver al Futuro 2",
+    "iframe_url": "https://ok.ru/videoembed/9668269509257?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "accion",
+    "pais": "mx"
+  },
+"volveralfuturo3": {
+    "nombre": "Volver al Futuro 3",
+    "iframe_url": "https://ok.ru/videoembed/9671281674889?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "accion",
+    "pais": "mx"
+  },
+"chucky1": {
     "nombre": "Chucky",
-    "iframe_url": "https://ok.ru/videoembed/266682764002?autoplay=1",
+    "iframe_url": "https://ok.ru/videoembed/4738742094539?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "terror",
+    "pais": "mx"
+  },
+"chucky2": {
+    "nombre": "Chucky 2",
+    "iframe_url": "https://ok.ru/videoembed/7539366693387?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "terror",
+    "pais": "mx"
+  },
+"chucky3": {
+    "nombre": "Chucky 3",
+    "iframe_url": "https://ok.ru/videoembed/9377007536738?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "terror",
+    "pais": "mx"
+  },
+"chucky4": {
+    "nombre": "La Novia de Chucky",
+    "iframe_url": "https://ok.ru/videoembed/6110045866531?autoplay=1",
+    "fuente": "https://ok.ru/",
+    "categoria": "terror",
+    "pais": "mx"
+  },
+"chucky5": {
+    "nombre": "El Hijo de Chucky",
+    "iframe_url": "https://ok.ru/videoembed/748493212392?autoplay=1",
     "fuente": "https://ok.ru/",
     "categoria": "terror",
     "pais": "mx"
@@ -46,6 +102,13 @@
     "iframe2_url": "https://www.youtube-nocookie.com/embed/sg4HgAHmRac",
     "fuente": "https://www.youtube.com/",
     "categoria": "suspenso",
+    "pais": "mx"
+  },
+"pelis8": {
+    "nombre": "Los Caballeros Del Zodiaco Contra Lucifer",
+    "iframe_url": "https://dn721902.ca.archive.org/0/items/1989-los-caballeros-del-zodiaco-contra-lucifer/%281989%29%20-%20Los%20Caballeros%20del%20Zodiaco%20contra%20Lucifer.mp4",
+    "fuente": "https://archive.org/",
+    "categoria": "serie",
     "pais": "mx"
   }
 }
