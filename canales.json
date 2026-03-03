@@ -137,6 +137,20 @@
     "categoria": "categoria2",
     "pais": "mx"
   },
+"cartooneras": {
+    "nombre": "Cartoon City Eras",
+    "iframe2_url": "https://player.kick.com/cartooncityeras?muted=false",
+    "fuente": "https://player.kick.com/cartooncityeras",
+    "categoria": "categoria3",
+    "pais": "mx"
+  },
+"claudio": {
+    "nombre": "Eras Cartoon Tv",
+    "iframe_url": "https://ok.ru/videoembed/11858686577181?autoplay=1",
+    "fuente": "https://m.ok.ru/",
+    "categoria": "categoria3",
+    "pais": "mx"
+  },
 "retromagico": {
     "nombre": "Retro Magico",
     "iframe_url": "https://ok.ru/videoembed/6035274800769?autoplay=1",
@@ -147,13 +161,6 @@
 "guerreras": {
     "nombre": "Asahi Tv",
     "iframe_url": "https://ok.ru/videoembed/9234868543069?autoplay=1",
-    "fuente": "https://m.ok.ru/",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
-"claudio": {
-    "nombre": "Eras Cartoon Tv",
-    "iframe_url": "https://ok.ru/videoembed/11858686577181?autoplay=1",
     "fuente": "https://m.ok.ru/",
     "categoria": "categoria",
     "pais": "mx"
@@ -201,7 +208,7 @@
     "pais": "mx"
   },
 "cartoongalaxy": {
-    "nombre": "Foxkidz",
+    "nombre": "Foxkidzee",
     "iframe_url": "https://player.twitch.tv/?channel=cocodrilo2626&parent=compulms.blogspot.com",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "categoria": "categoria",
