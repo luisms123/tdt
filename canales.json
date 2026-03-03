@@ -84,7 +84,7 @@
 "cartoonkick": {
     "nombre": "Cartoon Galaxy",
     "iframe2_url": "https://player.kick.com/cartoongalaxy?muted=false",
-    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "fuente": "https://kick.com/cartoongalaxy",
     "categoria": "categoria2",
     "pais": "mx"
   },
@@ -140,14 +140,14 @@
 "cartooneras": {
     "nombre": "Cartoon City Eras",
     "iframe2_url": "https://player.kick.com/cartooncityeras?muted=false",
-    "fuente": "https://player.kick.com/cartooncityeras",
+    "fuente": "https://kick.com/cartooncityeras",
     "categoria": "categoria3",
     "pais": "mx"
   },
 "claudio": {
     "nombre": "Eras Cartoon Tv",
     "iframe_url": "https://ok.ru/videoembed/11858686577181?autoplay=1",
-    "fuente": "https://m.ok.ru/",
+    "fuente": "https://ok.ru/video/11858686577181",
     "categoria": "categoria3",
     "pais": "mx"
   },
