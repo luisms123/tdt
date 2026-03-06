@@ -50,8 +50,9 @@
     "pais": "mx"
   },
 "id-12": {
-    "nombre": "22 de Mexico",
-    "m3u8_url": "https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==",
+    "nombre": "magickids",
+    "m3u8_url": "https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8",
+    "fuente": "https://magickids.site/",
     "categoria": "categoria",
     "pais": "mx"
   },
