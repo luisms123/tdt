@@ -1085,7 +1085,7 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 
 #EXTINF:-1 tvg-id="Sueños Grup" tvg-name="Sueños Grup" tvg-logo="https://i.imgur.com/VNI6CLc.png" group-title="CANALES INDEPENDIENTES",Sueños Grup | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/suenosgrup/playlist.m3u8
+https://stmv2.voxtvhd.com.br/suenosgrouptv/suenosgrouptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuerTV" tvg-name="SuerTV" tvg-logo="https://i.imgur.com/4yWyTG4.png" group-title="FAMILIARES",SuerTV | Argentina
 https://streamaction.ddns.net/suertv_hls/suertv.m3u8
@@ -5203,6 +5203,9 @@ http://45.186.107.173:8000/play/a01i/index.m3u8
 http://38.49.128.38:8000/play/a0b9
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe | Mexico
+http://38.44.109.41:8003/play/a00f
+
+#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe op2 | Mexico
 http://104.238.222.251:9090/278522_.m3u8
 
 #EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing | Spain
