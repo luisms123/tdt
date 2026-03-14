@@ -5191,7 +5191,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 
 
 #EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim | Mexico
-http://45.5.119.43:4000/play/a051
+http://38.49.128.38:8000/play/a0b2
 
 #EXTINF:-1 tvg-id="Adult Swim CL" tvg-name="Adult Swim CL" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim CL | Chile
 http://45.186.107.173:8000/play/a01i/index.m3u8
@@ -5215,7 +5215,7 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/161984
 http://imaxplay.net:8880/live/Alemilo/Kg3wf9X3yG/56224.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network  | Mexico
-http://45.5.119.43:4000/play/a0l0
+http://38.49.128.38:8000/play/a0c0
 
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="" group-title="TV PREMIUM",Chespirito | Mexico
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
@@ -5240,6 +5240,21 @@ http://45.181.122.46:8090/play/a00m
 
 #EXTINF:-1 tvg-id="Senpai TV" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png" group-title="TV PREMIUM",Senpai TV | Chile
 http://45.184.87.142:8000/play/a021
+
+#EXTINF:-1 group-title="TV PREMIUM",USA Network (syfy)
+http://38.49.128.38:8000/play/a0b1/index.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM",Once ninos
+http://38.49.128.38:8000/play/a0nr/index.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM",distrito comedia
+http://38.49.128.38:8000/play/a0ou
+#EXTINF:-1 group-title="TV PREMIUM",espn 2
+http://45.181.122.46:8090/play/a01v
+#EXTINF:-1 group-title="TV PREMIUM",espn 2 ar
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",espn 2 cl
+http://38.49.128.38:8000/play/a092/index.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM",Canal 10 CR
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
@@ -5273,17 +5288,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",VIAJAR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
-
-
-#EXTINF:-1 group-title="TV PREMIUM",distrito comedia
-http://45.5.119.43:4000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",espn 2
-http://45.181.122.46:8090/play/a01v
-#EXTINF:-1 group-title="TV PREMIUM",espn 2 ar
-http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",espn 2 cl
-http://38.49.128.38:8000/play/a092/index.m3u8
-
 
 
 
