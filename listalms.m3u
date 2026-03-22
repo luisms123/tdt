@@ -13,7 +13,7 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek202
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="CANALES INDEPENDIENTES",Energeek Radio TV | Chile
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1 tvg-id="Energeek Pop" tvg-name="Energeek Pop" tvg-logo="https://neotv.cl/assets/img/channels/eg-pop.png" group-title="CANALES INDEPENDIENTES",Energeek Pop | Chile
+#EXTINF:-1 tvg-id="Energeek Pop" tvg-name="Energeek Pop" tvg-logo="https://imgur.com/MpISyIk.png" group-title="CANALES INDEPENDIENTES",Energeek Pop | Chile
 https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV | Chile
@@ -43,10 +43,10 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV | Brasil
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Anime XTV" tvg-name="Anime XTV" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="JOVENES Y ADULTOS",Anime XTV | Republica Dominicana
+#EXTINF:-1 tvg-id="Anime XTV" tvg-name="Anime XTV" tvg-logo="https://imgur.com/uxWNhsy.png" group-title="JOVENES Y ADULTOS",Anime XTV | Republica Dominicana
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
-#EXTINF:-1 tvg-id="Anime XTV" tvg-name="Anime XTV" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="JOVENES Y ADULTOS",Anime XTV op2 | Republica Dominicana
+#EXTINF:-1 tvg-id="Anime XTV" tvg-name="Anime XTV" tvg-logo="https://imgur.com/uxWNhsy.png" group-title="JOVENES Y ADULTOS",Anime XTV op2 | Republica Dominicana
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="AZTV" tvg-name="AZTV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="JOVENES Y ADULTOS",Anime Zone TV | Republica Dominicana
@@ -256,7 +256,7 @@ https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
 #EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://imgur.com/xksFQ5T.png" group-title="CANALES INDEPENDIENTES",Diti TV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DJ TV Estacion Mix" tvg-name="DJ TV Estacion Mix" tvg-logo="" group-title="MUSICA",DJ TV Estacion Mix | Argentina
+#EXTINF:-1 tvg-id="DJ TV Estacion Mix" tvg-name="DJ TV Estacion Mix" tvg-logo="https://imgur.com/fTZa6YT.png" group-title="MUSICA",DJ TV Estacion Mix | Argentina
 https://mix.fachacarlos1.workers.dev/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="JOVENES Y ADULTOS",Dragon Ball Super | ND
@@ -284,7 +284,7 @@ https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=v
 #EXTINF:-1 tvg-id="EstacionKusTv" tvg-name="EstacionKusTv" tvg-logo="https://imgur.com/7Nt6bnK.png" group-title="CANALES INDEPENDIENTES",EstacionKusTv | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/ekusmedios/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Estacion Mix Tv" tvg-name="Estacion Mix Tv" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=350x10000:format=png/path/sc40a039d49acf98a/image/icbe12cae2b3da2d2/version/1628894274/image.png" group-title="MUSICA",Estacion Mix Tv | Argentina
+#EXTINF:-1 tvg-id="Estacion Mix Tv" tvg-name="Estacion Mix Tv" tvg-logo="https://imgur.com/ZwRxUpb.png" group-title="MUSICA",Estacion Mix Tv | Argentina
 https://masplay.x10.mx/proxy/mixtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Estrella Producciones" tvg-name="Estrella Producciones" tvg-logo="https://i.imgur.com/1Uc4pJw.png" group-title="FAMILIARES",Estrella Producciones | Paraguay
@@ -438,7 +438,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210141/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Mas Cine" tvg-name="Mas Cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="CINE",Mas Cine | Chile
+#EXTINF:-1 tvg-id="Mas Cine" tvg-name="Mas Cine" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CINE",Mas Cine | Chile
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 
 #EXTINF:-1 tvg-id="Mas TV" tvg-name="Mas TV" tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/tv/images/logo_alt.png" group-title="FAMILIARES",Mas TV | Paraguay
@@ -595,7 +595,7 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-id="Presencia TV" tvg-name="Presencia TV" tvg-logo="https://i.imgur.com/CBaV0S8.png" group-title="FAMILIARES",Presencia TV | Peru
 https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pride Tv" tvg-name="Pride Tv" tvg-logo="https://neotv.cl/assets/img/channels/pridetv-lat.png" group-title="CANALES INDEPENDIENTES",Pride Tv | Chile
+#EXTINF:-1 tvg-id="Pride Tv" tvg-name="Pride Tv" tvg-logo="https://imgur.com/GseO61H.png" group-title="CANALES INDEPENDIENTES",Pride Tv | Chile
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
 
 #EXTINF:-1 tvg-id="PS Television" tvg-name="PS Television" tvg-logo="https://i.imgur.com/X0ooVPY.png" group-title="CANALES INDEPENDIENTES",PS Television | Colombia
@@ -715,7 +715,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/telentv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | Mexico
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemas" tvg-name="Telemas" tvg-logo="https://telemascr.com/wp-content/uploads/2024/06/cropped-LOGO-TELEMAS-LETRA-BLANCA-PNG-3-272x91.png" group-title="FAMILIARES",Telemas | Costarica
+#EXTINF:-1 tvg-id="Telemas" tvg-name="Telemas" tvg-logo="https://imgur.com/JkJ4RWn.png" group-title="FAMILIARES",Telemas | Costarica
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://imgur.com/GrKMMGv.png" group-title="FAMILIARES",Telemax | Argentina
