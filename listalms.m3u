@@ -544,6 +544,9 @@ https://live20.bozztv.com/giatv/giatv-opinionsurs/opinionsurs/playlist.m3u8
 #EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/heJNpjQ.png" group-title="CINE",Orbit TV | Republica Dominicana
 https://mlb.essastream.com:8081/orbittv/index.m3u8
 
+#EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/heJNpjQ.png" group-title="CINE",Orbit TV op2 | Republica Dominicana
+https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="INFANTILES",PakaPaka | Argentina
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
@@ -628,6 +631,9 @@ https://stream.mediacorp.pe/srt/3/playlist.m3u8
 #EXTINF:-1 tvg-id="Red TV 24/7" tvg-name="Red TV 24/7" tvg-logo="https://i.imgur.com/AnV1ZSj.jpg" group-title="CANALES INDEPENDIENTES",Red TV 24/7 | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="Retro Blast" tvg-name="Retro Blast" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Retro Blast | ND
+https://retroblast.tv/hls/0/stream.m3u8
+
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 
@@ -681,6 +687,9 @@ https://stmv2.voxtvhd.com.br/suenosgrouptv/suenosgrouptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuerTV" tvg-name="SuerTV" tvg-logo="https://i.imgur.com/4yWyTG4.png" group-title="FAMILIARES",SuerTV | Argentina
 https://streamaction.ddns.net/suertv_hls/suertv.m3u8
+
+#EXTINF:-1 tvg-id="Swim Rewind" tvg-name="Swim Rewind" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Swim Rewind | ND
+https://swimrewind.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="T5 Satelital" tvg-name="T5 Satelital" tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png" group-title="FAMILIARES",T5 Satelital | Argentina
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
