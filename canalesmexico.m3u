@@ -794,6 +794,9 @@ https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="La Popular TV" tvg-name="La Popular TV" tvg-logo="https://i.imgur.com/hv6nO9Z.jpg" group-title="FAMILIARES",La Popular TV | Chile
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="La Vitrola Tv" tvg-name="La Vitrola Tv" tvg-logo="https://imgur.com/sTl2UcE.png" group-title="MUSICA",La Vitrola Tv | Argentina
+https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Lena Radio TV" tvg-name="Lena Radio TV" tvg-logo="https://i.imgur.com/2Dn2Oxu.png" group-title="MUSICA",Lena Radio TV | Republica Dominicana
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 
@@ -1769,6 +1772,18 @@ http://argentina.republicahosting.com:8158/;
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LATINAS",Radio Magic kids FM radio
 http://190.106.134.219:8197/tu-punto-de-montaje.ogg
+
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LATINAS",Radio Galena 80
+https://cdn.instream.audio:9774/stream
+
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LATINAS",Radio Galena Castellano
+https://cdn.instream.audio:9772/stream
+
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LATINAS",Radio Galena Rock
+https://cdn.instream.audio:9770/stream
+
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LATINAS",Radio Galena Black
+https://cdn.instream.audio:9760/stream
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LATINAS",Radio Modoradio
 https://modoradiocl.radioca.st/live
