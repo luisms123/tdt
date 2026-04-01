@@ -641,10 +641,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
 https://retroblast.tv/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico op2| Argentina
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Music Tv" tvg-name="Retro Music Tv" tvg-logo="https://www.parsatv.com/index_files/channels/retromusic.png" group-title="MUSICA",Retro Music Tv | Checoslovaquia
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
