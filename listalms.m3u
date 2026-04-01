@@ -368,10 +368,10 @@ https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Laika Channel Galicia" tvg-name="Laika Channel Galicia" tvg-logo="https://i.ibb.co/WW4f1B19/Logo-Laika-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Laika Channel Galicia | Spain
+#EXTINF:-1 tvg-id="Laika Channel Galicia" tvg-name="Laika Channel Galicia" tvg-logo="https://i.ibb.co/8gBCpNNt/Letras-de-Laika-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Laika Channel Galicia | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Laika Channel Spain" tvg-name="Laika Channel Spain" tvg-logo="https://i.ibb.co/twqNM8Z3/Logo-Laika-Channel-Espa-a.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain | Spain
+#EXTINF:-1 tvg-id="Laika Channel Spain" tvg-name="Laika Channel Spain" tvg-logo="https://i.ibb.co/nqkqsK8Y/Letras-de-Laika-Channel-Espa-a.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Mega Mundial" tvg-name="La Mega Mundial" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",La Mega Mundial | USA
@@ -606,6 +606,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pride Tv" tvg-name="Pride Tv" tvg-logo="https://imgur.com/GseO61H.png" group-title="CANALES INDEPENDIENTES",Pride Tv | Chile
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
+
+#EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired | ND
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="PS Television" tvg-name="PS Television" tvg-logo="https://i.imgur.com/X0ooVPY.png" group-title="CANALES INDEPENDIENTES",PS Television | Colombia
 https://micanal.ovh/livestreams/182.W1QXCAQGTNP6.m3u8
