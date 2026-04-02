@@ -421,9 +421,6 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op2 | Mexico
-https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro | Chile
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
 
@@ -1755,6 +1752,9 @@ https://us9.maindigitalstream.com/ssl/7686
 #EXTINF:-1 tvg-logo="https://conexiontropical.appradio.ar/icons/icon@512.png" group-title="RADIOS LATINAS",Radio Conexion Tropical 96 9
 https://radios.solumedia.com:6088/stream
 
+#EXTINF:-1 tvg-logo="https://imgur.com/sTl2UcE.png" group-title="RADIOS LATINAS",Radio La Vitrola
+https://streaming01.radiosenlinea.com.ar/8838/stream
+
 #EXTINF:-1 tvg-logo="https://webderadios.com/ninjaonline/data1/images/uno.jpg" group-title="RADIOS LATINAS",Radio Ninja Online
 https://radio.plandos.com:7042/stream
 
@@ -1764,7 +1764,7 @@ https://listen.openstream.co/6502/audio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="RADIOS LATINAS",Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RC8Ymzw.png" group-title="RADIOS LATINAS",Delmi Series Hits | Spain
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RC8Ymzw.png" group-title="RADIOS LATINAS",Delmi Series Hits
 https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9gjpVi.png" group-title="RADIOS LATINAS",Animax Radio
