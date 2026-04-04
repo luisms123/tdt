@@ -746,7 +746,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleposadas" tvg-name="Teleposadas" tvg-logo="https://i.imgur.com/lHUA2C3.jpg" group-title="FAMILIARES",Teleposadas | Argentina
-https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
+https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleRed" tvg-name="TeleRed" tvg-logo="https://i.imgur.com/pkstHpE.png" group-title="FAMILIARES",Telered | Costa Rica
 https://k20.usastreams.com:8081/telered/index.m3u8
@@ -858,6 +858,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VHS" tvg-name="VHS" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="CINE",VHS | Chile
 https://tv.arkeo.cl:19360/8138/8138.m3u8
+
+#EXTINF:-1 tvg-id="Vida al Maximo" tvg-name="Vida al Maximo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOA3JOu7qANdmb3HqlKdigF3WaruGI_TLcxPPx-MyhhljRNQvZE1ymEaKnhfDcQl5BnkSRIiFE9iC9-y7vi9FF-7pww-WIArR544Q3w5YqPNIBZCyVlgVnuzv5qOXRaCyJiKZd_-U5ZBqjqr8UaWyf83UV3ULxSwUrUp_x_9hyRmdsXcPLdVhDcAwU1XG8/s1080/IMG-20240115-WA0007.jpg" group-title="CANALES INDEPENDIENTES",Vida al Maximo | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Video Club" tvg-name="Video Club" tvg-logo="https://i.imgur.com/auWtr20.png" group-title="CINE",Video Club | Argentina
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
