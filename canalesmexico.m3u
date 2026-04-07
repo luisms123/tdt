@@ -1037,7 +1037,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/p
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="Radio Ipersonica TV" tvg-name="Radio Ipersonica TV" tvg-logo="https://i.imgur.com/8eSqC8L.png" group-title="CANALES INDEPENDIENTES",Radio Ipersonica TV | Argentina
-https://micanal.ovh/livestreams/154.IRG4SVDYHEK3.m3u8
+https://sc1.escuela4.com/live/ed2eed143b3c3cf00cda70e10d018e9739a30a49.m3u8
 
 #EXTINF:-1 tvg-id="Radio Old Time" tvg-name="Radio Old Time" tvg-logo="https://www.radioldtime.com.ar/data/files/logoradioldtime2-1.png" group-title="MUSICA",Radio Old Time | Argentina
 https://5f700d5b2c46f.streamlock.net/tvoldtime/tvoldtime/chunklist_w1126196422.m3u8
@@ -5702,7 +5702,7 @@ https://acceso.mediosdecostarica.com:3812/hybrid/play.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Rockola Televisión
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Telefe HD
-http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/telefe_720.m3u8
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe_480.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Trace Latina
