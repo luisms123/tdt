@@ -85,56 +85,56 @@
     "nombre": "Cartoon Galaxy",
     "iframe2_url": "https://player.kick.com/cartoongalaxy?muted=false",
     "fuente": "https://kick.com/cartoongalaxy",
-    "categoria": "categoria2",
+    "categoria": "categoria4",
     "pais": "mx"
   },
 "cartoon": {
     "nombre": "Cartoon Network",
     "iframe_url": "https://ok.ru/videoembed/8896438738686?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "categoria": "categoria2",
+    "categoria": "categoria4",
     "pais": "mx"
   },
 "fox": {
     "nombre": "Fox Kids",
     "iframe_url": "https://ok.ru/videoembed/8967999463166?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "categoria": "categoria2",
+    "categoria": "categoria4",
     "pais": "mx"
   },
 "nick": {
     "nombre": "Nick at Nite",
     "iframe_url": "https://ok.ru/videoembed/9194603093758?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "categoria": "categoria2",
+    "categoria": "categoria4",
     "pais": "mx"
   },
 "mtv": {
     "nombre": "MTV",
     "iframe_url": "https://ok.ru/videoembed/9197124787966?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "categoria": "categoria2",
+    "categoria": "categoria4",
     "pais": "mx"
   },
 "nomolestar": {
     "nombre": "No Molestar",
     "iframe_url": "https://ok.ru/videoembed/9545890995966?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "categoria": "categoria2",
+    "categoria": "categoria4",
     "pais": "mx"
   },
 "cartooncartoons": {
     "nombre": "Cartoon Cartoons",
     "iframe_url": "https://ok.ru/videoembed/10378284506878?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "categoria": "categoria2",
+    "categoria": "categoria4",
     "pais": "mx"
   },
 "especialhallo": {
     "nombre": "Animax / Jetix",
     "iframe_url": "https://ok.ru/videoembed/9586717892350?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "categoria": "categoria2",
+    "categoria": "categoria4",
     "pais": "mx"
   },
 "cartooneras": {
@@ -142,13 +142,6 @@
     "iframe2_url": "https://player.kick.com/cartooncityeras?muted=false",
     "fuente": "https://kick.com/cartooncityeras",
     "categoria": "categoria3",
-    "pais": "mx"
-  },
-"cnclasico4": {
-    "nombre": "CN Clasico",
-    "iframe_url": "https://cn-clasico.neocities.org/",
-    "fuente": "https://cn-clasico.neocities.org/",
-    "categoria": "categoria5",
     "pais": "mx"
   },
 "retromagico": {
@@ -162,13 +155,6 @@
     "nombre": "Asahi Tv",
     "iframe_url": "https://ok.ru/videoembed/9234868543069?autoplay=1",
     "fuente": "https://m.ok.ru/",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
-"jetix": {
-    "nombre": "Jetix",
-    "iframe_url": "https://jetix2021.jahh19channel.xyz/",
-    "fuente": "https://jahh19channel.xyz/",
     "categoria": "categoria",
     "pais": "mx"
   },
@@ -186,46 +172,60 @@
     "categoria": "categoria",
     "pais": "mx"
   },
-"id-locomotion": {
-    "nombre": "Locomotion Tv Web",
-    "iframe_url": "http://locomotiontv.com/envivo/",
-    "fuente": "http://locomotiontv.com/envivo/",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
-"id-animezonetv3": {
-    "nombre": "Anime Zone Tv Web",
-    "iframe_url": "http://animezonetv.net/",
-    "fuente": "http://animezonetv.net/",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
-"toonamiaftermath": {
-    "nombre": "Toonami Aftermath",
-    "m3u8_url": "https://asp6.toonamiaftermath.com/livehttporigin/est/rkeVmg-EE6ode-chunklist.m3u8",
-    "fuente": "https://www.toonamiaftermath.com/",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
-"foxkidssite": {
-    "nombre": "Fox Kids",
-    "iframe_url": "https://www.foxkids.site/",
-    "fuente": "https://www.foxkids.site/",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
-"cnencity": {
-    "nombre": "CN en city",
-    "iframe_url": "https://compulms.blogspot.com/p/cn.html",
-    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
-    "categoria": "categoria",
-    "pais": "mx"
-  },
-"cartoongalaxy": {
+"Foxkidzee": {
     "nombre": "Foxkidzee",
     "iframe_url": "https://player.twitch.tv/?channel=cocodrilo2626&parent=compulms.blogspot.com",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "categoria": "categoria",
+    "pais": "mx"
+  },
+"id-locomotion": {
+    "nombre": "Web - Locomotion",
+    "iframe_url": "http://locomotiontv.com/envivo/",
+    "fuente": "http://locomotiontv.com/envivo/",
+    "categoria": "categoria2",
+    "pais": "mx"
+  },
+"id-animezonetv3": {
+    "nombre": "Web - Anime Zone Tv Web",
+    "iframe_url": "http://animezonetv.net/",
+    "fuente": "http://animezonetv.net/",
+    "categoria": "categoria2",
+    "pais": "mx"
+  },
+"toonamiaftermath": {
+    "nombre": "Web - Toonami Aftermath",
+    "m3u8_url": "https://asp6.toonamiaftermath.com/livehttporigin/est/rkeVmg-EE6ode-chunklist.m3u8",
+    "fuente": "https://www.toonamiaftermath.com/",
+    "categoria": "categoria2",
+    "pais": "mx"
+  },
+"jetix": {
+    "nombre": "Web - Jetix",
+    "iframe_url": "https://jetix2021.jahh19channel.xyz/",
+    "fuente": "https://jahh19channel.xyz/",
+    "categoria": "categoria2",
+    "pais": "mx"
+  },
+"cnclasico4": {
+    "nombre": "Web - CN Clasico",
+    "iframe_url": "https://cn-clasico.neocities.org/",
+    "fuente": "https://cn-clasico.neocities.org/",
+    "categoria": "categoria2",
+    "pais": "mx"
+  },
+"foxkidssite": {
+    "nombre": "Web - Fox Kids",
+    "iframe_url": "https://www.foxkids.site/",
+    "fuente": "https://www.foxkids.site/",
+    "categoria": "categoria2",
+    "pais": "mx"
+  },
+"cnencity": {
+    "nombre": "Web - CN en city",
+    "iframe_url": "https://compulms.blogspot.com/p/cn.html",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria2",
     "pais": "mx"
   }
 }
