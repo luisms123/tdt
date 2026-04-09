@@ -81,8 +81,15 @@
     "categoria": "categoria",
     "pais": "mx"
   },
+"cartoontwitch4": {
+    "nombre": "Cartoon Galaxy Twitch",
+    "iframe_url": "https://player.twitch.tv/?channel=cartoongalaxytv&parent=compulms.blogspot.com",
+    "fuente": "https://player.twitch.tv/cartoongalaxytv",
+    "categoria": "categoria4",
+    "pais": "mx"
+  },
 "cartoonkick": {
-    "nombre": "Cartoon Galaxy",
+    "nombre": "Cartoon Galaxy Kick",
     "iframe2_url": "https://player.kick.com/cartoongalaxy?muted=false",
     "fuente": "https://kick.com/cartoongalaxy",
     "categoria": "categoria4",
