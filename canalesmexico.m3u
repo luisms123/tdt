@@ -1328,9 +1328,6 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="Xtrema Retro" tvg-name="Xtrema Retro" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="INFANTILES",Xtrema Retro | ND
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Yamato Animation" tvg-name="Yamato Animation" tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="JOVENES Y ADULTOS",Yamato Animation | Italia
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-logo="https://i.imgur.com/DdYrpbY.png" group-title="INFANTILES",Zaz TV | Mexico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
 
@@ -1351,9 +1348,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZoyTV Turcas" tvg-name="ZoyTV Turcas" tvg-logo="https://imgur.com/L6uo1Ua.png" group-title="FAMILIARES",ZoyTV Turcas | Bolivia
 https://live20.bozztv.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZTV" tvg-name="ZTV" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV | Chile
-https://mitv.zplay.cl/Ztv/video.m3u8
 
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
