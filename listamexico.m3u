@@ -964,9 +964,6 @@ https://mlb.essastream.com:8081/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/heJNpjQ.png" group-title="CINE",Orbit TV op2 | Republica Dominicana
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="INFANTILES",PakaPaka | Argentina
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Panamericana Tv" tvg-name="Panamericana Tv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="FAMILIARES",Panamericana Tv | Peru
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 
@@ -5653,8 +5650,17 @@ http://45.173.201.51:4000/play/a05t
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="TV PREMIUM",Nickelodeon op2 | Spain
 http://45.181.122.46:8090/play/a00m
 
+#EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="TV PREMIUM",PakaPaka | Argentina
+http://201.217.246.42:44310/live/b10474c9b1ba4a0986b574d1211c065b/local-36.playlist.m3u8
+
 #EXTINF:-1 tvg-id="Senpai TV" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png" group-title="TV PREMIUM",Senpai TV | Chile
 http://45.184.87.142:8000/play/a021
+
+#EXTINF:-1 group-title="TV PREMIUM",Telefe HD
+http://38.44.109.41:8003/play/a0ev
+
+#EXTINF:-1 group-title="TV PREMIUM",Telefe HD op2
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe_480.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM",USA Network (syfy)
 http://38.49.128.38:8000/play/a0b1
@@ -5695,8 +5701,6 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://acceso.mediosdecostarica.com:3812/hybrid/play.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Rockola Televisión
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Telefe HD
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe_480.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Trace Latina

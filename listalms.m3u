@@ -550,9 +550,6 @@ https://mlb.essastream.com:8081/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://i.imgur.com/heJNpjQ.png" group-title="CINE",Orbit TV op2 | Republica Dominicana
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="INFANTILES",PakaPaka | Argentina
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Panamericana Tv" tvg-name="Panamericana Tv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="FAMILIARES",Panamericana Tv | Peru
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 
