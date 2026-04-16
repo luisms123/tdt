@@ -421,6 +421,9 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op2 | Mexico
+https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro | Chile
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
 
@@ -869,6 +872,9 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playli
 
 #EXTINF:-1 tvg-id="Mega Cine Tv" tvg-name="Mega Cine Tv" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-id="Memorias Tv Toons" tvg-name="Memorias Tv Toons" tvg-logo="https://imgur.com/1RkqeV8.png" group-title="CINE",Memorias Tv Toons | Republica Dominicana
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
@@ -1724,6 +1730,9 @@ https://2.mystreaming.net/er/alanismorissette/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ayjlunmfjje7.png" group-title="RADIOS LATINAS",Radio Exclusively Alanis Morissette op2
 https://nl4.mystreaming.net/er/alanismorissette/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/shares/exclusivehits-mariah-carey-hits.png" group-title="RADIOS LATINAS",Radio Exclusively Mariah Carey
+https://streaming.exclusive.radio/er/mariahcareyhits/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/af0228e6-2594-479e-b1aa-9163b0e1f5ed/Radio-512.png" group-title="RADIOS LATINAS",Radio Energeek
 https://audio2.tustreaming.cl:8150/stream?type=mp3
