@@ -873,7 +873,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playli
 #EXTINF:-1 tvg-id="Mega Cine Tv" tvg-name="Mega Cine Tv" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1 tvg-id="Memorias Tv Toons" tvg-name="Memorias Tv Toons" tvg-logo="https://imgur.com/1RkqeV8.png" group-title="CINE",Memorias Tv Toons | Republica Dominicana
+#EXTINF:-1 tvg-id="Memorias Tv Toons" tvg-name="Memorias Tv Toons" tvg-logo="https://imgur.com/1RkqeV8.png" group-title="INFANTILES",Memorias Tv Toons | Republica Dominicana
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
@@ -920,7 +920,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CINE",Neox | Argentina
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Nextv" tvg-name="Nextv" tvg-logo="https://imgur.com/eChAxaN.png" group-title="FAMILIARES",Nextv | ND
 https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
@@ -1081,9 +1081,6 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online | ND
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online op2 | ND
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retrotoons" tvg-name="Retrotoons" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="INFANTILES",Retrotoons | ND
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 
@@ -1091,7 +1088,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV op2 | Costa Rica
-https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
