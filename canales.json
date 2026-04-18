@@ -158,6 +158,13 @@
     "categoria": "categoria",
     "pais": "mx"
   },
+"cncityenvivo": {
+    "nombre": "CN CIty",
+    "m3u8_url": "https://envivo.cncity.live/hls/envivo.m3u8",
+    "fuente": "https://cncity.live/",
+    "categoria": "categoria",
+    "pais": "mx"
+  },
 "guerreras": {
     "nombre": "Asahi Tv",
     "iframe_url": "https://ok.ru/videoembed/9234868543069?autoplay=1",
@@ -228,17 +235,17 @@
     "categoria": "categoria2",
     "pais": "mx"
   },
+"cnencity": {
+    "nombre": "Web - CN Clasico2",
+    "iframe_url": "https://compulms.blogspot.com/p/cn.html",
+    "fuente": "https://cn-clasico.neocities.org/",
+    "categoria": "categoria2",
+    "pais": "mx"
+  },
 "foxkidssite": {
     "nombre": "Web - Fox Kids",
     "iframe_url": "https://www.foxkids.site/",
     "fuente": "https://www.foxkids.site/",
-    "categoria": "categoria2",
-    "pais": "mx"
-  },
-"cnencity": {
-    "nombre": "Web - CN en city",
-    "iframe_url": "https://compulms.blogspot.com/p/cn.html",
-    "fuente": "https://cn-clasico.neocities.org/",
     "categoria": "categoria2",
     "pais": "mx"
   },

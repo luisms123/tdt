@@ -634,7 +634,7 @@ https://paneltv.stream:19360/classicchannel/classicchannel.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CN City" tvg-name="CN City" tvg-logo="https://imgur.com/38F3AsR.png" group-title="INFANTILES",CN City | Chile
-https://envivo.cncity.live/hls/cncity.m3u8
+https://envivo.cncity.live/hls/envivo.m3u8
 
 #EXTINF:-1 tvg-id="Colome TV" tvg-name="Colome TV" tvg-logo="https://colometv.com/assets/images/logo.png" group-title="FAMILIARES",Colome TV | Nueva York
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
@@ -679,6 +679,9 @@ https://mix.fachacarlos1.workers.dev/playlist.m3u8
 #EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="JOVENES Y ADULTOS",Dragon Ball Super | ND
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="JOVENES Y ADULTOS",Dragon Ball Super op2 | ND
+http://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv
+
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
@@ -687,6 +690,9 @@ https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
 
 #EXTINF:-1 tvg-id="El Folklorico" tvg-name="El Folklorico" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="MUSICA",El Folklorico | Argentina
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
+
+#EXTINF:-1 tvg-id="El Chavo del Ocho" tvg-name="El Chavo del Ocho" tvg-logo="https://imgur.com/inXbFqE.png" group-title="INFANTILES",El Chavo del Ocho | 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Hombre Araña" tvg-name="El Hombre Araña" tvg-logo="https://gia.tv/streams/pptv/210702.jpg?1758864551" group-title="INFANTILES",El Hombre Araña | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
@@ -716,23 +722,41 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Extrema TV Kids" tvg-name="Extrema TV Kids" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="INFANTILES",Extrema TV Kids | ND
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Free TV LQ" tvg-name="Free TV LQ" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Live | USA
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Clasico | USA
+https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-freetvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Live | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Free TV LQ" tvg-name="Free TV LQ" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Accion | USA
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Accion | USA
 https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
 
-#EXTINF:-1 tvg-id="Free TV LQ" tvg-name="Free TV LQ" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Asia | USA
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Asia | USA
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 
-#EXTINF:-1 tvg-id="Free TV LQ" tvg-name="Free TV LQ" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Banda | USA
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Banda | USA
 https://jmp2.uk/rok-b1ad1b681f5d5b2eb071445b284336ff.m3u8
 
-#EXTINF:-1 tvg-id="Free TV LQ" tvg-name="Free TV LQ" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Estelar | USA
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Drama | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Familia | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Hits | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Estelar | USA
 https://jmp2.uk/rok-beb2be3222295798a8828458bea458ba.m3u8
 
-#EXTINF:-1 tvg-id="Free TV LQ" tvg-name="Free TV LQ" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Sureño | USA
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Saber Mas | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Sureño | USA
 https://jmp2.uk/rok-59d2dbddc997559bb7b689a7c887cba4.m3u8
+
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Terror | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://i.imgur.com/SAWdc0u.png" group-title="CANALES INDEPENDIENTES",Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -834,7 +858,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://imgur.com/Z6HJvy8.png" group-title="JOVENES Y ADULTOS",Los Simpsons 3 24/7
-http://186.0.181.237/Live/6fb5915940cdb1605ec7f4ecd4308091/online-24-7.playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
 #EXTINF:-1 tvg-id="m2o Tv" tvg-name="m2o Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",m2o Tv | Italia
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -5635,7 +5659,7 @@ http://imaxplay.net:8880/live/Alemilo/Kg3wf9X3yG/56224.ts
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network  | Mexico
 http://38.49.128.38:8000/play/a0c0
 
-#EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="" group-title="TV PREMIUM",Chespirito | Mexico
+#EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://imgur.com/UswxIKp.png" group-title="TV PREMIUM",Chespirito | Mexico
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan TVE | Spain
