@@ -165,7 +165,7 @@ https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cartooncito" tvg-name="Cartooncito" tvg-logo="https://gia.tv/streams/logo/208284.jpg?1756618557" group-title="INFANTILES",Cartooncito | ND
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://i.imgur.com/nZz0o9I.png" group-title="CANALES INDEPENDIENTES",Casa Grande TV | Argentina
+#EXTINF:-1 tvg-id="Casa Grande TV" tvg-name="Casa Grande TV" tvg-logo="https://i.postimg.cc/mD9HVGPS/logo-cromo.png" group-title="CANALES INDEPENDIENTES",Casa Grande TV | Argentina
 https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Central Tv" tvg-name="Central Tv" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="FAMILIARES",Central Tv | Chile
@@ -733,7 +733,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-208260/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Taltal Tv Series Educativas" tvg-name="Taltal Tv Series Educativas" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Series Educativas | Argentina
 https://live20.bozztv.com/giatvplayout7/giatv-209703/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="TalTal Tv Anime" tvg-name="TalTal Tv Anime" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Anime | Argentina
+#EXTINF:-1 tvg-id="Taltal Tv Series Anime" tvg-name="Taltal Tv Series Anime" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Anime | Argentina
+https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TalTal Tv Anime" tvg-name="TalTal Tv Anime" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Anime op2 | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Taltal Tv Series Anime" tvg-name="Taltal Tv Series Anime" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Series Anime | Argentina
@@ -911,7 +914,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wow Tv" tvg-name="Wow Tv" tvg-logo="https://imgur.com/Kbjf0An.png" group-title="CINE",Wow Tv | El Salvador
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="X Men" tvg-name="X Men" tvg-logo="https://gia.tv/streams/pptv/210703.jpg" group-title="INFANTILES",X Men | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
