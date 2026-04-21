@@ -137,8 +137,29 @@
     "categoria": "categoria4",
     "pais": "mx"
   },
+"especialjetix": {
+    "nombre": "Jetix",
+    "iframe_url": "https://ok.ru/videoembed/13727456829182?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria4",
+    "pais": "mx"
+  },
+"especialanimax": {
+    "nombre": "Animax",
+    "iframe_url": "https://ok.ru/videoembed/13727443721982?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria4",
+    "pais": "mx"
+  },
+"especialboomerang": {
+    "nombre": "Boomerang",
+    "iframe_url": "https://ok.ru/videoembed/13727452110590?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria4",
+    "pais": "mx"
+  },
 "especialhallo": {
-    "nombre": "Animax / Jetix",
+    "nombre": "Especiales",
     "iframe_url": "https://ok.ru/videoembed/9586717892350?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "categoria": "categoria4",
