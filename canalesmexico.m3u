@@ -679,9 +679,6 @@ https://mix.fachacarlos1.workers.dev/playlist.m3u8
 #EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="JOVENES Y ADULTOS",Dragon Ball Super | ND
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="JOVENES Y ADULTOS",Dragon Ball Super op2 | ND
-http://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv
-
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
@@ -702,10 +699,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 https://kali.vdopanel.com:3717/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="EpicToon" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="INFANTILES",EpicToon | ND
-https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=vibra060425
-
-#EXTINF:-1 tvg-id="EstacionKusTv" tvg-name="EstacionKusTv" tvg-logo="https://imgur.com/7Nt6bnK.png" group-title="CANALES INDEPENDIENTES",EstacionKusTv | Mexico
-https://live20.bozztv.com/akamaissh101/ssh101/ekusmedios/playlist.m3u8
+https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Estacion Mix Tv" tvg-name="Estacion Mix Tv" tvg-logo="https://imgur.com/ZwRxUpb.png" group-title="MUSICA",Estacion Mix Tv | Argentina
 https://masplay.x10.mx/proxy/mixtv/playlist.m3u8
@@ -5667,6 +5661,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan TVE | Spain
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+
+#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="TV PREMIUM",Dragon Ball Super op2 | ND
+http://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv
 
 #EXTINF:-1 tvg-id="Etc TV" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV | Chile
 http://45.181.122.46:8090/play/a00t
