@@ -76,8 +76,15 @@
   },
 "maussantv": {
     "nombre": "Maussan Tv",
-    "iframe2_url": "https://www.youtube.com/embed/vzi1jTl_tf8",
+    "iframe2_url": "https://www.youtube.com/embed/eg3Ki4lcQ80",
     "fuente": "https://www.youtube.com/@jaimemaussanoficial",
+    "categoria": "categoria",
+    "pais": "mx"
+  },
+"canalc5n": {
+    "nombre": "C5N",
+    "iframe2_url": "https://www.youtube.com/embed/VWhQ6xspnSc",
+    "fuente": "https://www.youtube.com/@c5n",
     "categoria": "categoria",
     "pais": "mx"
   },

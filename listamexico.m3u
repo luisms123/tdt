@@ -786,7 +786,7 @@ https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-id="Iquique Tv" tvg-name="Iquique Tv" tvg-logo="https://iquiquetv.cl/wp-content/uploads/2020/05/iquiqueTV_logo_202005_272x90.png" group-title="FAMILIARES",Iquique Tv | Chile
-https://stream.skarnetchile.com:19360/iquiquetv-hd/iquiquetv-hd.m3u8
+https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="JTA TV" tvg-name="JTA TV" tvg-logo="https://imgur.com/pyRSWBg.png" group-title="FAMILIARES",JTA TV | Argentina
 https://streaming.jtamendoza.com/hls/test_src.m3u8
@@ -926,6 +926,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Multizonas Tv | Costa Rica
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Multizonas Tv op2 | Costa Rica
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
 #EXTINF:-1 tvg-id="Mundo de la Musica TV" tvg-name="Mundo de la Musica TV" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",Mundo de la Musica TV | Chile
@@ -5678,6 +5681,9 @@ http://45.173.201.51:4000/play/a05t
 http://45.181.122.46:8090/play/a00m
 
 #EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="TV PREMIUM",PakaPaka | Argentina
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-36.playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="TV PREMIUM",PakaPaka op2 | Argentina
 http://201.217.246.42:44310/live/b10474c9b1ba4a0986b574d1211c065b/local-36.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Senpai TV" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png" group-title="TV PREMIUM",Senpai TV | Chile

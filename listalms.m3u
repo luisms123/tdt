@@ -372,7 +372,7 @@ https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-id="Iquique Tv" tvg-name="Iquique Tv" tvg-logo="https://iquiquetv.cl/wp-content/uploads/2020/05/iquiqueTV_logo_202005_272x90.png" group-title="FAMILIARES",Iquique Tv | Chile
-https://stream.skarnetchile.com:19360/iquiquetv-hd/iquiquetv-hd.m3u8
+https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="JTA TV" tvg-name="JTA TV" tvg-logo="https://imgur.com/pyRSWBg.png" group-title="FAMILIARES",JTA TV | Argentina
 https://streaming.jtamendoza.com/hls/test_src.m3u8
@@ -512,6 +512,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Multizonas Tv | Costa Rica
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Multizonas Tv op2 | Costa Rica
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
 #EXTINF:-1 tvg-id="Mundo de la Musica TV" tvg-name="Mundo de la Musica TV" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",Mundo de la Musica TV | Chile
