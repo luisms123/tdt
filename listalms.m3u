@@ -530,7 +530,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Nextv" tvg-name="Nextv" tvg-logo="https://imgur.com/eChAxaN.png" group-title="FAMILIARES",Nextv | ND
-https://live20.bozztv.com/akamaissh101/ssh101/vnl2025live/playlist.m3u8
+https://edge.enhdtv.com/nexthd/index.m3u8
 
 #EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="FAMILIARES",NET TV | Argentina
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
