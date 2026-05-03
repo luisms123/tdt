@@ -676,6 +676,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 #EXTINF:-1 tvg-id="DJ TV Estacion Mix" tvg-name="DJ TV Estacion Mix" tvg-logo="https://imgur.com/fTZa6YT.png" group-title="MUSICA",DJ TV Estacion Mix | Argentina
 https://mix.fachacarlos1.workers.dev/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Docevision" tvg-name="Docevision" tvg-logo="https://imgur.com/funYkdR.jpg" group-title="CANALES INDEPENDIENTES",Docevision | Chile
+https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="JOVENES Y ADULTOS",Dragon Ball Super | ND
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
 
@@ -1069,9 +1072,6 @@ https://5f700d5b2c46f.streamlock.net/tvoldtime/tvoldtime/chunklist_w1126196422.m
 #EXTINF:-1 tvg-id="Radio Sanborja Tv" tvg-name="Radio Sanborja Tv" tvg-logo="http://i.imgur.com/wpzgjWt.png" group-title="MUSICA",Radio Sanborja Tv | Peru
 https://stream.mediacorp.pe/srt/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Red TV 24/7" tvg-name="Red TV 24/7" tvg-logo="https://i.imgur.com/AnV1ZSj.jpg" group-title="CANALES INDEPENDIENTES",Red TV 24/7 | Chile
-https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="Retro Blast" tvg-name="Retro Blast" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Retro Blast | ND
 https://retroblast.tv/hls/0/stream.m3u8
 
@@ -1103,10 +1103,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
-https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV op2 | Costa Rica
 https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroX Tv Plus" tvg-name="RetroX Tv Plus" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX Tv Plus | Costa Rica
+https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rocket" tvg-name="Rocket" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CANALES INDEPENDIENTES",Rocket | ND
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
@@ -1294,7 +1294,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="VHS" tvg-name="VHS" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="CINE",VHS | Chile
 https://tv.arkeo.cl:19360/8138/8138.m3u8
 
-#EXTINF:-1 tvg-id="Vida al Maximo" tvg-name="Vida al Maximo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOA3JOu7qANdmb3HqlKdigF3WaruGI_TLcxPPx-MyhhljRNQvZE1ymEaKnhfDcQl5BnkSRIiFE9iC9-y7vi9FF-7pww-WIArR544Q3w5YqPNIBZCyVlgVnuzv5qOXRaCyJiKZd_-U5ZBqjqr8UaWyf83UV3ULxSwUrUp_x_9hyRmdsXcPLdVhDcAwU1XG8/s1080/IMG-20240115-WA0007.jpg" group-title="CANALES INDEPENDIENTES",Vida al Maximo | Argentina
+#EXTINF:-1 tvg-id="Vida al Maximo" tvg-name="Vida al Maximo" tvg-logo="https://imgur.com/AFTQojf.png" group-title="FAMILIARES",Vida al Maximo | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Video Club" tvg-name="Video Club" tvg-logo="https://i.imgur.com/auWtr20.png" group-title="CINE",Video Club | Argentina
