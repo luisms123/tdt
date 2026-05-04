@@ -305,6 +305,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Extrema TV Kids" tvg-name="Extrema TV Kids" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="INFANTILES",Extrema TV Kids | ND
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Foox Kids" tvg-name="Foox Kids" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="INFANTILES",Foox Kids | ND
+https://live20.bozztv.com/giatv/giatv-fooxkids/fooxkids/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://i.imgur.com/ADloLzp.jpg" group-title="CINE",FreeTV Clasico | USA
 https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-freetvus/playlist.m3u8
 
