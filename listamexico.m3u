@@ -668,7 +668,7 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
 #EXTINF:-1 tvg-id="Distrito TV" tvg-name="Distrito TV" tvg-logo="https://imgur.com/wWMSm7F.png" group-title="CINE",Distrito TV | Spain
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
 #EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://imgur.com/xksFQ5T.png" group-title="CANALES INDEPENDIENTES",Diti TV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
@@ -789,7 +789,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Invasiva TV" tvg-name="Invasiva TV" tvg-logo="https://imgur.com/AuHSQ03.png" group-title="CANALES INDEPENDIENTES",Invasiva TV | Paraguay
-https://tv.invasivamedia.com/hls/limtv.m3u8
+https://tv-omega-nine.vercel.app/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Iquique Tv" tvg-name="Iquique Tv" tvg-logo="https://iquiquetv.cl/wp-content/uploads/2020/05/iquiqueTV_logo_202005_272x90.png" group-title="FAMILIARES",Iquique Tv | Chile
 https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
@@ -1136,7 +1136,7 @@ https://swimrewind.com/hls/0/stream.m3u8
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
 #EXTINF:-1 tvg-id="TalTal Tv" tvg-name="TalTal Tv" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv | Argentina
-https://giatv.bozztv.com/giatv/giatv-TALTALPELICULAS/TALTALPELICULAS/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TalTal Tv Documentales" tvg-name="TalTal Tv Documentales" tvg-logo="https://taltaltv.net/logocanal.png" group-title="JOVENES Y ADULTOS",Taltal Tv Documentales | Argentina
 https://live20.bozztv.com/giatvplayout7/giatv-208260/tracks-v1a1/mono.ts.m3u8
