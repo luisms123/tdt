@@ -803,6 +803,9 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-id="Kanade LA" tvg-name="Kanade LA" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade LA op2 | Argentina
 https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
+#EXTINF:-1 tvg-id="Kids Station" tvg-name="Kids Station" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Kids Station | Japon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 
@@ -895,7 +898,7 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega Cine Tv" tvg-name="Mega Cine Tv" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Memorias Tv Toons" tvg-name="Memorias Tv Toons" tvg-logo="https://imgur.com/1RkqeV8.png" group-title="INFANTILES",Memorias Tv Toons | Republica Dominicana
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
