@@ -390,7 +390,7 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Kids Station" tvg-name="Kids Station" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Kids Station | Japon
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
