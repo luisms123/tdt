@@ -1001,10 +1001,13 @@ https://mlb.essastream.com:8081/orbittv/index.m3u8
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Panc Tv HD canal 15.1" tvg-name="Panc Tv HD canal 15.1" tvg-logo="https://imgur.com/QqNcYvP.png" group-title="CANALES INDEPENDIENTES",Panc Tv HD canal 15.1 | Argentina
-https://panel.host-live.com:19360/20004/20004.m3u8
+https://panctv.ddns.net/hls/ar/live.m3u8
 
 #EXTINF:-1 tvg-id="Panc Tv Peru HD" tvg-name="Panc Tv Peru HD" tvg-logo="https://imgur.com/ASVVkA0.png" group-title="CANALES INDEPENDIENTES",Panc Tv Peru HD | Peru
-https://panel.host-live.com:19360/20000/20000.m3u8
+https://panctv.ddns.net/hls/pe/live.m3u8
+
+#EXTINF:-1 tvg-id="Señal FamyPanc tv" tvg-name="Señal FamyPanc tv" tvg-logo="https://imgur.com/ASA0.png" group-title="CANALES INDEPENDIENTES",Señal FamyPanc tv | Spain
+https://panctv.ddns.net/hls/es/live.m3u8
 
 #EXTINF:-1 tvg-id="Pantalla Clasica" tvg-name="Pantalla Clasica" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnByb2RzaXMucGFudGFsbGFjbGFzaWNhX3NjcmVlbl8wXzE2NzE4MjM4NzRfMDgy/screen-0.jpg?fakeurl=1&type=.jpg" group-title="CANALES INDEPENDIENTES",Pantalla Clasica | Ecuador
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
