@@ -10,6 +10,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op2 | Mexico
 https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op3 | Mexico
+https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro | Chile
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
 
@@ -146,9 +149,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="CANALES INDEPENDIENTES",Canal Mas | Uruguay
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 
-#EXTINF:-1 tvg-id="Canal Variado" tvg-name="Canal Variado" tvg-logo="https://imgur.com/25dMMif.png" group-title="CANALES INDEPENDIENTES",Canal Variado | Mexico
-https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Capitan Futuro" tvg-name="Capitan Futuro" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3ZOrowmnDUR6PB3C9Kast4z1fsV.jpg" group-title="INFANTILES",Capitan Futuro | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210700/tracks-v1a1/mono.ts.m3u8
 
@@ -241,6 +241,9 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-logo="https://i.ibb.co/NnFbddpc/Logo-animado-de-Delmi-TV.png" group-title="JOVENES Y ADULTOS",Delmi TV | Spain
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="CANALES INDEPENDIENTES",DFTV Animacion HD | Chile
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/playlist.m3u8
 
@@ -304,6 +307,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Extrema TV Kids" tvg-name="Extrema TV Kids" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="INFANTILES",Extrema TV Kids | ND
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Famypanc Tv" tvg-name="Famypanc Tv" tvg-logo="https://imgur.com/ASA0.png" group-title="CANALES INDEPENDIENTES",Famypanc Tv | Spain
+https://panctv.ddns.net/hls/es/live.m3u8
 
 #EXTINF:-1 tvg-id="Foox Kids" tvg-name="Foox Kids" tvg-logo="https://imgur.com/4wcpRBt.png" group-title="INFANTILES",Foox Kids | ND
 https://live20.bozztv.com/giatv/giatv-fooxkids/fooxkids/playlist.m3u8
@@ -592,9 +598,6 @@ https://panctv.ddns.net/hls/ar/live.m3u8
 #EXTINF:-1 tvg-id="Panc Tv Peru HD" tvg-name="Panc Tv Peru HD" tvg-logo="https://imgur.com/ASVVkA0.png" group-title="CANALES INDEPENDIENTES",Panc Tv Peru HD | Peru
 https://panctv.ddns.net/hls/pe/live.m3u8
 
-#EXTINF:-1 tvg-id="Señal FamyPanc tv" tvg-name="Señal FamyPanc tv" tvg-logo="https://imgur.com/ASA0.png" group-title="CANALES INDEPENDIENTES",Señal FamyPanc tv | Spain
-https://panctv.ddns.net/hls/es/live.m3u8
-
 #EXTINF:-1 tvg-id="Pantalla Clasica" tvg-name="Pantalla Clasica" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnByb2RzaXMucGFudGFsbGFjbGFzaWNhX3NjcmVlbl8wXzE2NzE4MjM4NzRfMDgy/screen-0.jpg?fakeurl=1&type=.jpg" group-title="CANALES INDEPENDIENTES",Pantalla Clasica | Ecuador
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 
@@ -822,9 +825,6 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-logo="https://i.ibb.co/NnFbddpc/Logo-animado-de-Delmi-TV.png" group-title="JOVENES Y ADULTOS",Delmi TV | Spain
-https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Toon Googles" tvg-name="Toon Googles" tvg-logo="https://channels.roku.com/images/5bcf223b79ce4f959d76497b531088d4-hd.png" group-title="INFANTILES",Toon Googles (espanol) | USA
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
