@@ -812,6 +812,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Laika Channel LA" tvg-name="Laika Channel LA" tvg-logo="https://i.ibb.co/xKQgV5L6/Logo-Laika-Channel-LA.png" group-title="JOVENES Y ADULTOS",Laika Channel LA HD | Argentina
+https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-id="Laika Channel Galicia" tvg-name="Laika Channel Galicia" tvg-logo="https://i.ibb.co/8gBCpNNt/Letras-de-Laika-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Laika Channel Galicia | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
 
