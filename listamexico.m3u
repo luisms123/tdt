@@ -1583,6 +1583,9 @@ http://tropical100.net:8012/;
 http://23.237.150.178:8004/;?icy=http
 
 
+#EXTINF:-1 tvg-id="Radio LMS" tvg-name="Radio LMS" tvg-logo="https://imgur.com/dSSzPR5.png" group-title="RADIOS LOCALES",Radio LMS
+https://stream.zeno.fm/klrhhk7qmswuv
+
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Los 40 Principales 88.1 Zamora
 https://stream-141.zeno.fm/071em957am8uv
 
@@ -1679,6 +1682,9 @@ http://148.216.0.21:8000/rnic.m3u
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Erandi 107.1 Tangacicuaro
 http://us4freenew.listen2myradio.com:39409/;
 
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Erandi 107.5 Radio Mintzita Paracho
+http://uk4freenew.listen2myradio.com:26691/;stream.mp3
+
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIOS LOCALES",Radio Comunitaria Jenpoj 107.9 Oaxaca
 http://espora.org:8000/jenpojradio
 
@@ -1733,9 +1739,6 @@ http://72.249.55.100:9846/;
 
 
 
-
-#EXTINF:-1 tvg-id="Radio LMS" tvg-name="Radio LMS" tvg-logo="https://imgur.com/dSSzPR5.png" group-title="RADIOS LATINAS",Radio LMS
-https://stream.zeno.fm/klrhhk7qmswuv
 
 #EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/61b09d328b87a.jpg" group-title="RADIOS LATINAS",Radio Within Temptation
 http://stream.pcradio.ru/Within_Temptation-med
