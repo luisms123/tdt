@@ -228,9 +228,6 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="Comet Tv" tvg-name="Comet Tv" tvg-logo="https://d17su2xjlj6zyp.cloudfront.net/uploads/2021/04/comet-logo-1536x924.png" group-title="FAMILIARES",Comet Tv | USA
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-id="COMHITS" tvg-name="COMHITS" tvg-logo="https://ibb.co/JRRnk1JM" group-title="MUSICA",COMHITS | Chile
-https://mitv.zplay.cl/ComHits/index.m3u8
-
 #EXTINF:-1 tvg-id="Conecta TV" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/3sG2SHg.png" group-title="MUSICA",Conecta TV | Mexico
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
@@ -283,9 +280,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 #EXTINF:-1 tvg-id="El Hombre Araña" tvg-name="El Hombre Araña" tvg-logo="https://gia.tv/streams/pptv/210702.jpg?1758864551" group-title="INFANTILES",El Hombre Araña | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
-https://kali.vdopanel.com:3717/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="EpicToon" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png" group-title="INFANTILES",EpicToon | ND
 https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8
@@ -484,7 +478,7 @@ https://tv.arkeo.cl:19360/8128/8128.m3u8
 https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="Max Anime" tvg-name="Max Anime" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Melody Channel" tvg-name="Melody Channel" tvg-logo="https://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w140" group-title="MUSICA" group-title="MUSICA",Melody Channel | Colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
@@ -769,7 +763,7 @@ https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemusica" tvg-name="Telemusica" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png" group-title="MUSICA",Telemusica | Colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telenorte" tvg-name="Telenorte" tvg-logo="https://i.imgur.com/2WLql1q.png" group-title="FAMILIARES",Telenorte | ND
+#EXTINF:-1 tvg-id="Telenorte" tvg-name="Telenorte" tvg-logo="https://m.media-amazon.com/images/I/61OB7-TXTmL.png" group-title="FAMILIARES",Telenorte | ND
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleposadas" tvg-name="Teleposadas" tvg-logo="https://i.imgur.com/lHUA2C3.jpg" group-title="FAMILIARES",Teleposadas | Argentina
