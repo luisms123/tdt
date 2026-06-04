@@ -1210,6 +1210,9 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/sI2lUuY.png" group-title="CANALES INDEPENDIENTES",Tigueritos TV | Republica Dominicana
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TL+ Santa Ana" tvg-name="TL+ Santa Ana" tvg-logo="https://i.ibb.co/VpMxXM8J/Logo-Vision-Occidental.png" group-title="JOVENES Y ADULTOS",TL+ Santa Ana | ND
+https://live20.bozztv.com/akamaissh101/ssh101/votvsv214/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tom y Jerry" tvg-name="Tom y Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTILES",Tom y Jerry 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
@@ -1311,6 +1314,9 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wow Channel" tvg-name="Wow Channel" tvg-logo="https://i.imgur.com/RaXzDvv.png" group-title="CANALES INDEPENDIENTES",Wow Channel | Colombia
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wow Documentary" tvg-name="Wow Documentary" tvg-logo="https://i.ibb.co/mCLdn5MR/Logo-Wow-Documentary.png" group-title="CANALES INDEPENDIENTES",Wow Documentary | Colombia
+https://live20.bozztv.com/akamaissh101/ssh101/wowdocumentary/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wow Movies" tvg-name="Wow Movies" tvg-logo="https://i.imgur.com/RaXzDvv.png" group-title="CANALES INDEPENDIENTES",Wow Movies | Colombia
 https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
