@@ -422,10 +422,10 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op2 | Mexico
-https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS op3 | Mexico
-https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro | Chile
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
@@ -1941,6 +1941,8 @@ https://rock-anhalt.stream.laut.fm/rock-anhalt?t302=2025-07-18_01-38-36&uuid=7fc
 
 
 
+
+
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",ADN Noticias
@@ -1999,7 +2001,7 @@ https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",COPS
 https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Coraz贸n
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Coraz髇
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",CSI: Miami
 https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
@@ -2009,7 +2011,7 @@ https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
 https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Death Note
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Desaf铆o Super Humanos
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Desaf韔 Super Humanos
 https://jmp2.uk/plu-6495af324c014a000842e923.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Doc Martin
 https://jmp2.uk/plu-67e5987eef24f48ffca08fd7.m3u8
@@ -2021,11 +2023,11 @@ https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",El Reino Infantil
 https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Empe帽os a lo bestia
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Empe駉s a lo bestia
 https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Estrellas de Acci贸n
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Estrellas de Acci髇
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Euronews Espa帽ol
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Euronews Espa駉l
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",FailArmy
 https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
@@ -2053,7 +2055,7 @@ https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",ITV Deportes
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",JoJo鈥檚 Bizarre Adventure
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",JoJo抯 Bizarre Adventure
 https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Karaoke por Stingray
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
@@ -2061,7 +2063,7 @@ https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",La Familia del Barrio
 https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",La Selecci贸n
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",La Selecci髇
 https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
@@ -2069,7 +2071,7 @@ https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Los Asesinatos de Midsomer
 https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Los Padrinos M谩gicos
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Los Padrinos M醙icos
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Los Pitufos
 https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
@@ -2081,9 +2083,9 @@ https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Mi Bella Genio
 https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Mi Coche Cl谩sico
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Mi Coche Cl醩ico
 https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Milenio Televisi贸n
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Milenio Televisi髇
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Minuto Para Ganar
 https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
@@ -2129,7 +2131,7 @@ https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Nick Jr. Club
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Nickelodeon Cl谩sico
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Nickelodeon Cl醩ico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
@@ -2137,9 +2139,9 @@ https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Nickelodeon Toons
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",N煤meros
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",N鷐eros
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Obsesi贸n por los Autos
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Obsesi髇 por los Autos
 https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="OnePiece.us@LatAm",One Piece
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
@@ -2155,9 +2157,9 @@ https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Cine Acci贸n
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Cine Acci髇
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Cine Cl谩sico
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Cine Cl醩ico
 https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Cine Comedia
 https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
@@ -2203,7 +2205,7 @@ https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Kids
 https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Mi Obsesi贸n Favorita
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Mi Obsesi髇 Favorita
 https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Misterios
 https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
@@ -2211,7 +2213,7 @@ https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Novelas
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Novelas de M茅xico
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Novelas de M閤ico
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Novelas de Otros Continentes
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
@@ -2227,7 +2229,7 @@ https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Series
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Series de Acci贸n
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Series de Acci髇
 https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Series de Comedia
 https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
@@ -2249,7 +2251,7 @@ https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pluto TV Vida Real
 https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pok茅mon
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Pok閙on
 https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Popeye
 https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
@@ -2261,7 +2263,7 @@ https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
 https://jmp2.uk/plu-67e5941f0812459cb682d9c6.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Revive Gran Hermano
 https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Rookie Blue: Polic铆as Novatos
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Rookie Blue: Polic韆s Novatos
 https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
@@ -2269,21 +2271,21 @@ https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Shockwave
 https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Sin Tetas No Hay Para铆so
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Sin Tetas No Hay Para韘o
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Sony One Competencias
 https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Sony One Shark Tank M茅xico
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Sony One Shark Tank M閤ico
 https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",South Park: Colecci贸n Cartman
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",South Park: Colecci髇 Cartman
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",South Park: Colecci贸n Kenny
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",South Park: Colecci髇 Kenny
 https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",South Park: Colecci贸n Kyle
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",South Park: Colecci髇 Kyle
 https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",South Park: Colecci贸n Stan
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",South Park: Colecci髇 Stan
 https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Tastemade
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
@@ -2291,7 +2293,7 @@ https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
 https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Tastemade Viajes
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",TeleF贸rmula
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",TeleF髍mula
 https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",The New Detectives
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
@@ -2299,7 +2301,7 @@ https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
 https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",The Walking Dead by AMC
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",TikTok Radio en Espa帽ol
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",TikTok Radio en Espa駉l
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
@@ -2315,8 +2317,10 @@ https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
 https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 #EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
-#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Zona Investigaci贸n TV
+#EXTINF:-1 group-title="PLUTO MEXICO" tvg-id="",Zona Investigaci髇 TV
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
+
+
 
 
 
