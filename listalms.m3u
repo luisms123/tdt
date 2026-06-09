@@ -461,6 +461,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
+#EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",Magic El | Argentina
+https://kali.vdopanel.com:3909/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="Maria Vision" tvg-name="Maria Vision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision.png" group-title="RELIGION",Maria vision | Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 

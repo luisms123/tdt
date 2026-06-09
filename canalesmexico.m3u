@@ -875,6 +875,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="CANALES INDEPENDIENTES",Magic Kids | Argentina
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
+#EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",Magic El | Argentina
+https://kali.vdopanel.com:3909/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="Maria Vision" tvg-name="Maria Vision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision.png" group-title="RELIGION",Maria vision | Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 
@@ -5256,7 +5259,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 
 
 #EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim | Mexico
-http://38.49.128.38:8000/play/a0b2
+http://181.78.12.119:16123/play/ch75
 
 #EXTINF:-1 tvg-id="Adult Swim CL" tvg-name="Adult Swim CL" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim CL | Chile
 http://45.186.107.173:8000/play/a01i/index.m3u8
@@ -5265,39 +5268,27 @@ http://45.186.107.173:8000/play/a01i/index.m3u8
 http://45.186.107.173:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica.png" group-title="TV PREMIUM",Baby TV
-http://38.49.128.38:8000/play/a0b9
+http://181.78.12.119:16123/play/ch01
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",BitMe | Mexico
 http://38.44.109.41:8003/play/a00f
 
 #EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing | Spain
-http://monstertv.live:8080/21205195/56418338/1047737
-
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="TV PREMIUM",Boing op2 | Spain
 http://monstertv.live:8080/01168457/82491388/1047737
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network  | Mexico
-http://38.49.128.38:8000/play/a0c0
+http://181.78.12.119:16123/play/ch09
 
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://imgur.com/UswxIKp.png" group-title="TV PREMIUM",Chespirito | Mexico
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV PREMIUM",Canal ipe
-http://monstertv.live:8080/21205195/56418338/1044687
-
 #EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan TVE | Spain
 http://monstertv.live:8080/21205195/56418338/1047762
-
-#EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="TV PREMIUM",Clan TVE op2 | Spain
-http://monstertv.live:8080/01168457/82491388/1047762
 
 #EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="TV PREMIUM",Dragon Ball Super op2 | ND
 http://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv
 
 #EXTINF:-1 tvg-id="Etc TV" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV | Chile
-http://monstertv.live:8080/21205195/56418338/1044400
-
-#EXTINF:-1 tvg-id="Etc TV" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op2 | Chile
 http://45.181.122.46:8090/play/a00t
 
 #EXTINF:-1 tvg-id="Elgourmet" tvg-name="Elgourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="TV PREMIUM",Elgourmet | Chile
@@ -5325,19 +5316,11 @@ http://38.44.109.41:8003/play/a0ev
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe_480.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM",USA Network (syfy)
-http://38.49.128.38:8000/play/a0b1
-
-#EXTINF:-1 group-title="TV PREMIUM",Once ninos
-http://38.49.128.38:8000/play/a0nr
-
+http://181.78.12.119:16123/play/a0df
 #EXTINF:-1 group-title="TV PREMIUM",distrito comedia
-http://38.49.128.38:8000/play/a0ou
+http://45.181.122.46:8090/play/a03a
 #EXTINF:-1 group-title="TV PREMIUM",espn 2
-http://45.181.122.46:8090/play/a01v
-#EXTINF:-1 group-title="TV PREMIUM",espn 2 ar
-http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",espn 2 cl
-http://38.49.128.38:8000/play/a092/index.m3u8
+http://181.78.12.119:16123/play/ch17
 #EXTINF:-1 group-title="TV PREMIUM",animotion channel
 http://45.173.201.51:4000/play/a0l8/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Canal 10 CR
