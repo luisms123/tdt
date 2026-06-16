@@ -5,30 +5,6 @@
     <icon src="https://i.imgur.com/X0ooVPY.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20260615000000 -0600" stop="20260615030000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20260615030000 -0600" stop="20260615060000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20260615060000 -0600" stop="20260615090000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20260615090000 -0600" stop="20260615120000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20260615120000 -0600" stop="20260615150000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20260615150000 -0600" stop="20260615180000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20260615180000 -0600" stop="20260615210000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
-  <programme start="20260615210000 -0600" stop="20260616000000 -0600" channel="ACO TV">
-    <title lang="es">Aco TV</title>
-  </programme>
   <programme start="20260616000000 -0600" stop="20260616030000 -0600" channel="ACO TV">
     <title lang="es">Aco TV</title>
   </programme>
@@ -75,6 +51,30 @@
     <title lang="es">Aco TV</title>
   </programme>
   <programme start="20260617210000 -0600" stop="20260618000000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
+  </programme>
+  <programme start="20260618000000 -0600" stop="20260618030000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
+  </programme>
+  <programme start="20260618030000 -0600" stop="20260618060000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
+  </programme>
+  <programme start="20260618060000 -0600" stop="20260618090000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
+  </programme>
+  <programme start="20260618090000 -0600" stop="20260618120000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
+  </programme>
+  <programme start="20260618120000 -0600" stop="20260618150000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
+  </programme>
+  <programme start="20260618150000 -0600" stop="20260618180000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
+  </programme>
+  <programme start="20260618180000 -0600" stop="20260618210000 -0600" channel="ACO TV">
+    <title lang="es">Aco TV</title>
+  </programme>
+  <programme start="20260618210000 -0600" stop="20260619000000 -0600" channel="ACO TV">
     <title lang="es">Aco TV</title>
   </programme>
 </tv>
