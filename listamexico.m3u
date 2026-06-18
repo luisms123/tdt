@@ -443,7 +443,7 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Japon
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="Anime Vision" tvg-name="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="JOVENES Y ADULTOS",Anime Vision | Spain
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
@@ -801,7 +801,7 @@ https://streaming.jtamendoza.com/hls/test_src.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Kids Station" tvg-name="Kids Station" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Kids Station | Japon
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+https://akariko.netgenx.site/stream/jp/kids_station/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
