@@ -25,7 +25,7 @@ https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV | Chile
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1 tvg-id="ACS Network TV" tvg-name="ACS Network TV" tvg-logo="https://i.imgur.com/jKsmoAn.png" group-title="INFANTILES",ACS Network Tv | Puerto Rico
+#EXTINF:-1 tvg-id="ACS Network TV" tvg-name="ACS Network TV" tvg-logo="https://imgur.com/bkgu7Nn.png" group-title="INFANTILES",ACS Network Tv (Time Travel Network Tv) | Puerto Rico
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Japon
@@ -369,7 +369,7 @@ https://video01.brascast.com/gen3348/gen3348/playlist.m3u8
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gogoplay TV" tvg-name="Gogoplay TV" tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="CANALES INDEPENDIENTES",Gogoplay TV | Bolivia
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Goku Tv" tvg-name="Goku Tv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="JOVENES Y ADULTOS",Goku Tv | ND
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
@@ -496,7 +496,7 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mix Bolivia Tv" tvg-name="Mix Bolivia Tv" tvg-logo="https://imgur.com/P2k8ioD.jpg" group-title="FAMILIARES",Mix Bolivia Tv | Bolivia
-https://live20.bozztv.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
+https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ModoRadio" tvg-name="ModoRadio" tvg-logo="https://i.imgur.com/WQkkyBp.png" group-title="MUSICA",ModoRadio | Chile
 https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
@@ -521,7 +521,7 @@ https://linear-564.frequency.stream:443/mt/studio/564/hls/master/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="Multicanal Ecuador" tvg-name="Multicanal Ecuador" tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png"  group-title="FAMILIARES",Multicanal | Ecuador
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+https://live.zonaradio.net/hls/live/Multicanalec_2026_key.m3u8?v=1782120877
 
 #EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Multizonas Tv | Costa Rica
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/playlist.m3u8
