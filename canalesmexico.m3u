@@ -801,7 +801,7 @@ https://streaming.jtamendoza.com/hls/test_src.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Kids Station" tvg-name="Kids Station" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Kids Station | Japon
-https://akariko.netgenx.site/stream/jp/kids_station/stream-output.m3u8?mode=hls
+http://akariko.netgenx.site/stream/jp/kids_station/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
@@ -1128,6 +1128,9 @@ https://stmv2.voxtvhd.com.br/suenosgrouptv/suenosgrouptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuerTV" tvg-name="SuerTV" tvg-logo="https://i.imgur.com/4yWyTG4.png" group-title="FAMILIARES",SuerTV | Argentina
 https://streamaction.ddns.net/suertv_hls/suertv.m3u8
+
+#EXTINF:-1 tvg-id="Sumaq Tv" tvg-name="Sumaq Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Sumaq Tv | ND
+https://live20.bozztv.com/akamaissh101/ssh101/makins/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Swim Rewind" tvg-name="Swim Rewind" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Swim Rewind | ND
 https://swimrewind.com/hls/0/stream.m3u8
