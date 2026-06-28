@@ -25,7 +25,7 @@ https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV | Chile
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1 tvg-id="ACS Network TV" tvg-name="ACS Network TV" tvg-logo="https://imgur.com/bkgu7Nn.png" group-title="INFANTILES",ACS Network Tv (Time Travel Network Tv) | Puerto Rico
+#EXTINF:-1 tvg-id="Time Travel Network Tv" tvg-name="Time Travel Network Tv" tvg-logo="https://imgur.com/bkgu7Nn.png" group-title="INFANTILES",Time Travel Network Tv (ACS Network Tv) | Puerto Rico
 https://live20.bozztv.com/akamaissh101/ssh101/timetraveltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax TV" tvg-name="Animax TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animax-mediano.png" group-title="JOVENES Y ADULTOS",Animax TV | Japon
