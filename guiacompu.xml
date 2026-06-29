@@ -2,7 +2,8 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Time Travel Network Tv">
     <display-name lang="es">Time Travel Network Tv</display-name>
-    <url>http://www.CompuLMS</url>
+    <icon src="https://i.imgur.com/jKsmoAn.png" />
+    <url>http://www.compulms.com</url>
   </channel>
   <channel id="Ani Retro">
     <display-name lang="es">Ani Retro</display-name>
@@ -361,6 +362,352 @@
     <display-name lang="es">Deportes 1</display-name>
     <url>http://www.compudeportes</url>
   </channel>
+  <programme start="20260629040000 +0000" stop="20260629100000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">La abeja Maya</title>
+    <desc lang="es">La curiosa abeja Maya y su amigo Willy salvarán a la colmena de la avaricia del consejero de la reina y pondrán fin a años de hostilidad entre abejas y avispas. Maya es una abeja recién nacida muy vivaracha que no sigue las reglas de la colmena</desc>
+  </programme>
+  <programme start="20260629103000 +0000" stop="20260629110000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Alfred J Kwak</title>
+  </programme>
+  <programme start="20260629110000 +0000" stop="20260629113000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Peter Pan</title>
+    <desc lang="es">Peter Pan es un niño que nunca crece, tiene diez años y odia el mundo de los adultos. Siempre va acompañado de su hada, Campanilla</desc>
+  </programme>
+  <programme start="20260629113000 +0000" stop="20260629120000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Conan el niño del Futuro</title>
+    <desc lang="es">Conan es un niño de 10 años que ha nacido al amparo de las cenizas del nuevo mundo devastado por la gran guerra. Hijo de una pareja de supervivientes del holocausto en una isla, es considerado como el -hijo de todos-</desc>
+  </programme>
+  <programme start="20260629120000 +0000" stop="20260629123000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Chicho Terremoto</title>
+    <desc lang="es">Chicho es un niño pequeño y cabezón, que juega al baloncesto y que se dedica constantemente a levantar las faldas a las chicas, con la esperanza de que las bragas de éstas sean blancas, sus preferidas. Está enamorado de Rosita, y rivaliza con el perro de la chica por conseguir su atención</desc>
+  </programme>
+  <programme start="20260629123000 +0000" stop="20260629130000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Conan el Aventurero</title>
+    <desc lang="es">Conan es un cimmeriano que lucha por liberar a sus padres de un malvado hechizo que les ha convertido en piedra. El malvado Bradamon es el culpable de esto, y quien al mando de miles de hombres serpiente intenta devolver a esta dimensión al maligno dios Set. Conan y sus amigos intentarán evitar ese suceso con todas sus fuerzas</desc>
+  </programme>
+  <programme start="20260629130000 +0000" stop="20260629133000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Marcos y los niños de los apeninos</title>
+  </programme>
+  <programme start="20260629133000 +0000" stop="20260629140000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Heidi</title>
+    <desc lang="es">Heidi, una niña de cinco años, huérfana de padre y madre, es llevada por su tía Dete a la montaña suiza de Alm a vivir con su abuelo, para tomar un trabajo en la ciudad de Fráncfort del Meno, en Alemania</desc>
+  </programme>
+  <programme start="20260629140000 +0000" stop="20260629143000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Candy Candy</title>
+    <desc lang="es">Candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; es abandonada de bebé en la nieve con una muñeca que tiene el nombre de Candy, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida</desc>
+    <icon src="https://pics.filmaffinity.com/kyandi_kyandi_candy_candy-326650784-mmed.jpg" />
+  </programme>
+  <programme start="20260629143000 +0000" stop="20260629150000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Remi el niño de nadie</title>
+    <desc lang="es">Remi es un niño sin hogar, que vive todo tipo de aventuras y desventuras. Proveniente de una aldea llamada Chavanon. Vive con la señora Barberin, quien lo había recogido siendo un bebé y lo había criado a escondidas de su esposo</desc>
+  </programme>
+  <programme start="20260629150000 +0000" stop="20260629153000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Remy la niña sin hogar</title>
+  </programme>
+  <programme start="20260629153000 +0000" stop="20260629160000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">La familia Meñique</title>
+    <desc lang="es">MEÑIQUE es un pequeño campesino que quiere sacar a su familia de la pobreza. Una plaga de insectos que destruyen sus cosechas y el encuentro con el Espejo de la Media Naranja lo empujarán a la aventura</desc>
+  </programme>
+  <programme start="20260629160000 +0000" stop="20260629163000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Perrine sin Familia</title>
+    <desc lang="es">Perrine y su madre emprenden un largo viaje para encontrarse con su abuelo paterno en Maraucourt, en la lejana Francia. Pero la tragedia persigue a Perrine, y después de llegar a duras penas, teme que no será muy bien recibida y tendrá que ganarse el cariño de su abuelo gracias a su bondad</desc>
+  </programme>
+  <programme start="20260629163000 +0000" stop="20260629170000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">La isla del Tesoro</title>
+    <desc lang="es">La historia comienza en una noche de tormenta con caída de un trueno. Una noche que cambió la vida de un inocente niño que soñaba con hacerse a la mar: Jim Hawkins se convierte en el protagonista de esta emocionante historia de bucaneros y tesoros enterrados</desc>
+  </programme>
+  <programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Ana de las Tejas Verdes</title>
+    <desc lang="es">Anne Shirley, una niña huérfana que gracias a su carácter imaginativo y despierto logra encandilar a todos los habitantes de Avonlea, el pequeño pueblo pesquero ficticio en la Isla del Príncipe Eduardo</desc>
+  </programme>
+  <programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Belle y Sebastian</title>
+    <desc lang="es">Las aventuras de un niño llamado Sebastián, que vive en la zona montañosa de Los Pirineos. Sebastián no tenía amigos, pues los otros niños lo molestaban porque su madre no vivía con él, solo tenía una pequeña mascota, un perrito llamado Poochie</desc>
+  </programme>
+  <programme start="20260629180000 +0000" stop="20260629183000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Sandybell</title>
+    <desc lang="es">Es una niña muy alegre, dulce,noble y bella que siempre ha deseado tener una madre. Al conocer a la condesa visualiza en ella a su madre y con el narciso que ella le da hace un jardín llamado -el jardín secreto de mamá- donde va cada vez que tiene problemas</desc>
+  </programme>
+  <programme start="20260629183000 +0000" stop="20260629190000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">La Familia Robinson</title>
+    <desc lang="es">Una familia se hace a la mar buscando un nuevo lugar para vivir, pero su embarcación naufraga. Pese a todo, logran salvarse y llegan a una isla desierta, donde intentarán crear un apacible hogar, pero la presencia de los piratas les creará muchas dificultades</desc>
+  </programme>
+  <programme start="20260629190000 +0000" stop="20260629193000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Tom Sawyer</title>
+  </programme>
+  <programme start="20260629193000 +0000" stop="20260629200000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Barba Roja</title>
+    <desc lang="es">Las aventuras del pirata Barbarroja, temible pirata del siglo XVIII, que es conocido con el sobrenombre de “el Demonio del Caribe” por su crueldad y astucia</desc>
+  </programme>
+  <programme start="20260629200000 +0000" stop="20260629203000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Kinnikuman</title>
+    <desc lang="es">Se trata de un estrafalario superhéroe, un príncipe venido del planeta Músculo (Kinniku), al que su padre arrojó desde allí en una bolsa de basura confundiéndolo con un cerdo. Es quizá el luchador más poderoso pero, continuamente, sus disparatadas ideas le hacen pasar un mal rato</desc>
+  </programme>
+  <programme start="20260629203000 +0000" stop="20260629210000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Alicia en el País de las Maravillas</title>
+  </programme>
+  <programme start="20260629210000 +0000" stop="20260629213000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Blanco y Negro</title>
+    <desc lang="es">Narra las aventuras de Philip Drummond (Conrad Bain), un millonario de Nueva York que vive en un lujoso apartamento de Park Avenue y que adopta y cría a dos chicos afroamericanos (Gary Coleman y Todd Bridges). El hombre, además, tiene una hija de rizos rubios y actitud angelical llamada Kimberly (Dana Plato)</desc>
+  </programme>
+  <programme start="20260629213000 +0000" stop="20260629220000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Fresh Prince</title>
+  </programme>
+  <programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Bonanza</title>
+    <desc lang="es">La historia de la adinerada familia Cartwright, quienes viven en el área de Virginia City, en Nevada, a orillas del lago Tahoe. Esta familia está liderada por el patriarca tres veces viudo Ben Cartwright (Lorne Greene), padre de tres hijos, cada uno de una esposa distinta</desc>
+  </programme>
+  <programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Jim West</title>
+    <desc lang="es">Las aventuras del agente secreto Jim West y de su ayudante en el lejano Oeste, a finales de la Guerra Civil (1861-1865). West y Gordon, un experto en disfraces, tienen su cuartel general en el vagón de un tren privado y utilizan una serie de artilugios muy avanzados para llevar a cabo sus arriesgadas misiones al servicio del presidente Ulysses S. Grant</desc>
+  </programme>
+  <programme start="20260630000000 +0000" stop="20260630010000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">El Gran Chaparral</title>
+    <desc lang="es">Dos familias del oeste norteamericano, los Cannon y los Montoya, dueños de grandes parcelas de territorio en Arizona. La familia Cannon estaba liderada por John, un fornido ex oficial del Ejército de la Unión Estadounidense, ahora colono aventurero decidido a luchar contra la naturaleza y los apaches para mantener su rancho en pie, el -High Chaparral-, y su refinada esposa mexicana Victoria, hija de otro poderoso ranchero de la región apodado -El León de Sonora-, Don Sebastian Montoya</desc>
+  </programme>
+  <programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">El Revolver Maldito</title>
+  </programme>
+  <programme start="20260630020000 +0000" stop="20260630030000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">El Virginiano</title>
+  </programme>
+  <programme start="20260630030000 +0000" stop="20260630040000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Walker Texas Ranger</title>
+    <desc lang="es">Cordell Walker es un agente de los Rangers de Texas (cuerpo de investigación) que ha sido criado por los indios. Es, además, un veterano de la guerra de Vietnam y un experto en artes marciales que desempeña el papel de shérif de la vieja escuela</desc>
+  </programme>
+  <programme start="20260630040000 +0000" stop="20260630100000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20260630100000 +0000" stop="20260630103000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Dick Tracy</title>
+    <desc lang="es">Dick Tracy, agente del FBI que presta sus servicios en el departamento de Justicia de San Francisco, se enfrenta a peligrosos criminales como el llamado -The Lame One- o el grupo de villanos conocidos como la -Spider Armada-</desc>
+  </programme>
+  <programme start="20260630103000 +0000" stop="20260630110000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Lucky Luke</title>
+    <desc lang="es">El pistolero Lucky Luke. El héroe del salvaje Oeste, enfrentado a delicuentes como a los hermanos Dalton</desc>
+  </programme>
+  <programme start="20260630110000 +0000" stop="20260630113000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Dog City</title>
+    <desc lang="es">Las aventuras de un detective privado canino, mientras habla con su animador, quien tiene sus propios conflictos que resolver</desc>
+  </programme>
+  <programme start="20260630113000 +0000" stop="20260630120000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Dinky Dog</title>
+    <desc lang="es">Un pequeño cachorro que es adoptado por dos chicas, pero este pequeño perrito se convertirá en todo un problema</desc>
+  </programme>
+  <programme start="20260630120000 +0000" stop="20260630123000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">El Clan Chan</title>
+    <desc lang="es">El Sr. Chan y sus 10 hijos deben resolver misterios muy complicados alrededor del mundo. Los hijos de más edad también tienen su propio grupo musical</desc>
+  </programme>
+  <programme start="20260630123000 +0000" stop="20260630130000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Pulgarcito Detective</title>
+    <desc lang="es">El mini-detective, tan inteligente como Sherlock Holmes y más pequeño que un pulgar, ayudado por sus desternillantes ayudantes, para desbaratar los malvados planes de los super villanos. Con la ayuda de su sobrina, su musculoso amigo Gator, y su perro Braveheart resolverán todo tipo de casos</desc>
+  </programme>
+  <programme start="20260630130000 +0000" stop="20260630133000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Ducktales</title>
+    <desc lang="es">Son las aventuras de Scrooge McDuck y sus tres sobrinos nietos, Huey, Dewey y Louie. Para sus aventuras, Scrooge frecuentemente busca la ayuda de sus varios amigos, como su piloto Joe McQuack, o su sirvienta la Sra. Beakley y la nieta de esta, Rosita</desc>
+  </programme>
+  <programme start="20260630133000 +0000" stop="20260630140000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Chip N Dale</title>
+  </programme>
+  <programme start="20260630140000 +0000" stop="20260630143000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Carmen SanDiego</title>
+  </programme>
+  <programme start="20260630143000 +0000" stop="20260630150000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Inspector Gadget</title>
+    <desc lang="es">Inspector Gadget, un inspector torpe y despistado que es en realidad un cyborg con artilugios (gadgets) biónicos implantados en su cuerpo</desc>
+  </programme>
+  <programme start="20260630150000 +0000" stop="20260630153000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">James Bond Jr</title>
+  </programme>
+  <programme start="20260630153000 +0000" stop="20260630160000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Galaxy Ranger</title>
+  </programme>
+  <programme start="20260630160000 +0000" stop="20260630163000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Scooby Doo</title>
+    <desc lang="es">Scooby-Doo es un perro de raza gran danés que habla y vive un sinfín de aventuras junto a sus amigos, un grupo de adolescentes que regresa de cualquier actividad en una camioneta decorada al estilo Flower Power llamada Máquina del Misterio . Sin embargo, su viaje siempre se ve interrumpido por un monstruo, fantasma o suceso paranormal que aterroriza a los residentes de la zona</desc>
+  </programme>
+  <programme start="20260630163000 +0000" stop="20260630170000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Goober y los CazaFantasmas</title>
+    <desc lang="es">Ted, Jilly y Tina son unos jóvenes que junto a su perro Goober se dedican a la caza y captura de todo tipo de malhechores y fantasmas. Lo curioso es como Goober cada vez que tiene miedo, se hace invisible dejando ver sólo su gorra roja</desc>
+  </programme>
+  <programme start="20260630170000 +0000" stop="20260630173000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Clue Club</title>
+    <desc lang="es">Cuatro amigos adolescentes que abren una agencia de investigación privada. Los miembros del equipo son: Larry, Pepper, D.D. y Dottie, que resuelven misterios con la ayuda de sus dos perros que hablan, Woofer y Wimper</desc>
+  </programme>
+  <programme start="20260630173000 +0000" stop="20260630180000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Sherlock Holmes</title>
+  </programme>
+  <programme start="20260630180000 +0000" stop="20260630183000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">El Jinete Sable</title>
+  </programme>
+  <programme start="20260630183000 +0000" stop="20260630190000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Bravestarr</title>
+    <desc lang="es">Toda leyenda tiene un principio... Chamán escapa de la destrucción de su mundo natal a manos del villano Estampida y utiliza sus poderes místicos para salvar a un niño: Bravestarr. En las distantes, áridas y desoladas tierras de Nuevo Texas, el descubrimiento del Kerio, un cristal raro y poderoso, atrae a infinidad de colonos de todos los rincones de la galaxia</desc>
+    <icon src="https://pics.filmaffinity.com/bravestarr_tv_series-803996367-mmed.jpg" />
+  </programme>
+  <programme start="20260630190000 +0000" stop="20260630193000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">M.A.S.K.</title>
+    <desc lang="es">M.A.S.K. (Mobile Armored Strike Kommand) es una fuerza especial dedicada a luchar contra una organización criminal llamada V.E.N.O.M. Para combatirlos, el millonario Matt Tracker crea una serie de vehículos capaces de transformarse en otros vehículos. Los miembros de ambos grupos utilizan poderosas máscaras especialmente diseñadas</desc>
+    <icon src="https://pics.filmaffinity.com/m_a_s_k_mask_tv_series-210251539-mmed.jpg" />
+  </programme>
+  <programme start="20260630193000 +0000" stop="20260630200000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Loca Academia de Policía</title>
+  </programme>
+  <programme start="20260630200000 +0000" stop="20260630203000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Robocop</title>
+    <desc lang="es">Alex Murphy, un oficial de policía de Detroit, herido de muerte en el cumplimiento de su deber, se convierte en un poderoso cyborg por la Corporación OCP y continúa sirviendo a la confianza del público, proteger a los inocentes y hacer cumplir la ley por enfrentarse a los más notorios criminales y destruir sus planes, como el poderoso, ROBOCOP</desc>
+  </programme>
+  <programme start="20260630203000 +0000" stop="20260630210000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">COPS</title>
+    <desc lang="es">Combatiendo el crimen en un tiempo futuro, protegiendo Ciudad Imperio del Gran Jefe y su banda de delincuentes</desc>
+  </programme>
+  <programme start="20260630210000 +0000" stop="20260630213000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Super Agente 86</title>
+    <desc lang="es">El agente secreto Maxwell Smart (Don Adams), proclive a cometer grandes torpezas a cada momento; conocido también como Agente 86. Su compañera (y, más tarde, esposa) es la agente 99 (Barbara Feldon), cuyo verdadero nombre nunca se revela</desc>
+  </programme>
+  <programme start="20260630213000 +0000" stop="20260630220000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Sledge Hammer</title>
+    <desc lang="es">Sledge Hammer ( David Rasche) es un detective de San Francisco que actúa constantemente de manera violenta –ya sea directa o indirectamente-, poseyendo una personalidad sádica, cínica y antisocial</desc>
+  </programme>
+  <programme start="20260630220000 +0000" stop="20260630230000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Chips</title>
+    <desc lang="es">Los policías motorizados Jonathan Baker y Francis Llewelyn, miembros de la Patrulla de Caminos de California se ven envueltos en situaciones por las que suelen pasar los policías, siempre a bordo de sus motocicletas. Eran supervisados por el sargento Joseph y también coordinados con otros policías miembros de la Patrulla de Caminos de California</desc>
+  </programme>
+  <programme start="20260630230000 +0000" stop="20260701000000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Kolchak</title>
+  </programme>
+  <programme start="20260701000000 +0000" stop="20260701010000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Las Calles de San Francisco</title>
+    <desc lang="es">Las aventuras de dos oficiales de policía destinados a resolver casos de homicidio recorriendo las calles de la ciudad californiana de San Francisco: El veterano y viudo Teniente Mike Stone, con más de 20 años de servicio y el joven Steve Keller, de 28 años</desc>
+  </programme>
+  <programme start="20260701010000 +0000" stop="20260701020000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Departamento S</title>
+    <desc lang="es">Un departamento de elite dentro de la Interpol, recibe los casos que los otros grupos miembros no han podido resolver</desc>
+  </programme>
+  <programme start="20260701020000 +0000" stop="20260701030000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Mannix</title>
+    <desc lang="es">Joe Mannix es un detective de Los Ángeles que trabajaba en una agencia conocida como Intertect. Sin embargo, Mannix no era un detective como los demás. Su poder de deducción quedaba en un segundo plano, oculto tras su fuerza bruta y habilidad con las armas</desc>
+  </programme>
+  <programme start="20260701030000 +0000" stop="20260701040000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Dos Tipos Audaces</title>
+    <desc lang="es">Lord Brett Sinclair (Roger Moore), un noble muy elegante y de exquisitos modales, se ve obligado a formar equipo con Danny Wilde (Tony Curtis), paradigma del hombre que se ha hecho a sí mismo: nacido y criado en las calles del Bronx neoyorkino, llegó a ser un magnate del petróleo. Ambos se encuentran en la cárcel, pero son puestos en libertad por el juez Fulton (Lawrence Naismith) para que colaboren con él en la resolución de enrevesados casos criminales</desc>
+  </programme>
+  <programme start="20260701040000 +0000" stop="20260701100000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Películas</title>
+  </programme>
+  <programme start="20260701100000 +0000" stop="20260701103000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Fenomenoide</title>
+    <desc lang="es">Fenomenoide narra la historia de un chico nerd que se convierte en superhéroe ¿De qué manera? Pues bien la Internet tenía una falla letal la cual absorbía al usuario directamente al ciberespacio si escribía una secuencia en el explorador y luego apretaba “delete”</desc>
+  </programme>
+  <programme start="20260701103000 +0000" stop="20260701110000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Visionaries</title>
+  </programme>
+  <programme start="20260701110000 +0000" stop="20260701113000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Dinoplativolos</title>
+    <desc lang="es">Un grupo de dinosaurios evolucionados intergalácticos llamados Dinosaucers viaja a la tierra desde su planeta de origen llamado Reptilón que se encuentra en la misma órbita de la tierra pero en el lado opuesto al sol, para buscar una solución debido que su planeta estaba a punto de ser destruido. Contactan a un grupo de jóvenes humanos que será llamado el Dinoescuadrón Secreto que los ayudará</desc>
+  </programme>
+  <programme start="20260701113000 +0000" stop="20260701120000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Mummies Alive</title>
+  </programme>
+  <programme start="20260701120000 +0000" stop="20260701123000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Birdman</title>
+  </programme>
+  <programme start="20260701123000 +0000" stop="20260701130000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Silver Hawks</title>
+  </programme>
+  <programme start="20260701130000 +0000" stop="20260701133000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Superboy Galáctico</title>
+  </programme>
+  <programme start="20260701133000 +0000" stop="20260701140000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Las Tortugas Ninjas</title>
+  </programme>
+  <programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Swat Cats</title>
+    <desc lang="es">Los Swat Kats viven en una ciudad llamada MegaKat, una ciudad tipo Nueva York, donde sus habitantes son gatos antropomórficos denominados kats, que viven en una sociedad similar a la humana, con delincuencia, política, economía y gobierno</desc>
+  </programme>
+  <programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Motoratones de Marte</title>
+  </programme>
+  <programme start="20260701150000 +0000" stop="20260701153000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Gargolas</title>
+    <desc lang="es">Un clan de gárgolas que se vuelven de piedra durante el día pero durante la noche son criaturas guerreras. En el año 994 D.C, Goliath es su líder y les guía en la protección de su castillo y sus residentes humanos hasta que el clan sufre una traición y por ella, una masacre</desc>
+    <icon src="https://pics.filmaffinity.com/gargoyles-614357751-mmed.jpg" />
+  </programme>
+  <programme start="20260701153000 +0000" stop="20260701160000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Mask</title>
+    <desc lang="es">El drama es acerca de personas -que viven escondiendo sus verdaderos rostros detrás de las máscaras que llevan-, y se centra alrededor de una mujer que entra en una familia chaebol -por casualidad-. Ji Sook (Soo Ae) atraviesa por un período difícil por un préstamo que realizó su padre</desc>
+  </programme>
+  <programme start="20260701160000 +0000" stop="20260701163000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Defensores de la Tierra</title>
+  </programme>
+  <programme start="20260701163000 +0000" stop="20260701170000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Flash Gordon</title>
+    <desc lang="es">Tras salvar a la Tierra de una fatal colisión con el planeta Mongo, y ser atacados por sus naves de combate, Flash Gordon, Dale Arden y el profesor Hans Harkov se ven obligados a hacer un aterrizaje de emergencia sobre el extraño planeta, gobernado por el tiránico emperador Ming “El despiadado”. Para lograr salvar a las distintas razas de Mongo y a sí mismos de las maquinaciones del tiránico Ming y de su ejército de hombres metálicos, deberán encontrar un modo de hacer olvidar las antiguas rencillas entre sus líderes</desc>
+  </programme>
+  <programme start="20260701170000 +0000" stop="20260701173000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Zorro</title>
+  </programme>
+  <programme start="20260701173000 +0000" stop="20260701180000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Centuriones</title>
+    <desc lang="es">El Doctor Terror y su compañero Hacker unieron sus fuerzas para conquistar al mundo, solo una fuerza es capaz de detenerlos, la fuerza de tres hombres, quienes con la ayuda de un rayo especial pueden ser enviados a cualquier lugar. Con un increíble sistema de armas de ataque manejado desde la estacion espacial SkyBold, se convierten en el poder supremo del Hombre y la Máquina: Max Ray, especialista en las operaciones marinas, Jake Rockwell, especialista en las operaciones terrestres, y Ace McCloud, especialista en las operaciones aereas... Han unidos sus fuerzas contra el crimen y son: Los Centuriones</desc>
+  </programme>
+  <programme start="20260701180000 +0000" stop="20260701183000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Piratas en las aguas Tenebrosas</title>
+  </programme>
+  <programme start="20260701183000 +0000" stop="20260701190000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Jumanji</title>
+    <desc lang="es">Los viajes de los jóvenes hermanos Judy y Peter por el peligroso mundo de Jumanji, siempre ayudados por Alan, quien se encuentra atrapado en dicho juego</desc>
+  </programme>
+  <programme start="20260701190000 +0000" stop="20260701193000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Ulises 31</title>
+    <desc lang="es">Ulises, al comando de la nave espacial Odiseus, mata al gran Cíclope y rescata a un grupo de niños prisioneros incluyendo a su propio hijo Telémaco, despertando así la ira de los dioses. El dios Zeus lo sentencia a vagar por el universo del Olimpo y congela a su tripulación, que permanece hibernada en la nave hasta que pueda encontrar el reino de Hades, tras lo que le será permitido volver a la Tierra</desc>
+    <icon src="https://pics.filmaffinity.com/uchu_densetsu_ulysses_31_ulysse_31-789671168-mmed.jpg" />
+  </programme>
+  <programme start="20260701193000 +0000" stop="20260701200000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Fantasma 2040</title>
+    <desc lang="es">The Phantom Nº24, el -fantasma que camina-, combate el crimen en el año 2040</desc>
+  </programme>
+  <programme start="20260701200000 +0000" stop="20260701203000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Capitán Futuro</title>
+  </programme>
+  <programme start="20260701203000 +0000" stop="20260701210000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Ark II</title>
+    <desc lang="es">Cuatro científicos trabajan en la reconstrucción de la sociedad del año 2047, que fue devastada por la contaminación y una guerra nuclear. Viajan en una caravana dotada de los más sofisticados recursos tecnológicos en compañía de un inteligente y parlanchín chimpancé</desc>
+  </programme>
+  <programme start="20260701210000 +0000" stop="20260701213000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Academia Espacial</title>
+    <desc lang="es">Una academia de entrenamiento espacial fundada en el año estelar de 3732 en un planeta artificial. El Comandante Gampu es el director de la academia, en la que también participan Laura, Paul y Tee Gar</desc>
+  </programme>
+  <programme start="20260701213000 +0000" stop="20260701220000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Robotech</title>
+    <desc lang="es">Los avances científicos obtenidos por la humanidad a partir de los restos de una nave alienígena estrellada en el Pacifico Sur, lamentablemente también traerán como consecuencia una serie de guerras contra diferentes razas extraterrestres</desc>
+    <icon src="https://pics.filmaffinity.com/robotech_tv_series-991188406-mmed.jpg" />
+  </programme>
+  <programme start="20260701220000 +0000" stop="20260701230000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Buck Rogers</title>
+    <desc lang="es">Buck Rogers, un astronauta del s. XX, queda congelado al espacio por accidente y vuelve a la Tierra cinco siglos más tarde. El planeta tiene un aspecto muy diferente, ya que en el tiempo que Rogers ha estado ausente, la Tierra ha sufrido una guerra nuclear y ahora está bajo el ataque del Imperio Draconiano</desc>
+  </programme>
+  <programme start="20260701230000 +0000" stop="20260702000000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Logan</title>
+  </programme>
+  <programme start="20260702000000 +0000" stop="20260702010000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Logan</title>
+  </programme>
+  <programme start="20260702010000 +0000" stop="20260702020000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Star Trek</title>
+    <desc lang="es">Se trata de una misión de cinco años que busca explorar mundos desconocidos y nuevas civilizaciones</desc>
+  </programme>
+  <programme start="20260702020000 +0000" stop="20260702030000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Battlestar Galactica</title>
+    <desc lang="es">Las aventuras de los pasajeros de la nave espacial Galáctica, mientras busca un planeta donde poder establecerse y volver a desarrollarse</desc>
+  </programme>
+  <programme start="20260702030000 +0000" stop="20260702040000 +0000" channel="Time Travel Network Tv">
+    <title lang="es">Espacio 1999</title>
+    <desc lang="es">A raíz de un accidente nuclear la luna sale de la órbita terrestre y vaga por el espacio, con la Base lunar Alpha y sus miembros como invitados no voluntarios. Al igual que Star Trek en cada episodio sufren aventuras, se encuentran con civilizaciones, enemigos, etc</desc>
+  </programme>
   <programme start="20260629040000 +0000" stop="20260629070000 +0000" channel="Ani Retro">
     <title lang="es">Ani Retro</title>
   </programme>
