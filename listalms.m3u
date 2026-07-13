@@ -14,16 +14,16 @@ https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-canallms/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="CANALES INDEPENDIENTES",EnerGeek Retro | Chile
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="CANALES INDEPENDIENTES",Energeek Radio TV | Chile
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="Energeek Pop" tvg-name="Energeek Pop" tvg-logo="https://imgur.com/MpISyIk.png" group-title="CANALES INDEPENDIENTES",Energeek Pop | Chile
-https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
+https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="CANALES INDEPENDIENTES",Fanpop TV | Chile
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="Time Travel Network Tv" tvg-name="Time Travel Network Tv" tvg-logo="https://imgur.com/bkgu7Nn.png" group-title="INFANTILES",Time Travel Network Tv (ACS Network Tv) | Puerto Rico
 https://live20.bozztv.com/akamaissh101/ssh101/timetraveltv/playlist.m3u8
@@ -104,9 +104,6 @@ https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-id="Caldera Vision" tvg-name="Caldera Vision" tvg-logo="https://imgur.com/SHWtE1X.jpg" group-title="FAMILIARES",Caldera Vision | Chile
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://s3.amazonaws.com/static-c4-1/assets/img/logos/elcuatro-logo-100x124.png" group-title="FAMILIARES",Canal 4 Jujuy | Argentina
-https://5cd577a3dd8ec.streamlock.net/_definst_/Fluss/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="https://imgur.com/Ck2bFYn.jpg" group-title="FAMILIARES",Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 
@@ -135,7 +132,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canalbuzz2026/playlist.m3u8
 https://live-global-cdn-v02.sooplive.com/live-stmc-30/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.GKcb77RJb9RuQEBIbofGtQUbVrOqsLz9Ocil4K1nPU3siWQS6KrsqjwpnFh6_X2gRSxBSX6GAW4HpWecZS_Qp1io-66u2L8P_v_bpZfQSmA00OuON13u4Zzb2A_O3zb0Os4q9lffPhDw7kiWkiOUM0dz7orBgtcG_nDMJ9O4tdDmPN8lRhyFSWLpXdgU31QK
 
 #EXTINF:-1 tvg-id="Canal Familia HD" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg" group-title="FAMILIARES",Canal Familia HD | Venezuela
-https://live20.bozztv.com/giatv/giatv-canalfamiliahdven/canalfamiliahdven/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-canalfamiliahdven/canalfamiliahdv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal ILCE" tvg-name="Canal ILCE" tvg-logo="https://www.ilce.edu.mx/images/RadioyTV/CI.png" group-title="CULTURALES",Canal ILCE | Mexico
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w420201970_b2430208.m3u8
@@ -145,9 +142,6 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef8c36ea6_all/chunk
 
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-name="Canal Ipe" tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTILES",Canal Ipe | Peru
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
-
-#EXTINF:-1 tvg-id="Canal Juegos Retros" tvg-name="Canal Juegos Retros" tvg-logo="https://i.ibb.co/7t25BBxC/Logo-Canal-Juegos-retros-2.png" group-title="JOVENES Y ADULTOS",Canal Juegos Retros | Spain
-https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="CANALES INDEPENDIENTES",Canal Mas | Uruguay
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
@@ -189,6 +183,9 @@ https://paneltv.stream:19360/chilevisual/chilevisual.m3u8
 #EXTINF:-1 tvg-id="Cine 35 mm" tvg-name="Cine 35 mm" tvg-logo="https://imgur.com/CuoEZS9.png" group-title="CINE",Cine 35 mm | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cine 35 mm" tvg-name="Cine 35 mm" tvg-logo="https://imgur.com/CuoEZS9.png" group-title="CINE",Cine 35 mm op2 | Argentina
+https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
+
 #EXTINF:-1 tvg-id="Cine Horrorfy" tvg-name="Cine Horrorfy" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="CINE",Cine Horrorfy | USA
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
@@ -211,6 +208,9 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE | Spain
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620
+
+#EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE op2 | Spain
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="Classic Channel HD" tvg-name="Classic Channel HD" tvg-logo="https://i.imgur.com/taejlKJ.png" group-title="CANALES INDEPENDIENTES",Classic Channel HD | Chile
@@ -392,7 +392,7 @@ https://akariko.netgenx.site/stream/jp/kids_station/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Laika Magica HD" tvg-name="Laika Magica HD" tvg-logo="https://i.ibb.co/xKQgV5L6/Logo-Laika-Channel-LA.png" group-title="JOVENES Y ADULTOS",Laika Magica HD | Argentina
+#EXTINF:-1 tvg-id="Laika Magica HD" tvg-name="Laika Magica HD" tvg-logo="https://i.ibb.co/xKQgV5L6/Logo-Laika-Channel-LA.png" group-title="JOVENES Y ADULTOS",Laika Magica (Hikari Station) | Argentina
 https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 
 #EXTINF:-1 tvg-id="Laika Channel Galicia" tvg-name="Laika Channel Galicia" tvg-logo="https://i.ibb.co/8gBCpNNt/Letras-de-Laika-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Laika Channel Galicia | Spain
@@ -462,7 +462,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="CANALES INDEPENDIENTES",El Magic | Argentina
-https://kali.vdopanel.com:3909/stream/play.m3u8
+https://kali.vdopanel.com:3140/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Maria Vision" tvg-name="Maria Vision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision.png" group-title="RELIGION",Maria vision | Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
@@ -521,7 +521,7 @@ https://linear-564.frequency.stream:443/mt/studio/564/hls/master/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="Multicanal Ecuador" tvg-name="Multicanal Ecuador" tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png"  group-title="FAMILIARES",Multicanal | Ecuador
-https://live.zonaradio.net/hls/live/Multicanalec_2026_key.m3u8?v=1782120877
+https://streaming.zonaradio.net/live/multicec.m3u8
 
 #EXTINF:-1 tvg-id="Multizonas Tv" tvg-name="Multizonas Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Multizonas Tv | Costa Rica
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/playlist.m3u8
@@ -634,7 +634,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Pride Tv" tvg-name="Pride Tv" tvg-logo="https://imgur.com/GseO61H.png" group-title="CANALES INDEPENDIENTES",Pride Tv | Chile
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
 
-#EXTINF:-1 tvg-name="Primired" tvg-id="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired | ND
+#EXTINF:-1 tvg-id="Primired" tvg-name="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired | ND
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="PS Television" tvg-name="PS Television" tvg-logo="https://i.imgur.com/X0ooVPY.png" group-title="CANALES INDEPENDIENTES",PS Television | Colombia
@@ -948,16 +948,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13012
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv_distro/zaztv.m3u8
 
 #EXTINF:-1 tvg-id="ZoyTV" tvg-name="ZoyTV" tvg-logo="https://imgur.com/L6uo1Ua.png" group-title="FAMILIARES",ZoyTV | Bolivia
-https://tv.zoymilton.com/ZoyPlus/index.m3u8
-
-#EXTINF:-1 tvg-id="ZoyTV Kids" tvg-name="ZoyTV Kids" tvg-logo="https://imgur.com/L6uo1Ua.png" group-title="FAMILIARES",ZoyTV Kids | Bolivia
-https://tv.zoymilton.com/ZoyKids/index.m3u8
-
-#EXTINF:-1 tvg-id="ZoyTV Sports" tvg-name="ZoyTV Sports" tvg-logo="https://imgur.com/L6uo1Ua.png" group-title="FAMILIARES",ZoyTV Sports | Bolivia
-https://tv.zoymilton.com/ZoySports/index.m3u8
-
-#EXTINF:-1 tvg-id="ZoyTV Turcas" tvg-name="ZoyTV Turcas" tvg-logo="https://imgur.com/L6uo1Ua.png" group-title="FAMILIARES",ZoyTV Turcas | Bolivia
-https://tv.zoymilton.com/ZoyTurcas/index.m3u8
+https://travelxp-travelxp-5-es.lg.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="Zyoon Tv" tvg-name="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="CANALES INDEPENDIENTES",Zyoon Tv | Uruguay
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
@@ -973,17 +964,9 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg.png" group-title="NOTICIAS",Bloomberg | Mexico
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
-#EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France24Espanol(English).mx" tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS",France 24 Espanol | Francia
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS",France 24 | Francia
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="HispanTV" tvg-name="HispanTV" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hispan-tv_m.png" group-title="NOTICIAS",HispanTV | Iran
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-id="IP noticias" tvg-name="IP noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQ4CbRDh4Wgxt0o_pw9V-kw9Vz6T0Re2Q_RD62jp7cZMO0uWvSKSUN6sZ2vjYcbn5fAs&usqp=CAU" group-title="NOTICIAS",IP noticias | Argentina
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 #EXTINF:-1 tvg-id="RT en Espanol" tvg-name="RT en Espanol" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NOTICIAS",RT en Espanol | Rusia
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="NOTICIAS",SKY News | Reino Unido
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 
