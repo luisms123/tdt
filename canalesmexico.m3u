@@ -287,7 +287,7 @@ https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="https://imgur.com/Ck2bFYn.jpg" group-title="FAMILIARES",Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5 del Pueblo" tvg-name="Canal 5 del Pueblo" tvg-logo="https://imgur.com/NiqNn1j.png" group-title="CANALES INDEPENDIENTES",Canal 5 del Pueblo | Argentina
+#EXTINF:-1 tvg-id="Canal 5 del Pueblo" tvg-name="Canal 5 del Pueblo" tvg-logo="https://imgur.com/NiqNn1j.png" group-title="FAMILIARES",Canal 5 del Pueblo | Argentina
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5 Vision Latina" tvg-name="Canal 5 Vision Latina" tvg-logo="https://imgur.com/eChAxaN.png" group-title="FAMILIARES",Canal 5 Vision Latina | ND
@@ -296,7 +296,7 @@ https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 5H" tvg-name="Canal 5H" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Canal 5H  | Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-#EXTINF:-1 tvg-id="Canal 6 Digital" tvg-name="Canal 6 Digital" tvg-logo="https://i.imgur.com/MzuTLkz.png" group-title="CANALES INDEPENDIENTES",Canal 6 Digital | Argentina
+#EXTINF:-1 tvg-id="Canal 6 Digital" tvg-name="Canal 6 Digital" tvg-logo="https://i.imgur.com/MzuTLkz.png" group-title="FAMILIARES",Canal 6 Digital | Argentina
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 8 Rosario" tvg-name="Canal 8 Rosario" tvg-logo="https://imgur.com/1SRpTva.jpg" group-title="FAMILIARES",Canal 8 Rosario | Argentina
@@ -323,7 +323,7 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef8c36ea6_all/chunk
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-name="Canal Ipe" tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTILES",Canal Ipe | Peru
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
-#EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="CANALES INDEPENDIENTES",Canal Mas | Uruguay
+#EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="FAMILIARES",Canal Mas | Uruguay
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
 
 #EXTINF:-1 tvg-id="Capitan Futuro" tvg-name="Capitan Futuro" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3ZOrowmnDUR6PB3C9Kast4z1fsV.jpg" group-title="INFANTILES",Capitan Futuro | 24/7
@@ -384,7 +384,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 #EXTINF:-1 tvg-id="City Radio Tv" tvg-name="City Radio Tv" tvg-logo="http://www.city.bg/theme_assets/city/images/logo.png" group-title="MUSICA",City Radio Tv | Bulgaria
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="CANALES INDEPENDIENTES",Ciudad Magica Tv | Argentina
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" tvg-name="Ciudad Magica Tv" tvg-logo="https://i.imgur.com/ydqK2H0.png" group-title="FAMILIARES",Ciudad Magica Tv | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE | Spain
@@ -393,7 +393,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE op2 | Spain
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-id="Classic Channel HD" tvg-name="Classic Channel HD" tvg-logo="https://i.imgur.com/taejlKJ.png" group-title="CANALES INDEPENDIENTES",Classic Channel HD | Chile
+#EXTINF:-1 tvg-id="Classic Channel HD" tvg-name="Classic Channel HD" tvg-logo="https://i.imgur.com/taejlKJ.png" group-title="FAMILIARES",Classic Channel HD | Chile
 https://paneltv.stream:19360/classicchannel/classicchannel.m3u8
 
 #EXTINF:-1 tvg-id="Click TV" tvg-name="Click TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Cn8_xNlr_6B8xkddXtMJJjqw93z2CoSFZA&s" group-title="FAMILIARES",Click TV | Chile
@@ -421,7 +421,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
 #EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-logo="https://i.ibb.co/NnFbddpc/Logo-animado-de-Delmi-TV.png" group-title="JOVENES Y ADULTOS",Delmi TV | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="CANALES INDEPENDIENTES",DFTV Animacion HD | Chile
+#EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="INFANTILES",DFTV Animacion HD | Chile
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Digimon" tvg-name="Digimon" tvg-logo="https://imgur.com/25dMMif.png" group-title="INFANTILES",Digimon 24/7 | Mexico
@@ -436,19 +436,19 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="Distrito TV" tvg-name="Distrito TV" tvg-logo="https://imgur.com/wWMSm7F.png" group-title="CINE",Distrito TV | Spain
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
-#EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://imgur.com/xksFQ5T.png" group-title="CANALES INDEPENDIENTES",Diti TV | Argentina
+#EXTINF:-1 tvg-id="Diti TV" tvg-name="Diti TV" tvg-logo="https://imgur.com/xksFQ5T.png" group-title="INFANTILES",Diti TV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DJ TV Estacion Mix" tvg-name="DJ TV Estacion Mix" tvg-logo="https://imgur.com/fTZa6YT.png" group-title="MUSICA",DJ TV Estacion Mix | Argentina
 https://mix.fachacarlos1.workers.dev/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Docevision" tvg-name="Docevision" tvg-logo="https://imgur.com/funYkdR.jpg" group-title="CANALES INDEPENDIENTES",Docevision | Chile
+#EXTINF:-1 tvg-id="Docevision" tvg-name="Docevision" tvg-logo="https://imgur.com/funYkdR.jpg" group-title="FAMILIARES",Docevision | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="JOVENES Y ADULTOS",Dragon Ball Super | ND
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="CANALES INDEPENDIENTES",Dreiko TV | Panamá
+#EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="INFANTILES",Dreiko TV | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-id="Educa TV" tvg-name="Educa TV" tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="CULTURALES",Educa  TV | Ecuador
@@ -681,10 +681,10 @@ https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 #EXTINF:-1 tvg-id="ModoRadio" tvg-name="ModoRadio" tvg-logo="https://i.imgur.com/WQkkyBp.png" group-title="MUSICA",ModoRadio | Chile
 https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png" group-title="CANALES INDEPENDIENTES",Moni TV | Argentina
+#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png" group-title="INFANTILES",Moni TV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="CANALES INDEPENDIENTES",Moni TV op2 | Argentina
+#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="INFANTILES",Moni TV op2 | Argentina
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 #EXTINF:-1 tvg-id="Monstruos de Verdad" tvg-name="Monstruos de Verdad" tvg-logo="https://gia.tv/streams/pptv/210856.jpg?1760921866" group-title="INFANTILES",Monstruos de Verdad | 24/7
@@ -1057,7 +1057,7 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Unetev HD" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="FAMILIARES",Unetev HD | Argentina
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="CANALES INDEPENDIENTES",VariedTV | Argentina
+#EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="JOVENES Y ADULTOS",VariedTV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vida al Maximo" tvg-name="Vida al Maximo" tvg-logo="https://imgur.com/AFTQojf.png" group-title="FAMILIARES",Vida al Maximo | Argentina
