@@ -5,70 +5,6 @@
     <icon src="https://imgur.com/dSSzPR5.png" />
     <url>http://www.compulms.com</url>
   </channel>
-  <programme start="20260719060000 +0000" stop="20260719110000 +0000" channel="Radio LMS">
-    <title lang="es">Offline</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719110000 +0000" stop="20260719160000 +0000" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719160000 +0000" stop="20260719163000 +0000" channel="Radio LMS">
-    <title lang="es">Porfirio Cadena</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719163000 +0000" stop="20260719170000 +0000" channel="Radio LMS">
-    <title lang="es">La Casa Roja</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719170000 +0000" stop="20260719173000 +0000" channel="Radio LMS">
-    <title lang="es">Kaliman</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719173000 +0000" stop="20260719180000 +0000" channel="Radio LMS">
-    <title lang="es">Rayo de Plata</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719180000 +0000" stop="20260719190000 +0000" channel="Radio LMS">
-    <title lang="es">Sones y Pirecuas</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719190000 +0000" stop="20260719200000 +0000" channel="Radio LMS">
-    <title lang="es">Vicente Fernandez</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719200000 +0000" stop="20260719210000 +0000" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719210000 +0000" stop="20260719220000 +0000" channel="Radio LMS">
-    <title lang="es">Gruperos</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719220000 +0000" stop="20260719230000 +0000" channel="Radio LMS">
-    <title lang="es">Los Bukis</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260719230000 +0000" stop="20260720000000 +0000" channel="Radio LMS">
-    <title lang="es">Antonio Aguilar</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260720000000 +0000" stop="20260720010000 +0000" channel="Radio LMS">
-    <title lang="es">Joan Sebastian</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260720010000 +0000" stop="20260720020000 +0000" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260720020000 +0000" stop="20260720030000 +0000" channel="Radio LMS">
-    <title lang="es">Juan Gabriel</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
-  <programme start="20260720030000 +0000" stop="20260720060000 +0000" channel="Radio LMS">
-    <title lang="es">Musica Variada</title>
-    <desc lang="es">Variedad de Musica</desc>
-  </programme>
   <programme start="20260720060000 +0000" stop="20260720110000 +0000" channel="Radio LMS">
     <title lang="es">Offline</title>
     <desc lang="es">Variedad de Musica</desc>
@@ -194,6 +130,70 @@
     <desc lang="es">Variedad de Musica</desc>
   </programme>
   <programme start="20260722030000 +0000" stop="20260722060000 +0000" channel="Radio LMS">
+    <title lang="es">Musica Variada</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722060000 +0000" stop="20260722110000 +0000" channel="Radio LMS">
+    <title lang="es">Offline</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722110000 +0000" stop="20260722160000 +0000" channel="Radio LMS">
+    <title lang="es">Musica Variada</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722160000 +0000" stop="20260722163000 +0000" channel="Radio LMS">
+    <title lang="es">Porfirio Cadena</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722163000 +0000" stop="20260722170000 +0000" channel="Radio LMS">
+    <title lang="es">La Casa Roja</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722170000 +0000" stop="20260722173000 +0000" channel="Radio LMS">
+    <title lang="es">Kaliman</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722173000 +0000" stop="20260722180000 +0000" channel="Radio LMS">
+    <title lang="es">Rayo de Plata</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722180000 +0000" stop="20260722190000 +0000" channel="Radio LMS">
+    <title lang="es">Sones y Pirecuas</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="Radio LMS">
+    <title lang="es">Vicente Fernandez</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="Radio LMS">
+    <title lang="es">Gruperos</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722210000 +0000" stop="20260722220000 +0000" channel="Radio LMS">
+    <title lang="es">Gruperos</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="Radio LMS">
+    <title lang="es">Los Bukis</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="Radio LMS">
+    <title lang="es">Antonio Aguilar</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="Radio LMS">
+    <title lang="es">Joan Sebastian</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="Radio LMS">
+    <title lang="es">Juan Gabriel</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="Radio LMS">
+    <title lang="es">Juan Gabriel</title>
+    <desc lang="es">Variedad de Musica</desc>
+  </programme>
+  <programme start="20260723030000 +0000" stop="20260723060000 +0000" channel="Radio LMS">
     <title lang="es">Musica Variada</title>
     <desc lang="es">Variedad de Musica</desc>
   </programme>
