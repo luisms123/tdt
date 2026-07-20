@@ -317,11 +317,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-id="m2o Tv" tvg-name="m2o Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",m2o Tv | Italia
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Magic Kids Tv | Argentina
+https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Magic Kids | Argentina
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-
-#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Magic Kids Tv op2 | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Maria Vision" tvg-name="Maria Vision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision.png" group-title="RELIGION",Maria vision | Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
@@ -344,8 +344,8 @@ https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Mix Bolivia Tv" tvg-name="Mix Bolivia Tv" tvg-logo="https://imgur.com/P2k8ioD.jpg" group-title="FAMILIARES",Mix Bolivia Tv | Bolivia
 https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="INFANTILES",Moni TV op2 | Argentina
-https://tv.arkeo.cl:19360/8134/8134.m3u8
+#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="INFANTILES",Moni TV | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Monte Maria" tvg-name="Monte Maria" tvg-logo="https://i.imgur.com/NIfwd9a.png" group-title="RELIGION",Monte Maria | Mexico
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
@@ -469,6 +469,9 @@ https://scl.edge.grupoz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus Tv 3" tvg-name="Retro Plus TV 3" tvg-logo="https://imgur.com/v93TP0W.jpg" group-title="FAMILIARES",Retro Plus Tv 3 | Chile
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retrotoons" tvg-name="Retrotoons" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="INFANTILES",Retrotoons | ND
+https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Retro Tv Online | ND
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
