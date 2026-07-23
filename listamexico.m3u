@@ -940,8 +940,14 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="Plenitud Juvenil" tvg-name="Plenitud Juvenil" tvg-logo="https://imgur.com/1tcjMAt.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Plenitud Juvenil | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Plenitud TV 24/7" tvg-name="Plenitud TV 24/7" tvg-logo="https://i.imgur.com/QGwcjNT.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Plenitud TV 24/7 | Chile
+#EXTINF:-1 tvg-id="Plenitud TV" tvg-name="Plenitud TV" tvg-logo="https://i.imgur.com/QGwcjNT.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Plenitud TV HD | Chile
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Plenitud TV 24/7" tvg-name="Plenitud TV 24/7" tvg-logo="https://imgur.com/8IqNSVN" group-title="⏩ CANALES INDEPENDIENTES ⏪",Plenitud TV 24/7 | Chile
 https://live20.bozztv.com/giatvplayout7/giatv-208727/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Plenitud TV 2 24/7" tvg-name="Plenitud TV 2 24/7" tvg-logo="https://imgur.com/PrDtIGr.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Plenitud TV 2 | Chile
+https://live20.bozztv.com/giatvplayout7/giatv-212033/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Portal FoxMix Tv" tvg-name="Portal FoxMix Tv" tvg-logo="http://i.imgur.com/63s1k43.png" group-title="MUSICA",Portal FoxMix Tv | Chile
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
@@ -4068,7 +4074,7 @@ http://45.181.122.46:8090/play/a021
 http://38.44.109.41:8003/play/a0h6
 
 #EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="TV PREMIUM",PakaPaka | Argentina
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-36.playlist.m3u8
+http://190.7.19.197:232/play/a08e
 
 #EXTINF:-1 tvg-id="Panamericana Tv" tvg-name="Panamericana Tv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="TV PREMIUM",Panamericana | Peru
 http://45.173.201.51:4000/play/a0ku
