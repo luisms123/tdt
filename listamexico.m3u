@@ -697,8 +697,14 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="Cuentos de la Cripta Serie Animada" tvg-name="Cuentos de la Cripta Serie Animada" tvg-logo="https://gia.tv/streams/pptv/210858.png?1760964658" group-title="INFANTILES",Cuentos de la Cripta Serie Animada | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-logo="https://i.ibb.co/NnFbddpc/Logo-animado-de-Delmi-TV.png" group-title="JOVENES Y ADULTOS",Delmi TV | Spain
+#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-logo="https://i.ibb.co/q3YGJVjN/Delmi-TV.png" group-title="JOVENES Y ADULTOS",Delmi TV | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Delmi Channel" tvg-name="Delmi Channel" tvg-logo="https://i.ibb.co/gZCCQtMx/Delmi-Channel.png" group-title="JOVENES Y ADULTOS",Delmi Channel | Spain
+https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Delmi Channel Galicia" tvg-name="Delmi Channel Galicia" tvg-logo="https://i.ibb.co/mCctc4tH/Delmi-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Delmi Channel Galicia | Spain
+https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DIOS Te Ve" tvg-name="DIOS Te Ve" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO.png" group-title="RELIGION",DIOS Te Ve | Honduras
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
@@ -802,6 +808,9 @@ https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 #EXTINF:-1 tvg-id="Goku Tv" tvg-name="Goku Tv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="JOVENES Y ADULTOS",Goku Tv | ND
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Hikari Station" tvg-name="Hikari Station" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Hikari Station | Argentina
+https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
+
 #EXTINF:-1 tvg-id="Invasiva TV" tvg-name="Invasiva TV" tvg-logo="https://imgur.com/AuHSQ03.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Invasiva TV | Paraguay
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 
@@ -822,15 +831,6 @@ https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Vitrola Tv" tvg-name="La Vitrola Tv" tvg-logo="https://imgur.com/sTl2UcE.png" group-title="MUSICA",La Vitrola Tv | Argentina
 https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Laika Channel Galicia" tvg-name="Laika Channel Galicia" tvg-logo="https://i.ibb.co/8gBCpNNt/Letras-de-Laika-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Laika Channel Galicia | Spain
-https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Laika Channel Spain" tvg-name="Laika Channel Spain" tvg-logo="https://i.ibb.co/nqkqsK8Y/Letras-de-Laika-Channel-Espa-a.png" group-title="JOVENES Y ADULTOS",Laika Channel Spain | Spain
-https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Laika Magica HD" tvg-name="Laika Magica HD" tvg-logo="https://i.ibb.co/xKQgV5L6/Logo-Laika-Channel-LA.png" group-title="JOVENES Y ADULTOS",Laika Magica (Hikari Station) | Argentina
-https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 
 #EXTINF:-1 tvg-id="Loading Brasil" tvg-name="Loading Brasil" tvg-logo="https://i.imgur.com/eiCT1i1.png" group-title="JOVENES Y ADULTOS",Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
@@ -1084,7 +1084,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/sI2lUuY.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Tigueritos TV | Republica Dominicana
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Time Travel Network Tv" tvg-name="Time Travel Network Tv" tvg-logo="https://imgur.com/bkgu7Nn.png" group-title="INFANTILES",Time Travel Network Tv (ACS Network Tv) | Puerto Rico
+#EXTINF:-1 tvg-id="Time Travel Network Tv" tvg-name="Time Travel Network Tv" tvg-logo="https://imgur.com/bkgu7Nn.png" group-title="INFANTILES",Time Travel Network Tv | Puerto Rico
 https://live20.bozztv.com/akamaissh101/ssh101/timetraveltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tom y Jerry" tvg-name="Tom y Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTILES",Tom y Jerry 24/7
