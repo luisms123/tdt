@@ -1021,6 +1021,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",RetroX TV | Costa Rica
 https://live20.bozztv.com/akamaissh101/ssh101/retyroxtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RetroX Tv Plus" tvg-name="RetroX Tv Plus" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",RetroX Tv Plus | Costa Rica
+https://live20.bozztv.com/akamaissh101/ssh101/erinaca/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Sicardi TV | Argentina
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
