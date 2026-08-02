@@ -550,21 +550,6 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Fanpop TV | Chile
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
 
-#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai 1 HD | ND
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-
-#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai 2 HD | ND
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-
-#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai 3 HD | ND
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-
-#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai 4 HD | ND
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-
-#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai 5 HD | ND
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV | Brasil
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 
@@ -808,6 +793,9 @@ https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 #EXTINF:-1 tvg-id="Goku Tv" tvg-name="Goku Tv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="JOVENES Y ADULTOS",Goku Tv | ND
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Hikari Station" tvg-name="Hikari Station" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Hikari Station | Argentina
+https://183.bozztv.com/giatv/giatv-hikaristationla/hikaristationla/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Invasiva TV" tvg-name="Invasiva TV" tvg-logo="https://imgur.com/AuHSQ03.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Invasiva TV | Paraguay
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 
@@ -828,9 +816,6 @@ https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Vitrola Tv" tvg-name="La Vitrola Tv" tvg-logo="https://imgur.com/sTl2UcE.png" group-title="MUSICA",La Vitrola Tv | Argentina
 https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Laika Channel" tvg-name="Laika Channel" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Laika Channel | Argentina
-https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 
 #EXTINF:-1 tvg-id="Loading Brasil" tvg-name="Loading Brasil" tvg-logo="https://i.imgur.com/eiCT1i1.png" group-title="JOVENES Y ADULTOS",Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
