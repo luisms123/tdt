@@ -722,7 +722,7 @@ https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",El Magic | Argentina
-https://kali.vdopanel.com:3140/stream/play.m3u8
+https://kali.vdopanel.com:3074/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="https://imgur.com/PS3hllN.png" group-title="CINE",Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -4092,7 +4092,7 @@ http://38.44.109.41:8003/play/a00j
 #EXTINF:-1 group-title="TV PREMIUM",espn 2
 http://181.78.12.119:16123/play/ch17
 #EXTINF:-1 group-title="TV PREMIUM",animotion channel
-http://45.173.201.51:4000/play/a0p2
+http://190.60.39.221:8000/play/a03d
 #EXTINF:-1 group-title="TV PREMIUM",Canal 10 CR
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",ComercioTV
