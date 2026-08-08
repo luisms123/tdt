@@ -793,7 +793,7 @@ https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 #EXTINF:-1 tvg-id="Goku Tv" tvg-name="Goku Tv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="JOVENES Y ADULTOS",Goku Tv | ND
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hikari Station" tvg-name="Hikari Station" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Hikari Station | Argentina
+#EXTINF:-1 tvg-id="Toonizaki" tvg-name="Toonizaki" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Toonizaki | Argentina
 https://183.bozztv.com/giatv/giatv-hikaristationla/hikaristationla/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Invasiva TV" tvg-name="Invasiva TV" tvg-logo="https://imgur.com/AuHSQ03.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Invasiva TV | Paraguay
@@ -1047,6 +1047,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208260/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Taltal Tv Series Anime" tvg-name="Taltal Tv Series Anime" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Series Anime | Argentina
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tele Estrella" tvg-name="Tele Estrella" tvg-logo="https://i.imgur.com/KInLL0H.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Tele Estrella | Argentina
+https://live20.bozztv.com/akamaissh101/ssh101/estrella/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Teleclasica | Mexico
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
