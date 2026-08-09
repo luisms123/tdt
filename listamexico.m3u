@@ -826,11 +826,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="LocomotionESP" tvg-name="LocomotionESP" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",LocomotionESP | ND
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion | ND
+#EXTINF:-1 tvg-id="Locomotion2" tvg-name="Locomotion2" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion 2 | ND
 https://locomotiontv.site/hls/locomotion/index.m3u8
 
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
-https://locomotiontv.site/hls/locomotion/index.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion (Ad) | Republica Dominicana
+http://146.19.49.197:81/live/loco.m3u8
 
 #EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
