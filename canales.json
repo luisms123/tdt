@@ -1,7 +1,7 @@
 ﻿{
 "id-1": {
     "nombre": "Canal LMS",
-	"logo": "https://i.imgur.com/RUuoMlL.png",
+    "logo": "https://i.imgur.com/RUuoMlL.png",
     "m3u8_url": "https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8",
     "fuente": "https://compulms.blogspot.com/",
     "categoria": "categoria",
@@ -193,6 +193,13 @@
     "categoria": "categoria",
     "pais": "mx"
   },
+"Foxkidzee": {
+    "nombre": "Foxkidzee",
+    "iframe_url": "https://player.twitch.tv/?channel=cocodrilo2626&parent=compulms.blogspot.com",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria",
+    "pais": "mx"
+  },
 "guerreras": {
     "nombre": "Asahi Tv",
     "iframe_url": "https://ok.ru/videoembed/9234868543069?autoplay=1",
@@ -214,6 +221,13 @@
     "categoria": "categoria",
     "pais": "mx"
   },
+"locomotion247": {
+    "nombre": "Locomotion 24/7",
+    "m3u8_url": "https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8",
+    "fuente": "https://gia.tv/watchssh101.php?pptv=210075&adult=yes",
+    "categoria": "categoria",
+    "pais": "mx"
+  },
 "locomotionesp": {
     "nombre": "LocomotionESP",
     "m3u8_url": "https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8",
@@ -221,10 +235,10 @@
     "categoria": "categoria",
     "pais": "mx"
   },
-"Foxkidzee": {
-    "nombre": "Foxkidzee",
-    "iframe_url": "https://player.twitch.tv/?channel=cocodrilo2626&parent=compulms.blogspot.com",
-    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+"locomotion2": {
+    "nombre": "Locomotion 2",
+    "m3u8_url": "https://locomotiontv.site/hls/locomotion/index.m3u8",
+    "fuente": "https://locomotiontv.site/",
     "categoria": "categoria",
     "pais": "mx"
   },
@@ -273,13 +287,6 @@
 "foxkidssite": {
     "nombre": "Web - Fox Kids",
     "iframe_url": "https://www.foxkids.site/",
-    "fuente": "https://www.foxkids.site/",
-    "categoria": "categoria2",
-    "pais": "mx"
-  },
-"foxkidssite2222": {
-    "nombre": "Web",
-    "iframe_url": "https://embed.ksdjugfsddeports.com/embed2/daznf1.html",
     "fuente": "https://www.foxkids.site/",
     "categoria": "categoria2",
     "pais": "mx"
