@@ -832,6 +832,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion (Ad) | Republica Dominicana
 http://146.19.49.197:81/live/loco.m3u8
 
+#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion (QL) | Republica Dominicana
+https://live20.bozztv.com/akamaissh101/ssh101/canalloco4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
