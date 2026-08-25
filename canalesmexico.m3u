@@ -4071,6 +4071,9 @@ http://monstertv.live:8080/21205195/56418338/1047762
 http://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv
 
 #EXTINF:-1 tvg-id="Etc TV" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV | Chile
+http://190.60.39.221:8000/play/a05m
+
+#EXTINF:-1 tvg-id="Etc TV" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op2 | Chile
 http://45.185.163.75:8000/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-id="Elgourmet" tvg-name="Elgourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="TV PREMIUM",Elgourmet | Chile
