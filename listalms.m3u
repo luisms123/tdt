@@ -266,6 +266,9 @@ https://tv-omega-nine.vercel.app/hls/live.m3u8
 #EXTINF:-1 tvg-id="Iquique Tv" tvg-name="Iquique Tv" tvg-logo="https://iquiquetv.cl/wp-content/uploads/2020/05/iquiqueTV_logo_202005_272x90.png" group-title="FAMILIARES",Iquique Tv | Chile
 https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Japanmotion" tvg-name="Japanmotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Japanmotion | ND
+https://tv.japanmotion.com/iptv/session/1/hls.m3u8
+
 #EXTINF:-1 tvg-id="JTA TV" tvg-name="JTA TV" tvg-logo="https://imgur.com/pyRSWBg.png" group-title="FAMILIARES",JTA TV | Argentina
 https://streaming.jtamendoza.com/hls/test_src.m3u8
 
@@ -293,17 +296,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #EXTINF:-1 tvg-id="Locomotion2" tvg-name="Locomotion2" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion 2 | ND
 https://locomotiontv.site/hls/locomotion/index.m3u8
 
-#EXTINF:-1 tvg-id="Locomotion3" tvg-name="Locomotion3" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion 3 | ND
-https://tv.japanmotion.com/iptv/session/1/hls.m3u8
-
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion (Ad) | Republica Dominicana
 http://146.19.49.197:81/live/loco.m3u8
-
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://imgur.com/zCUdGLs.png" group-title="JOVENES Y ADULTOS",Locomotion (QL) | Republica Dominicana
-https://live20.bozztv.com/akamaissh101/ssh101/canalloco4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
@@ -585,7 +582,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Toonizaki" tvg-name="Toonizaki" tvg-logo="https://i.ibb.co/1G7mYG5D/Hikari-Station.png" group-title="JOVENES Y ADULTOS",Toonizaki | Argentina
-https://183.bozztv.com/giatv/giatv-hikaristationla/hikaristationla/playlist.m3u8
+https://183.bozztv.com/giatv/giatv-cartoonnetworklite/cartoonnetworklite/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tropi Xtrema Tv" tvg-name="Tropi Xtrema Tv" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="MUSICA",Tropi Xtrema Tv | Argentina
 https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
