@@ -1087,9 +1087,6 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/sI2lUuY.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Tigueritos TV | Republica Dominicana
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Time Travel Network Tv" tvg-name="Time Travel Network Tv" tvg-logo="https://imgur.com/bkgu7Nn.png" group-title="INFANTILES",Time Travel Network Tv | Puerto Rico
-https://live20.bozztv.com/akamaissh101/ssh101/timetraveltv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tom y Jerry" tvg-name="Tom y Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTILES",Tom y Jerry 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
