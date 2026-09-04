@@ -722,7 +722,7 @@ https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Magic" tvg-name="El Magic" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",El Magic | Argentina
-https://kali.vdopanel.com:3074/stream/play.m3u8
+https://kali.vdopanel.com:3007/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="https://imgur.com/PS3hllN.png" group-title="CINE",Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -4074,10 +4074,7 @@ http://190.60.39.221:8000/play/a05m
 http://45.185.163.75:8000/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-id="Elgourmet" tvg-name="Elgourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="TV PREMIUM",Elgourmet | Chile
-http://45.5.119.43:4000/play/a04v/index.m3u8
-
-#EXTINF:-1 tvg-id="Elgourmet" tvg-name="Elgourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="TV PREMIUM",Elgourmet op2 | Chile
-http://45.181.122.46:8090/play/a021
+http://181.119.93.83:8000/play/a0jt
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="TV PREMIUM",Nickelodeon | Spain
 http://38.44.109.41:8003/play/a0h6
