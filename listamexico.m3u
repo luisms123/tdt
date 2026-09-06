@@ -803,7 +803,7 @@ https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 https://janimotion.com/hls/janimotion/index.m3u8
 
 #EXTINF:-1 tvg-id="Japanmotion" tvg-name="Japanmotion" tvg-logo="https://i.ibb.co/8D2b197K/Japanmotion.png" group-title="JOVENES Y ADULTOS",Japanmotion | ND
-https://tv.japanmotion.com/iptv/session/1/hls.m3u8
+http://tv.japanmotion.com/iptv/session/1/hls.m3u8
 
 #EXTINF:-1 tvg-id="JTA TV" tvg-name="JTA TV" tvg-logo="https://imgur.com/pyRSWBg.png" group-title="FAMILIARES",JTA TV | Argentina
 https://streaming.jtamendoza.com/hls/test_src.m3u8
