@@ -200,6 +200,9 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="Famypanc Tv" tvg-name="Famypanc Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Famypanc Tv | Spain
 https://panctv.ddns.net/hls/es/live.m3u8
 
+#EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="INFANTILES",Fox Kids | Brasil
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://i.imgur.com/SAWdc0u.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
