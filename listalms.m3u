@@ -620,6 +620,9 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlis
 #EXTINF:-1 tvg-id="UCV2 TV" tvg-name="UCV2 TV" tvg-logo="https://i.imgur.com/KjPjyJH.png" group-title="FAMILIARES",UCV2 TV | Chile
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Unife Tv" tvg-name="Unife Tv" tvg-logo="https://www.unifetv.com/logo_unife.png" group-title="FAMILIARES",Unife Tv | Argentina
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8
+
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="JOVENES Y ADULTOS",VariedTV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
