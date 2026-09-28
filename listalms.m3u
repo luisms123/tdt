@@ -17,6 +17,7 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Fanpop TV | Chile
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
 
+
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV | Brasil
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 
@@ -81,7 +82,7 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunk
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef8c36ea6_all/chunklist_w1369397436_b2430208.m3u8
 
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-name="Canal Ipe" tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTILES",Canal Ipe | Peru
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+https://cdnhd.iblups.net/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
 #EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="FAMILIARES",Canal Mas | Uruguay
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8

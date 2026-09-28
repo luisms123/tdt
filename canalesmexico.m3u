@@ -550,6 +550,7 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Fanpop TV | Chile
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
 
+
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV | Brasil
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 
@@ -614,7 +615,7 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunk
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef8c36ea6_all/chunklist_w1369397436_b2430208.m3u8
 
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-name="Canal Ipe" tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTILES",Canal Ipe | Peru
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+https://cdnhd.iblups.net/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
 #EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="FAMILIARES",Canal Mas | Uruguay
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
@@ -4097,16 +4098,19 @@ http://45.185.163.75:8000/play/a0gv/index.m3u8
 http://181.119.93.83:8000/play/a0jt
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="TV PREMIUM",Nickelodeon | Spain
-http://38.44.109.41:8003/play/a0h6
+http://186.148.196.100:8000/play/a020
 
 #EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="TV PREMIUM",PakaPaka | Argentina
 http://190.7.19.197:232/play/a08e
 
 #EXTINF:-1 tvg-id="Panamericana Tv" tvg-name="Panamericana Tv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="TV PREMIUM",Panamericana | Peru
-http://45.173.201.51:4000/play/a0ku
+http://186.148.196.100:8000/play/a027
 
 #EXTINF:-1 tvg-id="Senpai TV" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png" group-title="TV PREMIUM",Senpai TV | Chile
 http://45.184.87.142:8000/play/a021
+
+#EXTINF:-1 group-title="TV PREMIUM",Canal IPE
+http://186.148.196.100:8000/play/a023
 
 #EXTINF:-1 group-title="TV PREMIUM",Telefe HD
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
@@ -4117,7 +4121,7 @@ http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe_480.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",USA Network (syfy)
 http://181.78.12.119:16123/play/a0df
 #EXTINF:-1 group-title="TV PREMIUM",distrito comedia
-http://38.44.109.41:8003/play/a00j
+http://186.148.196.100:8000/play/a00c
 #EXTINF:-1 group-title="TV PREMIUM",espn 2
 http://181.78.12.119:16123/play/ch17
 #EXTINF:-1 group-title="TV PREMIUM",animotion channel
@@ -4152,23 +4156,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",VIAJAR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
-
-
-
-﻿
-
-#EXTINF:-1 group-title="Peliculas",Scooby Doo Abra Cadabra
-https://ia800509.us.archive.org/5/items/scooby-doo-abracadabra-doo-2010/Scooby-Doo%20Abracadabra-doo%20%282010%29.ia.mp4?/movie/
-
-#EXTINF:-1 group-title="Peliculas",Scooby Doo y la Escuela de Fantasmas
-https://ia800505.us.archive.org/24/items/scooby-doo-y-la-escuela-de-fantasmas-1988/Scooby-Doo%20y%20la%20Escuela%20de%20Fantasmas%20%281988%29.ia.mp4?/movie/
-
-#EXTINF:-1 group-title="Peliculas",Scooby Doo Aloha el Misterio de la Isla
-https://ia803208.us.archive.org/4/items/scooby-doo-aloha-el-misterio-de-la-isla/Scooby-Doo%21%20Aloha%2C%20El%20misterio%20de%20la%20isla.mp4?/movie/
-
-#EXTINF:-1 group-title="Peliculas",Scooby Doo  y la Isla de los Zombies
-https://ia800408.us.archive.org/33/items/vid-20201029-095002/VID_20201029_095002.mp4?/series/
-
 
 
 
