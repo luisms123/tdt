@@ -267,6 +267,9 @@ https://video01.brascast.com/gen3348/gen3348/playlist.m3u8
 #EXTINF:-1 tvg-id="GenTV HD" tvg-name="GenTV HD" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD | Argentina
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Gex Tv" tvg-name="Gex Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",Gex Tv | ND
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://imgur.com/E912YCY.png" group-title="FAMILIARES",Global TV | Republica Dominicana
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 
@@ -275,6 +278,9 @@ https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Goku Tv" tvg-name="Goku Tv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="JOVENES Y ADULTOS",Goku Tv | ND
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hiel Music" tvg-name="Hiel Music" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",Hiel Music | ND
+https://live.obslivestream.com/hielmusic/index.m3u8
 
 #EXTINF:-1 tvg-id="Invasiva TV" tvg-name="Invasiva TV" tvg-logo="https://imgur.com/AuHSQ03.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Invasiva TV | Paraguay
 https://tv-omega-nine.vercel.app/hls/live.m3u8
