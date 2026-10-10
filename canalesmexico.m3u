@@ -587,6 +587,9 @@ https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 15 DTP" tvg-name="Canal 15 DTP" tvg-logo="https://i.imgur.com/fmEKC3S.png" group-title="FAMILIARES",Canal 15 DTP  | Honduras
 https://vdo.tecnoservix.stream:3838/live/canal15dtplive.m3u8
 
+#EXTINF:-1 tvg-id="Canal 4 El Duende Tv" tvg-name="Canal 4 El Duende Tv" tvg-logo="https://canal4tvolavarria.com.ar/wp-content/uploads/2026/10/Logo-El-Duende-TV-4-Canal-Olavarria.png" group-title="FAMILIARES",Canal 4 El Duende Tv | Argentina
+https://vtm2.msinteractiva.com/canal4tvolavarria/canal4tvolavarria/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal 4 San Juan" tvg-name="Canal 4 San Juan" tvg-logo="https://imgur.com/Ck2bFYn.jpg" group-title="FAMILIARES",Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 
