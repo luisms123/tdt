@@ -18,6 +18,9 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=W3bEnerG33k2026
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
 
 
+#EXTINF:-1 tvg-id="A Uno Tv" tvg-name="A Uno Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="INFANTILES",A Uno Tv | ND
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV | Brasil
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 
@@ -48,6 +51,9 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Bjgtjme" tvg-name="Bjgtjme" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cable Digital San Ignacio" tvg-name="Cable Digital San Ignacio" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Cable Digital San Ignacio | ND
+https://live20.bozztv.com/akamaissh101/ssh101/eventos26/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Caldera Vision" tvg-name="Caldera Vision" tvg-logo="https://imgur.com/SHWtE1X.jpg" group-title="FAMILIARES",Caldera Vision | Chile
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 
@@ -63,8 +69,8 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 #EXTINF:-1 tvg-id="Canal 5 del Pueblo" tvg-name="Canal 5 del Pueblo" tvg-logo="https://imgur.com/NiqNn1j.png" group-title="FAMILIARES",Canal 5 del Pueblo | Argentina
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5 Vision Latina" tvg-name="Canal 5 Vision Latina" tvg-logo="https://imgur.com/eChAxaN.png" group-title="FAMILIARES",Canal 5 Vision Latina | ND
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 5 Vision Latina" tvg-name="Canal 5 Vision Latina" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Canal 5 Vision Latina | ND
+https://giatv.bozztv.com/giatv/giatv-VISIONLATINA5/VISIONLATINA5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5H" tvg-name="Canal 5H" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Canal 5H  | Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -156,14 +162,14 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="Cuentos de la Cripta Serie Animada" tvg-name="Cuentos de la Cripta Serie Animada" tvg-logo="https://gia.tv/streams/pptv/210858.png?1760964658" group-title="INFANTILES",Cuentos de la Cripta Serie Animada | 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-logo="https://i.ibb.co/q3YGJVjN/Delmi-TV.png" group-title="JOVENES Y ADULTOS",Delmi TV | Spain
-https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Delmi Channel" tvg-name="Delmi Channel" tvg-logo="https://i.ibb.co/gZCCQtMx/Delmi-Channel.png" group-title="JOVENES Y ADULTOS",Delmi Channel | Spain
+#EXTINF:-1 tvg-name="Delmi Channel" tvg-id="Delmi Channel" tvg-logo="https://i.ibb.co/rGcqpm4Z/Delmi.png" group-title="JOVENES Y ADULTOS",Delmi Channel HD | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Delmi Channel Galicia" tvg-name="Delmi Channel Galicia" tvg-logo="https://i.ibb.co/mCctc4tH/Delmi-Channel-Galicia.png" group-title="JOVENES Y ADULTOS",Delmi Channel Galicia | Spain
+#EXTINF:-1 tvg-name="Delmi Channel Galicia" tvg-id="Delmi Channel Galicia" tvg-logo="https://i.ibb.co/FL5hwK9w/Delmi-Galicia.png" group-title="JOVENES Y ADULTOS",Delmi Channel Galicia HD | Spain
 https://live20.bozztv.com/giatvplayout7/giatv-210596/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Delmi TV" tvg-id="Delmi TV" tvg-logo="https://i.ibb.co/Jwj0w8hH/Delmi-TV.png" group-title="JOVENES Y ADULTOS",Delmi TV HD | Spain
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DIOS Te Ve" tvg-name="DIOS Te Ve" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO.png" group-title="RELIGION",DIOS Te Ve | Honduras
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
@@ -267,6 +273,9 @@ https://video01.brascast.com/gen3348/gen3348/playlist.m3u8
 #EXTINF:-1 tvg-id="GenTV HD" tvg-name="GenTV HD" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD | Argentina
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Gente Opa" tvg-name="Gente Opa" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Gente Opa | ND
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Gex Tv" tvg-name="Gex Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",Gex Tv | ND
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 
@@ -305,6 +314,9 @@ https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="La Mega Mundial" tvg-name="La Mega Mundial" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",La Mega Mundial | USA
 https://server40.servistreaming.com:3477/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="La Mil 35" tvg-name="La Mil 35" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",La Mil 35 | ND
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Pantera Rosa" tvg-name="La Pantera Rosa" tvg-logo="https://www.ecured.cu/images/0/04/Pantera_Rosa_2.jpg" group-title="INFANTILES",La Pantera Rosa | ND
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
@@ -359,6 +371,9 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Mega Cine Tv" tvg-name="Mega Cine Tv" tvg-logo="https://i.imgur.com/9jprbpv.png" group-title="CINE",Mega Cine Tv | Republica Dominicana
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MG TV" tvg-name="MG TV" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",MG TV | ND
+https://viewhn.com/mgtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="⏩ CANALES INDEPENDIENTES ⏪",Mi TV Television Clasica | USA
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
@@ -512,6 +527,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/retyroxtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX Tv Plus" tvg-name="RetroX Tv Plus" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",RetroX Tv Plus | Costa Rica
 https://live20.bozztv.com/akamaissh101/ssh101/erinaca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sabor Tv" tvg-name="Sabor Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",Sabor Tv | ND
+https://v1.tustreaming.cl/sabortv/index.m3u8
 
 #EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Sicardi TV | Argentina
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -701,3 +719,4 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="RT en Espanol" tvg-name="RT en Espanol" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NOTICIAS",RT en Espanol | Rusia
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
