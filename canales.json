@@ -104,7 +104,7 @@
   },
 "cartoon": {
     "nombre": "Cartoon Network",
-    "iframe_url": "https://ok.ru/videoembed/8896438738686?autoplay=1",
+    "iframe_url": "https://ok.ru/videoembed/8896438738686",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "categoria": "categoria4",
     "pais": "mx"
@@ -165,11 +165,32 @@
     "categoria": "categoria4",
     "pais": "mx"
   },
+"especialmisteria": {
+    "nombre": "Fox Kids Mysteria",
+    "iframe_url": "https://ok.ru/videoembed/15926425427710?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria4",
+    "pais": "mx"
+  },
+"especialnick": {
+    "nombre": "Nickelodeon",
+    "iframe_url": "https://ok.ru/videoembed/13727452110590?autoplay=1",
+    "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
+    "categoria": "categoria4",
+    "pais": "mx"
+  },
 "especialhallo": {
     "nombre": "Especiales",
     "iframe_url": "https://ok.ru/videoembed/9586717892350?autoplay=1",
     "fuente": "https://vmnavarrod.wixsite.com/cartoongalaxy",
     "categoria": "categoria4",
+    "pais": "mx"
+  },
+"jetix2026kick": {
+    "nombre": "Jetix 2026 Kick",
+    "iframe2_url": "https://player.kick.com/jetix2026?muted=false",
+    "fuente": "https://kick.com/jetix2026",
+    "categoria": "categoria3",
     "pais": "mx"
   },
 "cartooneras": {
