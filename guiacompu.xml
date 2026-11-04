@@ -97,6 +97,11 @@
     <display-name lang="es">Mi TV Television Clasica</display-name>
     <url>http://www.compulms.com</url>
   </channel>
+  <channel id="My Jetix Retro">
+    <display-name lang="es">My Jetix Retro</display-name>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-70x70.png" />
+    <url>http://www.compulms.com</url>
+  </channel>
   <channel id="Moni TV">
     <display-name lang="es">Moni TV</display-name>
     <icon src="https://i.imgur.com/Wct9jsp.png" />
@@ -6440,6 +6445,459 @@
   <programme start="20261107051500 +0000" stop="20261107061000 +0000" channel="Mi TV Television Clasica">
     <title lang="es">Documentales</title>
     <desc lang="es">Recorre el mundo que nos rodea y viaja a lugares fantásticos. Conoce más de nuestro Planeta en este espacio</desc>
+  </programme>
+  <programme start="20261104030000 +0000" stop="20261104033000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261104033000 +0000" stop="20261104040000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261104040000 +0000" stop="20261104043000 +0000" channel="My Jetix Retro">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20261104043000 +0000" stop="20261104050000 +0000" channel="My Jetix Retro">
+    <title lang="es">Pucca</title>
+  </programme>
+  <programme start="20261104050000 +0000" stop="20261104053000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261104053000 +0000" stop="20261104060000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104063000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261104063000 +0000" stop="20261104070000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spiderman de los 90</title>
+  </programme>
+  <programme start="20261104070000 +0000" stop="20261104073000 +0000" channel="My Jetix Retro">
+    <title lang="es">Xmen de los 90</title>
+  </programme>
+  <programme start="20261104073000 +0000" stop="20261104080000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104083000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261104083000 +0000" stop="20261104090000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104093000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261104093000 +0000" stop="20261104100000 +0000" channel="My Jetix Retro">
+    <title lang="es">Sonic x</title>
+  </programme>
+  <programme start="20261104100000 +0000" stop="20261104103000 +0000" channel="My Jetix Retro">
+    <title lang="es">Súper escuadrón de monos hiper</title>
+  </programme>
+  <programme start="20261104103000 +0000" stop="20261104110000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spacegoof</title>
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon TAMERS</title>
+    <desc lang="es">Digimon Tamers toma lugar en una continuidad diferente a la de su predecesora (Digimon Adventure 02), un mundo parecido al nuestro donde los Digimon son una franquicia de juguetes y una serie de TV. Un grupo de niños de 10 años, Takato, Jenrya y Ruki, se alían con sus propios Digimon, para poder detener a los Digimon Salvajes que intentan invadir el Mundo Real, y detener a una sombría organización del gobierno, que también va contra los Salvajes, aunque con propósitos diferentes</desc>
+    <icon src="https://pics.filmaffinity.com/dejimon_teimazu_digimon_tamers-666934662-mmed.jpg" />
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger fuerza salvaje</title>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger tormenta ninja</title>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger dino trueno</title>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="My Jetix Retro">
+    <title lang="es">Yinyanyo</title>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="My Jetix Retro">
+    <title lang="es">Yinyanyo</title>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="My Jetix Retro">
+    <title lang="es">Kid músculo</title>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="My Jetix Retro">
+    <title lang="es">Las tortugas ninja del 2003</title>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="My Jetix Retro">
+    <title lang="es">Code lyoco</title>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="My Jetix Retro">
+    <title lang="es">3 espias sin limite</title>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="My Jetix Retro">
+    <title lang="es">Grostecologia</title>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="My Jetix Retro">
+    <title lang="es">Las locuras de andy</title>
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104173000 +0000" channel="My Jetix Retro">
+    <title lang="es">Chaotic</title>
+  </programme>
+  <programme start="20261104173000 +0000" stop="20261104180000 +0000" channel="My Jetix Retro">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">La historia gira en torno a Valt Aoi y sus compañeros mientras pelean en los torneos con los ojos puestos en el título del Blader 1 del mundo</desc>
+  </programme>
+  <programme start="20261104180000 +0000" stop="20261104183000 +0000" channel="My Jetix Retro">
+    <title lang="es">Medabots</title>
+    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
+    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+  </programme>
+  <programme start="20261104183000 +0000" stop="20261104190000 +0000" channel="My Jetix Retro">
+    <title lang="es">Transformers armada</title>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104193000 +0000" channel="My Jetix Retro">
+    <title lang="es">Battle b daman</title>
+  </programme>
+  <programme start="20261104193000 +0000" stop="20261104200000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104203000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261104203000 +0000" stop="20261104210000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon Frontier</title>
+    <desc lang="es">Los niños elegidos reciben un mensaje en su teléfono móvil que les cita a las 5:00 p.m. en la estación de tren. Allí suben al tren para más tarde descubrir que se trata de un digimon, Trailmon. Ya en tierra, se encuentran Bokomon y Neemon, quienes les guiaran por el digimundo para derrotar a Cherubimon con ayuda de los guerreros legendarios, quienes intenta salvar el digimundo. Al llegar sus teléfonos móviles se transforman en dispositivos quienes tienen la cualidad de albergar digispirits, capacez de transformar a los niños en digimons: D-Tectors</desc>
+    <icon src="https://pics.filmaffinity.com/dejimon_furontia_digimon_frontier-868193156-mmed.jpg" />
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261104213000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261104213000 +0000" stop="20261104220000 +0000" channel="My Jetix Retro">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20261104220000 +0000" stop="20261104223000 +0000" channel="My Jetix Retro">
+    <title lang="es">Pucca</title>
+  </programme>
+  <programme start="20261104223000 +0000" stop="20261104230000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261104233000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261104233000 +0000" stop="20261105000000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105003000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spiderman de los 90</title>
+  </programme>
+  <programme start="20261105003000 +0000" stop="20261105010000 +0000" channel="My Jetix Retro">
+    <title lang="es">Xmen de los 90</title>
+  </programme>
+  <programme start="20261105010000 +0000" stop="20261105013000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261105013000 +0000" stop="20261105020000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261105020000 +0000" stop="20261105023000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261105023000 +0000" stop="20261105030000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105033000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261105033000 +0000" stop="20261105040000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261105040000 +0000" stop="20261105043000 +0000" channel="My Jetix Retro">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20261105043000 +0000" stop="20261105050000 +0000" channel="My Jetix Retro">
+    <title lang="es">Pucca</title>
+  </programme>
+  <programme start="20261105050000 +0000" stop="20261105053000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261105053000 +0000" stop="20261105060000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105063000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261105063000 +0000" stop="20261105070000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spiderman de los 90</title>
+  </programme>
+  <programme start="20261105070000 +0000" stop="20261105073000 +0000" channel="My Jetix Retro">
+    <title lang="es">Xmen de los 90</title>
+  </programme>
+  <programme start="20261105073000 +0000" stop="20261105080000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261105080000 +0000" stop="20261105083000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261105083000 +0000" stop="20261105090000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261105090000 +0000" stop="20261105093000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261105093000 +0000" stop="20261105100000 +0000" channel="My Jetix Retro">
+    <title lang="es">Sonic x</title>
+  </programme>
+  <programme start="20261105100000 +0000" stop="20261105103000 +0000" channel="My Jetix Retro">
+    <title lang="es">Súper escuadrón de monos hiper</title>
+  </programme>
+  <programme start="20261105103000 +0000" stop="20261105110000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spacegoof</title>
+  </programme>
+  <programme start="20261105110000 +0000" stop="20261105113000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon TAMERS</title>
+    <desc lang="es">Digimon Tamers toma lugar en una continuidad diferente a la de su predecesora (Digimon Adventure 02), un mundo parecido al nuestro donde los Digimon son una franquicia de juguetes y una serie de TV. Un grupo de niños de 10 años, Takato, Jenrya y Ruki, se alían con sus propios Digimon, para poder detener a los Digimon Salvajes que intentan invadir el Mundo Real, y detener a una sombría organización del gobierno, que también va contra los Salvajes, aunque con propósitos diferentes</desc>
+    <icon src="https://pics.filmaffinity.com/dejimon_teimazu_digimon_tamers-666934662-mmed.jpg" />
+  </programme>
+  <programme start="20261105113000 +0000" stop="20261105120000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger fuerza salvaje</title>
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105123000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger tormenta ninja</title>
+  </programme>
+  <programme start="20261105123000 +0000" stop="20261105130000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger dino trueno</title>
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105133000 +0000" channel="My Jetix Retro">
+    <title lang="es">Yinyanyo</title>
+  </programme>
+  <programme start="20261105133000 +0000" stop="20261105140000 +0000" channel="My Jetix Retro">
+    <title lang="es">Yinyanyo</title>
+  </programme>
+  <programme start="20261105140000 +0000" stop="20261105143000 +0000" channel="My Jetix Retro">
+    <title lang="es">Kid músculo</title>
+  </programme>
+  <programme start="20261105143000 +0000" stop="20261105150000 +0000" channel="My Jetix Retro">
+    <title lang="es">Las tortugas ninja del 2003</title>
+  </programme>
+  <programme start="20261105150000 +0000" stop="20261105153000 +0000" channel="My Jetix Retro">
+    <title lang="es">Code lyoco</title>
+  </programme>
+  <programme start="20261105153000 +0000" stop="20261105160000 +0000" channel="My Jetix Retro">
+    <title lang="es">3 espias sin limite</title>
+  </programme>
+  <programme start="20261105160000 +0000" stop="20261105163000 +0000" channel="My Jetix Retro">
+    <title lang="es">Grostecologia</title>
+  </programme>
+  <programme start="20261105163000 +0000" stop="20261105170000 +0000" channel="My Jetix Retro">
+    <title lang="es">Las locuras de andy</title>
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105173000 +0000" channel="My Jetix Retro">
+    <title lang="es">Chaotic</title>
+  </programme>
+  <programme start="20261105173000 +0000" stop="20261105180000 +0000" channel="My Jetix Retro">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">La historia gira en torno a Valt Aoi y sus compañeros mientras pelean en los torneos con los ojos puestos en el título del Blader 1 del mundo</desc>
+  </programme>
+  <programme start="20261105180000 +0000" stop="20261105183000 +0000" channel="My Jetix Retro">
+    <title lang="es">Medabots</title>
+    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
+    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+  </programme>
+  <programme start="20261105183000 +0000" stop="20261105190000 +0000" channel="My Jetix Retro">
+    <title lang="es">Transformers armada</title>
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105193000 +0000" channel="My Jetix Retro">
+    <title lang="es">Battle b daman</title>
+  </programme>
+  <programme start="20261105193000 +0000" stop="20261105200000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105203000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261105203000 +0000" stop="20261105210000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon Frontier</title>
+    <desc lang="es">Los niños elegidos reciben un mensaje en su teléfono móvil que les cita a las 5:00 p.m. en la estación de tren. Allí suben al tren para más tarde descubrir que se trata de un digimon, Trailmon. Ya en tierra, se encuentran Bokomon y Neemon, quienes les guiaran por el digimundo para derrotar a Cherubimon con ayuda de los guerreros legendarios, quienes intenta salvar el digimundo. Al llegar sus teléfonos móviles se transforman en dispositivos quienes tienen la cualidad de albergar digispirits, capacez de transformar a los niños en digimons: D-Tectors</desc>
+    <icon src="https://pics.filmaffinity.com/dejimon_furontia_digimon_frontier-868193156-mmed.jpg" />
+  </programme>
+  <programme start="20261105210000 +0000" stop="20261105213000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261105213000 +0000" stop="20261105220000 +0000" channel="My Jetix Retro">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20261105220000 +0000" stop="20261105223000 +0000" channel="My Jetix Retro">
+    <title lang="es">Pucca</title>
+  </programme>
+  <programme start="20261105223000 +0000" stop="20261105230000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261105230000 +0000" stop="20261105233000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261105233000 +0000" stop="20261106000000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261106000000 +0000" stop="20261106003000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spiderman de los 90</title>
+  </programme>
+  <programme start="20261106003000 +0000" stop="20261106010000 +0000" channel="My Jetix Retro">
+    <title lang="es">Xmen de los 90</title>
+  </programme>
+  <programme start="20261106010000 +0000" stop="20261106013000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261106013000 +0000" stop="20261106020000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261106020000 +0000" stop="20261106023000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261106023000 +0000" stop="20261106030000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261106030000 +0000" stop="20261106033000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261106033000 +0000" stop="20261106040000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261106040000 +0000" stop="20261106043000 +0000" channel="My Jetix Retro">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20261106043000 +0000" stop="20261106050000 +0000" channel="My Jetix Retro">
+    <title lang="es">Pucca</title>
+  </programme>
+  <programme start="20261106050000 +0000" stop="20261106053000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261106053000 +0000" stop="20261106060000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261106060000 +0000" stop="20261106063000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261106063000 +0000" stop="20261106070000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spiderman de los 90</title>
+  </programme>
+  <programme start="20261106070000 +0000" stop="20261106073000 +0000" channel="My Jetix Retro">
+    <title lang="es">Xmen de los 90</title>
+  </programme>
+  <programme start="20261106073000 +0000" stop="20261106080000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261106080000 +0000" stop="20261106083000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261106083000 +0000" stop="20261106090000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261106090000 +0000" stop="20261106093000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261106093000 +0000" stop="20261106100000 +0000" channel="My Jetix Retro">
+    <title lang="es">Sonic x</title>
+  </programme>
+  <programme start="20261106100000 +0000" stop="20261106103000 +0000" channel="My Jetix Retro">
+    <title lang="es">Súper escuadrón de monos hiper</title>
+  </programme>
+  <programme start="20261106103000 +0000" stop="20261106110000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spacegoof</title>
+  </programme>
+  <programme start="20261106110000 +0000" stop="20261106113000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon TAMERS</title>
+    <desc lang="es">Digimon Tamers toma lugar en una continuidad diferente a la de su predecesora (Digimon Adventure 02), un mundo parecido al nuestro donde los Digimon son una franquicia de juguetes y una serie de TV. Un grupo de niños de 10 años, Takato, Jenrya y Ruki, se alían con sus propios Digimon, para poder detener a los Digimon Salvajes que intentan invadir el Mundo Real, y detener a una sombría organización del gobierno, que también va contra los Salvajes, aunque con propósitos diferentes</desc>
+    <icon src="https://pics.filmaffinity.com/dejimon_teimazu_digimon_tamers-666934662-mmed.jpg" />
+  </programme>
+  <programme start="20261106113000 +0000" stop="20261106120000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger fuerza salvaje</title>
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106123000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger tormenta ninja</title>
+  </programme>
+  <programme start="20261106123000 +0000" stop="20261106130000 +0000" channel="My Jetix Retro">
+    <title lang="es">Power ranger dino trueno</title>
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="My Jetix Retro">
+    <title lang="es">Yinyanyo</title>
+  </programme>
+  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="My Jetix Retro">
+    <title lang="es">Yinyanyo</title>
+  </programme>
+  <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="My Jetix Retro">
+    <title lang="es">Kid músculo</title>
+  </programme>
+  <programme start="20261106143000 +0000" stop="20261106150000 +0000" channel="My Jetix Retro">
+    <title lang="es">Las tortugas ninja del 2003</title>
+  </programme>
+  <programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="My Jetix Retro">
+    <title lang="es">Code lyoco</title>
+  </programme>
+  <programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="My Jetix Retro">
+    <title lang="es">3 espias sin limite</title>
+  </programme>
+  <programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="My Jetix Retro">
+    <title lang="es">Grostecologia</title>
+  </programme>
+  <programme start="20261106163000 +0000" stop="20261106170000 +0000" channel="My Jetix Retro">
+    <title lang="es">Las locuras de andy</title>
+  </programme>
+  <programme start="20261106170000 +0000" stop="20261106173000 +0000" channel="My Jetix Retro">
+    <title lang="es">Chaotic</title>
+  </programme>
+  <programme start="20261106173000 +0000" stop="20261106180000 +0000" channel="My Jetix Retro">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">La historia gira en torno a Valt Aoi y sus compañeros mientras pelean en los torneos con los ojos puestos en el título del Blader 1 del mundo</desc>
+  </programme>
+  <programme start="20261106180000 +0000" stop="20261106183000 +0000" channel="My Jetix Retro">
+    <title lang="es">Medabots</title>
+    <desc lang="es">En un futuro no muy lejano, un grupo de niños comunes y corrientes son capaces de cosas extraordinarias con la ayuda de sus mascotas robot, los Medabot</desc>
+    <icon src="https://pics.filmaffinity.com/medabots-975069944-mmed.jpg" />
+  </programme>
+  <programme start="20261106183000 +0000" stop="20261106190000 +0000" channel="My Jetix Retro">
+    <title lang="es">Transformers armada</title>
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="My Jetix Retro">
+    <title lang="es">Battle b daman</title>
+  </programme>
+  <programme start="20261106193000 +0000" stop="20261106200000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106203000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261106203000 +0000" stop="20261106210000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon Frontier</title>
+    <desc lang="es">Los niños elegidos reciben un mensaje en su teléfono móvil que les cita a las 5:00 p.m. en la estación de tren. Allí suben al tren para más tarde descubrir que se trata de un digimon, Trailmon. Ya en tierra, se encuentran Bokomon y Neemon, quienes les guiaran por el digimundo para derrotar a Cherubimon con ayuda de los guerreros legendarios, quienes intenta salvar el digimundo. Al llegar sus teléfonos móviles se transforman en dispositivos quienes tienen la cualidad de albergar digispirits, capacez de transformar a los niños en digimons: D-Tectors</desc>
+    <icon src="https://pics.filmaffinity.com/dejimon_furontia_digimon_frontier-868193156-mmed.jpg" />
+  </programme>
+  <programme start="20261106210000 +0000" stop="20261106213000 +0000" channel="My Jetix Retro">
+    <title lang="es">Digimon 01</title>
+  </programme>
+  <programme start="20261106213000 +0000" stop="20261106220000 +0000" channel="My Jetix Retro">
+    <title lang="es">El pájaro loco</title>
+  </programme>
+  <programme start="20261106220000 +0000" stop="20261106223000 +0000" channel="My Jetix Retro">
+    <title lang="es">Pucca</title>
+  </programme>
+  <programme start="20261106223000 +0000" stop="20261106230000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261106230000 +0000" stop="20261106233000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261106233000 +0000" stop="20261107000000 +0000" channel="My Jetix Retro">
+    <title lang="es">Generación power ranger</title>
+  </programme>
+  <programme start="20261107000000 +0000" stop="20261107003000 +0000" channel="My Jetix Retro">
+    <title lang="es">Spiderman de los 90</title>
+  </programme>
+  <programme start="20261107003000 +0000" stop="20261107010000 +0000" channel="My Jetix Retro">
+    <title lang="es">Xmen de los 90</title>
+  </programme>
+  <programme start="20261107010000 +0000" stop="20261107013000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261107013000 +0000" stop="20261107020000 +0000" channel="My Jetix Retro">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20261107020000 +0000" stop="20261107023000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
+  </programme>
+  <programme start="20261107023000 +0000" stop="20261107030000 +0000" channel="My Jetix Retro">
+    <title lang="es">Dave el bárbaro</title>
   </programme>
   <programme start="20261104030000 +0000" stop="20261104070000 +0000" channel="Moni TV">
     <title lang="es">Super Peliculas Moni TV</title>
