@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Canal LMS | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Canal LMS op2 | Mexico
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Canal LMS SD | Mexico
 https://live20.bozztv.com/akamaissh101/ssh101/canalvariado4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",EnerGeek Retro | Chile
@@ -506,6 +506,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Retro Magico op2| Argentina
 https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Retro Magico op3| Argentina
+https://cloud.odysee.live/content/6547e8628a67060604d524174ede3aa43efd3cbb/master.m3u8
+
+#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Retro Magico op4| Argentina
+https://cloud.odysee.live/content/6547e8628a67060604d524174ede3aa43efd3cbb/live.m3u8
 
 #EXTINF:-1 tvg-id="Retro Music Tv" tvg-name="Retro Music Tv" tvg-logo="https://www.parsatv.com/index_files/channels/retromusic.png" group-title="MUSICA",Retro Music Tv | Checoslovaquia
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
