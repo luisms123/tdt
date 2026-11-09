@@ -200,9 +200,23 @@
     "categoria": "categoria3",
     "pais": "mx"
   },
+"myjetixretro": {
+    "nombre": "My Jetix Retro",
+    "iframe_url": "https://player.xtreamcast.co/embed/1a8ba4e350b94c6cc8b03772?autoplay=1",
+    "fuente": "https://player.xtreamcast.co/",
+    "categoria": "categoria",
+    "pais": "mx"
+  },
 "retromagico": {
     "nombre": "Retro Magico",
     "iframe_url": "https://ok.ru/videoembed/6035274800769?autoplay=1",
+    "fuente": "https://retromagico.wixsite.com/inicio",
+    "categoria": "categoria",
+    "pais": "mx"
+  },
+"retromagico": {
+    "nombre": "Retro Magico op2",
+    "iframe_url": "https://odysee.com/$/embed/@retromagico:6/en_vivo:9?autoplay=true",
     "fuente": "https://retromagico.wixsite.com/inicio",
     "categoria": "categoria",
     "pais": "mx"
