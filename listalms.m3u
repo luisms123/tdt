@@ -165,10 +165,10 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="Cuentos de la Cripta Serie Animada" tvg-name="Cuentos de la Cripta Serie Animada" tvg-logo="https://gia.tv/streams/pptv/210858.png?1760964658" group-title="INFANTILES",Cuentos de la Cripta Serie Animada | 24/7
 https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Delmi Channel" tvg-id="Delmi Channel" tvg-logo="https://i.ibb.co/rGcqpm4Z/Delmi.png" group-title="JOVENES Y ADULTOS",Delmi Channel HD | Spain
+#EXTINF:-1 tvg-name="Delmi" tvg-id="Delmi" tvg-logo="https://i.ibb.co/rGcqpm4Z/Delmi.png" group-title="JOVENES Y ADULTOS",Delmi HD | Spain
 https://183.giatvcdn.com/giatvplayout7/giatv-209474/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Delmi Channel Galicia" tvg-id="Delmi Channel Galicia" tvg-logo="https://i.ibb.co/FL5hwK9w/Delmi-Galicia.png" group-title="JOVENES Y ADULTOS",Delmi Channel Galicia HD | Spain
+#EXTINF:-1 tvg-name="Delmi Galicia" tvg-id="Delmi Galicia" tvg-logo="https://i.ibb.co/FL5hwK9w/Delmi-Galicia.png" group-title="JOVENES Y ADULTOS",Delmi Galicia HD | Spain
 https://183.giatvcdn.com/giatvplayout7/giatv-210596/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Delmi TV" tvg-id="Delmi TV" tvg-logo="https://i.ibb.co/Jwj0w8hH/Delmi-TV.png" group-title="JOVENES Y ADULTOS",Delmi TV HD | Spain
@@ -221,6 +221,9 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Famypanc Tv" tvg-name="Famypanc Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Famypanc Tv | Spain
 https://panctv.ddns.net/hls/es/live.m3u8
+
+#EXTINF:-1 tvg-id="Fox Kids Latino" tvg-name="Fox Kids Latino" tvg-logo="https://imgur.com/W6Zt5mM.png" group-title="INFANTILES",Fox Kids Latino | ND
+https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox Kids BZ" tvg-name="Fox Kids BZ" tvg-logo="https://imgur.com/W6Zt5mM.png" group-title="INFANTILES",Fox Kids BZ | Brasil
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -304,7 +307,7 @@ https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 https://janimotion.com/hls/janimotion/index.m3u8
 
 #EXTINF:-1 tvg-id="Japanmotion" tvg-name="Japanmotion" tvg-logo="https://i.ibb.co/8D2b197K/Japanmotion.png" group-title="JOVENES Y ADULTOS",Japanmotion | ND
-http://tv.japanmotion.com/iptv/session/1/hls.m3u8
+https://tv.japanmotion.com/iptv/session/1/hls.m3u8
 
 #EXTINF:-1 tvg-id="Jetix Nuevo Nivel" tvg-name="Jetix Nuevo Nivel" tvg-logo="https://i.ibb.co/B23R0Tq9/Jetix.jpg" group-title="INFANTILES",Jetix Nuevo Nivel | ND
 https://app.viloud.tv/hls/channel/sep/14f9517f36166600c79487cef1ab4d0b/high.m3u8
@@ -396,7 +399,7 @@ https://183.giatvcdn.com/giatv/giatv-KMKTV/KMKTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo de la Musica TV" tvg-name="Mundo de la Musica TV" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",Mundo de la Musica TV | Chile
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="My Jetix Retro" tvg-name="My Jetix Retro" tvg-logo="https://imgur.com/lX64Y6G.png" group-title="INFANTILES",My Jetix Retro | ND
+#EXTINF:-1 tvg-id="My Jetix Retro" tvg-name="My Jetix Retro" tvg-logo="https://imgur.com/lX64Y6G.png" group-title="INFANTILES",My Jetix Retro | Colombia
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="My Time Movie" tvg-name="My Time Movie" tvg-logo="https://i.imgur.com/hMksKhc.png" group-title="CINE",My Time Movie | Mexico
