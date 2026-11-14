@@ -9,13 +9,22 @@ https://183.giatvcdn.com/ssh101/ssh101/canallms/playlist.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/canalvariado4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",EnerGeek Retro | Chile
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
+
+#EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",EnerGeek Retro op2 | Chile
+https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Energeek Radio TV | Chile
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=W3bEnerG33k2026
+https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=W3bEnerG33k2026
+
+#EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i.imgur.com/GmzkMUQ.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Energeek Radio TV op2 | Chile
+https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Fanpop TV | Chile
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
+
+#EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="⏩ CANALES INDEPENDIENTES ⏪",Fanpop TV op2 | Chile
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=W3bEnerG33k2026
 
 
 #EXTINF:-1 tvg-id="A Uno Tv" tvg-name="A Uno Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="INFANTILES",A Uno Tv | ND
@@ -158,6 +167,9 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comet Tv" tvg-name="Comet Tv" tvg-logo="https://d17su2xjlj6zyp.cloudfront.net/uploads/2021/04/comet-logo-1536x924.png" group-title="FAMILIARES",Comet Tv | USA
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="Como Antes Tv" tvg-name="Como Antes Tv" tvg-logo="https://comoantestv.guatefm.com/s1560/sitepad-data/uploads/2025/02/images.jpg" group-title="FAMILIARES",Como Antes Tv | Guatemala
+https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
 #EXTINF:-1 tvg-id="Conecta TV" tvg-name="Conecta TV" tvg-logo="https://i.imgur.com/3sG2SHg.png" group-title="MUSICA",Conecta TV | Mexico
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
