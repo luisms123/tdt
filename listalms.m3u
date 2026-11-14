@@ -225,6 +225,9 @@ https://panctv.ddns.net/hls/es/live.m3u8
 #EXTINF:-1 tvg-id="Fox Kids Latino" tvg-name="Fox Kids Latino" tvg-logo="https://imgur.com/W6Zt5mM.png" group-title="INFANTILES",Fox Kids Latino | ND
 https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Fox Kids Pl" tvg-name="Fox Kids Pl" tvg-logo="https://imgur.com/W6Zt5mM.png" group-title="INFANTILES",Fox Kids Pl | ND
+https://183.giatvcdn.com/giatvplayout7/giatv-211400/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Fox Kids BZ" tvg-name="Fox Kids BZ" tvg-logo="https://imgur.com/W6Zt5mM.png" group-title="INFANTILES",Fox Kids BZ | Brasil
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
@@ -311,6 +314,9 @@ https://tv.japanmotion.com/iptv/session/1/hls.m3u8
 
 #EXTINF:-1 tvg-id="Jetix Nuevo Nivel" tvg-name="Jetix Nuevo Nivel" tvg-logo="https://i.ibb.co/B23R0Tq9/Jetix.jpg" group-title="INFANTILES",Jetix Nuevo Nivel | ND
 https://app.viloud.tv/hls/channel/sep/14f9517f36166600c79487cef1ab4d0b/high.m3u8
+
+#EXTINF:-1 tvg-id="Jetix Pl" tvg-name="Jetix Pl" tvg-logo="https://imgur.com/lX64Y6G.png" group-title="INFANTILES",Jetix Pl | ND
+https://183.giatvcdn.com/giatvplayout7/giatv-211388/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JTA TV" tvg-name="JTA TV" tvg-logo="https://imgur.com/pyRSWBg.png" group-title="FAMILIARES",JTA TV | Argentina
 https://streaming.jtamendoza.com/hls/stream.m3u8
