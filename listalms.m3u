@@ -535,13 +535,13 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus Tv" tvg-name="Retro Plus Tv" tvg-logo="https://imgur.com/v93TP0W.jpg" group-title="MUSICA",Retro Plus Tv | Chile
-https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+https://srt01.logicahost.com.br/senal1/index.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus Tv 2" tvg-name="Retro Plus Tv 2" tvg-logo="https://imgur.com/v93TP0W.jpg" group-title="MUSICA",Retro Plus Tv 2 TV | Chile
-https://scl.edge.grupoz.cl/retroplustvdos/live/playlist.m3u8
+https://srt01.logicahost.com.br/senal2/index.m3u8
 
 #EXTINF:-1 tvg-id="Retro Plus Tv 3" tvg-name="Retro Plus TV 3" tvg-logo="https://imgur.com/v93TP0W.jpg" group-title="FAMILIARES",Retro Plus Tv 3 | Chile
-https://183.giatvcdn.com/ssh101/ssh101/liveretroplustv/playlist.m3u8
+https://srt01.logicahost.com.br/senal3/index.m3u8
 
 #EXTINF:-1 tvg-id="Retrotoons" tvg-name="Retrotoons" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="INFANTILES",Retrotoons | ND
 https://183.giatvcdn.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
