@@ -1023,7 +1023,7 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/mitvenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pride Tv" tvg-name="Pride Tv" tvg-logo="https://imgur.com/GseO61H.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Pride Tv | Chile
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
+https://stream.pridetvlatam.cl/iptv/channel/2.index.m3u8?mode=segmenter&amp
 
 #EXTINF:-1 tvg-id="Primired" tvg-name="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired | ND
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
@@ -1083,13 +1083,13 @@ https://183.giatvcdn.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/retrotoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Retro Tv Online | ND
-https://183.giatvcdn.com/ssh101/ssh101/retrotvcr2025/playlist.m3u8
+https://stream.enlineatv.net/hls/retrotv/index.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",RetroX TV | Costa Rica
-https://183.giatvcdn.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="RetroX Tv Plus" tvg-name="RetroX Tv Plus" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",RetroX Tv Plus | Costa Rica
-https://183.giatvcdn.com/ssh101/ssh101/erinaca/playlist.m3u8
+https://stream-retroxtv.site/w/QNibZ7nyJCWBSqNgme03EG4r.m3u8
 
 #EXTINF:-1 tvg-id="Sabor Tv" tvg-name="Sabor Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",Sabor Tv | ND
 https://v1.tustreaming.cl/sabortv/index.m3u8
@@ -1097,8 +1097,8 @@ https://v1.tustreaming.cl/sabortv/index.m3u8
 #EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Sicardi TV | Argentina
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-id="SKYFLIX MOVIES" tvg-name="SKYFLIX MOVIES" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CINE",SKYFLIX Movies | ND
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 tvg-id="SKYFLIX Movies" tvg-name="SKYFLIX Movies" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="CINE",SKYFLIX Movies | ND
+https://stream.visual777.com/hls/out_3071/index.m3u8
 
 #EXTINF:-1 tvg-id="Sueños Grup" tvg-name="Sueños Grup" tvg-logo="https://i.imgur.com/VNI6CLc.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Sueños Grup | Argentina
 https://stmv2.voxtvhd.com.br/suenosgrouptv/suenosgrouptv/playlist.m3u8
@@ -1236,7 +1236,7 @@ https://183.giatvcdn.com/ssh101/ssh101/wowchannelsd/playlist.m3u8
 https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wow Tv" tvg-name="Wow Tv" tvg-logo="https://imgur.com/Kbjf0An.png" group-title="CINE",Wow Tv | El Salvador
-https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
+https://cdn1.cef-technology.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="X Men" tvg-name="X Men" tvg-logo="https://gia.tv/streams/pptv/210703.jpg" group-title="INFANTILES",X Men | 24/7
 https://183.giatvcdn.com/giatvplayout7/giatv-210703/playlist.m3u8
