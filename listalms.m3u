@@ -57,6 +57,9 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="Bayres TV"  tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="CINE",Bayres TV | Argentina
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Best Clasicos" tvg-name="Best Clasicos" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="FAMILIARES",Best Clasicos | Costa Rica
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="Bjgtjme" tvg-name="Bjgtjme" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
@@ -177,6 +180,9 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="Cuentos de la Cripta Serie Animada" tvg-name="Cuentos de la Cripta Serie Animada" tvg-logo="https://gia.tv/streams/pptv/210858.png?1760964658" group-title="INFANTILES",Cuentos de la Cripta Serie Animada | 24/7
 https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://imgur.com/UswxIKp.png" group-title="INFANTILES",Chespirito | Mexico
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Delmi" tvg-id="Delmi" tvg-logo="https://i.ibb.co/rGcqpm4Z/Delmi.png" group-title="JOVENES Y ADULTOS",Delmi HD | Spain
 https://183.giatvcdn.com/giatvplayout7/giatv-209474/playlist.m3u8
 
@@ -206,6 +212,9 @@ https://183.giatvcdn.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="INFANTILES",Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="El Chavo Animado" tvg-name="El Chavo Animado" tvg-logo="https://imgur.com/inXbFqE.png" group-title="INFANTILES",El Chavo Animado | 24/7
+https://hls.chiletvapp.com/elchavo/stream.m3u8
 
 #EXTINF:-1 tvg-id="El Chavo del Ocho" tvg-name="El Chavo del Ocho" tvg-logo="https://imgur.com/inXbFqE.png" group-title="INFANTILES",El Chavo del Ocho | 24/7
 https://183.giatvcdn.com/giatvplayout7/giatv-208870/playlist.m3u8
@@ -335,6 +344,9 @@ https://streaming.jtamendoza.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://imgur.com/jVBYClz.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La Granja TV" tvg-name="La Granja TV" tvg-logo="https://imgur.com/f7sStl7.png" group-title="FAMILIARES",La Granja TV | Chile
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Mega Mundial" tvg-name="La Mega Mundial" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="MUSICA",La Mega Mundial | USA
 https://server40.servistreaming.com:3477/stream/play.m3u8
