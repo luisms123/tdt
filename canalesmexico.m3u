@@ -1035,7 +1035,7 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/mitvenvivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pride Tv" tvg-name="Pride Tv" tvg-logo="https://imgur.com/GseO61H.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Pride Tv | Chile
-https://stream.pridetvlatam.cl/iptv/channel/2.index.m3u8?mode=segmenter&amp
+https://stream.pridetvlatam.cl/iptv/session/2/live.m3u8
 
 #EXTINF:-1 tvg-id="Primired" tvg-name="Primired" tvg-logo="https://i.ibb.co/pBZrJ3MJ/Logo-Primired.png" group-title="JOVENES Y ADULTOS",Primired | ND
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
@@ -1113,7 +1113,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://stream.visual777.com/hls/out_3071/index.m3u8
 
 #EXTINF:-1 tvg-id="Sueños Grup" tvg-name="Sueños Grup" tvg-logo="https://i.imgur.com/VNI6CLc.png" group-title="⏩ CANALES INDEPENDIENTES ⏪",Sueños Grup | Argentina
-https://stmv2.voxtvhd.com.br/suenosgrouptv/suenosgrouptv/playlist.m3u8
+https://vtm1.msinteractiva.com/suenosgrouptv/suenosgrouptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sumaq Tv" tvg-name="Sumaq Tv" tvg-logo="https://imgur.com/KFEXk4c.png" group-title="FAMILIARES",Sumaq Tv | ND
 https://183.giatvcdn.com/ssh101/ssh101/makins/playlist.m3u8
