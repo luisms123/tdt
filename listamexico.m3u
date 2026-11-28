@@ -1618,6 +1618,9 @@ http://stream.pcradio.ru/Within_Temptation-med
 #EXTINF:-1 tvg-logo="https://fmcube.net/images/stations/61b09d328b87a.jpg" group-title="RADIOS LATINAS",Radio Within Temptation op2
 https://stream.pcradio.ru/Within_Temptation-med
 
+#EXTINF:-1 tvg-logo="https://lamegadigital.com.ar/wp-content/uploads/2026/03/logo-mega.png" group-title="RADIOS LATINAS",Radio La Mega Concordia 91.5
+https://streaming01.radiosenlinea.com.ar/8012/stream
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s353735/images/logod.jpg" group-title="RADIOS LATINAS",Radio Concordia Extremo 87.9
 https://emisiones.com.uy:8171/vinilo
 
@@ -1636,7 +1639,7 @@ https://streaming.exclusive.radio/er/mariahcareyhits/icecast.audio
 #EXTINF:-1 tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/af0228e6-2594-479e-b1aa-9163b0e1f5ed/Radio-512.png" group-title="RADIOS LATINAS",Radio Energeek
 https://audio2.tustreaming.cl:8150/stream?type=mp3
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/09/d8/09d82786-b449-4d77-ac9e-3cc513b08f70.jpg" group-title="RADIOS LATINAS",Radio Ciudadana 897
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/09/d8/09d82786-b449-4d77-ac9e-3cc513b08f70.jpg" group-title="RADIOS LATINAS",Radio Ciudadana 897 (sin emision)
 https://radio02.ferozo.com:8592/
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DsuwPGwCqz.png" group-title="RADIOS LATINAS",Radio LT15 La Radio del Litoral
@@ -4199,6 +4202,18 @@ http://45.185.163.75:8000/play/a0gv/index.m3u8
 
 #EXTINF:-1 tvg-id="Elgourmet" tvg-name="Elgourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet.png" group-title="TV PREMIUM",Elgourmet | Chile
 http://190.60.39.221:8000/play/a065
+
+#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://imgur.com/Z6HJvy8.png" group-title="TV PREMIUM",Los Simpsons 4 24/7
+http://m3u.tvcluboficial.com/free/ReachBot/kip/635.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV PREMIUM",La Pantera Rosa 24/7
+http://m3u.tvcluboficial.com/free/ReachBot/kip/597.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV PREMIUM",Los Caballeros del Zodiaco 24/7
+http://m3u.tvcluboficial.com/free/ReachBot/kip/100.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV PREMIUM",Pokemon 24/7
+http://m3u.tvcluboficial.com/free/ReachBot/kip/773.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="TV PREMIUM",Nickelodeon | Spain
 http://186.148.196.100:8000/play/a020
